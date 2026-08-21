@@ -14,7 +14,9 @@ async function summarizeOne(client: Anthropic, item: CollectedItem): Promise<str
   const context =
     item.source === "egov_law_update"
       ? `これは法令の改正施行情報です。法令名・改正名・施行日を含むタイトル: "${item.title}"`
-      : `これは厚生労働省の報道発表・新着情報のタイトルです: "${item.title}"`;
+      : item.source === "nikkei_news"
+        ? `これは日本経済新聞の記事見出しです(本文は取得していません、見出しのみ): "${item.title}"`
+        : `これは厚生労働省の報道発表・新着情報のタイトルです: "${item.title}"`;
 
   const message = await client.messages.create({
     model: MODEL,

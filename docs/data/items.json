@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:18:07.805Z",
+  "updatedAt": "2026-08-21T01:31:14.774Z",
   "items": [
     {
       "id": "egov:412CO0000000252:20270401",
@@ -90,6 +90,160 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMifkFVX3lxTE9Ral82VHJKcnpodlRSSmVTTVFvYzV3emFpeW5wT1dEQUdZZlBTM3JSWmh2Mm5OWUtzNUpkZU1XemFpSGNDZXhCNUg0SlRmTVItd0NPelF3ejlWR2Z5NmtpemdlWk5PN1IwSmJXazR3emxQaFBJcEdpNkJ5anlIQQ",
+      "source": "nikkei_news",
+      "title": "将来のお金か、今の給料か 王子HDが26年入社から退職一時金を廃止した理由",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ral82VHJKcnpodlRSSmVTTVFvYzV3emFpeW5wT1dEQUdZZlBTM3JSWmh2Mm5OWUtzNUpkZU1XemFpSGNDZXhCNUg0SlRmTVItd0NPelF3ejlWR2Z5NmtpemdlWk5PN1IwSmJXazR3emxQaFBJcEdpNkJ5anlIQQ?oc=5",
+      "publishedAt": "2026-08-20T20:00:03.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "将来のお金か、今の給料か 王子HDが26年入社から退職一時金を廃止した理由(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE45NDhZdUtmMGRaSkxYOUJxMTRtaFJGYlpWcGVvUWlhbi1LT2tydWNVa3pXV2hjS1RrWW8xc1J2NC00ZXJoT3o5R2FtZmFmRjBuaGk2VWJHY1cyQl9mdE5rcElNeTR5b2hBajBJcw",
+      "source": "nikkei_news",
+      "title": "高度専門人材を「時価採用」 30代で部長級賃金も、ジョブ型運用で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NDhZdUtmMGRaSkxYOUJxMTRtaFJGYlpWcGVvUWlhbi1LT2tydWNVa3pXV2hjS1RrWW8xc1J2NC00ZXJoT3o5R2FtZmFmRjBuaGk2VWJHY1cyQl9mdE5rcElNeTR5b2hBajBJcw?oc=5",
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "高度専門人材を「時価採用」 30代で部長級賃金も、ジョブ型運用で(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE5mUE5BLXE4aFhiX3pmb0dwU0t0aTdyVG1SNVZjSng5UF84aWh6bUxVMkhTQUxVcDZyUE5RdVVKRzkxOTRWWVVJanh0V0gwWk9zMVRkVGtiMmJVMDdfaUp0TEJDOWpIbWM",
+      "source": "nikkei_news",
+      "title": "［新連載］オリンパス子会社「ジョブ型リストラ」で訴訟沙汰 理由なき降格200人",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mUE5BLXE4aFhiX3pmb0dwU0t0aTdyVG1SNVZjSng5UF84aWh6bUxVMkhTQUxVcDZyUE5RdVVKRzkxOTRWWVVJanh0V0gwWk9zMVRkVGtiMmJVMDdfaUp0TEJDOWpIbWM?oc=5",
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "［新連載］オリンパス子会社「ジョブ型リストラ」で訴訟沙汰 理由なき降格200人(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1FNDZxY0V2UzBrT3lLd24tbEswdENhdUVjSVl5VXNGWHlxazQwOVBEUDdkb1pFUFdRX2xWdEVlWjBnZHFoalVVQUxhLUJSRFVVVEVZWnd1eE1VSnZFT05yNGdBcy0xWXdHRmdPcQ",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（5）スーパースター台頭の影響",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FNDZxY0V2UzBrT3lLd24tbEswdENhdUVjSVl5VXNGWHlxazQwOVBEUDdkb1pFUFdRX2xWdEVlWjBnZHFoalVVQUxhLUJSRFVVVEVZWnd1eE1VSnZFT05yNGdBcy0xWXdHRmdPcQ?oc=5",
+      "publishedAt": "2026-08-20T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率（5）スーパースター台頭の影響(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFA1MWVxMExJYVViOWdrRHV6MWtTVWY4NnpVcjA2WHpGbmdSU3doWGtMdUttVm5mZmZ0WmkyUFIzb29WVElTMl9EZnpvMlIzZ2V2Ump3aU85b2JaaERCUm5MRHRjeGlGZVdockRDLQ",
+      "source": "nikkei_news",
+      "title": "最低賃金発効、10月に戻る 32都道府県で決定、前回は企業配慮で遅れ 働く人に恩恵",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1MWVxMExJYVViOWdrRHV6MWtTVWY4NnpVcjA2WHpGbmdSU3doWGtMdUttVm5mZmZ0WmkyUFIzb29WVElTMl9EZnpvMlIzZ2V2Ump3aU85b2JaaERCUm5MRHRjeGlGZVdockRDLQ?oc=5",
+      "publishedAt": "2026-08-20T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "最低賃金発効、10月に戻る 32都道府県で決定、前回は企業配慮で遅れ 働く人に恩恵(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE50ZHAySmJVWEFvWEJWcVkxOTBlN1U3NV82VV8wVWVnXzh4S19QS19ENGhmYmVlTGFVN29TaVh4U3hxY0hPRGhpVEhHbnNNb2dlM1NtV2NLRF9RZW1taURibG02WXdRNFJnTGpZaQ",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率(5) スーパースター台頭の影響 明治学院大学教授 室和伸",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50ZHAySmJVWEFvWEJWcVkxOTBlN1U3NV82VV8wVWVnXzh4S19QS19ENGhmYmVlTGFVN29TaVh4U3hxY0hPRGhpVEhHbnNNb2dlM1NtV2NLRF9RZW1taURibG02WXdRNFJnTGpZaQ?oc=5",
+      "publishedAt": "2026-08-20T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率(5) スーパースター台頭の影響 明治学院大学教授 室和伸(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1nR2o2dHFSeEJWZloweDcwb25sWjV2b3BydnBZbmZVOGc5QVVudU1fNjFYTW45TEZIZnVFV01WcWlLQXRQSVpjZk1mM3lQNDd6cjFHQVY0UGd4U3AwVFFzV21Nc0RiLU1CS0lTVg",
+      "source": "nikkei_news",
+      "title": "京都府の最低賃金、58円上げ1180円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nR2o2dHFSeEJWZloweDcwb25sWjV2b3BydnBZbmZVOGc5QVVudU1fNjFYTW45TEZIZnVFV01WcWlLQXRQSVpjZk1mM3lQNDd6cjFHQVY0UGd4U3AwVFFzV21Nc0RiLU1CS0lTVg?oc=5",
+      "publishedAt": "2026-08-20T16:49:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "京都府の最低賃金、58円上げ1180円(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBhTkgzR1lfeFlRX0tobTNrSHk0WUN0SUhnNFhJTHg1OTAyUWVSZ2x4VjZSV0hwUkxEME9xT1JDMWEyTzFUWkhkQ1h2ajdGSzB6QU9lczRHVzBrT1pQWlJXSnE2MXdnclVPV0pTbg",
+      "source": "nikkei_news",
+      "title": "男女賃金格差の解消に本気の企業は？1位東洋製缶GHD、2位丸井G…",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhTkgzR1lfeFlRX0tobTNrSHk0WUN0SUhnNFhJTHg1OTAyUWVSZ2x4VjZSV0hwUkxEME9xT1JDMWEyTzFUWkhkQ1h2ajdGSzB6QU9lczRHVzBrT1pQWlJXSnE2MXdnclVPV0pTbg?oc=5",
+      "publishedAt": "2026-08-20T15:01:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "男女賃金格差の解消に本気の企業は？1位東洋製缶GHD、2位丸井G…(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE53Ri1fa2FCY1RicVpSekN1UTZTaGIzSEJ1ajRObTlWWXEwZ1ViVVlLa28zejlQb2VPUzVPeVN2aUhpcF9udDUtX3JPdEZuVEVPb3JWQm14cEtESnBLVy01UDQtTk4",
+      "source": "nikkei_news",
+      "title": "オリンパス子会社、新制度移行で降格処分を連発 「ジョブ型リストラ」の末路",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53Ri1fa2FCY1RicVpSekN1UTZTaGIzSEJ1ajRObTlWWXEwZ1ViVVlLa28zejlQb2VPUzVPeVN2aUhpcF9udDUtX3JPdEZuVEVPb3JWQm14cEtESnBLVy01UDQtTk4?oc=5",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "オリンパス子会社、新制度移行で降格処分を連発 「ジョブ型リストラ」の末路(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE9DM3lvekl2MnZpRWMtTEZfWWFCa0pSeDg0SnVYM2tGN0pESGlYUmtNVU1MNnJmRk1VcEFwM1VveE8xRzE4WXRwcXRTSEItcklSSzh4ek94WGZyUUY5NW1mZzhYd24",
+      "source": "nikkei_news",
+      "title": "ジョブ型雇用の落とし穴",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DM3lvekl2MnZpRWMtTEZfWWFCa0pSeDg0SnVYM2tGN0pESGlYUmtNVU1MNnJmRk1VcEFwM1VveE8xRzE4WXRwcXRTSEItcklSSzh4ek94WGZyUUY5NW1mZzhYd24?oc=5",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "ジョブ型雇用の落とし穴(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE1JeHpBbWc3eTdmWDNBS1d1eXBGZ1FhTmZwdjVITF8yc2xnUElUa1B5SFBnMEItcnJOaVc0elZtbUhhOWFEbnd4NTMxWm4wSTZIWGlrUG9DNG1jdGhBZU10NFRpenE",
+      "source": "nikkei_news",
+      "title": "失敗だらけのジョブ型人事、あなたの会社も当てはまる 4つのタイプで分かる落とし穴",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JeHpBbWc3eTdmWDNBS1d1eXBGZ1FhTmZwdjVITF8yc2xnUElUa1B5SFBnMEItcnJOaVc0elZtbUhhOWFEbnd4NTMxWm4wSTZIWGlrUG9DNG1jdGhBZU10NFRpenE?oc=5",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "失敗だらけのジョブ型人事、あなたの会社も当てはまる 4つのタイプで分かる落とし穴(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE1WNXZTc1ZiN3ZSYzlsSElWbnMtMV9IYUVxNGNYLUZPeXZNbVpRUHpvbzFYLUctdGJWa054cVFNZlNTeXhqQnBXbVZid3VCM3FRR3VpcFh4eTdJY0xVUVhKLWNySzI",
+      "source": "nikkei_news",
+      "title": "ジョブ型導入企業に独自調査、人事担当者636人が回答 明確な効果、5割「実感できず」",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WNXZTc1ZiN3ZSYzlsSElWbnMtMV9IYUVxNGNYLUZPeXZNbVpRUHpvbzFYLUctdGJWa054cVFNZlNTeXhqQnBXbVZid3VCM3FRR3VpcFh4eTdJY0xVUVhKLWNySzI?oc=5",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "ジョブ型導入企業に独自調査、人事担当者636人が回答 明確な効果、5割「実感できず」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTFBNUnZiQ2l6bldPYlVBNm1XSktCYWh0QmVrNzNFRXg5UG53akJNZ2REeW83RGpkV295MEp4MkxLa2FHMExCejFocTVSa3FCWDItSDRSdVdiSGFtMzNvbXJKVlNyVkU",
+      "source": "nikkei_news",
+      "title": "「導入ありき」の処方箋 三菱UFJ信託銀行 専門職ジョブ型で“一国二制度”",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNUnZiQ2l6bldPYlVBNm1XSktCYWh0QmVrNzNFRXg5UG53akJNZ2REeW83RGpkV295MEp4MkxLa2FHMExCejFocTVSa3FCWDItSDRSdVdiSGFtMzNvbXJKVlNyVkU?oc=5",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "「導入ありき」の処方箋 三菱UFJ信託銀行 専門職ジョブ型で“一国二制度”(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE85VEpMSTlwMllsT0I0Z1pXTXpna3NRYkhoWm5qb0E5b3Qwd0xtdjNLNUpEelpuNmpwb2FzZ1lzS1hSUE9PYWNQZ2p3d3R2dERhWDhuQl9FeVVIOHVqeFc4TWgzd0lBN195Vk9SQQ",
+      "source": "nikkei_news",
+      "title": "連合静岡、最低賃金57円引き上げを歓迎 「意義のある結果」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85VEpMSTlwMllsT0I0Z1pXTXpna3NRYkhoWm5qb0E5b3Qwd0xtdjNLNUpEelpuNmpwb2FzZ1lzS1hSUE9PYWNQZ2p3d3R2dERhWDhuQl9FeVVIOHVqeFc4TWgzd0lBN195Vk9SQQ?oc=5",
+      "publishedAt": "2026-08-20T09:33:57.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "連合静岡、最低賃金57円引き上げを歓迎 「意義のある結果」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75665.html",
       "source": "mhlw_news",
       "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
@@ -99,6 +253,39 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE41eE5JRFhTclZRcHhqT1k5QXRZbUI2NkNBNHZvR2MzWVg1LTBKN09QSmtNbVRvQ2hBcVJoX0hGTmdqN2Y5ZU9ndlJZeW1LR3hpblR2dFhraHpuOHhGeWpBeWFTT3ZubUx0N3hITQ",
+      "source": "nikkei_news",
+      "title": "最低賃金｢10月発効｣に戻す動き、働く人に恩恵 前回は企業配慮で遅れ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41eE5JRFhTclZRcHhqT1k5QXRZbUI2NkNBNHZvR2MzWVg1LTBKN09QSmtNbVRvQ2hBcVJoX0hGTmdqN2Y5ZU9ndlJZeW1LR3hpblR2dFhraHpuOHhGeWpBeWFTT3ZubUx0N3hITQ?oc=5",
+      "publishedAt": "2026-08-20T08:50:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "最低賃金｢10月発効｣に戻す動き、働く人に恩恵 前回は企業配慮で遅れ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE93R19YOFV4X09FMkdqbWhTcnlsZHlNN3pWNHBqSDExZFdSVmVjUFV5aFNOSnQtM0pqaEFDZ3VkR1VOMS1mUW1UZEJ0ZDFIRV9Qa212ekZEckdzTF9WbVFvZHNsejYzMXRuZUNpag",
+      "source": "nikkei_news",
+      "title": "京都府の最低賃金、58円上げ1180円で答申 引き上げ額過去2番目",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93R19YOFV4X09FMkdqbWhTcnlsZHlNN3pWNHBqSDExZFdSVmVjUFV5aFNOSnQtM0pqaEFDZ3VkR1VOMS1mUW1UZEJ0ZDFIRV9Qa212ekZEckdzTF9WbVFvZHNsejYzMXRuZUNpag?oc=5",
+      "publishedAt": "2026-08-20T08:28:40.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "京都府の最低賃金、58円上げ1180円で答申 引き上げ額過去2番目(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9Xd2h1cVhVbDUzaVl5c01vVGRxdjVjSEl6RUthaVB3ZlVSMnc3WFJkemxDUGJmOElwNnZ5MGRfbTk2RVB2TGF2bjc2c05tS2d3VHpqYzhNZFNLSlpfWVRCckRFWERJR1FnRWFCdA",
+      "source": "nikkei_news",
+      "title": "熊本地震の影響企業、雇用調整助成金の受給要件緩和 厚労省が特例",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xd2h1cVhVbDUzaVl5c01vVGRxdjVjSEl6RUthaVB3ZlVSMnc3WFJkemxDUGJmOElwNnZ5MGRfbTk2RVB2TGF2bjc2c05tS2d3VHpqYzhNZFNLSlpfWVRCckRFWERJR1FnRWFCdA?oc=5",
+      "publishedAt": "2026-08-20T07:39:57.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "熊本地震の影響企業、雇用調整助成金の受給要件緩和 厚労省が特例(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html",
@@ -123,6 +310,50 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE02dGg3aGFNMGhaMDRqUGhRdGlFaHFUT3didVkwZTFZcHlpUzY2eW1XUThUWG5lN0NSVXNtRVozUHRNTVpzeC1ETVhRNGw4dFJKX3d1c1JQYzA4dHNQdEFoMTcxc3VUb0ZYbjM2YQ",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（4）資本による代替が進む背景",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02dGg3aGFNMGhaMDRqUGhRdGlFaHFUT3didVkwZTFZcHlpUzY2eW1XUThUWG5lN0NSVXNtRVozUHRNTVpzeC1ETVhRNGw4dFJKX3d1c1JQYzA4dHNQdEFoMTcxc3VUb0ZYbjM2YQ?oc=5",
+      "publishedAt": "2026-08-19T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率（4）資本による代替が進む背景(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9nYUxMZTRNbVV2Ykt2eUtpQTJnRUZSY1BTWmZkRWYya0s4eVpXTWFtdUEyUk9WTS1xUW5uaW84bElyY2hrUDh4WVdscEY5R3pTTV82aDJmYXhTVkdiSERpMTdEMHhMVlczWVlUdA",
+      "source": "nikkei_news",
+      "title": "派遣時給7月1721円 三大都市圏、0.9%上昇 3カ月連続最高",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nYUxMZTRNbVV2Ykt2eUtpQTJnRUZSY1BTWmZkRWYya0s4eVpXTWFtdUEyUk9WTS1xUW5uaW84bElyY2hrUDh4WVdscEY5R3pTTV82aDJmYXhTVkdiSERpMTdEMHhMVlczWVlUdA?oc=5",
+      "publishedAt": "2026-08-19T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "派遣時給7月1721円 三大都市圏、0.9%上昇 3カ月連続最高(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw",
+      "source": "nikkei_news",
+      "title": "シンポジウム「10th Smart Work-X 2035年の人的資本経営 働き方改革の10年を未来につなぐ」...",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw?oc=5",
+      "publishedAt": "2026-08-19T16:45:05.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "シンポジウム「10th Smart Work-X 2035年の人的資本経営 働き方改革の10年を未来につなぐ」...(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMilgFBVV95cUxOSHdVYnluRkFfV1M4WEtBcGc3cWpMTG9tRmtVdzc4S1lzZkF6dGtudjh4ZURCejhJWWRtcWhpbm5zd1JLVFEzNEN0d3hpb3RRTUl0bFVuWVk5R2R0VkE5MTdOMDlNLTF0dWo4WWljSncyS2FSYVljQ1l0WnRBUVNuVm1WQnRObDVSUGhMNEd2X1hJYXZYMlE",
+      "source": "nikkei_news",
+      "title": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHdVYnluRkFfV1M4WEtBcGc3cWpMTG9tRmtVdzc4S1lzZkF6dGtudjh4ZURCejhJWWRtcWhpbm5zd1JLVFEzNEN0d3hpb3RRTUl0bFVuWVk5R2R0VkE5MTdOMDlNLTF0dWo4WWljSncyS2FSYVljQ1l0WnRBUVNuVm1WQnRObDVSUGhMNEd2X1hJYXZYMlE?oc=5",
+      "publishedAt": "2026-08-19T09:35:10.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_021225156_00113.html",
       "source": "mhlw_news",
       "title": "第226回労働政策審議会職業安定分科会を開催します",
@@ -143,6 +374,50 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "労働基準監督官採用試験広報HP(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMidEFVX3lxTE82ckRfS2FtOUNBZW9vZGthUkF2a001b2N0djVweXhVWTZKd213ck9JQ0FXMXpLczRxb2VxNTdtU3RDS2NiaWJxQW1ZNkZnMjY3U0Nva04ydmMwNVJpUVkxdTVDWXBOdGpESXpWRE5pSjFtNE9M",
+      "source": "nikkei_news",
+      "title": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82ckRfS2FtOUNBZW9vZGthUkF2a001b2N0djVweXhVWTZKd213ck9JQ0FXMXpLczRxb2VxNTdtU3RDS2NiaWJxQW1ZNkZnMjY3U0Nva04ydmMwNVJpUVkxdTVDWXBOdGpESXpWRE5pSjFtNE9M?oc=5",
+      "publishedAt": "2026-08-19T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE95bGF0NHY0YzlGbEctXzRESHQyQXNrd2kwMG5EdmU2c0l1RXJfRXVNbkVvdzhhRjRmaFdybnNHbTM4UVJ1SUJLTlczZ1pNMWVIdWJtUUpYTjlqRUZ4TzhwSk9ienYyUjlSZHlqZQ",
+      "source": "nikkei_news",
+      "title": "マイナビ、「アルバイト就業者のカスタマーハラスメント実態調査（2026年）」の結果を発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95bGF0NHY0YzlGbEctXzRESHQyQXNrd2kwMG5EdmU2c0l1RXJfRXVNbkVvdzhhRjRmaFdybnNHbTM4UVJ1SUJLTlczZ1pNMWVIdWJtUUpYTjlqRUZ4TzhwSk9ienYyUjlSZHlqZQ?oc=5",
+      "publishedAt": "2026-08-19T07:35:18.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "マイナビ、「アルバイト就業者のカスタマーハラスメント実態調査（2026年）」の結果を発表(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE10VnRRbGgxUGIyMV9mN0JaWXlJV0hWVW1xS2pscDBvZU5EUWhCczFhbk9yOV81THgxU212c0ZpWnM0TzhGZUVFb21lQ0pucEd4SUh3WU85NklUZ2JQZFhpeEs1Njg1WnNzdzRIeg",
+      "source": "nikkei_news",
+      "title": "リコー、グループ会社のメイクリープスがカスタマーハラスメント対策の基本方針を策定し公表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10VnRRbGgxUGIyMV9mN0JaWXlJV0hWVW1xS2pscDBvZU5EUWhCczFhbk9yOV81THgxU212c0ZpWnM0TzhGZUVFb21lQ0pucEd4SUh3WU85NklUZ2JQZFhpeEs1Njg1WnNzdzRIeg?oc=5",
+      "publishedAt": "2026-08-19T05:31:19.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "リコー、グループ会社のメイクリープスがカスタマーハラスメント対策の基本方針を策定し公表(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFA2dTVOdDVhWXdUb3FVN3E1Y3h3U29SSUpySGdFNEFaeUtKakt6X1JLTS1kSzR4NEZfaU1tR2FCMTFCWFd4THIzRFBkMk5uNVZueWE3TmI4NUVHZEJJOF8xajhYTnZtU2JYS1Y2eA",
+      "source": "nikkei_news",
+      "title": "派遣の募集時給、3カ月連続で最高 「専門スキル」求人が上昇けん引",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dTVOdDVhWXdUb3FVN3E1Y3h3U29SSUpySGdFNEFaeUtKakt6X1JLTS1kSzR4NEZfaU1tR2FCMTFCWFd4THIzRFBkMk5uNVZueWE3TmI4NUVHZEJJOF8xajhYTnZtU2JYS1Y2eA?oc=5",
+      "publishedAt": "2026-08-19T05:14:13.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "派遣の募集時給、3カ月連続で最高 「専門スキル」求人が上昇けん引(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75454.html",
@@ -178,6 +453,116 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMiZ0FVX3lxTE1tMEFydy1MT2R3elVHQkhFdDgxaUljampDRENMOU5QMlAtalZzSUhMeVl6TkFWVFJNU0Q0d0NsSGFQRWoxb2NiUHFTMGJ2cGtoQnZxbnFiTlp2S1R3clJQN2JIeHdDVVk",
+      "source": "nikkei_news",
+      "title": "住宅手当がない有期雇用エンジニアの疑問、「同一労働同一賃金」で待遇差？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMEFydy1MT2R3elVHQkhFdDgxaUljampDRENMOU5QMlAtalZzSUhMeVl6TkFWVFJNU0Q0d0NsSGFQRWoxb2NiUHFTMGJ2cGtoQnZxbnFiTlp2S1R3clJQN2JIeHdDVVk?oc=5",
+      "publishedAt": "2026-08-18T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "住宅手当がない有期雇用エンジニアの疑問、「同一労働同一賃金」で待遇差？(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9DSVNOYnNGXzdBRzc4WExzT3YweHJIdk1RMlE3eTRIV1lfdHc4NjA0VlpiTFFZaWxhVU1FQVlBamRIejNMVXpRMGRHUWhCYTRMcmRnaW05c3RuS3RSR3RJRjhSamxiMzBQbmNzcg",
+      "source": "nikkei_news",
+      "title": "中国地方の最低賃金、4県で目安上回り10月発効へ 支払い余力限界も",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSVNOYnNGXzdBRzc4WExzT3YweHJIdk1RMlE3eTRIV1lfdHc4NjA0VlpiTFFZaWxhVU1FQVlBamRIejNMVXpRMGRHUWhCYTRMcmRnaW05c3RuS3RSR3RJRjhSamxiMzBQbmNzcg?oc=5",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "中国地方の最低賃金、4県で目安上回り10月発効へ 支払い余力限界も(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5CckVPeTJkWUVERWt5R1lMRDRKZjRtNW5UbkFRR01GWTcycExScUJQS21jZGRIVUV2d1p1eHVpd2paTnJhREo2WjJXTVc1b0xrZV9QQ0xLRXZJQlQ5cWxfZWx4RC1PV0dOajRTWA",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（3）「分配率は一定」への疑問",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CckVPeTJkWUVERWt5R1lMRDRKZjRtNW5UbkFRR01GWTcycExScUJQS21jZGRIVUV2d1p1eHVpd2paTnJhREo2WjJXTVc1b0xrZV9QQ0xLRXZJQlQ5cWxfZWx4RC1PV0dOajRTWA?oc=5",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率（3）「分配率は一定」への疑問(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5SQnJXT1pEZG5iMVp5NTh6WTRDLXFBMkY2UTluQmI3eVplTmdwekdzREJGazVsd2dCeENicHFrZnAtb3pVWVk0LVc0S3MwWGtLNktkMmRLYjRVLVZmSWpCb25TNmVsVlhMRXVQNA",
+      "source": "nikkei_news",
+      "title": "「AIの監督下」は労働者？ ギグワーカー保護強化へ 厚労省、定義見直し検討",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQnJXT1pEZG5iMVp5NTh6WTRDLXFBMkY2UTluQmI3eVplTmdwekdzREJGazVsd2dCeENicHFrZnAtb3pVWVk0LVc0S3MwWGtLNktkMmRLYjRVLVZmSWpCb25TNmVsVlhMRXVQNA?oc=5",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "「AIの監督下」は労働者？ ギグワーカー保護強化へ 厚労省、定義見直し検討(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8zeTZMSmhYc0Rvcm1EZW1PT2pfVF9FMVBic1V5Q3hRcWxrTkRVSVU5UzluRWUxNVdZT0tKQVF5SUEtenpBbUhiLWk4UXhoUzdVWmdzd2Zma0lhVk1sTWtvV3I3bW1TM2lBVUZhWQ",
+      "source": "nikkei_news",
+      "title": "塩野義、定年を実質廃止 来年度65歳に延長、毎年更新 65歳以上も正社員雇用 優秀な人材を確保へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zeTZMSmhYc0Rvcm1EZW1PT2pfVF9FMVBic1V5Q3hRcWxrTkRVSVU5UzluRWUxNVdZT0tKQVF5SUEtenpBbUhiLWk4UXhoUzdVWmdzd2Zma0lhVk1sTWtvV3I3bW1TM2lBVUZhWQ?oc=5",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "塩野義、定年を実質廃止 来年度65歳に延長、毎年更新 65歳以上も正社員雇用 優秀な人材を確保へ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE84dXZYYU5qWVpKLWdoR2lwdVhuRW80eFQwVjBuNXFGcVBFM3lwYXVFSW9NMGpJZHdxNWlXNUM5bnV4WHFjNVYxU08wVTY1YzByMWozcURXZUpoQnptdWZFVDlyR0hsTm5KVER3aw",
+      "source": "nikkei_news",
+      "title": "秋田県最低賃金、59円上げの1090円を答申",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84dXZYYU5qWVpKLWdoR2lwdVhuRW80eFQwVjBuNXFGcVBFM3lwYXVFSW9NMGpJZHdxNWlXNUM5bnV4WHFjNVYxU08wVTY1YzByMWozcURXZUpoQnptdWZFVDlyR0hsTm5KVER3aw?oc=5",
+      "publishedAt": "2026-08-18T09:56:54.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "秋田県最低賃金、59円上げの1090円を答申(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBGZEZ4QlBYM3Q3RVBQZXdzbmZoS2lWYko4OVl2OGdxUVhPSFhTT3cwZnRrVnR6NFJKQkg2WnlNRm9tdzV4aE9ZV0c0WXFrcUZ1ZElBbGlQMzhiTVJ1WllIaGlfUGs1T1lFV3VkUQ",
+      "source": "nikkei_news",
+      "title": "ギグワーカー保護へ 厚労省が労働者定義見直し検討、AIで論点複雑に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGZEZ4QlBYM3Q3RVBQZXdzbmZoS2lWYko4OVl2OGdxUVhPSFhTT3cwZnRrVnR6NFJKQkg2WnlNRm9tdzV4aE9ZV0c0WXFrcUZ1ZElBbGlQMzhiTVJ1WllIaGlfUGs1T1lFV3VkUQ?oc=5",
+      "publishedAt": "2026-08-18T09:22:37.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "ギグワーカー保護へ 厚労省が労働者定義見直し検討、AIで論点複雑に(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1kTXU1aG1xYTRKWE1COER5ZjhjUkVoMVhnRUR1ZXk2SWVGYjZBNS12TVEzM1g4Ym80UUFJSGV2eWNTWGZKU2pCTGZHTnRGVjZ5RmxOVUhXeWRXWERYWXhBYW9BSHE1d0ptMmdXZg",
+      "source": "nikkei_news",
+      "title": "熊本地震で労働相談1700件 事業再開難しく、早急な支援求める声",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kTXU1aG1xYTRKWE1COER5ZjhjUkVoMVhnRUR1ZXk2SWVGYjZBNS12TVEzM1g4Ym80UUFJSGV2eWNTWGZKU2pCTGZHTnRGVjZ5RmxOVUhXeWRXWERYWXhBYW9BSHE1d0ptMmdXZg?oc=5",
+      "publishedAt": "2026-08-18T09:16:24.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "熊本地震で労働相談1700件 事業再開難しく、早急な支援求める声(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5uaGlVS2lJZzlkR1ViMzJ4eDhlNEk4NWFkdzgxVGwyZzNkaFhnZW5HMWFTWGFXcXVzbDFTX3lMYzUzblhhOFZiM1M2aDRiT0xJTXlxQXhlRmlLX1ZQSTNPd0E4QlRSa1Zka0ZVWA",
+      "source": "nikkei_news",
+      "title": "ロンドン外為9時半 英ポンド、対ドルで下げ幅拡大 英労働市場の減速を意識",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaGlVS2lJZzlkR1ViMzJ4eDhlNEk4NWFkdzgxVGwyZzNkaFhnZW5HMWFTWGFXcXVzbDFTX3lMYzUzblhhOFZiM1M2aDRiT0xJTXlxQXhlRmlLX1ZQSTNPd0E4QlRSa1Zka0ZVWA?oc=5",
+      "publishedAt": "2026-08-18T08:56:09.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "ロンドン外為9時半 英ポンド、対ドルで下げ幅拡大 英労働市場の減速を意識(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB0ZE1pYjJfTjJQWVdBdTQ2c2YxRDgxZmRydmdfYS0tMW9aemREV202dGhuenpPS0hXWTdBVncyaGJmYno1OUVsMS12d1J3amJMbnlISDl1M2txanZmeFpSNTF1cmhpaDZSVHhkQg",
+      "source": "nikkei_news",
+      "title": "塩野義製薬、定年を実質廃止 65歳以降も無期限で更新",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ZE1pYjJfTjJQWVdBdTQ2c2YxRDgxZmRydmdfYS0tMW9aemREV202dGhuenpPS0hXWTdBVncyaGJmYno1OUVsMS12d1J3amJMbnlISDl1M2txanZmeFpSNTF1cmhpaDZSVHhkQg?oc=5",
+      "publishedAt": "2026-08-18T06:36:47.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "塩野義製薬、定年を実質廃止 65歳以降も無期限で更新(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75306.html",
       "source": "mhlw_news",
       "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
@@ -200,6 +585,61 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMifkFVX3lxTFAyZEhEeHZBcVVSYUhFQVB3NllFQ2dMb1A2WF9EQms2cTMzdWhkb09zOUdaaHVmcEdFLVV0dTRGOF8xOHhrSjltdi1Fdi1UbUhBSVAtTEpPazJPZWNEcjJINTN3TDM5RnNQU3VFODgxYWsyb1FOcExZMG1weGxwQQ",
+      "source": "nikkei_news",
+      "title": "豊かさを感じにくい理由 「26年度の賃上げ、企業の8割超が実施」など3本をお届けします",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyZEhEeHZBcVVSYUhFQVB3NllFQ2dMb1A2WF9EQms2cTMzdWhkb09zOUdaaHVmcEdFLVV0dTRGOF8xOHhrSjltdi1Fdi1UbUhBSVAtTEpPazJPZWNEcjJINTN3TDM5RnNQU3VFODgxYWsyb1FOcExZMG1weGxwQQ?oc=5",
+      "publishedAt": "2026-08-17T20:00:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "豊かさを感じにくい理由 「26年度の賃上げ、企業の8割超が実施」など3本をお届けします(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE0yc3JuanhwYmlDQjVTenVPTmYya1BqVVZod1Jody1iMEluZ2kwaGdVR2xjeE9neDdYdTBjN1ZvTVdzZ3dRaElGaDlWV2cwTnMxQ1JTelptZlVHVF9LeDBLQ3B1SFNJb3J2RlVKaQ",
+      "source": "nikkei_news",
+      "title": "東朋テクノロジー、配線工数減らす端子台を開発 人手不足に対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yc3JuanhwYmlDQjVTenVPTmYya1BqVVZod1Jody1iMEluZ2kwaGdVR2xjeE9neDdYdTBjN1ZvTVdzZ3dRaElGaDlWV2cwTnMxQ1JTelptZlVHVF9LeDBLQ3B1SFNJb3J2RlVKaQ?oc=5",
+      "publishedAt": "2026-08-17T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "東朋テクノロジー、配線工数減らす端子台を開発 人手不足に対応(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFA4emRsdWFCRGNDSnB5aWZiSV83TUpZYVI5N0ZYX1ZoQXNGRnBFdzNlRmZ3VXJqcnFwNnctbmdJRUhvMWs0RnhjMjJLM1RwSE5Qc25DSGlzaW1QSDZDbkFNdzZPdEdsVl9oTkNqRQ",
+      "source": "nikkei_news",
+      "title": "賃上げでも縮む家計 中間所得層の実質手取り、コロナ前から1割減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4emRsdWFCRGNDSnB5aWZiSV83TUpZYVI5N0ZYX1ZoQXNGRnBFdzNlRmZ3VXJqcnFwNnctbmdJRUhvMWs0RnhjMjJLM1RwSE5Qc25DSGlzaW1QSDZDbkFNdzZPdEdsVl9oTkNqRQ?oc=5",
+      "publishedAt": "2026-08-17T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "賃上げでも縮む家計 中間所得層の実質手取り、コロナ前から1割減(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1LSzZFclZVQXdpMF9PUWZoNGI3Ul9WN1NxVUJ3QXRLcGE3dmR3cVM4Y2lPQkc2cU9RSDlxaUlURTdCMld6dXhKcDZScHZIMGV4V0o5RkQ4RDNLZkc3MjlpdmJBSWdWNXJhdlYxdg",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（2）揺らぐ「労働」と「資本」の境界",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LSzZFclZVQXdpMF9PUWZoNGI3Ul9WN1NxVUJ3QXRLcGE3dmR3cVM4Y2lPQkc2cU9RSDlxaUlURTdCMld6dXhKcDZScHZIMGV4V0o5RkQ4RDNLZkc3MjlpdmJBSWdWNXJhdlYxdg?oc=5",
+      "publishedAt": "2026-08-17T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率（2）揺らぐ「労働」と「資本」の境界(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMid0FVX3lxTE95VE94a3lXR3d5VFF5LTJ1Q0FCeThPd01wVUtlejhRMWxRS3JNTHNOVXYtc2FkU2Zrdkp3U0pxbVkwQ0huYVJZUFpKR1BGbVZGVGRreHctZDNycS1sT2JnVkY1SV96VnQ0c2drbmRvT0VEQWFyLVJZ",
+      "source": "nikkei_news",
+      "title": "インドのテック労働者にAIの脅威（下） 「上流移行」で探る影響緩和",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95VE94a3lXR3d5VFF5LTJ1Q0FCeThPd01wVUtlejhRMWxRS3JNTHNOVXYtc2FkU2Zrdkp3U0pxbVkwQ0huYVJZUFpKR1BGbVZGVGRreHctZDNycS1sT2JnVkY1SV96VnQ0c2drbmRvT0VEQWFyLVJZ?oc=5",
+      "publishedAt": "2026-08-17T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "インドのテック労働者にAIの脅威（下） 「上流移行」で探る影響緩和(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_74962.html",
       "source": "mhlw_news",
       "title": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
@@ -209,6 +649,28 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "建設業・運輸業の働き方改革に向けた新PR動画を公開(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1NU1JYWkxVUExibWhwZGRBbVNSQVdHUEFwQ3pkbEtOVzJYQkk1MDE1U2dFSUQ2LVdjRFh5cS1uRHh5eWdrVmxDLTdwYVc2Nl8wUG4zNUlJVVNjTWliNU9COWE1a210YU5HakQ1RQ",
+      "source": "nikkei_news",
+      "title": "広島県の最低賃金、5.2%増1141円で答申 引き上げ額過去2番目",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NU1JYWkxVUExibWhwZGRBbVNSQVdHUEFwQ3pkbEtOVzJYQkk1MDE1U2dFSUQ2LVdjRFh5cS1uRHh5eWdrVmxDLTdwYVc2Nl8wUG4zNUlJVVNjTWliNU9COWE1a210YU5HakQ1RQ?oc=5",
+      "publishedAt": "2026-08-17T10:04:10.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "広島県の最低賃金、5.2%増1141円で答申 引き上げ額過去2番目(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9Yc1FySmJmb3A3Yl9Wb216X0Y3VDJzTlZNVmNqRVROOWdnLW8tQl92R1VSLWFCMnNBSmtldHNDLTlyY3ZlSmRFMmFkbDBRenY2TjRMcE1FZ2Fzd3NFVEV0UnlpakY5bFNOUE42YQ",
+      "source": "nikkei_news",
+      "title": "企業の5割「正社員の人手不足」実感 7月、帝国データ調べ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yc1FySmJmb3A3Yl9Wb216X0Y3VDJzTlZNVmNqRVROOWdnLW8tQl92R1VSLWFCMnNBSmtldHNDLTlyY3ZlSmRFMmFkbDBRenY2TjRMcE1FZ2Fzd3NFVEV0UnlpakY5bFNOUE42YQ?oc=5",
+      "publishedAt": "2026-08-17T07:54:19.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "企業の5割「正社員の人手不足」実感 7月、帝国データ調べ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75520.html",
@@ -222,6 +684,17 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE0zUXlUSS11TmMxQ0NHemEzbEVxN1k3WmdfbkFSVXJLbzJ1bV9ZX3U5eWh2dkxIb3c4QnpXdjg5VWF0WDNtMzAwQ1B5ZlpyQUtNX0d6cnFPRW5FM0R3NHRvX2poaFE2QzdWSFZ0OQ",
+      "source": "nikkei_news",
+      "title": "26年度の賃上げ、企業の8割超が実施 東京商工リサーチ調べ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zUXlUSS11TmMxQ0NHemEzbEVxN1k3WmdfbkFSVXJLbzJ1bV9ZX3U5eWh2dkxIb3c4QnpXdjg5VWF0WDNtMzAwQ1B5ZlpyQUtNX0d6cnFPRW5FM0R3NHRvX2poaFE2QzdWSFZ0OQ?oc=5",
+      "publishedAt": "2026-08-17T04:10:51.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "26年度の賃上げ、企業の8割超が実施 東京商工リサーチ調べ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75551.html",
       "source": "mhlw_news",
       "title": "2026年７月３日　第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録",
@@ -233,6 +706,72 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z"
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5KUjJXUmdGMjMzYV9ob1hPWHRGM3BWVktNOFMxcWdocXVvZlZ1Z0ZObzdqWXdMVUJPWHFqX28yZkl0Rm9Ka3JoN1p1RkFpR19jWV93cm4zd3NwdWRmUS1RWV9BZWlPaFJMeFNuSg",
+      "source": "nikkei_news",
+      "title": "人手不足の農家、相棒はロボット 草刈りから農薬散布まで1台で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KUjJXUmdGMjMzYV9ob1hPWHRGM3BWVktNOFMxcWdocXVvZlZ1Z0ZObzdqWXdMVUJPWHFqX28yZkl0Rm9Ka3JoN1p1RkFpR19jWV93cm4zd3NwdWRmUS1RWV9BZWlPaFJMeFNuSg?oc=5",
+      "publishedAt": "2026-08-16T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "人手不足の農家、相棒はロボット 草刈りから農薬散布まで1台で(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5qYlZOLVhvYUJtZm4yMlptNVcyZjMtX3JzTTZmYUl4Zno2dDRXeVJncDFVdm44Q0JaX25STmFreC1VeDEyRUlnR19oOS1HSVlFbmNmeUNjb1BGUTVDZ3hlLWt3dmZ6MmZzbnJrbw",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率(1) 世界で低下する労働分配率 明治学院大学教授 室和伸",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qYlZOLVhvYUJtZm4yMlptNVcyZjMtX3JzTTZmYUl4Zno2dDRXeVJncDFVdm44Q0JaX25STmFreC1VeDEyRUlnR19oOS1HSVlFbmNmeUNjb1BGUTVDZ3hlLWt3dmZ6MmZzbnJrbw?oc=5",
+      "publishedAt": "2026-08-16T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "AI時代の労働分配率(1) 世界で低下する労働分配率 明治学院大学教授 室和伸(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBPZ1ZFYWxocGs2N3dqUXhPa1lrNDJJWUItV0E1eG5saUJ0b3NYMUZrLUdhNGlYMVlNTklxSUpsNEVCRFRtSC1lUV9PdVJLaTdhRWVmTUc3T3prLVFJTjQ5NGxBcVFSMkJiTzZxXw",
+      "source": "nikkei_news",
+      "title": "〈News〉法定雇用率達成も「DEI疲れ」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZ1ZFYWxocGs2N3dqUXhPa1lrNDJJWUItV0E1eG5saUJ0b3NYMUZrLUdhNGlYMVlNTklxSUpsNEVCRFRtSC1lUV9PdVJLaTdhRWVmTUc3T3prLVFJTjQ5NGxBcVFSMkJiTzZxXw?oc=5",
+      "publishedAt": "2026-08-16T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "〈News〉法定雇用率達成も「DEI疲れ」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMid0FVX3lxTFA4ejAyWUMtdUJHVlNPY0FwMjlhbnhkMFJ0NDZLS1BFOTZSM3A3enU1STFJb04xRU81NUhieHdfMnRLNTNjME5RVXVKZjJkdHpuYjlILW1BQ1NWYlQ1U1JIa3hlcWRXQXNEOWZ6dmhtOWo3dlJzcXk0",
+      "source": "nikkei_news",
+      "title": "インドのテック労働者にAIの脅威（上） 作業代替で縮む雇用",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4ejAyWUMtdUJHVlNPY0FwMjlhbnhkMFJ0NDZLS1BFOTZSM3A3enU1STFJb04xRU81NUhieHdfMnRLNTNjME5RVXVKZjJkdHpuYjlILW1BQ1NWYlQ1U1JIa3hlcWRXQXNEOWZ6dmhtOWo3dlJzcXk0?oc=5",
+      "publishedAt": "2026-08-16T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "インドのテック労働者にAIの脅威（上） 作業代替で縮む雇用(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9lUUdIdjJYbWJWRUh6NmNiV21mcTFzQWt4RWZ6VldxQU9KNG0xU285RnI3dTRqM1Q0MERNX2FQTFhTOWVkOXZTMDYyUEtIcFB0c3Q5SlFfbEdrdWthelJxTjBSNXBTN3RFUXFvcg",
+      "source": "nikkei_news",
+      "title": "就活セクハラ、企業に対策義務化 相次ぐ被害、防止徹底を",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUUdIdjJYbWJWRUh6NmNiV21mcTFzQWt4RWZ6VldxQU9KNG0xU285RnI3dTRqM1Q0MERNX2FQTFhTOWVkOXZTMDYyUEtIcFB0c3Q5SlFfbEdrdWthelJxTjBSNXBTN3RFUXFvcg?oc=5",
+      "publishedAt": "2026-08-15T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "就活セクハラ、企業に対策義務化 相次ぐ被害、防止徹底を(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1zamFNM0xnZU1LX3R0MDlocEZtbS1wenZDVlRBaXVUZFQ0eXdLcUpvbnZDTGhnUko3SnNUbHdXMzhPM1BSWTRwWno2OTJRc1dlMHQwUG8tdE9KZ09CTC1wbHdMdGZ5dTIyeVd3Xw",
+      "source": "nikkei_news",
+      "title": "働き手が出資の「労働者協同組合」、厚労省の支援拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zamFNM0xnZU1LX3R0MDlocEZtbS1wenZDVlRBaXVUZFQ0eXdLcUpvbnZDTGhnUko3SnNUbHdXMzhPM1BSWTRwWno2OTJRc1dlMHQwUG8tdE9KZ09CTC1wbHdMdGZ5dTIyeVd3Xw?oc=5",
+      "publishedAt": "2026-08-14T08:33:44.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "働き手が出資の「労働者協同組合」、厚労省の支援拡大(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75340.html",
       "source": "mhlw_news",
       "title": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
@@ -242,6 +781,39 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBwUno0a3lLZkpQS3lXZEFaejVGcWZJRnhZYnNuaEhOTDVvQzJKZ0FoUjM1VEpCRHc1U0Rzem53eUl0M2ZsQ0RLWGdFZDFsRy0yUzY0dXJwbWQzLXlmdHBrcVNZUlpyRERvZjdwYg",
+      "source": "nikkei_news",
+      "title": "「就活セクハラ」学生の3割が経験 対策義務化、企業は防止徹底を",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwUno0a3lLZkpQS3lXZEFaejVGcWZJRnhZYnNuaEhOTDVvQzJKZ0FoUjM1VEpCRHc1U0Rzem53eUl0M2ZsQ0RLWGdFZDFsRy0yUzY0dXJwbWQzLXlmdHBrcVNZUlpyRERvZjdwYg?oc=5",
+      "publishedAt": "2026-08-13T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "「就活セクハラ」学生の3割が経験 対策義務化、企業は防止徹底を(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1HSngtRGlGcDBYZzdDa1dFa3F0bVlXSTVHTzRMWjktYXdGWEhhNElRWVMzX3VSMGJveTZGVE1abUMxSFVQUzZFUXFEaXkxcjg2c19FTVZUYm9QY0psSTdLYW5VdmI5N1ZQRnBxTw",
+      "source": "nikkei_news",
+      "title": "横浜市長パワハラ問題、自民が辞職申し入れへ 公明・立民に呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HSngtRGlGcDBYZzdDa1dFa3F0bVlXSTVHTzRMWjktYXdGWEhhNElRWVMzX3VSMGJveTZGVE1abUMxSFVQUzZFUXFEaXkxcjg2c19FTVZUYm9QY0psSTdLYW5VdmI5N1ZQRnBxTw?oc=5",
+      "publishedAt": "2026-08-13T13:11:22.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "横浜市長パワハラ問題、自民が辞職申し入れへ 公明・立民に呼びかけ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBoa0VIVkZHTkxGeTE2bWxDaGNoLU1wZ3hsUnJqcHVfQkhkRmV0NHN3bVRlTHZjcmRiQlFfcmlfV09JTTVPamFWWVI1Y2c4NVRTTDhMaDBvWmFwcjRJbk5OQm5yS29fS2YwRHQtSA",
+      "source": "nikkei_news",
+      "title": "福岡県の最低賃金、57円上げ1114円に 過去2番目の引き上げ答申",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoa0VIVkZHTkxGeTE2bWxDaGNoLU1wZ3hsUnJqcHVfQkhkRmV0NHN3bVRlTHZjcmRiQlFfcmlfV09JTTVPamFWWVI1Y2c4NVRTTDhMaDBvWmFwcjRJbk5OQm5yS29fS2YwRHQtSA?oc=5",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "福岡県の最低賃金、57円上げ1114円に 過去2番目の引き上げ答申(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75380.html",
@@ -308,6 +880,83 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "労働基準監督署等が自動車運転者を使用する事業場に対して行った令和７年の監督指導、送検等の状況を公表します(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5Rd1lsR1VERVZSdjNUNEF6N1haTXgtVjcyaWZHVEhkLWtEanVHOW5wM3YzZ2FkbmRaOGp4NmxZRXJhQUtRNHdObDg0c2RfMTVlRmtEYXFEcHRLZ3F2MGltbjZZNUhuVWJFcGlSMw",
+      "source": "nikkei_news",
+      "title": "大阪府内の最低賃金1231円 54円上げ、過去2番目の引き上げ額",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rd1lsR1VERVZSdjNUNEF6N1haTXgtVjcyaWZHVEhkLWtEanVHOW5wM3YzZ2FkbmRaOGp4NmxZRXJhQUtRNHdObDg0c2RfMTVlRmtEYXFEcHRLZ3F2MGltbjZZNUhuVWJFcGlSMw?oc=5",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "大阪府内の最低賃金1231円 54円上げ、過去2番目の引き上げ額(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg",
+      "source": "nikkei_news",
+      "title": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg?oc=5",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBONDJCd1NUTG5Cbng5aEhtb0RZU1VVeTJxc3RwTWoxZ2NVVTNfR0NoY2psbFlBbjNHdS1TTENFWVgtMDVxU1pKM0JzUmNVTjA0SG1YdE9rUC03QzA5ODdXTWdYN3BRcF9seGYzSQ",
+      "source": "nikkei_news",
+      "title": "ゆで太郎、27年度に6%賃上げ 大卒初任給は35万5000円に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONDJCd1NUTG5Cbng5aEhtb0RZU1VVeTJxc3RwTWoxZ2NVVTNfR0NoY2psbFlBbjNHdS1TTENFWVgtMDVxU1pKM0JzUmNVTjA0SG1YdE9rUC03QzA5ODdXTWdYN3BRcF9seGYzSQ?oc=5",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "ゆで太郎、27年度に6%賃上げ 大卒初任給は35万5000円に(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9pbG1TYUdhNFh1OFphT0N5MXhKMkg5ck8xN280X2lpVHhvTkxoOFF6REU3VG84VUljUmZPdE1Tbl9jOHFtLXNjLTJnZU9qV1VDQjZTcGlPclZzUExJbTJFUm44Y21ERU11d21GVA",
+      "source": "nikkei_news",
+      "title": "定年後も賃金下げない 日立の新たな再雇用制が問う「ジョブ型の本質」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbG1TYUdhNFh1OFphT0N5MXhKMkg5ck8xN280X2lpVHhvTkxoOFF6REU3VG84VUljUmZPdE1Tbl9jOHFtLXNjLTJnZU9qV1VDQjZTcGlPclZzUExJbTJFUm44Y21ERU11d21GVA?oc=5",
+      "publishedAt": "2026-05-03T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "定年後も賃金下げない 日立の新たな再雇用制が問う「ジョブ型の本質」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5QOVVWWVJpZm5URW5IUEpZSmxCTUw0cXFJaG9NelhDZVRpMzhfTEZPVm9DNG5oMl84ZmZZS245ZXVfU1BwRDE1QkQycGR4UTRvbWdOS3g0TDdqTUoxaUt6Z0RKTzJkS0lDTEFDNA",
+      "source": "nikkei_news",
+      "title": "自民党、労使協定内で残業時間柔軟に 一律指導停止を提言",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QOVVWWVJpZm5URW5IUEpZSmxCTUw0cXFJaG9NelhDZVRpMzhfTEZPVm9DNG5oMl84ZmZZS245ZXVfU1BwRDE1QkQycGR4UTRvbWdOS3g0TDdqTUoxaUt6Z0RKTzJkS0lDTEFDNA?oc=5",
+      "publishedAt": "2026-04-09T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "自民党、労使協定内で残業時間柔軟に 一律指導停止を提言(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE9uQjFqaENlQi1fb0RPVWxteE96NkxNS3JFZFlkVk9hdk9HX18tMEY4LTJhUW85dGZ3TDNtUEUtV1ZVWGJ2b2Q5eHI1OEZTNHNNVGZQRkdNYUZvS19FZ0N1QUdxcFJoX1E",
+      "source": "nikkei_news",
+      "title": "「団塊世代の『現場見下し文化』、建設業の人手不足招く」クラフトバンク総研高木氏",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uQjFqaENlQi1fb0RPVWxteE96NkxNS3JFZFlkVk9hdk9HX18tMEY4LTJhUW85dGZ3TDNtUEUtV1ZVWGJ2b2Q5eHI1OEZTNHNNVGZQRkdNYUZvS19FZ0N1QUdxcFJoX1E?oc=5",
+      "publishedAt": "2026-02-10T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "「団塊世代の『現場見下し文化』、建設業の人手不足招く」クラフトバンク総研高木氏(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1NaGY3RWpkWFRCS2xaSzRvWTJLdGZxMGpHVy15cjRUd3ZKTlZ5TGNWYXdWRzF1amZYX2xza1NMUHQtaURUTlV2RHpQNU56YTRMZDR0MWJ6S080UjVKY2dtSTZ6MGo2MlVUbU13UA",
+      "source": "nikkei_news",
+      "title": "日本保守党・百田尚樹代表、外国人労働者受け入れ是正",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NaGY3RWpkWFRCS2xaSzRvWTJLdGZxMGpHVy15cjRUd3ZKTlZ5TGNWYXdWRzF1amZYX2xza1NMUHQtaURUTlV2RHpQNU56YTRMZDR0MWJ6S080UjVKY2dtSTZ6MGo2MlVUbU13UA?oc=5",
+      "publishedAt": "2025-07-11T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-21T01:31:11.715Z",
+      "summary": "日本保守党・百田尚樹代表、外国人労働者受け入れ是正(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-21T01:31:14.773Z"
     }
   ]
 }

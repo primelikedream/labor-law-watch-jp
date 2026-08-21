@@ -1,4 +1,4 @@
-export type SourceType = "mhlw_news" | "egov_law_update";
+export type SourceType = "mhlw_news" | "egov_law_update" | "nikkei_news";
 
 export interface CollectedItem {
   id: string;

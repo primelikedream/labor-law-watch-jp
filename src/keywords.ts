@@ -39,6 +39,13 @@ export const LABOR_KEYWORDS: string[] = [
   "監督署",
   "労働政策審議会",
   "キャリアコンサル",
+  "リストラ",
+  "賃上げ",
+  "人手不足",
+  "転職",
+  "退職金",
+  "給料",
+  "ジョブ型",
 ];
 
 // e-Gov の法令改正リストは法令名で判定する。労働関係の主要法令。
@@ -62,6 +69,13 @@ export const LABOR_LAW_NAME_PATTERNS: string[] = [
 export function isLaborRelatedTitle(title: string): boolean {
   return LABOR_KEYWORDS.some((kw) => title.includes(kw));
 }
+
+// Googleニュース検索(site:nikkei.com)にかけるクエリ。1クエリあたりのOR語数を絞って分割する。
+export const NIKKEI_SEARCH_QUERIES: string[] = [
+  "site:nikkei.com (労働 OR 雇用 OR 賃金 OR 最低賃金 OR 働き方改革)",
+  "site:nikkei.com (育児休業 OR 有給休暇 OR 労働基準法 OR ハラスメント OR 人手不足)",
+  "site:nikkei.com (賃上げ OR 残業 OR 外国人労働者 OR 労働組合 OR 労働政策)",
+];
 
 export function isLaborRelatedLawName(lawName: string): boolean {
   return LABOR_LAW_NAME_PATTERNS.some((kw) => lawName.includes(kw));

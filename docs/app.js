@@ -1,9 +1,11 @@
 const params = new URLSearchParams(location.search);
 const periodDays = params.has("days") ? Number(params.get("days")) : null;
 
+const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei" };
+
 const state = {
   items: [],
-  sources: new Set(["mhlw_news", "egov_law_update"]),
+  sources: new Set(["mhlw_news", "egov_law_update", "nikkei_news"]),
   query: "",
 };
 
@@ -49,12 +51,14 @@ function renderStats() {
   const recent = items.filter((i) => new Date(i.publishedAt).getTime() >= weekAgo).length;
   const lawCount = items.filter((i) => i.source === "egov_law_update").length;
   const newsCount = items.filter((i) => i.source === "mhlw_news").length;
+  const nikkeiCount = items.filter((i) => i.source === "nikkei_news").length;
 
   const stats = [
     { n: items.length, l: "総トピック数", cls: "" },
     { n: recent, l: "直近7日間", cls: "accent" },
     { n: lawCount, l: "法令改正", cls: "seal" },
     { n: newsCount, l: "厚労省 新着情報", cls: "" },
+    { n: nikkeiCount, l: "日経新聞", cls: "nikkei" },
   ];
   document.getElementById("stats").innerHTML = stats
     .map((s) => `<div class="stat"><div class="n ${s.cls}">${s.n}</div><div class="l">${s.l}</div></div>`)
@@ -92,12 +96,12 @@ function render() {
       const cards = groups
         .get(dateKey)
         .map((item) => {
-          const isLaw = item.source === "egov_law_update";
+          const cls = SOURCE_CLASS[item.source] ?? "";
           const time = new Date(item.publishedAt).toLocaleTimeString("ja-JP", { hour: "2-digit", minute: "2-digit" });
           return `
-            <article class="item ${isLaw ? "law" : ""}">
+            <article class="item ${cls}">
               <div class="item-top">
-                <span class="chip ${isLaw ? "law" : ""}">${escapeHtml(item.category)}</span>
+                <span class="chip ${cls}">${escapeHtml(item.category)}</span>
                 <span class="item-time">${time}</span>
               </div>
               <p class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></p>

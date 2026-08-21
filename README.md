@@ -6,6 +6,7 @@
 
 - [厚生労働省 新着情報RSS](https://www.mhlw.go.jp/stf/news.rdf) — タイトルに労働関連キーワードを含むものを抽出([src/keywords.ts](src/keywords.ts))
 - [e-Gov 法令API](https://laws.e-gov.go.jp/) の `updatelawlists` — 施行日ベースで労働関連法令の改正を抽出
+- Googleニュース検索RSS(`site:nikkei.com` + 労働関連キーワード)経由の日本経済新聞 見出し — 本文は取得・保存せず、見出しとリンクのみを扱う。日経本体・日経ビジネスとも無料の公式RSSがないための代替手段。Googleニュースの当該フィードは「個人のフィードリーダーでの非商用個人利用」に限定されている点に留意([src/collectors/nikkei.ts](src/collectors/nikkei.ts))
 
 ## 構成
 

@@ -9,6 +9,8 @@
   --accent-soft: #e3e9f1;
   --seal: #ae3b2e;
   --seal-soft: #f5e4e0;
+  --nikkei: #8a6d1f;
+  --nikkei-soft: #f0e9d6;
   --border: #dadfe0;
   --border-strong: #b9c1c4;
 }
@@ -25,6 +27,8 @@
     --accent-soft: #223349;
     --seal: #e1897c;
     --seal-soft: #3a2420;
+    --nikkei: #d4b06a;
+    --nikkei-soft: #3a3320;
     --border: #2b323d;
     --border-strong: #3a4350;
   }
@@ -103,7 +107,7 @@ a { color: inherit; }
 /* ---- Stat strip ---- */
 .stats {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
@@ -121,6 +125,7 @@ a { color: inherit; }
 }
 .stat .n.accent { color: var(--accent); }
 .stat .n.seal { color: var(--seal); }
+.stat .n.nikkei { color: var(--nikkei); }
 .stat .l {
   margin-top: 0.4rem;
   font-size: 0.72rem;
@@ -199,6 +204,7 @@ a { color: inherit; }
   color: #fff;
 }
 .pill.law[aria-pressed="true"] { background: var(--seal); border-color: var(--seal); }
+.pill.nikkei[aria-pressed="true"] { background: var(--nikkei); border-color: var(--nikkei); }
 
 .count-line {
   font-size: 0.76rem;
@@ -251,6 +257,7 @@ a { color: inherit; }
   padding: 0.8rem 1rem 0.85rem;
 }
 .item.law { border-left-color: var(--seal-soft); }
+.item.nikkei { border-left-color: var(--nikkei-soft); }
 
 .item-top {
   display: flex;
@@ -268,6 +275,7 @@ a { color: inherit; }
   white-space: nowrap;
 }
 .chip.law { background: var(--seal-soft); color: var(--seal); }
+.chip.nikkei { background: var(--nikkei-soft); color: var(--nikkei); }
 .item-time { font-size: 0.7rem; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
 
 .item-title {
