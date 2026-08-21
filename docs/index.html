@@ -7,31 +7,45 @@
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<header class="site-header">
-  <h1>労働法制ウォッチ</h1>
-  <p class="subtitle">日本の労働関連法制の変更・トピックを時系列でサマリー</p>
-  <p class="updated-at" id="updatedAt"></p>
-</header>
+<div class="page">
+  <header class="masthead">
+    <div class="masthead-left">
+      <div class="seal">労務</div>
+      <div>
+        <h1 class="mincho">労働法制ウォッチ</h1>
+        <p class="kicker">JAPAN LABOR &amp; EMPLOYMENT LAW DIGEST</p>
+      </div>
+    </div>
+    <div class="masthead-right">
+      <div id="updatedAt"></div>
+      <div><a href="https://github.com/primelikedream/labor-law-watch-jp" target="_blank" rel="noopener">GitHubリポジトリ ↗</a></div>
+    </div>
+  </header>
 
-<main>
+  <section class="stats" id="stats"></section>
+
+  <div class="period-banner" id="periodBanner" hidden></div>
+
   <div class="controls">
-    <input id="searchBox" type="search" placeholder="キーワードで検索 (例: 育児休業, 最低賃金)" />
-    <div class="filter-group" id="sourceFilter">
-      <label><input type="checkbox" value="mhlw_news" checked /> 厚労省 新着情報</label>
-      <label><input type="checkbox" value="egov_law_update" checked /> 法令改正 (e-Gov)</label>
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="searchBox" type="search" placeholder="キーワードで検索 (例: 育児休業、最低賃金、ハラスメント)" />
+    </div>
+    <div class="pill-group" id="sourceFilter">
+      <button class="pill" data-source="mhlw_news" aria-pressed="true" type="button">厚労省 新着</button>
+      <button class="pill law" data-source="egov_law_update" aria-pressed="true" type="button">法令改正</button>
     </div>
   </div>
 
-  <p class="count" id="itemCount"></p>
-  <div id="timeline" class="timeline"></div>
-  <p id="emptyState" class="empty-state" hidden>該当するトピックがありません。</p>
-</main>
+  <p class="count-line" id="countLine"></p>
 
-<footer class="site-footer">
-  <p>情報源: <a href="https://www.mhlw.go.jp/stf/news.rdf" target="_blank" rel="noopener">厚生労働省 新着情報RSS</a> /
-     <a href="https://laws.e-gov.go.jp/" target="_blank" rel="noopener">e-Gov 法令API</a>。
-     要約はAIにより自動生成されており、正確性を保証するものではありません。詳細は必ずリンク先の一次情報をご確認ください。</p>
-</footer>
+  <main class="timeline" id="timeline"></main>
+  <p class="empty" id="emptyState" hidden>該当するトピックがありません。</p>
+
+  <footer class="colophon">
+    <p>情報源: <a href="https://www.mhlw.go.jp/stf/news.rdf" target="_blank" rel="noopener">厚生労働省 新着情報RSS</a> ／ <a href="https://laws.e-gov.go.jp/" target="_blank" rel="noopener">e-Gov 法令API</a>。要約はAIによる自動生成であり、正確性を保証するものではありません。判断の最終確認は必ずリンク先の一次情報で行ってください。</p>
+  </footer>
+</div>
 
 <script src="app.js"></script>
 </body>

@@ -4,6 +4,8 @@ import type { CollectedItem } from "./types.js";
 
 type Period = "daily" | "weekly";
 
+const DEFAULT_DASHBOARD_URL = "https://primelikedream.github.io/labor-law-watch-jp/";
+
 function parsePeriod(): Period {
   const arg = process.argv.find((a) => a.startsWith("--period="));
   const value = arg?.split("=")[1];
@@ -15,51 +17,27 @@ function withinPeriod(item: CollectedItem, days: number): boolean {
   return new Date(item.publishedAt).getTime() >= cutoff;
 }
 
-function groupByDate(items: CollectedItem[]): Map<string, CollectedItem[]> {
-  const groups = new Map<string, CollectedItem[]>();
-  for (const item of items) {
-    const dateKey = item.publishedAt.slice(0, 10);
-    if (!groups.has(dateKey)) groups.set(dateKey, []);
-    groups.get(dateKey)!.push(item);
-  }
-  return new Map([...groups.entries()].sort((a, b) => b[0].localeCompare(a[0])));
-}
-
-function buildDigest(period: Period, items: CollectedItem[]) {
+function buildDigest(period: Period, days: number, itemCount: number) {
   const label = period === "daily" ? "日次" : "週次";
   const today = new Date().toISOString().slice(0, 10);
-  const subject = `【労働法制ダイジェスト・${label}】${today} (${items.length}件)`;
+  const subject = `【労働法制ダイジェスト・${label}】${today} (${itemCount}件)`;
 
-  if (items.length === 0) {
-    const empty = `対象期間中に新しい労働関連の法改正・トピックはありませんでした。`;
-    return { subject, text: empty, html: `<p>${empty}</p>` };
-  }
+  const dashboardUrl = process.env.DASHBOARD_URL ?? DEFAULT_DASHBOARD_URL;
+  const link = `${dashboardUrl.replace(/\/?$/, "/")}?days=${days}`;
 
-  const groups = groupByDate(items);
-  const textLines: string[] = [];
-  const htmlLines: string[] = [`<h2>${subject}</h2>`];
+  const intro =
+    itemCount === 0
+      ? `対象期間中に新しい労働関連の法改正・トピックはありませんでした。`
+      : `直近${days}日間で ${itemCount} 件の労働関連トピックがあります。`;
 
-  for (const [date, dateItems] of groups) {
-    textLines.push(`\n■ ${date}`);
-    htmlLines.push(`<h3>${date}</h3><ul>`);
-    for (const item of dateItems) {
-      textLines.push(`- [${item.category}] ${item.title}`);
-      textLines.push(`  ${item.summary ?? ""}`);
-      textLines.push(`  ${item.url}`);
-      htmlLines.push(
-        `<li><strong>[${escapeHtml(item.category)}] ${escapeHtml(item.title)}</strong><br>` +
-          `${escapeHtml(item.summary ?? "")}<br>` +
-          `<a href="${item.url}">${item.url}</a></li>`,
-      );
-    }
-    htmlLines.push(`</ul>`);
-  }
+  const text = `${intro}\n\n詳細はこちら:\n${link}`;
+  const html = `
+    <p>${intro}</p>
+    <p><a href="${link}" style="display:inline-block;padding:0.6em 1.2em;background:#2c4a72;color:#fff;text-decoration:none;border-radius:4px;">労働法制ウォッチを見る →</a></p>
+    <p style="font-size:0.85em;color:#666;">${link}</p>
+  `;
 
-  return { subject, text: textLines.join("\n"), html: htmlLines.join("\n") };
-}
-
-function escapeHtml(s: string): string {
-  return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+  return { subject, text, html };
 }
 
 async function main() {
@@ -67,11 +45,9 @@ async function main() {
   const days = period === "daily" ? 1 : 7;
 
   const data = await loadData();
-  const items = data.items
-    .filter((item) => withinPeriod(item, days))
-    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  const itemCount = data.items.filter((item) => withinPeriod(item, days)).length;
 
-  const digest = buildDigest(period, items);
+  const digest = buildDigest(period, days, itemCount);
   console.log(digest.text);
 
   await sendDigestMail(digest);
