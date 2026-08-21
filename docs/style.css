@@ -40,12 +40,12 @@ body {
   margin: 0;
   background: var(--ground);
   color: var(--ink);
-  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic Medium", "Yu Gothic", "Meiryo", sans-serif;
+  font-family: "Meiryo UI", "Meiryo", "Hiragino Kaku Gothic ProN", "Yu Gothic Medium", "Yu Gothic", sans-serif;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
 
-.mincho { font-family: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Noto Serif JP", serif; }
+.mincho { font-family: "Meiryo UI", "Meiryo", "Hiragino Kaku Gothic ProN", "Yu Gothic Medium", "Yu Gothic", sans-serif; }
 
 a { color: inherit; }
 
@@ -118,7 +118,7 @@ a { color: inherit; }
   padding: 0.85rem 1rem;
 }
 .stat .n {
-  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-family: "Meiryo UI", "Meiryo", sans-serif;
   font-size: 1.6rem;
   font-variant-numeric: tabular-nums;
   line-height: 1;
@@ -231,7 +231,7 @@ a { color: inherit; }
   position: relative;
   padding-top: 0.15rem;
   text-align: right;
-  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-family: "Meiryo UI", "Meiryo", sans-serif;
 }
 .date-label .d { font-size: 1.15rem; font-variant-numeric: tabular-nums; }
 .date-label .y { display: block; font-size: 0.68rem; color: var(--ink-faint); font-family: inherit; letter-spacing: 0.03em; }
