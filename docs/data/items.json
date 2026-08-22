@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-21T22:56:19.273Z",
+  "updatedAt": "2026-08-22T22:52:56.431Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBkdVJJSTVPMlU0Q2lJbTNpMlh4aE5zYVFfV2FRQzlnaEFzR2FDVUdNY0NFb2VSZDk5UTlQOXI2dzRLNHBubHdyZFh5bElOY0hCTi1ILWp0dGsxVDJMNHBlUmpxSUZ6ckoxZWNsTw",
+      "source": "nikkei_news",
+      "title": "タイミー、長期雇用へ1日体験「プレバイト」 ミスマッチ抑制",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkdVJJSTVPMlU0Q2lJbTNpMlh4aE5zYVFfV2FRQzlnaEFzR2FDVUdNY0NFb2VSZDk5UTlQOXI2dzRLNHBubHdyZFh5bElOY0hCTi1ILWp0dGsxVDJMNHBlUmpxSUZ6ckoxZWNsTw?oc=5",
+      "publishedAt": "2026-08-22T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "タイミー、長期雇用へ1日体験「プレバイト」 ミスマッチ抑制(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.147Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9CTmZxRTZ3STFGdTVvTHk5ZlFfQThDR2ZtT0thSFJ3SVhJZjJHZXhoUFRMby15VU9mUnMwdTUwSFEtTzlqRDFpX2h2MmZsME5yOFItd2ROT1l6QmNpcDZOeW45d3JaN0JVZlNEOA",
+      "source": "nikkei_news",
+      "title": "退職願、翌週の撤回認めず 雇用契約巡る訴訟 「なかったことにできない」 年末に社員からSMS",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTmZxRTZ3STFGdTVvTHk5ZlFfQThDR2ZtT0thSFJ3SVhJZjJHZXhoUFRMby15VU9mUnMwdTUwSFEtTzlqRDFpX2h2MmZsME5yOFItd2ROT1l6QmNpcDZOeW45d3JaN0JVZlNEOA?oc=5",
+      "publishedAt": "2026-08-22T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "退職願、翌週の撤回認めず 雇用契約巡る訴訟 「なかったことにできない」 年末に社員からSMS(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.201Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9vb1JBSElERGNXSk1xLWhmb3A2UDg3TGphckVPREdBaVVaeFZGc1N1V0ZfcFhvMWp3b2ZRbGJKeWRYaER3bXRYb2U1d3BreW45cWQxWERrM1ZLXzNfa2xrODRmOXhWSFgwUmxEVw",
+      "source": "nikkei_news",
+      "title": "相続・贈与税、賃上げで免除 中小、事業承継しやすく 経産省要望へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vb1JBSElERGNXSk1xLWhmb3A2UDg3TGphckVPREdBaVVaeFZGc1N1V0ZfcFhvMWp3b2ZRbGJKeWRYaER3bXRYb2U1d3BreW45cWQxWERrM1ZLXzNfa2xrODRmOXhWSFgwUmxEVw?oc=5",
+      "publishedAt": "2026-08-22T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "相続・贈与税、賃上げで免除 中小、事業承継しやすく 経産省要望へ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.368Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBCOEhZZzJvS1NoMjhORzdXcVc2SFdTMFNKa01VMk9UWmZWVms1RWw4UmFXSmc4M1NZdTVDUnZBd3pqTjQ3Uy1pNG1Rc2RiX3JJdTRvblBlOE1YTHROM21DMUIyWlJTS2NsZUxLYw",
+      "source": "nikkei_news",
+      "title": "中小の事業承継、成長投資・賃上げなら贈与・相続税免除 経産省要望へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCOEhZZzJvS1NoMjhORzdXcVc2SFdTMFNKa01VMk9UWmZWVms1RWw4UmFXSmc4M1NZdTVDUnZBd3pqTjQ3Uy1pNG1Rc2RiX3JJdTRvblBlOE1YTHROM21DMUIyWlJTS2NsZUxLYw?oc=5",
+      "publishedAt": "2026-08-22T09:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "中小の事業承継、成長投資・賃上げなら贈与・相続税免除 経産省要望へ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.252Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE14RjlUNWJscGdtZjBlYTJFV20wNWlkTWd5c1NZdUxIeUZIM0J4VDVUS1pZVDMzdFdTSEdab0NYZ3lqNERnZldEWndaWkczbXZVdkozc1llcFRVMkVGUnV4S2hCUG5KSjJFd0dTMQ",
+      "source": "nikkei_news",
+      "title": "維新が税優遇65件の即時廃止案 中小賃上げ税制や結婚子育て贈与税",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RjlUNWJscGdtZjBlYTJFV20wNWlkTWd5c1NZdUxIeUZIM0J4VDVUS1pZVDMzdFdTSEdab0NYZ3lqNERnZldEWndaWkczbXZVdkozc1llcFRVMkVGUnV4S2hCUG5KSjJFd0dTMQ?oc=5",
+      "publishedAt": "2026-08-22T09:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "維新が税優遇65件の即時廃止案 中小賃上げ税制や結婚子育て贈与税(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.308Z"
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBJbVdrZC0zYW1KalMzMG1lUFpUOU1QbWxJUkhrUzRfOEhQOE9VSWl4Z2Q1VVcyNkMzcTlPUHp5SkZDazR6Tk9UZExmWW53TEFJUFZkVHFYUjFoTGR4Yl8tcm5BRmYwc2xyWjRBcw",
       "source": "nikkei_news",
@@ -660,6 +715,17 @@
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "39歳で出産、育休制度なしで復帰した米国駐在 レゾナックCHRO(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T22:38:51.688Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5Lb25CbWNMSzdRTTY3REUwdkY0MmhuazlTUWlrNnhKWWNBV1dyM3hKOVZKdVRxek10NU9lU1lsYms0ZzI5LW80aTlxYnZUTnFnTnZUWWl6NUMyZU5pdXlFQzBTS0dKTUNsek5VSg",
+      "source": "nikkei_news",
+      "title": "きょうの5本 賃上げでも縮む家計",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Lb25CbWNMSzdRTTY3REUwdkY0MmhuazlTUWlrNnhKWWNBV1dyM3hKOVZKdVRxek10NU9lU1lsYms0ZzI5LW80aTlxYnZUTnFnTnZUWWl6NUMyZU5pdXlFQzBTS0dKTUNsek5VSg?oc=5",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-22T22:52:50.797Z",
+      "summary": "きょうの5本 賃上げでも縮む家計(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-22T22:52:56.430Z"
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE84dXZYYU5qWVpKLWdoR2lwdVhuRW80eFQwVjBuNXFGcVBFM3lwYXVFSW9NMGpJZHdxNWlXNUM5bnV4WHFjNVYxU08wVTY1YzByMWozcURXZUpoQnptdWZFVDlyR0hsTm5KVER3aw",
