@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-08-23T22:52:45.298Z",
+  "updatedAt": "2026-08-24T22:58:40.263Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
+      "source": "mhlw_news",
+      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75128.html",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-08-24T22:58:34.292Z",
+      "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.213Z"
+    },
+    {
+      "id": "nikkei:CBMifkFVX3lxTE90anlDSGlUZmRWc3RsME5wM0s3OE1xUnNSWF9EQlgtOHZGTFdRWHBYYktXRTR3eFloUUFjMVRGT0oxOGp6TlNaVlFOdjNnZ0NHZnM0VG5FVGU5MXZfdEhBT0dQYWY5aUd6NkMwUUNMZVJSZl9EaXdTb0YyRUsydw",
+      "source": "nikkei_news",
+      "title": "労働力人口とは 経済活動を支える人の数、2025年に初めて7000万人超え",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90anlDSGlUZmRWc3RsME5wM0s3OE1xUnNSWF9EQlgtOHZGTFdRWHBYYktXRTR3eFloUUFjMVRGT0oxOGp6TlNaVlFOdjNnZ0NHZnM0VG5FVGU5MXZfdEhBT0dQYWY5aUd6NkMwUUNMZVJSZl9EaXdTb0YyRUsydw?oc=5",
+      "publishedAt": "2026-08-24T20:00:01.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "労働力人口とは 経済活動を支える人の数、2025年に初めて7000万人超え(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.380Z"
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE1PSXhIZXluVDk0UElzZHVDam1TWENmSm1CMFd0ZmF4em0zOU1Sc0JQaHZjM0tiV2thWm5SNDR3b0VSUWpzSkw2cHFsYWsxLWVuWkpwalp5SE5EU3dQYlRscDNwQS1XWTQ",
+      "source": "nikkei_news",
+      "title": "三菱UFJ信託銀、ジョブ型×従来型の「一国二制度」 専門人材・シニアに報いる",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PSXhIZXluVDk0UElzZHVDam1TWENmSm1CMFd0ZmF4em0zOU1Sc0JQaHZjM0tiV2thWm5SNDR3b0VSUWpzSkw2cHFsYWsxLWVuWkpwalp5SE5EU3dQYlRscDNwQS1XWTQ?oc=5",
+      "publishedAt": "2026-08-24T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "三菱UFJ信託銀、ジョブ型×従来型の「一国二制度」 専門人材・シニアに報いる(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.896Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBkbGtYNGphNHFfdURHZF8xa0ZNV19hV3JVelcyR1pkcUNVR3g4NnJ2Yk55N0x1SDJaVU95OHl4S2NKdldwMnNJLV83Mk1PbWl0X2JTMFNnMGhnbk5PdjdCcFBKUFppNFlEdDRvVQ",
+      "source": "nikkei_news",
+      "title": "オーストラリア、極右台頭で「ワーホリ」制限 人手不足の農家は悲鳴",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbGtYNGphNHFfdURHZF8xa0ZNV19hV3JVelcyR1pkcUNVR3g4NnJ2Yk55N0x1SDJaVU95OHl4S2NKdldwMnNJLV83Mk1PbWl0X2JTMFNnMGhnbk5PdjdCcFBKUFppNFlEdDRvVQ?oc=5",
+      "publishedAt": "2026-08-24T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "オーストラリア、極右台頭で「ワーホリ」制限 人手不足の農家は悲鳴(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:40.061Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9pZk1zTURVa19HYjZBRHVSNWVLMjUxTFlGMk5sNVFtbWtVN0tDZVplcHZfcmgyUXk4X0tmZV9JNlpmTldsYktMR0h4QzhhZkppVzVYR1JkTHpDNjI3S1JGcjB5cFpiekloOG9IbQ",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（7）少子高齢化が与える影響",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pZk1zTURVa19HYjZBRHVSNWVLMjUxTFlGMk5sNVFtbWtVN0tDZVplcHZfcmgyUXk4X0tmZV9JNlpmTldsYktMR0h4QzhhZkppVzVYR1JkTHpDNjI3S1JGcjB5cFpiekloOG9IbQ?oc=5",
+      "publishedAt": "2026-08-24T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "AI時代の労働分配率（7）少子高齢化が与える影響(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.788Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE92Mm1raURfdEstV2JKcmEtWV93QmJVM3dYTjdwQ3dtNTdjNXZneGs3d3BJbHZRUzVST1FaRjFEY3FTQzB4T1BIN2hCZ2k2X3N6SmM1UWZLWkhXQzhBa2VzRDY3R1JBMDRUWkE0Sg",
+      "source": "nikkei_news",
+      "title": "20代の4割が業務時間外の連絡「しない」 長時間労働なく成長に不安も",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Mm1raURfdEstV2JKcmEtWV93QmJVM3dYTjdwQ3dtNTdjNXZneGs3d3BJbHZRUzVST1FaRjFEY3FTQzB4T1BIN2hCZ2k2X3N6SmM1UWZLWkhXQzhBa2VzRDY3R1JBMDRUWkE0Sg?oc=5",
+      "publishedAt": "2026-08-24T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "20代の4割が業務時間外の連絡「しない」 長時間労働なく成長に不安も(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.950Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAtZy1hM243MGpaUWtEcVVWSmlaQ0RKME84UkR4VVFsVW9QY1lXYzNHYk90bUlvREN2dW5YYThxdE0zUGpGUjhMR3pDd3h2Vmg1YUliRWZwam9aTU1tNDduWEl0bHBYMDJZYzgyTA",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率(7) 少子高齢化が与える影響 明治学院大学教授 室和伸",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtZy1hM243MGpaUWtEcVVWSmlaQ0RKME84UkR4VVFsVW9QY1lXYzNHYk90bUlvREN2dW5YYThxdE0zUGpGUjhMR3pDd3h2Vmg1YUliRWZwam9aTU1tNDduWEl0bHBYMDJZYzgyTA?oc=5",
+      "publishedAt": "2026-08-24T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "AI時代の労働分配率(7) 少子高齢化が与える影響 明治学院大学教授 室和伸(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:40.210Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBveVh1cFZZdmxMdV93UmtjcEFGczEyWnV4UGNobkx3ZnlEZml2NjY1Vm41Q3doYUx6MllJT09EZXN4bEZMS2ZTTzk5eXRmX3lXUmR2YkhIdkVYY1dGbDA1eEFOLUJpeFRVeTJreg",
+      "source": "nikkei_news",
+      "title": "茨城の最低賃金1136円に 上げ幅過去2番目、経営側は採決退席",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBveVh1cFZZdmxMdV93UmtjcEFGczEyWnV4UGNobkx3ZnlEZml2NjY1Vm41Q3doYUx6MllJT09EZXN4bEZMS2ZTTzk5eXRmX3lXUmR2YkhIdkVYY1dGbDA1eEFOLUJpeFRVeTJreg?oc=5",
+      "publishedAt": "2026-08-24T10:20:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "茨城の最低賃金1136円に 上げ幅過去2番目、経営側は採決退席(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.434Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBaek1iY3NuaU5CMzQxWXJoekVnOHQ0bnMySkZmdHRXMHBlTWE3TmVLcVUxdEdaT3RadTN6dVhJVDQyUFJkWUFGNTZ4YnJMM2FtTlVVTXBpME9fNmY1eFdwYzVLU1VqVDVCUFZPdg",
+      "source": "nikkei_news",
+      "title": "徳島県の最低賃金、57円上げ1103円で答申 発効は11月1日",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaek1iY3NuaU5CMzQxWXJoekVnOHQ0bnMySkZmdHRXMHBlTWE3TmVLcVUxdEdaT3RadTN6dVhJVDQyUFJkWUFGNTZ4YnJMM2FtTlVVTXBpME9fNmY1eFdwYzVLU1VqVDVCUFZPdg?oc=5",
+      "publishedAt": "2026-08-24T08:43:13.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "徳島県の最低賃金、57円上げ1103円で答申 発効は11月1日(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.636Z"
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE1yeHJxUndwSUNhckw5dkpJM0dGalduRkpHNENoZFFBOU05TWtTWk96QjVNM3ZXRTV5c3QyeGxEQUh0NnYwQXBSV0p1WUNWNUpldU5QWUNxV1B1NFRyQno2VU9XZmpUV1k",
+      "source": "nikkei_news",
+      "title": "ジョブ型雇用、4つの落とし穴 「メンテ不足」「年配忖度」…あなたの会社は",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yeHJxUndwSUNhckw5dkpJM0dGalduRkpHNENoZFFBOU05TWtTWk96QjVNM3ZXRTV5c3QyeGxEQUh0NnYwQXBSV0p1WUNWNUpldU5QWUNxV1B1NFRyQno2VU9XZmpUV1k?oc=5",
+      "publishedAt": "2026-08-24T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "ジョブ型雇用、4つの落とし穴 「メンテ不足」「年配忖度」…あなたの会社は(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.510Z"
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75341.html",
+      "source": "mhlw_news",
+      "title": "第41回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75341.html",
+      "publishedAt": "2026-08-24T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-08-24T22:58:34.292Z",
+      "summary": "第41回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.272Z"
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75307.html",
+      "source": "mhlw_news",
+      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75307.html",
+      "publishedAt": "2026-08-24T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-08-24T22:58:34.292Z",
+      "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.325Z"
+    },
+    {
+      "id": "nikkei:CBMiU0FVX3lxTE4zeXpvTmhPZG8ySllpLWZtbU11b3JHaTlQXzFqazRiZG03WGR1RHZZR2JSTzVIeXJkaW5nNl9RbUZsQ1gxRWpxdXNFTUN4TmRrTjcw",
+      "source": "nikkei_news",
+      "title": "時給1280円時代、正社員の給料はなぜ上がらないのか｜村上 臣（電脳コラムニスト）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zeXpvTmhPZG8ySllpLWZtbU11b3JHaTlQXzFqazRiZG03WGR1RHZZR2JSTzVIeXJkaW5nNl9RbUZsQ1gxRWpxdXNFTUN4TmRrTjcw?oc=5",
+      "publishedAt": "2026-08-23T22:41:42.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "時給1280円時代、正社員の給料はなぜ上がらないのか｜村上 臣（電脳コラムニスト）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.842Z"
+    },
     {
       "id": "nikkei:CBMiakFVX3lxTFBvVnVDUDRId0tXRnpaU3JpUEh3R2dmWTR5OFlUaW5oWGVSM3RWeEtscDJZV1FIVTdCSG1aR0x4RTd5MFlHbUYzTGJ3bVI1X21EaWtxNXFlTnZrNDFhUGFEMVFCcGJZVGk4ZUE",
       "source": "nikkei_news",
@@ -46,6 +189,17 @@
       "summarizedAt": "2026-08-23T22:52:44.752Z"
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE15UVVSZS1xREVydFVRUHhNcThLaUpSQTViRFRiOEN4SnBEY2RVcmE5cGZBNHhiSVdTS0JLdmFrMElTaWw3WmxldHFsdnp6OV9RR1BkTmRDYTRkZzQtenQyeHVab2ttZFF6RjRHbg",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率(6) AIは人の仕事を奪うのか 明治学院大学教授 室和伸",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15UVVSZS1xREVydFVRUHhNcThLaUpSQTViRFRiOEN4SnBEY2RVcmE5cGZBNHhiSVdTS0JLdmFrMElTaWw3WmxldHFsdnp6OV9RR1BkTmRDYTRkZzQtenQyeHVab2ttZFF6RjRHbg?oc=5",
+      "publishedAt": "2026-08-23T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "AI時代の労働分配率(6) AIは人の仕事を奪うのか 明治学院大学教授 室和伸(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:40.262Z"
+    },
+    {
       "id": "nikkei:CBMijAFBVV95cUxOLXRRVktCQUhsQ0xUVjlvRHRDU2NPU3Rud1NIWi1tME92LVdndDQwSEtqWG1rZnFGQWpveXhmVkNPZFFwSWxOT3hRbkxaMmZRazhLaTZsU25kSTlrVGUyZ1pRUk14QkhRNVJCUTROcFNZWGhYMFNlQ3oyZ0Y4eWJQSnF6cXdUSkdHdDZoWg",
       "source": "nikkei_news",
       "title": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は",
@@ -55,6 +209,17 @@
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は(詳細は元記事を参照)",
       "summarizedAt": "2026-08-23T22:52:44.515Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1DVDB3VkpPWGdWLVlkbW5LQ3BvTm9IVzRUNFdXQzlSUnEzOTVpVDhSbUZTVmF3NzlBalZ1elNXRHZRUmNZbU8zR3BQR3YtNGdtaTgxWGhoLVhFRzFvN1lfcU12QUtjNEVjcU9PVA",
+      "source": "nikkei_news",
+      "title": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DVDB3VkpPWGdWLVlkbW5LQ3BvTm9IVzRUNFdXQzlSUnEzOTVpVDhSbUZTVmF3NzlBalZ1elNXRHZRUmNZbU8zR3BQR3YtNGdtaTgxWGhoLVhFRzFvN1lfcU12QUtjNEVjcU9PVA?oc=5",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:39.732Z"
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9NMElNYkljLWpfOHg3U1o0SllUUGY5TzlzVW0tdkE0cS1aUFBJNzJ3MEZraDNYMENrZ1RBOTBjdTB4eDhwWTJvQl82VXJZQVV3VkxFWHZUamI0LVNrT0gwWVc3djlUS3FvT09kZw",
@@ -572,6 +737,17 @@
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T00:37:21.397Z"
+    },
+    {
+      "id": "nikkei:CBMiakFVX3lxTE45SnNYcXV6S1NqOEtCbVdGdkFJcmR1Mi1ycGZLbFRNTGpxT3A5czlCVlJsVzgtY0piYmdWeHBMT21YMkdCOFEteUhuZHlpdDdIVGNza2JrSVNWZXFRYkJCZ1RTX1k4RjFEckE",
+      "source": "nikkei_news",
+      "title": "ツナググループ・ホールディングス[6551]：労働市場データレポート（2026年６月度版） 2026年8月20日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45SnNYcXV6S1NqOEtCbVdGdkFJcmR1Mi1ycGZLbFRNTGpxT3A5czlCVlJsVzgtY0piYmdWeHBMT21YMkdCOFEteUhuZHlpdDdIVGNza2JrSVNWZXFRYkJCZ1RTX1k4RjFEckE?oc=5",
+      "publishedAt": "2026-08-19T23:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-24T22:58:33.494Z",
+      "summary": "ツナググループ・ホールディングス[6551]：労働市場データレポート（2026年６月度版） 2026年8月20日(適時開示) ：日経会社情報DIGITAL(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-24T22:58:40.007Z"
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE02dGg3aGFNMGhaMDRqUGhRdGlFaHFUT3didVkwZTFZcHlpUzY2eW1XUThUWG5lN0NSVXNtRVozUHRNTVpzeC1ETVhRNGw4dFJKX3d1c1JQYzA4dHNQdEFoMTcxc3VUb0ZYbjM2YQ",
