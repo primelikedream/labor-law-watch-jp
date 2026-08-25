@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:58:40.263Z",
+  "updatedAt": "2026-08-25T23:01:09.307Z",
   "items": [
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
@@ -11,6 +11,204 @@
       "fetchedAt": "2026-08-24T22:58:34.292Z",
       "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料(詳細は元記事を参照)",
       "summarizedAt": "2026-08-24T22:58:39.213Z"
+    },
+    {
+      "id": "egov:347M50002000044:20270401",
+      "source": "egov_law_update",
+      "title": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令(施行日: 20270401)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=347M50002000044_20270401_508M60000100029",
+      "publishedAt": "2026-08-25T23:01:03.832Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-25T23:01:02.740Z",
+      "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令(施行日: 20270401)",
+      "summarizedAt": "2026-08-25T23:01:07.657Z"
+    },
+    {
+      "id": "egov:413M60000100001:20261001",
+      "source": "egov_law_update",
+      "title": "厚生労働省組織規則 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=413M60000100001_20261001_508M60000100116",
+      "publishedAt": "2026-08-25T23:01:03.832Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-25T23:01:02.740Z",
+      "summary": "厚生労働省組織規則 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "summarizedAt": "2026-08-25T23:01:07.742Z"
+    },
+    {
+      "id": "egov:347M50002000044:20260801",
+      "source": "egov_law_update",
+      "title": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260801)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=347M50002000044_20260801_508M60000100116",
+      "publishedAt": "2026-08-25T23:01:03.832Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-25T23:01:02.740Z",
+      "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260801)",
+      "summarizedAt": "2026-08-25T23:01:07.837Z"
+    },
+    {
+      "id": "egov:347M50002000044:20260901",
+      "source": "egov_law_update",
+      "title": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260901)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=347M50002000044_20260901_508M60000100116",
+      "publishedAt": "2026-08-25T23:01:03.832Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-25T23:01:02.740Z",
+      "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260901)",
+      "summarizedAt": "2026-08-25T23:01:07.929Z"
+    },
+    {
+      "id": "egov:347M50002000044:20261001",
+      "source": "egov_law_update",
+      "title": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=347M50002000044_20261001_508M60000100116",
+      "publishedAt": "2026-08-25T23:01:03.832Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-25T23:01:02.740Z",
+      "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "summarizedAt": "2026-08-25T23:01:08.008Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9ic3NTOWthWXVIRHZxUnBYRklCa3lHM2h3SmtGMFhFdGtNLXZjNDZ5UktPa29EMmZ0MWNqSF9lS0ppUlF6RWROaU1QRlg2eW52cnB3MHZidGZLSkZ1S2w4MWdPclg5QVdCSy1ENA",
+      "source": "nikkei_news",
+      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ic3NTOWthWXVIRHZxUnBYRklCa3lHM2h3SmtGMFhFdGtNLXZjNDZ5UktPa29EMmZ0MWNqSF9lS0ppUlF6RWROaU1QRlg2eW52cnB3MHZidGZLSkZ1S2w4MWdPclg5QVdCSy1ENA?oc=5",
+      "publishedAt": "2026-08-25T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.430Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB3dDZHZm51a1E4eGNqUkVFU0tQT0tNY3E0YWlKbEtZdENLbVp0MzVjbU5iN0YyRXNaM2ppeDduWFdKejFKYXhkcFhQSE1uUWtGUEpmT0xGZkFOeDlvNnhabmw2ZDRReDVqU20taQ",
+      "source": "nikkei_news",
+      "title": "土曜社・豊田剛 転職を重ね、組織に居場所がないと気付いた",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dDZHZm51a1E4eGNqUkVFU0tQT0tNY3E0YWlKbEtZdENLbVp0MzVjbU5iN0YyRXNaM2ppeDduWFdKejFKYXhkcFhQSE1uUWtGUEpmT0xGZkFOeDlvNnhabmw2ZDRReDVqU20taQ?oc=5",
+      "publishedAt": "2026-08-25T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "土曜社・豊田剛 転職を重ね、組織に居場所がないと気付いた(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:09.307Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9WWUhMMS02Z21VdnNULUtkc2ZLVUhjYlBOSDJCaGtrOEFIYnF1eUEzcDBaNUJveWRhMXFGcFlqVHU5N01zcUtEN2ZydmVrSVBUWVhfc0lzM0hQOVc3UExuZGU4NjVmelR3eTg4Mw",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（8）労働者の交渉力との関係",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WWUhMMS02Z21VdnNULUtkc2ZLVUhjYlBOSDJCaGtrOEFIYnF1eUEzcDBaNUJveWRhMXFGcFlqVHU5N01zcUtEN2ZydmVrSVBUWVhfc0lzM0hQOVc3UExuZGU4NjVmelR3eTg4Mw?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "AI時代の労働分配率（8）労働者の交渉力との関係(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.182Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1pbHNHZUhfVFoxWGxPSGNzQ2MxbUlHMVUyVUJmcGdLRDIwT3A2TUZnWl93U3pxTWt1WHRDX05LTklXMzU4cXprdENfLWhKYV9hcUVja0dmV010SzNuV0R2QlN4a25YV1BodmNKSA",
+      "source": "nikkei_news",
+      "title": "点検・骨太2026(下) 無形資産投資で賃上げを 細野薫・学習院大学教授",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbHNHZUhfVFoxWGxPSGNzQ2MxbUlHMVUyVUJmcGdLRDIwT3A2TUZnWl93U3pxTWt1WHRDX05LTklXMzU4cXprdENfLWhKYV9hcUVja0dmV010SzNuV0R2QlN4a25YV1BodmNKSA?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "点検・骨太2026(下) 無形資産投資で賃上げを 細野薫・学習院大学教授(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.894Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5GNDZ2SU9OTlhiOHFsZk1pcnY3UEw3UVRzSEtWcF9BYWJucnZOZ2MyTUdPa3dKVTNVWXl6cDdrZEhscEkwRVdpTnVTbnBMWmZmTXZ0WU91VGNBX3Z6VkY2aDZBZXozV3pGc0VIVw",
+      "source": "nikkei_news",
+      "title": "370兆円の官民投資、無形資産の蓄積が賃上げもたらす 細野薫氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNDZ2SU9OTlhiOHFsZk1pcnY3UEw3UVRzSEtWcF9BYWJucnZOZ2MyTUdPa3dKVTNVWXl6cDdrZEhscEkwRVdpTnVTbnBMWmZmTXZ0WU91VGNBX3Z6VkY2aDZBZXozV3pGc0VIVw?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "370兆円の官民投資、無形資産の蓄積が賃上げもたらす 細野薫氏(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.978Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBxaFQ5cjRiMzdSYzZ2SWRnRmxleHlQc1IxLW5kWHlkV3VWMll1TC1NUWxGYlFjcHpqRU1QVlJFaXRoTHI1aFMwOFcwQnB3VnVyTmM3SG1RYlRhWWlldE5EX0xBTWNCSE5jalpyNA",
+      "source": "nikkei_news",
+      "title": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaFQ5cjRiMzdSYzZ2SWRnRmxleHlQc1IxLW5kWHlkV3VWMll1TC1NUWxGYlFjcHpqRU1QVlJFaXRoTHI1aFMwOFcwQnB3VnVyTmM3SG1RYlRhWWlldE5EX0xBTWNCSE5jalpyNA?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:09.060Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE0ybUVTc05hLXk0NkhvMWdwaDFHSWQ4RWEwdHY1RlRYMTlYN3h2eVNVTmZWTUgydTVOcVNlX2dmRXlrdDlQMkRHeVF6VDgzS1I5blp6aUMtMWtCTG9RZzJEZ1l0SXVCYk9JNDBCYg",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率(8) 労働者の交渉力との関係 明治学院大学教授 室和伸",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybUVTc05hLXk0NkhvMWdwaDFHSWQ4RWEwdHY1RlRYMTlYN3h2eVNVTmZWTUgydTVOcVNlX2dmRXlrdDlQMkRHeVF6VDgzS1I5blp6aUMtMWtCTG9RZzJEZ1l0SXVCYk9JNDBCYg?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "AI時代の労働分配率(8) 労働者の交渉力との関係 明治学院大学教授 室和伸(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:09.226Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBEQmxISDRxXzJDa0ZINlNIY1NaN2diMjM0bm5tRWZrZHROR1N6cEVpVk8zMHdjTkZURnBtZF82ZlJVLUhCVlBzNC1wY2tMbG9XbDVmU0VwVjQxVTEtOWRzQnRKU3lRLVVhSjQ4ZQ",
+      "source": "nikkei_news",
+      "title": "日本発「品出しロボ」、NYのスーパーを快走 人手不足解消に期待",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEQmxISDRxXzJDa0ZINlNIY1NaN2diMjM0bm5tRWZrZHROR1N6cEVpVk8zMHdjTkZURnBtZF82ZlJVLUhCVlBzNC1wY2tMbG9XbDVmU0VwVjQxVTEtOWRzQnRKU3lRLVVhSjQ4ZQ?oc=5",
+      "publishedAt": "2026-08-25T15:51:20.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "日本発「品出しロボ」、NYのスーパーを快走 人手不足解消に期待(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:09.140Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBHRkl2SXl2ZFpXTWtVZDNCUUZjTnp4dlpqcmFDVjJEVlgySEU3UEJpTWxldl9jcVdSX0diZjAzLWllZC1TbG9WVGlYRklobDlmU3paay1BYmRVVnZ2ZHRRaUJCdE1TbGlGMWwwbA",
+      "source": "nikkei_news",
+      "title": "宮崎県の最低賃金62円上げ1085円 審議会答申、過去2番目の改定額",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRkl2SXl2ZFpXTWtVZDNCUUZjTnp4dlpqcmFDVjJEVlgySEU3UEJpTWxldl9jcVdSX0diZjAzLWllZC1TbG9WVGlYRklobDlmU3paay1BYmRVVnZ2ZHRRaUJCdE1TbGlGMWwwbA?oc=5",
+      "publishedAt": "2026-08-25T09:44:56.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "宮崎県の最低賃金62円上げ1085円 審議会答申、過去2番目の改定額(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.093Z"
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75767.html",
+      "source": "mhlw_news",
+      "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75767.html",
+      "publishedAt": "2026-08-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-08-25T23:01:03.021Z",
+      "summary": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:07.419Z"
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html",
+      "source": "mhlw_news",
+      "title": "労働政策審議会 (雇用環境・均等分科会）",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html",
+      "publishedAt": "2026-08-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-08-25T23:01:03.021Z",
+      "summary": "労働政策審議会 (雇用環境・均等分科会）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:07.503Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8tbFlualhsXzVvRjhqdnFiZ040RzRydXJqUDBlZEFjckJUYlo0V05XVk5PUC02bWxwNV9ubTAzWmlITUo2NjIxS2plb0Vqdkw4aFdiMDlFSVV2Z2JMN1dPakRZTW9Oc2w3Q2NhOA",
+      "source": "nikkei_news",
+      "title": "医療・介護への科学技術導入、7割以上が肯定的 26年版厚生労働白書",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbFlualhsXzVvRjhqdnFiZ040RzRydXJqUDBlZEFjckJUYlo0V05XVk5PUC02bWxwNV9ubTAzWmlITUo2NjIxS2plb0Vqdkw4aFdiMDlFSVV2Z2JMN1dPakRZTW9Oc2w3Q2NhOA?oc=5",
+      "publishedAt": "2026-08-25T04:29:47.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "医療・介護への科学技術導入、7割以上が肯定的 26年版厚生労働白書(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.680Z"
+    },
+    {
+      "id": "nikkei:CBMiakFVX3lxTE53Y3JXNG9QaWZuS0RXVGhpeW5jSm15a056Z0NkVnFnSUp6MFFteVZ6Y0tIbzUtV3ZyX2MwQXVIcUJmOEVkcGI5d1B2T09adnY0NmhCNFd4S01BTGd5ZlhXSkdnTF9CVThLbEE",
+      "source": "nikkei_news",
+      "title": "ヘリウムショックに活路／ジョブ型×従来型／水道管耐震化、熊本で警鐘（2026年8月25日版）",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Y3JXNG9QaWZuS0RXVGhpeW5jSm15a056Z0NkVnFnSUp6MFFteVZ6Y0tIbzUtV3ZyX2MwQXVIcUJmOEVkcGI5d1B2T09adnY0NmhCNFd4S01BTGd5ZlhXSkdnTF9CVThLbEE?oc=5",
+      "publishedAt": "2026-08-24T20:00:46.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "ヘリウムショックに活路／ジョブ型×従来型／水道管耐震化、熊本で警鐘（2026年8月25日版）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.598Z"
     },
     {
       "id": "nikkei:CBMifkFVX3lxTE90anlDSGlUZmRWc3RsME5wM0s3OE1xUnNSWF9EQlgtOHZGTFdRWHBYYktXRTR3eFloUUFjMVRGT0oxOGp6TlNaVlFOdjNnZ0NHZnM0VG5FVGU5MXZfdEhBT0dQYWY5aUd6NkMwUUNMZVJSZl9EaXdTb0YyRUsydw",
@@ -222,6 +420,17 @@
       "summarizedAt": "2026-08-24T22:58:39.732Z"
     },
     {
+      "id": "nikkei:CBMimgFBVV95cUxOcVZGN3VIYWJ5SHl2ZndKTE5tS1JWc2gzTm1UQ0xkVzhaRWxodVgzOUxGbXpBTElaN1VYQllxTWRmNjBpSnNWTTQwNTBsRW4zeVNyMENGZjgybHAzSHY3UkpaWnBzdkQ5Rmx3dkliU0xwd2l1akdseGZTNm1rQ0g5cUYzTFRDX0lmS1NVNm9XNTBjNVZzVi1uV2lR",
+      "source": "nikkei_news",
+      "title": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は （3ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVZGN3VIYWJ5SHl2ZndKTE5tS1JWc2gzTm1UQ0xkVzhaRWxodVgzOUxGbXpBTElaN1VYQllxTWRmNjBpSnNWTTQwNTBsRW4zeVNyMENGZjgybHAzSHY3UkpaWnBzdkQ5Rmx3dkliU0xwd2l1akdseGZTNm1rQ0g5cUYzTFRDX0lmS1NVNm9XNTBjNVZzVi1uV2lR?oc=5",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は （3ページ目）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.264Z"
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE9NMElNYkljLWpfOHg3U1o0SllUUGY5TzlzVW0tdkE0cS1aUFBJNzJ3MEZraDNYMENrZ1RBOTBjdTB4eDhwWTJvQl82VXJZQVV3VkxFWHZUamI0LVNrT0gwWVc3djlUS3FvT09kZw",
       "source": "nikkei_news",
       "title": "コニカミノルタ、「他部署で副業」新制度 最大報酬は月10万円",
@@ -231,6 +440,17 @@
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "コニカミノルタ、「他部署で副業」新制度 最大報酬は月10万円(詳細は元記事を参照)",
       "summarizedAt": "2026-08-23T22:52:45.139Z"
+    },
+    {
+      "id": "nikkei:CBMiogFBVV95cUxOU1dlR05RN3E4a2NHbDJiUlpDZVBDSXBYdVJWeVFsYzRGUnEybFE5Q0lqd1BrTWZuQm0yazZHNl9JcmRGUExDRDdkTXI1ZHRnalY2eFdwRmNtWDc0ZU1HZTUyd3J0X0o3WG5GaTc3VzVfNGhta2ZURF9iemY0alpCMy0wWHlmTHBrVEpuakNhODhkMzluUjJxTk8zdVRBUWs1d0E",
+      "source": "nikkei_news",
+      "title": "消費者や労働者を「スポンジ人間」にするな、AIを産学連携で人間中心に（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1dlR05RN3E4a2NHbDJiUlpDZVBDSXBYdVJWeVFsYzRGUnEybFE5Q0lqd1BrTWZuQm0yazZHNl9JcmRGUExDRDdkTXI1ZHRnalY2eFdwRmNtWDc0ZU1HZTUyd3J0X0o3WG5GaTc3VzVfNGhta2ZURF9iemY0alpCMy0wWHlmTHBrVEpuakNhODhkMzluUjJxTk8zdVRBUWs1d0E?oc=5",
+      "publishedAt": "2026-08-23T00:27:16.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "消費者や労働者を「スポンジ人間」にするな、AIを産学連携で人間中心に（2ページ目）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.513Z"
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBkdVJJSTVPMlU0Q2lJbTNpMlh4aE5zYVFfV2FRQzlnaEFzR2FDVUdNY0NFb2VSZDk5UTlQOXI2dzRLNHBubHdyZFh5bElOY0hCTi1ILWp0dGsxVDJMNHBlUmpxSUZ6ckoxZWNsTw",
@@ -1441,6 +1661,17 @@
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "兵庫県内の最低賃金1172円 56円上げ、過去2番目の引き上げ額(詳細は元記事を参照)",
       "summarizedAt": "2026-08-21T22:38:51.502Z"
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBFOGJqamdEcXFqcXlkLWk0Tk92cVZGRk5mMGZtUlJMWHEtY3lmZlNnR25OYzQzbW1WblJmTHVQUHV1TmFxN2xlREI0YndKVkhCNjU3Rm9VcTdnRUMzY3RhYTUza21pY2V2Z3BpZg",
+      "source": "nikkei_news",
+      "title": "東京都の最低賃金が1280円に 10月から、目安通り54円引き上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFOGJqamdEcXFqcXlkLWk0Tk92cVZGRk5mMGZtUlJMWHEtY3lmZlNnR25OYzQzbW1WblJmTHVQUHV1TmFxN2xlREI0YndKVkhCNjU3Rm9VcTdnRUMzY3RhYTUza21pY2V2Z3BpZg?oc=5",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-25T23:01:02.741Z",
+      "summary": "東京都の最低賃金が1280円に 10月から、目安通り54円引き上げ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-25T23:01:08.348Z"
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg",
