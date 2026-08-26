@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:01:09.307Z",
+  "updatedAt": "2026-08-26T00:53:33.067Z",
   "items": [
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
@@ -10,7 +10,21 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-24T22:58:34.292Z",
       "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.213Z"
+      "summarizedAt": "2026-08-24T22:58:39.213Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE95NENqaUUtajctc1BvTXJLMGpBczhkc3VIYTFFQzM3clczdmc5cUR0WXU1MlRUSV82R1ZYckRZaU9nVTNkLXF4RmFwTFhiZjE3RnlubzFvWkxPY3ZXUTY3MGhaSF9kOUNOcERhaw",
+      "source": "nikkei_news",
+      "title": "「盛ってない」勤務実態や給与、AIで生成 転職支援新興の体験入社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NENqaUUtajctc1BvTXJLMGpBczhkc3VIYTFFQzM3clczdmc5cUR0WXU1MlRUSV82R1ZYckRZaU9nVTNkLXF4RmFwTFhiZjE3RnlubzFvWkxPY3ZXUTY3MGhaSF9kOUNOcERhaw?oc=5",
+      "publishedAt": "2026-08-26T00:26:54.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T00:53:30.180Z",
+      "summary": "「盛ってない」勤務実態や給与、AIで生成 転職支援新興の体験入社(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T00:53:33.063Z",
+      "isGuideline": false
     },
     {
       "id": "egov:347M50002000044:20270401",
@@ -21,7 +35,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-25T23:01:02.740Z",
       "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令(施行日: 20270401)",
-      "summarizedAt": "2026-08-25T23:01:07.657Z"
+      "summarizedAt": "2026-08-25T23:01:07.657Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:413M60000100001:20261001",
@@ -32,7 +48,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-25T23:01:02.740Z",
       "summary": "厚生労働省組織規則 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
-      "summarizedAt": "2026-08-25T23:01:07.742Z"
+      "summarizedAt": "2026-08-25T23:01:07.742Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:347M50002000044:20260801",
@@ -43,7 +61,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-25T23:01:02.740Z",
       "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260801)",
-      "summarizedAt": "2026-08-25T23:01:07.837Z"
+      "summarizedAt": "2026-08-25T23:01:07.837Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:347M50002000044:20260901",
@@ -54,7 +74,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-25T23:01:02.740Z",
       "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20260901)",
-      "summarizedAt": "2026-08-25T23:01:07.929Z"
+      "summarizedAt": "2026-08-25T23:01:07.929Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:347M50002000044:20261001",
@@ -65,7 +87,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-25T23:01:02.740Z",
       "summary": "労働安全衛生法及びこれに基づく命令に係る登録及び指定に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
-      "summarizedAt": "2026-08-25T23:01:08.008Z"
+      "summarizedAt": "2026-08-25T23:01:08.008Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9ic3NTOWthWXVIRHZxUnBYRklCa3lHM2h3SmtGMFhFdGtNLXZjNDZ5UktPa29EMmZ0MWNqSF9lS0ppUlF6RWROaU1QRlg2eW52cnB3MHZidGZLSkZ1S2w4MWdPclg5QVdCSy1ENA",
@@ -76,7 +100,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.430Z"
+      "summarizedAt": "2026-08-25T23:01:08.430Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFB3dDZHZm51a1E4eGNqUkVFU0tQT0tNY3E0YWlKbEtZdENLbVp0MzVjbU5iN0YyRXNaM2ppeDduWFdKejFKYXhkcFhQSE1uUWtGUEpmT0xGZkFOeDlvNnhabmw2ZDRReDVqU20taQ",
@@ -87,7 +112,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "土曜社・豊田剛 転職を重ね、組織に居場所がないと気付いた(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:09.307Z"
+      "summarizedAt": "2026-08-25T23:01:09.307Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9WWUhMMS02Z21VdnNULUtkc2ZLVUhjYlBOSDJCaGtrOEFIYnF1eUEzcDBaNUJveWRhMXFGcFlqVHU5N01zcUtEN2ZydmVrSVBUWVhfc0lzM0hQOVc3UExuZGU4NjVmelR3eTg4Mw",
@@ -98,7 +124,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "AI時代の労働分配率（8）労働者の交渉力との関係(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.182Z"
+      "summarizedAt": "2026-08-25T23:01:08.182Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1pbHNHZUhfVFoxWGxPSGNzQ2MxbUlHMVUyVUJmcGdLRDIwT3A2TUZnWl93U3pxTWt1WHRDX05LTklXMzU4cXprdENfLWhKYV9hcUVja0dmV010SzNuV0R2QlN4a25YV1BodmNKSA",
@@ -109,7 +136,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "点検・骨太2026(下) 無形資産投資で賃上げを 細野薫・学習院大学教授(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.894Z"
+      "summarizedAt": "2026-08-25T23:01:08.894Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5GNDZ2SU9OTlhiOHFsZk1pcnY3UEw3UVRzSEtWcF9BYWJucnZOZ2MyTUdPa3dKVTNVWXl6cDdrZEhscEkwRVdpTnVTbnBMWmZmTXZ0WU91VGNBX3Z6VkY2aDZBZXozV3pGc0VIVw",
@@ -120,7 +148,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "370兆円の官民投資、無形資産の蓄積が賃上げもたらす 細野薫氏(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.978Z"
+      "summarizedAt": "2026-08-25T23:01:08.978Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBxaFQ5cjRiMzdSYzZ2SWRnRmxleHlQc1IxLW5kWHlkV3VWMll1TC1NUWxGYlFjcHpqRU1QVlJFaXRoTHI1aFMwOFcwQnB3VnVyTmM3SG1RYlRhWWlldE5EX0xBTWNCSE5jalpyNA",
@@ -131,7 +160,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:09.060Z"
+      "summarizedAt": "2026-08-25T23:01:09.060Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE0ybUVTc05hLXk0NkhvMWdwaDFHSWQ4RWEwdHY1RlRYMTlYN3h2eVNVTmZWTUgydTVOcVNlX2dmRXlrdDlQMkRHeVF6VDgzS1I5blp6aUMtMWtCTG9RZzJEZ1l0SXVCYk9JNDBCYg",
@@ -142,7 +172,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "AI時代の労働分配率(8) 労働者の交渉力との関係 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:09.226Z"
+      "summarizedAt": "2026-08-25T23:01:09.226Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBEQmxISDRxXzJDa0ZINlNIY1NaN2diMjM0bm5tRWZrZHROR1N6cEVpVk8zMHdjTkZURnBtZF82ZlJVLUhCVlBzNC1wY2tMbG9XbDVmU0VwVjQxVTEtOWRzQnRKU3lRLVVhSjQ4ZQ",
@@ -153,7 +184,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "日本発「品出しロボ」、NYのスーパーを快走 人手不足解消に期待(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:09.140Z"
+      "summarizedAt": "2026-08-25T23:01:09.140Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBHRkl2SXl2ZFpXTWtVZDNCUUZjTnp4dlpqcmFDVjJEVlgySEU3UEJpTWxldl9jcVdSX0diZjAzLWllZC1TbG9WVGlYRklobDlmU3paay1BYmRVVnZ2ZHRRaUJCdE1TbGlGMWwwbA",
@@ -164,7 +196,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "宮崎県の最低賃金62円上げ1085円 審議会答申、過去2番目の改定額(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.093Z"
+      "summarizedAt": "2026-08-25T23:01:08.093Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75767.html",
@@ -175,7 +209,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-25T23:01:03.021Z",
       "summary": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:07.419Z"
+      "summarizedAt": "2026-08-25T23:01:07.419Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html",
@@ -186,7 +222,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-25T23:01:03.021Z",
       "summary": "労働政策審議会 (雇用環境・均等分科会）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:07.503Z"
+      "summarizedAt": "2026-08-25T23:01:07.503Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE8tbFlualhsXzVvRjhqdnFiZ040RzRydXJqUDBlZEFjckJUYlo0V05XVk5PUC02bWxwNV9ubTAzWmlITUo2NjIxS2plb0Vqdkw4aFdiMDlFSVV2Z2JMN1dPakRZTW9Oc2w3Q2NhOA",
@@ -197,7 +235,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "医療・介護への科学技術導入、7割以上が肯定的 26年版厚生労働白書(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.680Z"
+      "summarizedAt": "2026-08-25T23:01:08.680Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiakFVX3lxTE53Y3JXNG9QaWZuS0RXVGhpeW5jSm15a056Z0NkVnFnSUp6MFFteVZ6Y0tIbzUtV3ZyX2MwQXVIcUJmOEVkcGI5d1B2T09adnY0NmhCNFd4S01BTGd5ZlhXSkdnTF9CVThLbEE",
@@ -208,7 +247,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "ヘリウムショックに活路／ジョブ型×従来型／水道管耐震化、熊本で警鐘（2026年8月25日版）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.598Z"
+      "summarizedAt": "2026-08-25T23:01:08.598Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMifkFVX3lxTE90anlDSGlUZmRWc3RsME5wM0s3OE1xUnNSWF9EQlgtOHZGTFdRWHBYYktXRTR3eFloUUFjMVRGT0oxOGp6TlNaVlFOdjNnZ0NHZnM0VG5FVGU5MXZfdEhBT0dQYWY5aUd6NkMwUUNMZVJSZl9EaXdTb0YyRUsydw",
@@ -219,7 +259,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "労働力人口とは 経済活動を支える人の数、2025年に初めて7000万人超え(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.380Z"
+      "summarizedAt": "2026-08-24T22:58:39.380Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE1PSXhIZXluVDk0UElzZHVDam1TWENmSm1CMFd0ZmF4em0zOU1Sc0JQaHZjM0tiV2thWm5SNDR3b0VSUWpzSkw2cHFsYWsxLWVuWkpwalp5SE5EU3dQYlRscDNwQS1XWTQ",
@@ -230,7 +271,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "三菱UFJ信託銀、ジョブ型×従来型の「一国二制度」 専門人材・シニアに報いる(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.896Z"
+      "summarizedAt": "2026-08-24T22:58:39.896Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBkbGtYNGphNHFfdURHZF8xa0ZNV19hV3JVelcyR1pkcUNVR3g4NnJ2Yk55N0x1SDJaVU95OHl4S2NKdldwMnNJLV83Mk1PbWl0X2JTMFNnMGhnbk5PdjdCcFBKUFppNFlEdDRvVQ",
@@ -241,7 +283,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "オーストラリア、極右台頭で「ワーホリ」制限 人手不足の農家は悲鳴(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:40.061Z"
+      "summarizedAt": "2026-08-24T22:58:40.061Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9pZk1zTURVa19HYjZBRHVSNWVLMjUxTFlGMk5sNVFtbWtVN0tDZVplcHZfcmgyUXk4X0tmZV9JNlpmTldsYktMR0h4QzhhZkppVzVYR1JkTHpDNjI3S1JGcjB5cFpiekloOG9IbQ",
@@ -252,7 +295,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "AI時代の労働分配率（7）少子高齢化が与える影響(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.788Z"
+      "summarizedAt": "2026-08-24T22:58:39.788Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE92Mm1raURfdEstV2JKcmEtWV93QmJVM3dYTjdwQ3dtNTdjNXZneGs3d3BJbHZRUzVST1FaRjFEY3FTQzB4T1BIN2hCZ2k2X3N6SmM1UWZLWkhXQzhBa2VzRDY3R1JBMDRUWkE0Sg",
@@ -263,7 +307,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "20代の4割が業務時間外の連絡「しない」 長時間労働なく成長に不安も(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.950Z"
+      "summarizedAt": "2026-08-24T22:58:39.950Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFAtZy1hM243MGpaUWtEcVVWSmlaQ0RKME84UkR4VVFsVW9QY1lXYzNHYk90bUlvREN2dW5YYThxdE0zUGpGUjhMR3pDd3h2Vmg1YUliRWZwam9aTU1tNDduWEl0bHBYMDJZYzgyTA",
@@ -274,7 +319,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "AI時代の労働分配率(7) 少子高齢化が与える影響 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:40.210Z"
+      "summarizedAt": "2026-08-24T22:58:40.210Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBveVh1cFZZdmxMdV93UmtjcEFGczEyWnV4UGNobkx3ZnlEZml2NjY1Vm41Q3doYUx6MllJT09EZXN4bEZMS2ZTTzk5eXRmX3lXUmR2YkhIdkVYY1dGbDA1eEFOLUJpeFRVeTJreg",
@@ -285,7 +331,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "茨城の最低賃金1136円に 上げ幅過去2番目、経営側は採決退席(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.434Z"
+      "summarizedAt": "2026-08-24T22:58:39.434Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBaek1iY3NuaU5CMzQxWXJoekVnOHQ0bnMySkZmdHRXMHBlTWE3TmVLcVUxdEdaT3RadTN6dVhJVDQyUFJkWUFGNTZ4YnJMM2FtTlVVTXBpME9fNmY1eFdwYzVLU1VqVDVCUFZPdg",
@@ -296,7 +343,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "徳島県の最低賃金、57円上げ1103円で答申 発効は11月1日(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.636Z"
+      "summarizedAt": "2026-08-24T22:58:39.636Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE1yeHJxUndwSUNhckw5dkpJM0dGalduRkpHNENoZFFBOU05TWtTWk96QjVNM3ZXRTV5c3QyeGxEQUh0NnYwQXBSV0p1WUNWNUpldU5QWUNxV1B1NFRyQno2VU9XZmpUV1k",
@@ -307,7 +356,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "ジョブ型雇用、4つの落とし穴 「メンテ不足」「年配忖度」…あなたの会社は(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.510Z"
+      "summarizedAt": "2026-08-24T22:58:39.510Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75341.html",
@@ -318,7 +368,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-24T22:58:34.292Z",
       "summary": "第41回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.272Z"
+      "summarizedAt": "2026-08-24T22:58:39.272Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75307.html",
@@ -329,7 +381,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-24T22:58:34.292Z",
       "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.325Z"
+      "summarizedAt": "2026-08-24T22:58:39.325Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiU0FVX3lxTE4zeXpvTmhPZG8ySllpLWZtbU11b3JHaTlQXzFqazRiZG03WGR1RHZZR2JSTzVIeXJkaW5nNl9RbUZsQ1gxRWpxdXNFTUN4TmRrTjcw",
@@ -340,7 +394,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "時給1280円時代、正社員の給料はなぜ上がらないのか｜村上 臣（電脳コラムニスト）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.842Z"
+      "summarizedAt": "2026-08-24T22:58:39.842Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiakFVX3lxTFBvVnVDUDRId0tXRnpaU3JpUEh3R2dmWTR5OFlUaW5oWGVSM3RWeEtscDJZV1FIVTdCSG1aR0x4RTd5MFlHbUYzTGJ3bVI1X21EaWtxNXFlTnZrNDFhUGFEMVFCcGJZVGk4ZUE",
@@ -351,7 +406,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "カルビー「白黒」決断の真意／シャープ、成長力戻らず／人事が語るジョブ型（2026年8月24日版）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.983Z"
+      "summarizedAt": "2026-08-23T22:52:44.983Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE1vRm1GbDlzektCU0JmV2otQVNXWTJkdWlTb1I3aWpaZjRRRGVQdmpWTkNmMHB6bHdhbUtFQkFCQXVMTTFYUVp0YzZOalI1aVVqMENTd0pQeXBLSHRaZGs0Ukd1VnQybHM",
@@ -362,7 +418,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "「年功序列で偉くなった経営陣の理解不足」人事経験者が告白 ジョブ型のリアル(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.674Z"
+      "summarizedAt": "2026-08-23T22:52:44.674Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5OZEhkaDhfYkRmdnQxYzctSnZnNEZ4MGNiY2ZhMnZwVWVmbXhBOXVkWmhwZ3ZwaHZIUC1NcklJVVNaMzd1NGFVSUI4QXdfRDNYdmdaNHVmSzV3dFVteVFJYzZBMDNvYUhtbldKRA",
@@ -373,7 +430,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "AI時代の労働分配率（6）AIは人の仕事を奪うのか(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.594Z"
+      "summarizedAt": "2026-08-23T22:52:44.594Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9yXzlRTjV1bVFqczl5UERGeGt5WHhBZkpXWVRtVGd5SjNUMWpCOS1KSWkybm5IbkdWOVlmLUtiREFpSzBZZlp1TGZQYlVrRVJQNVVpb3FaZ3VhdUp1WDZIQ290MnQxdmsxcTl4Tw",
@@ -384,7 +442,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "高度専門人材を「時価採用」 SOMPOや富士通、ジョブ型の高賃金制度 就業規則整備で競争力(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.752Z"
+      "summarizedAt": "2026-08-23T22:52:44.752Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE15UVVSZS1xREVydFVRUHhNcThLaUpSQTViRFRiOEN4SnBEY2RVcmE5cGZBNHhiSVdTS0JLdmFrMElTaWw3WmxldHFsdnp6OV9RR1BkTmRDYTRkZzQtenQyeHVab2ttZFF6RjRHbg",
@@ -395,7 +454,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "AI時代の労働分配率(6) AIは人の仕事を奪うのか 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:40.262Z"
+      "summarizedAt": "2026-08-24T22:58:40.262Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMijAFBVV95cUxOLXRRVktCQUhsQ0xUVjlvRHRDU2NPU3Rud1NIWi1tME92LVdndDQwSEtqWG1rZnFGQWpveXhmVkNPZFFwSWxOT3hRbkxaMmZRazhLaTZsU25kSTlrVGUyZ1pRUk14QkhRNVJCUTROcFNZWGhYMFNlQ3oyZ0Y4eWJQSnF6cXdUSkdHdDZoWg",
@@ -406,7 +466,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.515Z"
+      "summarizedAt": "2026-08-23T22:52:44.515Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1DVDB3VkpPWGdWLVlkbW5LQ3BvTm9IVzRUNFdXQzlSUnEzOTVpVDhSbUZTVmF3NzlBalZ1elNXRHZRUmNZbU8zR3BQR3YtNGdtaTgxWGhoLVhFRzFvN1lfcU12QUtjNEVjcU9PVA",
@@ -417,7 +478,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:39.732Z"
+      "summarizedAt": "2026-08-24T22:58:39.732Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMimgFBVV95cUxOcVZGN3VIYWJ5SHl2ZndKTE5tS1JWc2gzTm1UQ0xkVzhaRWxodVgzOUxGbXpBTElaN1VYQllxTWRmNjBpSnNWTTQwNTBsRW4zeVNyMENGZjgybHAzSHY3UkpaWnBzdkQ5Rmx3dkliU0xwd2l1akdseGZTNm1rQ0g5cUYzTFRDX0lmS1NVNm9XNTBjNVZzVi1uV2lR",
@@ -428,7 +490,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "依然残る男女賃金格差 根本原因を掘り下げているか…優良企業の施策は （3ページ目）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.264Z"
+      "summarizedAt": "2026-08-25T23:01:08.264Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9NMElNYkljLWpfOHg3U1o0SllUUGY5TzlzVW0tdkE0cS1aUFBJNzJ3MEZraDNYMENrZ1RBOTBjdTB4eDhwWTJvQl82VXJZQVV3VkxFWHZUamI0LVNrT0gwWVc3djlUS3FvT09kZw",
@@ -439,7 +502,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "コニカミノルタ、「他部署で副業」新制度 最大報酬は月10万円(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:45.139Z"
+      "summarizedAt": "2026-08-23T22:52:45.139Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiogFBVV95cUxOU1dlR05RN3E4a2NHbDJiUlpDZVBDSXBYdVJWeVFsYzRGUnEybFE5Q0lqd1BrTWZuQm0yazZHNl9JcmRGUExDRDdkTXI1ZHRnalY2eFdwRmNtWDc0ZU1HZTUyd3J0X0o3WG5GaTc3VzVfNGhta2ZURF9iemY0alpCMy0wWHlmTHBrVEpuakNhODhkMzluUjJxTk8zdVRBUWs1d0E",
@@ -450,7 +514,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "消費者や労働者を「スポンジ人間」にするな、AIを産学連携で人間中心に（2ページ目）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.513Z"
+      "summarizedAt": "2026-08-25T23:01:08.513Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBkdVJJSTVPMlU0Q2lJbTNpMlh4aE5zYVFfV2FRQzlnaEFzR2FDVUdNY0NFb2VSZDk5UTlQOXI2dzRLNHBubHdyZFh5bElOY0hCTi1ILWp0dGsxVDJMNHBlUmpxSUZ6ckoxZWNsTw",
@@ -461,7 +526,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "タイミー、長期雇用へ1日体験「プレバイト」 ミスマッチ抑制(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.147Z"
+      "summarizedAt": "2026-08-22T22:52:56.147Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9CTmZxRTZ3STFGdTVvTHk5ZlFfQThDR2ZtT0thSFJ3SVhJZjJHZXhoUFRMby15VU9mUnMwdTUwSFEtTzlqRDFpX2h2MmZsME5yOFItd2ROT1l6QmNpcDZOeW45d3JaN0JVZlNEOA",
@@ -472,7 +538,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "退職願、翌週の撤回認めず 雇用契約巡る訴訟 「なかったことにできない」 年末に社員からSMS(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.201Z"
+      "summarizedAt": "2026-08-22T22:52:56.201Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9vb1JBSElERGNXSk1xLWhmb3A2UDg3TGphckVPREdBaVVaeFZGc1N1V0ZfcFhvMWp3b2ZRbGJKeWRYaER3bXRYb2U1d3BreW45cWQxWERrM1ZLXzNfa2xrODRmOXhWSFgwUmxEVw",
@@ -483,7 +550,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "相続・贈与税、賃上げで免除 中小、事業承継しやすく 経産省要望へ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.368Z"
+      "summarizedAt": "2026-08-22T22:52:56.368Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBCOEhZZzJvS1NoMjhORzdXcVc2SFdTMFNKa01VMk9UWmZWVms1RWw4UmFXSmc4M1NZdTVDUnZBd3pqTjQ3Uy1pNG1Rc2RiX3JJdTRvblBlOE1YTHROM21DMUIyWlJTS2NsZUxLYw",
@@ -494,7 +562,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "中小の事業承継、成長投資・賃上げなら贈与・相続税免除 経産省要望へ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.252Z"
+      "summarizedAt": "2026-08-22T22:52:56.252Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE14RjlUNWJscGdtZjBlYTJFV20wNWlkTWd5c1NZdUxIeUZIM0J4VDVUS1pZVDMzdFdTSEdab0NYZ3lqNERnZldEWndaWkczbXZVdkozc1llcFRVMkVGUnV4S2hCUG5KSjJFd0dTMQ",
@@ -505,7 +574,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "維新が税優遇65件の即時廃止案 中小賃上げ税制や結婚子育て贈与税(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.308Z"
+      "summarizedAt": "2026-08-22T22:52:56.308Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMixAFBVV95cUxOcUZwMVBlTWxiRUxTakhwQUtfTnZQcnVoZlpJU1lwc0dvaENETjFiVDRNOHRlYmxJNC10cE4ydXg4RTJPSTZXV1p3Q0k3UUJIMXUxVTJmTFpFV3g1b1FvbXR2RlNpRU1QN3Atb0hoN3IxZHdrMXRJeFJlYzQyc1hvVENaM2Q5MVlfbm5vNDFrdWQ5bzVxRk5IYzVuWUVRMndrbGVmUm52SGYtSk0tYnltellmUmxnMDVsS0d5OHVJRmJGWGNr",
@@ -516,7 +586,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "ハラスメントとテレワークが心を壊す(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:45.061Z"
+      "summarizedAt": "2026-08-23T22:52:45.061Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBJbVdrZC0zYW1KalMzMG1lUFpUOU1QbWxJUkhrUzRfOEhQOE9VSWl4Z2Q1VVcyNkMzcTlPUHp5SkZDazR6Tk9UZExmWW53TEFJUFZkVHFYUjFoTGR4Yl8tcm5BRmYwc2xyWjRBcw",
@@ -527,7 +598,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "横浜市政、市長パワハラで停滞 園芸博準備に影響も(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.972Z"
+      "summarizedAt": "2026-08-21T22:38:51.972Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBvYkh4cHNVbFBNOEZ4MVpWTlFXYXAzRUV6RWZwN01Eb243U0dqSThoOHdjSHp5NHM0bW5Sam9haDZNRW5aSnRNTGQtTXpoMk81QnAxTjBTbktrQXpFOTMzMGtGNk8yUEloa1k1ag",
@@ -538,7 +610,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "愛媛県の最低賃金、60円上げ1093円答申 国目安4円上回る(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.039Z"
+      "summarizedAt": "2026-08-21T22:38:51.039Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9EY2VlWFk0UWxNMGs5cGQtU0M1WFNsamZPaV9ESEpDdnpHaTJYTGJBd1ZqZEc3eVM0UHhKRGt1cFdWQjIzYnZ2SlBnTWJKWktaTDI1eEhCbGtRSkhGem5EcE1NYlo4cnJuWlhLdg",
@@ -549,7 +623,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "福井県企業の26年度賃上げ、平均1万1816円 2年連続4%超に(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:52.063Z"
+      "summarizedAt": "2026-08-21T22:38:52.063Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE9SSkZiX3JFUDl3aWJBaDZVa05jVzJHcEFsbGJGTjNrTU5YbzUyYktKc3F1TU1DbTR4bk52TVNTYmNMQlJGN1ZWbWNIVzJfOE1ERTJITVhzTzJQRFU5bE5ZNzJ2b2hmQTA",
@@ -560,7 +635,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "［独自調査］ジョブ型導入、明確な効果「実感できず」5割 カルビーの選択(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.135Z"
+      "summarizedAt": "2026-08-21T22:38:51.135Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE4yR2xZNGZCektuVkFfWl9qSHhhazdDU2p0eXJjVjIzbkV2RENSMXhUXy1aeFh5SnhLelJsc3NNN0tkeHoyWmF6UjZQc2V6TGxNazF2Z2JmWWY5SVhWNE5HSDM3S3hLTmp1SmhjOQ",
@@ -571,7 +647,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "パワハラ認定の山中・横浜市長、主催する9月の国際会議を欠席へ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.876Z"
+      "summarizedAt": "2026-08-21T22:38:51.876Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBGM19JZ2VFemlDQ3VVR0xIMEpCdUJ2dGY5RzFWQk1zWDdrVE56c3RnZ01pLUJDeXBucTlVNlFmT1J5enVZY3FpTjE1NUlCRkV6MTA1aWlla0xNS0JPQU9adFNQQnZ6V3UyYTZzRQ",
@@ -582,7 +659,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "賃上げ、8割超が実施 今年度、民間調べ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:52.153Z"
+      "summarizedAt": "2026-08-21T22:38:52.153Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/bunya/roudoukijun/chingin-c_r07.html",
@@ -593,7 +671,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T22:38:45.238Z",
       "summary": "監督指導による賃金不払残業の是正結果（令和７年）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:50.850Z"
+      "summarizedAt": "2026-08-21T22:38:50.850Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75588.html",
@@ -604,7 +683,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T22:38:45.238Z",
       "summary": "賃金不払が疑われる事業場に対する監督指導結果（令和７年）を公表します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:50.942Z"
+      "summarizedAt": "2026-08-21T22:38:50.942Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE84dWJzMmh6dXFWUG9uZnA4THBXdTZ1dEN5UkxMSVBiRW1SQjMxQWJ6Q0tnWS1EOFVEcS1CN2U1Rk9RUGNkWDFPMVg0eE5DY013cDhqM1Q5M1JydGYwajhkMjJGN3lNOGs3M1ZzZg",
@@ -615,7 +695,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "【埼玉／戸田】事務職※未経験歓迎◆正社員／残業20h程／住宅手当1.5万／退職金◎／将来の管理職候補(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:52.337Z"
+      "summarizedAt": "2026-08-21T22:38:52.337Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9UWHhKV0tFcmtIc2dDVlA2RjRnS0FSdnhOQk9lb1RVcmoyRzh0NnBSbmJ2dXh6SFFKbEtKSG9GRHkwdG8wb09mN2pxcGE5SkU0ZndoQmc0djNVMjZoNnE0b0N1LV9BQUlXVjh3SQ",
@@ -626,7 +707,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "転職検討者の15%「ホワハラ」経験、強制的な定時退社など 民間調査(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.783Z"
+      "summarizedAt": "2026-08-21T22:38:51.783Z",
+      "isGuideline": false
     },
     {
       "id": "egov:412CO0000000252:20270401",
@@ -637,7 +719,9 @@
       "category": "法令改正 (政令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "厚生労働省組織令 — 出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令(施行日: 20270401)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:412CO0000000252:20261001",
@@ -648,7 +732,9 @@
       "category": "法令改正 (政令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "厚生労働省組織令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令(施行日: 20261001)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:412CO0000000252:20260804",
@@ -659,7 +745,9 @@
       "category": "法令改正 (政令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "厚生労働省組織令 — 厚生労働省組織令及び社会保障審議会令の一部を改正する政令(施行日: 20260804)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:413M60000100001:20260804",
@@ -670,7 +758,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "厚生労働省組織規則 — 厚生労働省組織規則の一部を改正する省令(施行日: 20260804)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:415M60000100147:20260807",
@@ -681,7 +771,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "独立行政法人高齢・障害・求職者雇用支援機構の業務運営、財務及び会計並びに人事管理に関する省令 — 金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令(施行日: 20260807)",
-      "summarizedAt": "2026-08-21T00:37:21.398Z"
+      "summarizedAt": "2026-08-21T00:37:21.398Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:415M60000100151:20260807",
@@ -692,7 +784,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "独立行政法人労働政策研究・研修機構の業務運営、財務及び会計並びに人事管理に関する省令 — 金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令(施行日: 20260807)",
-      "summarizedAt": "2026-08-21T00:37:21.398Z"
+      "summarizedAt": "2026-08-21T00:37:21.398Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:416M60000100056:20260807",
@@ -703,7 +797,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "独立行政法人労働者健康安全機構の業務運営、財務及び会計並びに人事管理に関する省令 — 金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令(施行日: 20260807)",
-      "summarizedAt": "2026-08-21T00:37:21.398Z"
+      "summarizedAt": "2026-08-21T00:37:21.398Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "egov:418M60000100070:20260901",
@@ -714,7 +810,9 @@
       "category": "法令改正 (府省令)",
       "fetchedAt": "2026-08-21T00:37:18.751Z",
       "summary": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令 — 労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令(施行日: 20260901)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "施行",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiakFVX3lxTFBtSHZyOHJ5WkZ0T1RRLVlqbDJhZnZ4WDBsWjFOTG1nWnhqWmlUZlhWdHhNUHFQam40SVRwLWNGOGFHQ2NTZU56cV9KX3UxeFVlb1FtR1hRS3dOdTctdXZMR2ZOS0N1bU5ITWc",
@@ -725,7 +823,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "「ジョブ型リストラ」で訴訟／EV普及を機に脱ケイレツ／富士通、新人成長に注力（2026年8月21日版）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.595Z"
+      "summarizedAt": "2026-08-21T22:38:51.595Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMifkFVX3lxTE9Ral82VHJKcnpodlRSSmVTTVFvYzV3emFpeW5wT1dEQUdZZlBTM3JSWmh2Mm5OWUtzNUpkZU1XemFpSGNDZXhCNUg0SlRmTVItd0NPelF3ejlWR2Z5NmtpemdlWk5PN1IwSmJXazR3emxQaFBJcEdpNkJ5anlIQQ",
@@ -736,7 +835,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "将来のお金か、今の給料か 王子HDが26年入社から退職一時金を廃止した理由(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE45NDhZdUtmMGRaSkxYOUJxMTRtaFJGYlpWcGVvUWlhbi1LT2tydWNVa3pXV2hjS1RrWW8xc1J2NC00ZXJoT3o5R2FtZmFmRjBuaGk2VWJHY1cyQl9mdE5rcElNeTR5b2hBajBJcw",
@@ -747,7 +847,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "高度専門人材を「時価採用」 30代で部長級賃金も、ジョブ型運用で(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE5mUE5BLXE4aFhiX3pmb0dwU0t0aTdyVG1SNVZjSng5UF84aWh6bUxVMkhTQUxVcDZyUE5RdVVKRzkxOTRWWVVJanh0V0gwWk9zMVRkVGtiMmJVMDdfaUp0TEJDOWpIbWM",
@@ -758,7 +859,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "［新連載］オリンパス子会社「ジョブ型リストラ」で訴訟沙汰 理由なき降格200人(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1FNDZxY0V2UzBrT3lLd24tbEswdENhdUVjSVl5VXNGWHlxazQwOVBEUDdkb1pFUFdRX2xWdEVlWjBnZHFoalVVQUxhLUJSRFVVVEVZWnd1eE1VSnZFT05yNGdBcy0xWXdHRmdPcQ",
@@ -769,7 +871,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率（5）スーパースター台頭の影響(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFA1MWVxMExJYVViOWdrRHV6MWtTVWY4NnpVcjA2WHpGbmdSU3doWGtMdUttVm5mZmZ0WmkyUFIzb29WVElTMl9EZnpvMlIzZ2V2Ump3aU85b2JaaERCUm5MRHRjeGlGZVdockRDLQ",
@@ -780,7 +883,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "最低賃金発効、10月に戻る 32都道府県で決定、前回は企業配慮で遅れ 働く人に恩恵(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE50ZHAySmJVWEFvWEJWcVkxOTBlN1U3NV82VV8wVWVnXzh4S19QS19ENGhmYmVlTGFVN29TaVh4U3hxY0hPRGhpVEhHbnNNb2dlM1NtV2NLRF9RZW1taURibG02WXdRNFJnTGpZaQ",
@@ -791,7 +895,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率(5) スーパースター台頭の影響 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1nR2o2dHFSeEJWZloweDcwb25sWjV2b3BydnBZbmZVOGc5QVVudU1fNjFYTW45TEZIZnVFV01WcWlLQXRQSVpjZk1mM3lQNDd6cjFHQVY0UGd4U3AwVFFzV21Nc0RiLU1CS0lTVg",
@@ -802,7 +907,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "京都府の最低賃金、58円上げ1180円(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBhTkgzR1lfeFlRX0tobTNrSHk0WUN0SUhnNFhJTHg1OTAyUWVSZ2x4VjZSV0hwUkxEME9xT1JDMWEyTzFUWkhkQ1h2ajdGSzB6QU9lczRHVzBrT1pQWlJXSnE2MXdnclVPV0pTbg",
@@ -813,7 +919,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "男女賃金格差の解消に本気の企業は？1位東洋製缶GHD、2位丸井G…(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTE53Ri1fa2FCY1RicVpSekN1UTZTaGIzSEJ1ajRObTlWWXEwZ1ViVVlLa28zejlQb2VPUzVPeVN2aUhpcF9udDUtX3JPdEZuVEVPb3JWQm14cEtESnBLVy01UDQtTk4",
@@ -824,7 +931,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "オリンパス子会社、新制度移行で降格処分を連発 「ジョブ型リストラ」の末路(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTE9DM3lvekl2MnZpRWMtTEZfWWFCa0pSeDg0SnVYM2tGN0pESGlYUmtNVU1MNnJmRk1VcEFwM1VveE8xRzE4WXRwcXRTSEItcklSSzh4ek94WGZyUUY5NW1mZzhYd24",
@@ -835,7 +943,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "ジョブ型雇用の落とし穴(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTE1JeHpBbWc3eTdmWDNBS1d1eXBGZ1FhTmZwdjVITF8yc2xnUElUa1B5SFBnMEItcnJOaVc0elZtbUhhOWFEbnd4NTMxWm4wSTZIWGlrUG9DNG1jdGhBZU10NFRpenE",
@@ -846,7 +955,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "失敗だらけのジョブ型人事、あなたの会社も当てはまる 4つのタイプで分かる落とし穴(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTE1WNXZTc1ZiN3ZSYzlsSElWbnMtMV9IYUVxNGNYLUZPeXZNbVpRUHpvbzFYLUctdGJWa054cVFNZlNTeXhqQnBXbVZid3VCM3FRR3VpcFh4eTdJY0xVUVhKLWNySzI",
@@ -857,7 +967,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "ジョブ型導入企業に独自調査、人事担当者636人が回答 明確な効果、5割「実感できず」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTFBNUnZiQ2l6bldPYlVBNm1XSktCYWh0QmVrNzNFRXg5UG53akJNZ2REeW83RGpkV295MEp4MkxLa2FHMExCejFocTVSa3FCWDItSDRSdVdiSGFtMzNvbXJKVlNyVkU",
@@ -868,7 +979,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "「導入ありき」の処方箋 三菱UFJ信託銀行 専門職ジョブ型で“一国二制度”(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiYkFVX3lxTE5TZHhyM0Qwc01wcmZIWVpHdE5lYjYwUlZ2bDJ4ZVR6OEQ3VXFuY3FsSHJXaEZzbDFZWVhITmlRelh0bml1R1EtNzE5ZW9YVHhFelAwWndUSUZoUTlCYUpXT1h3",
@@ -879,7 +991,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "ジョブ型入れて魂入れずの罪(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.829Z"
+      "summarizedAt": "2026-08-23T22:52:44.829Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE85VEpMSTlwMllsT0I0Z1pXTXpna3NRYkhoWm5qb0E5b3Qwd0xtdjNLNUpEelpuNmpwb2FzZ1lzS1hSUE9PYWNQZ2p3d3R2dERhWDhuQl9FeVVIOHVqeFc4TWgzd0lBN195Vk9SQQ",
@@ -890,7 +1003,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "連合静岡、最低賃金57円引き上げを歓迎 「意義のある結果」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75665.html",
@@ -901,7 +1015,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE41eE5JRFhTclZRcHhqT1k5QXRZbUI2NkNBNHZvR2MzWVg1LTBKN09QSmtNbVRvQ2hBcVJoX0hGTmdqN2Y5ZU9ndlJZeW1LR3hpblR2dFhraHpuOHhGeWpBeWFTT3ZubUx0N3hITQ",
@@ -912,7 +1027,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "最低賃金｢10月発効｣に戻す動き、働く人に恩恵 前回は企業配慮で遅れ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE93R19YOFV4X09FMkdqbWhTcnlsZHlNN3pWNHBqSDExZFdSVmVjUFV5aFNOSnQtM0pqaEFDZ3VkR1VOMS1mUW1UZEJ0ZDFIRV9Qa212ekZEckdzTF9WbVFvZHNsejYzMXRuZUNpag",
@@ -923,7 +1039,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "京都府の最低賃金、58円上げ1180円で答申 引き上げ額過去2番目(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9Xd2h1cVhVbDUzaVl5c01vVGRxdjVjSEl6RUthaVB3ZlVSMnc3WFJkemxDUGJmOElwNnZ5MGRfbTk2RVB2TGF2bjc2c05tS2d3VHpqYzhNZFNLSlpfWVRCckRFWERJR1FnRWFCdA",
@@ -934,7 +1052,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "熊本地震の影響企業、雇用調整助成金の受給要件緩和 厚労省が特例(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html",
@@ -945,7 +1064,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "令和8年熊本地震により被災された皆様へ、キャリアコンサルタント登録制度に関する期限の延長措置についてのお知らせ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/web_magazine/",
@@ -956,7 +1076,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiakFVX3lxTE45SnNYcXV6S1NqOEtCbVdGdkFJcmR1Mi1ycGZLbFRNTGpxT3A5czlCVlJsVzgtY0piYmdWeHBMT21YMkdCOFEteUhuZHlpdDdIVGNza2JrSVNWZXFRYkJCZ1RTX1k4RjFEckE",
@@ -967,7 +1088,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-24T22:58:33.494Z",
       "summary": "ツナググループ・ホールディングス[6551]：労働市場データレポート（2026年６月度版） 2026年8月20日(適時開示) ：日経会社情報DIGITAL(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-24T22:58:40.007Z"
+      "summarizedAt": "2026-08-24T22:58:40.007Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE02dGg3aGFNMGhaMDRqUGhRdGlFaHFUT3didVkwZTFZcHlpUzY2eW1XUThUWG5lN0NSVXNtRVozUHRNTVpzeC1ETVhRNGw4dFJKX3d1c1JQYzA4dHNQdEFoMTcxc3VUb0ZYbjM2YQ",
@@ -978,7 +1100,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率（4）資本による代替が進む背景(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9nYUxMZTRNbVV2Ykt2eUtpQTJnRUZSY1BTWmZkRWYya0s4eVpXTWFtdUEyUk9WTS1xUW5uaW84bElyY2hrUDh4WVdscEY5R3pTTV82aDJmYXhTVkdiSERpMTdEMHhMVlczWVlUdA",
@@ -989,7 +1112,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "派遣時給7月1721円 三大都市圏、0.9%上昇 3カ月連続最高(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9ZN3E4REdnRmhaMjJSMzJjRTZ4VlZuTUR3aFY1Qll1aEtGN0p2R2Uwbm84YzcxTHBUa0s5OHpMNW1za3lYTXYzYm1HR2lLSlQ0S1g5WDlVOUJ2MEpnZ21vS19jTzJEMVRwQXJSXw",
@@ -1000,7 +1124,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "AI時代の労働分配率(4) 資本による代替が進む背景 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:52.431Z"
+      "summarizedAt": "2026-08-21T22:38:52.431Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw",
@@ -1011,7 +1136,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "シンポジウム「10th Smart Work-X 2035年の人的資本経営 働き方改革の10年を未来につなぐ」...(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMilgFBVV95cUxOSHdVYnluRkFfV1M4WEtBcGc3cWpMTG9tRmtVdzc4S1lzZkF6dGtudjh4ZURCejhJWWRtcWhpbm5zd1JLVFEzNEN0d3hpb3RRTUl0bFVuWVk5R2R0VkE5MTdOMDlNLTF0dWo4WWljSncyS2FSYVljQ1l0WnRBUVNuVm1WQnRObDVSUGhMNEd2X1hJYXZYMlE",
@@ -1022,7 +1148,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_021225156_00113.html",
@@ -1033,7 +1160,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第226回労働政策審議会職業安定分科会を開催します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
@@ -1044,7 +1173,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "労働基準監督官採用試験広報HP(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMidEFVX3lxTE82ckRfS2FtOUNBZW9vZGthUkF2a001b2N0djVweXhVWTZKd213ck9JQ0FXMXpLczRxb2VxNTdtU3RDS2NiaWJxQW1ZNkZnMjY3U0Nva04ydmMwNVJpUVkxdTVDWXBOdGpESXpWRE5pSjFtNE9M",
@@ -1055,7 +1185,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE95bGF0NHY0YzlGbEctXzRESHQyQXNrd2kwMG5EdmU2c0l1RXJfRXVNbkVvdzhhRjRmaFdybnNHbTM4UVJ1SUJLTlczZ1pNMWVIdWJtUUpYTjlqRUZ4TzhwSk9ienYyUjlSZHlqZQ",
@@ -1066,7 +1197,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "マイナビ、「アルバイト就業者のカスタマーハラスメント実態調査（2026年）」の結果を発表(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE10VnRRbGgxUGIyMV9mN0JaWXlJV0hWVW1xS2pscDBvZU5EUWhCczFhbk9yOV81THgxU212c0ZpWnM0TzhGZUVFb21lQ0pucEd4SUh3WU85NklUZ2JQZFhpeEs1Njg1WnNzdzRIeg",
@@ -1077,7 +1209,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "リコー、グループ会社のメイクリープスがカスタマーハラスメント対策の基本方針を策定し公表(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFA2dTVOdDVhWXdUb3FVN3E1Y3h3U29SSUpySGdFNEFaeUtKakt6X1JLTS1kSzR4NEZfaU1tR2FCMTFCWFd4THIzRFBkMk5uNVZueWE3TmI4NUVHZEJJOF8xajhYTnZtU2JYS1Y2eA",
@@ -1088,7 +1221,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "派遣の募集時給、3カ月連続で最高 「専門スキル」求人が上昇けん引(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75454.html",
@@ -1099,7 +1233,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "時間外労働等に係る相談・支援及び監督指導を見直します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_74834.html",
@@ -1110,7 +1245,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第５５回特定石綿被害建設業務労働者等認定審査会　開催案内(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75552.html",
@@ -1121,7 +1257,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "人事労務マガジン 特集第247号　ハラスメント事案解決のための専門家派遣を行っています(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE1tMEFydy1MT2R3elVHQkhFdDgxaUljampDRENMOU5QMlAtalZzSUhMeVl6TkFWVFJNU0Q0d0NsSGFQRWoxb2NiUHFTMGJ2cGtoQnZxbnFiTlp2S1R3clJQN2JIeHdDVVk",
@@ -1132,7 +1269,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "住宅手当がない有期雇用エンジニアの疑問、「同一労働同一賃金」で待遇差？(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5BM0l3LUhIY2pabjRGenVzN3U2OXJpcy1YcnVFMDNhLThWaG1ieDhQZWkzSjNHYm53VUZ0d25PczZDaTA1Y1pTcUhuMHV0dG8yR3lCRUVVN3BrQTFmSE9BRDFoWXlwa05QUVoyZA",
@@ -1143,7 +1281,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "AIに脅かされる米国の労働者、86%が女性 「産休育休で解雇」の疑念(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.435Z"
+      "summarizedAt": "2026-08-23T22:52:44.435Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9DSVNOYnNGXzdBRzc4WExzT3YweHJIdk1RMlE3eTRIV1lfdHc4NjA0VlpiTFFZaWxhVU1FQVlBamRIejNMVXpRMGRHUWhCYTRMcmRnaW05c3RuS3RSR3RJRjhSamxiMzBQbmNzcg",
@@ -1154,7 +1293,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "中国地方の最低賃金、4県で目安上回り10月発効へ 支払い余力限界も(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5CckVPeTJkWUVERWt5R1lMRDRKZjRtNW5UbkFRR01GWTcycExScUJQS21jZGRIVUV2d1p1eHVpd2paTnJhREo2WjJXTVc1b0xrZV9QQ0xLRXZJQlQ5cWxfZWx4RC1PV0dOajRTWA",
@@ -1165,7 +1305,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率（3）「分配率は一定」への疑問(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5SQnJXT1pEZG5iMVp5NTh6WTRDLXFBMkY2UTluQmI3eVplTmdwekdzREJGazVsd2dCeENicHFrZnAtb3pVWVk0LVc0S3MwWGtLNktkMmRLYjRVLVZmSWpCb25TNmVsVlhMRXVQNA",
@@ -1176,7 +1317,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "「AIの監督下」は労働者？ ギグワーカー保護強化へ 厚労省、定義見直し検討(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE8zeTZMSmhYc0Rvcm1EZW1PT2pfVF9FMVBic1V5Q3hRcWxrTkRVSVU5UzluRWUxNVdZT0tKQVF5SUEtenpBbUhiLWk4UXhoUzdVWmdzd2Zma0lhVk1sTWtvV3I3bW1TM2lBVUZhWQ",
@@ -1187,7 +1329,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "塩野義、定年を実質廃止 来年度65歳に延長、毎年更新 65歳以上も正社員雇用 優秀な人材を確保へ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE05OEtUZUtnVXNnVllrWkhnNl9jSGx0RC1jS1VtcERUWGxwNWZxODdaQWlGZVZYUTdManJDMUJfVVRJNHpIb3UzYlo0bHd3dkF4elFabnhjMXNZN0hhWnVpU3VOMXBJNG9yQkpIRA",
@@ -1198,7 +1341,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "中間層の手取り実質1割減 昨年、コロナ前比 賃上げでも「隠れ増税」 税・社会保障改革の遅れのツケ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:52.245Z"
+      "summarizedAt": "2026-08-21T22:38:52.245Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5YQmlVZF9lZE5xMHNPYmp1Q2xtQUJQY1FzQ3dIYlA1X3BGYThQdVV4bVowTXRvMkNOWmZtdHUxWW9zNm9TMEtFRDFTVEE1cWl1QkZrREM4V1JYMlhUVFpEdWVPbUFWZmxhR2Ezaw",
@@ -1209,7 +1353,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "39歳で出産、育休制度なしで復帰した米国駐在 レゾナックCHRO(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.688Z"
+      "summarizedAt": "2026-08-21T22:38:51.688Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5Lb25CbWNMSzdRTTY3REUwdkY0MmhuazlTUWlrNnhKWWNBV1dyM3hKOVZKdVRxek10NU9lU1lsYms0ZzI5LW80aTlxYnZUTnFnTnZUWWl6NUMyZU5pdXlFQzBTS0dKTUNsek5VSg",
@@ -1220,7 +1365,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-22T22:52:50.797Z",
       "summary": "きょうの5本 賃上げでも縮む家計(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-22T22:52:56.430Z"
+      "summarizedAt": "2026-08-22T22:52:56.430Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE84dXZYYU5qWVpKLWdoR2lwdVhuRW80eFQwVjBuNXFGcVBFM3lwYXVFSW9NMGpJZHdxNWlXNUM5bnV4WHFjNVYxU08wVTY1YzByMWozcURXZUpoQnptdWZFVDlyR0hsTm5KVER3aw",
@@ -1231,7 +1377,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "秋田県最低賃金、59円上げの1090円を答申(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBGZEZ4QlBYM3Q3RVBQZXdzbmZoS2lWYko4OVl2OGdxUVhPSFhTT3cwZnRrVnR6NFJKQkg2WnlNRm9tdzV4aE9ZV0c0WXFrcUZ1ZElBbGlQMzhiTVJ1WllIaGlfUGs1T1lFV3VkUQ",
@@ -1242,7 +1390,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "ギグワーカー保護へ 厚労省が労働者定義見直し検討、AIで論点複雑に(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1kTXU1aG1xYTRKWE1COER5ZjhjUkVoMVhnRUR1ZXk2SWVGYjZBNS12TVEzM1g4Ym80UUFJSGV2eWNTWGZKU2pCTGZHTnRGVjZ5RmxOVUhXeWRXWERYWXhBYW9BSHE1d0ptMmdXZg",
@@ -1253,7 +1402,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "熊本地震で労働相談1700件 事業再開難しく、早急な支援求める声(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5uaGlVS2lJZzlkR1ViMzJ4eDhlNEk4NWFkdzgxVGwyZzNkaFhnZW5HMWFTWGFXcXVzbDFTX3lMYzUzblhhOFZiM1M2aDRiT0xJTXlxQXhlRmlLX1ZQSTNPd0E4QlRSa1Zka0ZVWA",
@@ -1264,7 +1414,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "ロンドン外為9時半 英ポンド、対ドルで下げ幅拡大 英労働市場の減速を意識(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFB0ZE1pYjJfTjJQWVdBdTQ2c2YxRDgxZmRydmdfYS0tMW9aemREV202dGhuenpPS0hXWTdBVncyaGJmYno1OUVsMS12d1J3amJMbnlISDl1M2txanZmeFpSNTF1cmhpaDZSVHhkQg",
@@ -1275,7 +1426,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "塩野義製薬、定年を実質廃止 65歳以降も無期限で更新(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75306.html",
@@ -1286,7 +1438,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html",
@@ -1297,7 +1451,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "労働政策審議会 (人材開発分科会監理団体審査部会)(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMifkFVX3lxTFAyZEhEeHZBcVVSYUhFQVB3NllFQ2dMb1A2WF9EQms2cTMzdWhkb09zOUdaaHVmcEdFLVV0dTRGOF8xOHhrSjltdi1Fdi1UbUhBSVAtTEpPazJPZWNEcjJINTN3TDM5RnNQU3VFODgxYWsyb1FOcExZMG1weGxwQQ",
@@ -1308,7 +1464,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "豊かさを感じにくい理由 「26年度の賃上げ、企業の8割超が実施」など3本をお届けします(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE0yc3JuanhwYmlDQjVTenVPTmYya1BqVVZod1Jody1iMEluZ2kwaGdVR2xjeE9neDdYdTBjN1ZvTVdzZ3dRaElGaDlWV2cwTnMxQ1JTelptZlVHVF9LeDBLQ3B1SFNJb3J2RlVKaQ",
@@ -1319,7 +1476,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "東朋テクノロジー、配線工数減らす端子台を開発 人手不足に対応(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFA4emRsdWFCRGNDSnB5aWZiSV83TUpZYVI5N0ZYX1ZoQXNGRnBFdzNlRmZ3VXJqcnFwNnctbmdJRUhvMWs0RnhjMjJLM1RwSE5Qc25DSGlzaW1QSDZDbkFNdzZPdEdsVl9oTkNqRQ",
@@ -1330,7 +1488,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "賃上げでも縮む家計 中間所得層の実質手取り、コロナ前から1割減(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1LSzZFclZVQXdpMF9PUWZoNGI3Ul9WN1NxVUJ3QXRLcGE3dmR3cVM4Y2lPQkc2cU9RSDlxaUlURTdCMld6dXhKcDZScHZIMGV4V0o5RkQ4RDNLZkc3MjlpdmJBSWdWNXJhdlYxdg",
@@ -1341,7 +1500,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率（2）揺らぐ「労働」と「資本」の境界(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBmcnJ2NmF2cUtMMFk2RHRHcDZLWDRDdzFrRVVEa1RnNFBmV1lDbHZjemJzZ01vbFNoV0VLVzNtS0xsT2VNMFZaSHRfd193eFBBWFdLZlZUMFFfZjZmNWt6aEwzdFpUdTFISkdheg",
@@ -1352,7 +1512,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "AI時代の労働分配率(2) 揺らぐ「労働」と「資本」の境界 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.411Z"
+      "summarizedAt": "2026-08-21T22:38:51.411Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBaUEQ0aWQ5TXk1R0oybjZsYkRnSGc2X0d0NVkxZnczM0lvVGEwQTZRbmlxSml1RnZmRjM1dkNFQnV6QnZSZ3BncUxHdWhEUC1oelQtRDRrSURpQ25GVUtSQk9BM1lOeV9ubzRRYw",
@@ -1363,7 +1524,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "広島の最低賃金1141円に 審議会答申、56円引き上げ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.242Z"
+      "summarizedAt": "2026-08-21T22:38:51.242Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMid0FVX3lxTE95VE94a3lXR3d5VFF5LTJ1Q0FCeThPd01wVUtlejhRMWxRS3JNTHNOVXYtc2FkU2Zrdkp3U0pxbVkwQ0huYVJZUFpKR1BGbVZGVGRreHctZDNycS1sT2JnVkY1SV96VnQ0c2drbmRvT0VEQWFyLVJZ",
@@ -1374,7 +1537,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "インドのテック労働者にAIの脅威（下） 「上流移行」で探る影響緩和(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_74962.html",
@@ -1385,7 +1549,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "建設業・運輸業の働き方改革に向けた新PR動画を公開(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1NU1JYWkxVUExibWhwZGRBbVNSQVdHUEFwQ3pkbEtOVzJYQkk1MDE1U2dFSUQ2LVdjRFh5cS1uRHh5eWdrVmxDLTdwYVc2Nl8wUG4zNUlJVVNjTWliNU9COWE1a210YU5HakQ1RQ",
@@ -1396,7 +1561,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "広島県の最低賃金、5.2%増1141円で答申 引き上げ額過去2番目(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9Yc1FySmJmb3A3Yl9Wb216X0Y3VDJzTlZNVmNqRVROOWdnLW8tQl92R1VSLWFCMnNBSmtldHNDLTlyY3ZlSmRFMmFkbDBRenY2TjRMcE1FZ2Fzd3NFVEV0UnlpakY5bFNOUE42YQ",
@@ -1407,7 +1574,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "企業の5割「正社員の人手不足」実感 7月、帝国データ調べ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75520.html",
@@ -1418,7 +1586,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第188回労働政策審議会安全衛生分科会（開催案内）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE0zUXlUSS11TmMxQ0NHemEzbEVxN1k3WmdfbkFSVXJLbzJ1bV9ZX3U5eWh2dkxIb3c4QnpXdjg5VWF0WDNtMzAwQ1B5ZlpyQUtNX0d6cnFPRW5FM0R3NHRvX2poaFE2QzdWSFZ0OQ",
@@ -1429,7 +1599,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "26年度の賃上げ、企業の8割超が実施 東京商工リサーチ調べ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75551.html",
@@ -1440,7 +1611,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "2026年７月３日　第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5KUjJXUmdGMjMzYV9ob1hPWHRGM3BWVktNOFMxcWdocXVvZlZ1Z0ZObzdqWXdMVUJPWHFqX28yZkl0Rm9Ka3JoN1p1RkFpR19jWV93cm4zd3NwdWRmUS1RWV9BZWlPaFJMeFNuSg",
@@ -1451,7 +1624,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "人手不足の農家、相棒はロボット 草刈りから農薬散布まで1台で(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5qYlZOLVhvYUJtZm4yMlptNVcyZjMtX3JzTTZmYUl4Zno2dDRXeVJncDFVdm44Q0JaX25STmFreC1VeDEyRUlnR19oOS1HSVlFbmNmeUNjb1BGUTVDZ3hlLWt3dmZ6MmZzbnJrbw",
@@ -1462,7 +1636,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "AI時代の労働分配率(1) 世界で低下する労働分配率 明治学院大学教授 室和伸(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBPZ1ZFYWxocGs2N3dqUXhPa1lrNDJJWUItV0E1eG5saUJ0b3NYMUZrLUdhNGlYMVlNTklxSUpsNEVCRFRtSC1lUV9PdVJLaTdhRWVmTUc3T3prLVFJTjQ5NGxBcVFSMkJiTzZxXw",
@@ -1473,7 +1648,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "〈News〉法定雇用率達成も「DEI疲れ」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMid0FVX3lxTFA4ejAyWUMtdUJHVlNPY0FwMjlhbnhkMFJ0NDZLS1BFOTZSM3A3enU1STFJb04xRU81NUhieHdfMnRLNTNjME5RVXVKZjJkdHpuYjlILW1BQ1NWYlQ1U1JIa3hlcWRXQXNEOWZ6dmhtOWo3dlJzcXk0",
@@ -1484,7 +1660,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "インドのテック労働者にAIの脅威（上） 作業代替で縮む雇用(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9lUUdIdjJYbWJWRUh6NmNiV21mcTFzQWt4RWZ6VldxQU9KNG0xU285RnI3dTRqM1Q0MERNX2FQTFhTOWVkOXZTMDYyUEtIcFB0c3Q5SlFfbEdrdWthelJxTjBSNXBTN3RFUXFvcg",
@@ -1495,7 +1672,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "就活セクハラ、企業に対策義務化 相次ぐ被害、防止徹底を(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1zamFNM0xnZU1LX3R0MDlocEZtbS1wenZDVlRBaXVUZFQ0eXdLcUpvbnZDTGhnUko3SnNUbHdXMzhPM1BSWTRwWno2OTJRc1dlMHQwUG8tdE9KZ09CTC1wbHdMdGZ5dTIyeVd3Xw",
@@ -1506,7 +1684,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "働き手が出資の「労働者協同組合」、厚労省の支援拡大(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75340.html",
@@ -1517,7 +1696,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBwUno0a3lLZkpQS3lXZEFaejVGcWZJRnhZYnNuaEhOTDVvQzJKZ0FoUjM1VEpCRHc1U0Rzem53eUl0M2ZsQ0RLWGdFZDFsRy0yUzY0dXJwbWQzLXlmdHBrcVNZUlpyRERvZjdwYg",
@@ -1528,7 +1709,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "「就活セクハラ」学生の3割が経験 対策義務化、企業は防止徹底を(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1HSngtRGlGcDBYZzdDa1dFa3F0bVlXSTVHTzRMWjktYXdGWEhhNElRWVMzX3VSMGJveTZGVE1abUMxSFVQUzZFUXFEaXkxcjg2c19FTVZUYm9QY0psSTdLYW5VdmI5N1ZQRnBxTw",
@@ -1539,7 +1721,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "横浜市長パワハラ問題、自民が辞職申し入れへ 公明・立民に呼びかけ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBoa0VIVkZHTkxGeTE2bWxDaGNoLU1wZ3hsUnJqcHVfQkhkRmV0NHN3bVRlTHZjcmRiQlFfcmlfV09JTTVPamFWWVI1Y2c4NVRTTDhMaDBvWmFwcjRJbk5OQm5yS29fS2YwRHQtSA",
@@ -1550,7 +1733,9 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "福岡県の最低賃金、57円上げ1114円に 過去2番目の引き上げ答申(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75380.html",
@@ -1561,7 +1746,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第210回労働政策審議会労働条件分科会　議事録（2026年7月14日）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/general/saiyo/eiyoukei/index.html",
@@ -1572,7 +1759,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "厚生労働省栄養系技官採用サイト(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMifkFVX3lxTE5vWDYxSkVucmp0Q2swaTRGSmlQSmJxZjFoU0tQZ1o5bHNDWlpCa09CdzUzV1p0WXZpSlJBMWxfWHItcWl5d3hLaDAyUEdSNTJwX0tsNE1xSDVPQTNpNUlIREpLQnBpSTI1RlFPMGlTdG02RjhmYWlKZW9hSnJDUQ",
@@ -1583,7 +1771,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "労働時間短縮こそ人手不足対策(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:45.213Z"
+      "summarizedAt": "2026-08-23T22:52:45.213Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
@@ -1594,7 +1783,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "令和７年「労働安全衛生調査（実態調査）」の結果を公表します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75086.html",
@@ -1605,7 +1795,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "令和8年度　厚生労働科学研究費補助金公募要項（3次）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75319.html",
@@ -1616,7 +1807,9 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "第76回労働政策審議会職業安定分科会雇用対策基本問題部会建設労働専門委員会(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBQbFN2b3FiMExfaUFzczc4N1FScWNGWllNNDdiWkoxMlhpN3hXQnlvM0oyNkRCanVGdzB4SER0SUxVOGxlWTNwSVNpRUhzOVRSMWJRMTZkb2daWTV6TXVMRFZEaEY4bkt0c2R4OQ",
@@ -1627,7 +1820,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "企業の3割「動かせない設備」 人手不足が招く投資低迷､白書が懸念(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:45.298Z"
+      "summarizedAt": "2026-08-23T22:52:45.298Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75192.html",
@@ -1638,7 +1832,8 @@
       "category": "厚労省 報道・新着情報",
       "fetchedAt": "2026-08-21T00:37:18.890Z",
       "summary": "労働基準監督署等が自動車運転者を使用する事業場に対して行った令和７年の監督指導、送検等の状況を公表します(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z"
+      "summarizedAt": "2026-08-21T00:37:21.397Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5Rd1lsR1VERVZSdjNUNEF6N1haTXgtVjcyaWZHVEhkLWtEanVHOW5wM3YzZ2FkbmRaOGp4NmxZRXJhQUtRNHdObDg0c2RfMTVlRmtEYXFEcHRLZ3F2MGltbjZZNUhuVWJFcGlSMw",
@@ -1649,7 +1844,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "大阪府内の最低賃金1231円 54円上げ、過去2番目の引き上げ額(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5kejB0ME5UZUNod190YkFwSG8zZGFhU2E1S0VZQ084cUw1cXY4em9UbXp4bHJ2R3FBMnVIVE5lUmxXaTR0cjBBZk5UVmd0RGtSTXE5T3JTYVJ0YmtpVXhoVlV5ZVpmTkxMUVY2OA",
@@ -1660,7 +1856,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T22:38:44.955Z",
       "summary": "兵庫県内の最低賃金1172円 56円上げ、過去2番目の引き上げ額(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T22:38:51.502Z"
+      "summarizedAt": "2026-08-21T22:38:51.502Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBFOGJqamdEcXFqcXlkLWk0Tk92cVZGRk5mMGZtUlJMWHEtY3lmZlNnR25OYzQzbW1WblJmTHVQUHV1TmFxN2xlREI0YndKVkhCNjU3Rm9VcTdnRUMzY3RhYTUza21pY2V2Z3BpZg",
@@ -1671,7 +1868,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "東京都の最低賃金が1280円に 10月から、目安通り54円引き上げ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-25T23:01:08.348Z"
+      "summarizedAt": "2026-08-25T23:01:08.348Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg",
@@ -1682,7 +1880,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBONDJCd1NUTG5Cbng5aEhtb0RZU1VVeTJxc3RwTWoxZ2NVVTNfR0NoY2psbFlBbjNHdS1TTENFWVgtMDVxU1pKM0JzUmNVTjA0SG1YdE9rUC03QzA5ODdXTWdYN3BRcF9seGYzSQ",
@@ -1693,7 +1892,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "ゆで太郎、27年度に6%賃上げ 大卒初任給は35万5000円に(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9PNTl3ZzBMa0k2Z3V0N1ZYUURiSkluNDZJTVhsb3p1UHlDbVN4VHZKTFYyR2VhNUJQODhQaEVPTDVYQmJfQWJCWDFkWnJ1bjZONmNicEtTSTZ5eWZHdi1tR0FJQ1pqVFBQV05IbA",
@@ -1704,7 +1904,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-23T22:52:39.830Z",
       "summary": "最低賃金の早期浸透促す 厚労省が新方針「発効遅れなら理由明示を」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-23T22:52:44.904Z"
+      "summarizedAt": "2026-08-23T22:52:44.904Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE9pbG1TYUdhNFh1OFphT0N5MXhKMkg5ck8xN280X2lpVHhvTkxoOFF6REU3VG84VUljUmZPdE1Tbl9jOHFtLXNjLTJnZU9qV1VDQjZTcGlPclZzUExJbTJFUm44Y21ERU11d21GVA",
@@ -1715,7 +1916,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "定年後も賃金下げない 日立の新たな再雇用制が問う「ジョブ型の本質」(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE5QOVVWWVJpZm5URW5IUEpZSmxCTUw0cXFJaG9NelhDZVRpMzhfTEZPVm9DNG5oMl84ZmZZS245ZXVfU1BwRDE1QkQycGR4UTRvbWdOS3g0TDdqTUoxaUt6Z0RKTzJkS0lDTEFDNA",
@@ -1726,7 +1928,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "自民党、労使協定内で残業時間柔軟に 一律指導停止を提言(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE9uQjFqaENlQi1fb0RPVWxteE96NkxNS3JFZFlkVk9hdk9HX18tMEY4LTJhUW85dGZ3TDNtUEUtV1ZVWGJ2b2Q5eHI1OEZTNHNNVGZQRkdNYUZvS19FZ0N1QUdxcFJoX1E",
@@ -1737,7 +1940,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "「団塊世代の『現場見下し文化』、建設業の人手不足招く」クラフトバンク総研高木氏(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1NaGY3RWpkWFRCS2xaSzRvWTJLdGZxMGpHVy15cjRUd3ZKTlZ5TGNWYXdWRzF1amZYX2xza1NMUHQtaURUTlV2RHpQNU56YTRMZDR0MWJ6S080UjVKY2dtSTZ6MGo2MlVUbU13UA",
@@ -1748,7 +1952,8 @@
       "category": "日経新聞",
       "fetchedAt": "2026-08-21T01:31:11.715Z",
       "summary": "日本保守党・百田尚樹代表、外国人労働者受け入れ是正(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T01:31:14.773Z"
+      "summarizedAt": "2026-08-21T01:31:14.773Z",
+      "isGuideline": false
     }
   ]
 }

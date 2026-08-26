@@ -8,10 +8,16 @@
 - [e-Gov 法令API](https://laws.e-gov.go.jp/) の `updatelawlists` — 施行日ベースで労働関連法令の改正を抽出
 - Googleニュース検索RSS(`site:nikkei.com` + 労働関連キーワード)経由の日本経済新聞 見出し — 本文は取得・保存せず、見出しとリンクのみを扱う。日経本体・日経ビジネスとも無料の公式RSSがないための代替手段。Googleニュースの当該フィードは「個人のフィードリーダーでの非商用個人利用」に限定されている点に留意([src/collectors/nikkei.ts](src/collectors/nikkei.ts))
 
+## 分類
+
+- **解説・ガイドライン**: 「リーフレット」「Q&A」「ガイドライン」等のキーワードで見出しを判定し、通常の告知と区別して表示・絞り込みできる([src/keywords.ts](src/keywords.ts) `isGuidelineTitle`)。
+- **法制化の進捗段階**: 「審議会検討 → 国会提出・審議 → 成立・公布 → 施行」の4段階を見出しキーワードから推定して表示する。e-Gov由来の項目のみ「施行」段階として確定情報。それ以外は見出しからの推定であり誤判定・未検出があり得る([src/keywords.ts](src/keywords.ts) `guessLegislativeStage`, [src/classify.ts](src/classify.ts))。正式な審議状況は[衆議院 議案情報](https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/menu_all.htm)を参照。
+
 ## 構成
 
 ```
-src/collectors/   データ収集 (MHLW RSS, e-Gov法令API)
+src/collectors/   データ収集 (MHLW RSS, e-Gov法令API, Googleニュース経由の日経見出し)
+src/classify.ts   進捗段階・解説ガイドライン分類 (収集のたび全項目に再適用)
 src/summarize.ts  Claude APIによる要約 (未設定時は簡易要約にフォールバック)
 src/store.ts      docs/data/items.json への永続化・重複排除
 src/fetchAll.ts   収集→要約→保存 のエントリポイント (npm run fetch)

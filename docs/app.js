@@ -2,11 +2,13 @@ const params = new URLSearchParams(location.search);
 const periodDays = params.has("days") ? Number(params.get("days")) : null;
 
 const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei" };
+const STAGES = ["審議会検討", "国会提出・審議", "成立・公布", "施行"];
 
 const state = {
   items: [],
   sources: new Set(["mhlw_news", "egov_law_update", "nikkei_news"]),
   query: "",
+  guidelineOnly: false,
 };
 
 async function loadItems() {
@@ -26,6 +28,17 @@ function escapeHtml(s) {
 function fmtDateLabel(dateKey) {
   const [y, m, d] = dateKey.split("-");
   return { d: `${Number(m)}/${Number(d)}`, y };
+}
+
+function renderStageTrack(stage) {
+  if (!stage) return "";
+  const idx = STAGES.indexOf(stage);
+  const dots = STAGES.map((_, i) => `<span class="stage-dot ${i <= idx ? "filled" : ""}"></span>`).join("");
+  return `
+    <div class="stage-track" title="法制化の進捗(見出しからの推定です。正確性は保証しません)">
+      <span class="stage-dots">${dots}</span>
+      <span class="stage-label">${escapeHtml(stage)}</span>
+    </div>`;
 }
 
 function withinPeriod(item) {
@@ -52,6 +65,7 @@ function renderStats() {
   const lawCount = items.filter((i) => i.source === "egov_law_update").length;
   const newsCount = items.filter((i) => i.source === "mhlw_news").length;
   const nikkeiCount = items.filter((i) => i.source === "nikkei_news").length;
+  const guidelineCount = items.filter((i) => i.isGuideline).length;
 
   const stats = [
     { n: items.length, l: "総トピック数", cls: "" },
@@ -59,6 +73,7 @@ function renderStats() {
     { n: lawCount, l: "法令改正", cls: "seal" },
     { n: newsCount, l: "厚労省 新着情報", cls: "" },
     { n: nikkeiCount, l: "日経新聞", cls: "nikkei" },
+    { n: guidelineCount, l: "解説・ガイドライン", cls: "accent" },
   ];
   document.getElementById("stats").innerHTML = stats
     .map((s) => `<div class="stat"><div class="n ${s.cls}">${s.n}</div><div class="l">${s.l}</div></div>`)
@@ -71,6 +86,7 @@ function render() {
 
   const filtered = periodItems.filter((item) => {
     if (!state.sources.has(item.source)) return false;
+    if (state.guidelineOnly && !item.isGuideline) return false;
     if (state.query) {
       const haystack = `${item.title} ${item.summary ?? ""}`.toLowerCase();
       if (!haystack.includes(state.query.toLowerCase())) return false;
@@ -102,10 +118,12 @@ function render() {
             <article class="item ${cls}">
               <div class="item-top">
                 <span class="chip ${cls}">${escapeHtml(item.category)}</span>
+                ${item.isGuideline ? '<span class="chip outline">解説・ガイドライン</span>' : ""}
                 <span class="item-time">${time}</span>
               </div>
               <p class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></p>
               <p class="item-summary">${escapeHtml(item.summary ?? "")}</p>
+              ${renderStageTrack(item.stage)}
             </article>`;
         })
         .join("");
@@ -121,6 +139,12 @@ function render() {
 function setupControls() {
   document.getElementById("searchBox").addEventListener("input", (e) => {
     state.query = e.target.value.trim();
+    render();
+  });
+
+  document.getElementById("guidelineToggle").addEventListener("click", (e) => {
+    state.guidelineOnly = !state.guidelineOnly;
+    e.target.setAttribute("aria-pressed", String(state.guidelineOnly));
     render();
   });
 

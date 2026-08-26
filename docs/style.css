@@ -205,6 +205,8 @@ a { color: inherit; }
 }
 .pill.law[aria-pressed="true"] { background: var(--seal); border-color: var(--seal); }
 .pill.nikkei[aria-pressed="true"] { background: var(--nikkei); border-color: var(--nikkei); }
+.pill.outline { border-style: dashed; }
+.pill.outline[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); border-style: solid; color: var(--surface); }
 
 .count-line {
   font-size: 0.76rem;
@@ -276,6 +278,7 @@ a { color: inherit; }
 }
 .chip.law { background: var(--seal-soft); color: var(--seal); }
 .chip.nikkei { background: var(--nikkei-soft); color: var(--nikkei); }
+.chip.outline { background: none; border: 1px solid var(--border-strong); color: var(--ink-muted); }
 .item-time { font-size: 0.7rem; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
 
 .item-title {
@@ -288,6 +291,30 @@ a { color: inherit; }
 .item-title a:hover { text-decoration: underline; text-decoration-color: var(--border-strong); }
 
 .item-summary { margin: 0; font-size: 0.87rem; color: var(--ink-muted); max-width: 65ch; }
+
+/* ---- Legislative stage tracker ---- */
+.stage-track {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.55rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--border);
+}
+.stage-dots { display: flex; gap: 0.25rem; }
+.stage-dot {
+  width: 14px;
+  height: 4px;
+  background: var(--border-strong);
+  border-radius: 2px;
+}
+.stage-dot.filled { background: var(--accent); }
+.item.law .stage-dot.filled { background: var(--seal); }
+.stage-label {
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+  letter-spacing: 0.02em;
+}
 
 .empty {
   text-align: center;

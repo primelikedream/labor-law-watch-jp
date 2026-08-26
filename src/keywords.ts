@@ -80,3 +80,39 @@ export const NIKKEI_SEARCH_QUERIES: string[] = [
 export function isLaborRelatedLawName(lawName: string): boolean {
   return LABOR_LAW_NAME_PATTERNS.some((kw) => lawName.includes(kw));
 }
+
+// 見出しの語から法制化の進捗を推定する(あくまで見出しベースの推定であり、正確性は保証しない)。
+// e-Gov側の項目は施行日が確定しているため、この推定ロジックは使わず常に「施行」を付与する。
+export type LegislativeStage = "審議会検討" | "国会提出・審議" | "成立・公布" | "施行";
+
+const STAGE_PATTERNS: { stage: LegislativeStage; patterns: string[] }[] = [
+  { stage: "成立・公布", patterns: ["成立", "公布"] },
+  { stage: "国会提出・審議", patterns: ["国会提出", "法律案", "法案", "閣議決定", "要綱"] },
+  { stage: "審議会検討", patterns: ["審議会", "分科会", "検討会", "建議", "答申", "報告書"] },
+];
+
+export function guessLegislativeStage(title: string): LegislativeStage | undefined {
+  for (const { stage, patterns } of STAGE_PATTERNS) {
+    if (patterns.some((p) => title.includes(p))) return stage;
+  }
+  return undefined;
+}
+
+// 解説・ガイドライン系コンテンツ(制度の周知・手引き)を見分けるキーワード。
+const GUIDELINE_KEYWORDS: string[] = [
+  "リーフレット",
+  "Q&A",
+  "Q＆A",
+  "ガイドライン",
+  "パンフレット",
+  "手引き",
+  "わかりやすく",
+  "解説",
+  "周知",
+  "ハンドブック",
+  "事例集",
+];
+
+export function isGuidelineTitle(title: string): boolean {
+  return GUIDELINE_KEYWORDS.some((kw) => title.includes(kw));
+}
