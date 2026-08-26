@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:22:07.101Z",
+  "updatedAt": "2026-08-26T10:31:40.639Z",
   "items": [
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
@@ -12,6 +12,129 @@
       "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料(詳細は元記事を参照)",
       "summarizedAt": "2026-08-24T22:58:39.213Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:417M60000100044:20261001",
+      "source": "egov_law_update",
+      "title": "厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=417M60000100044_20261001_508M60000100116",
+      "publishedAt": "2026-08-26T10:31:37.218Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-08-26T10:31:36.076Z",
+      "summary": "厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令 — 労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令(施行日: 20261001)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBpT1dXbXhQd3JRWnNWajB6NzI2Wmh5M1ZXenRiS0VtQXVNb2JINURLbUp3NnJXY0pESmZNTGktakxEeXpGbU14aWI2ZC1ZbG5XTUlUNHRqU2E4SmJxck5GWlJvUFFKczhMS0RMeg",
+      "source": "nikkei_news",
+      "title": "セメント販売、7月は3.5%減 働き方改革背景に工事時間が短縮",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpT1dXbXhQd3JRWnNWajB6NzI2Wmh5M1ZXenRiS0VtQXVNb2JINURLbUp3NnJXY0pESmZNTGktakxEeXpGbU14aWI2ZC1ZbG5XTUlUNHRqU2E4SmJxck5GWlJvUFFKczhMS0RMeg?oc=5",
+      "publishedAt": "2026-08-26T10:06:11.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "セメント販売、7月は3.5%減 働き方改革背景に工事時間が短縮(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9wWFUzZHltM0tES05tNDhPYUJRWE1GcFJGaC1zbjBPVUpZYThYMWxMU0tLeTJabkRacDFPaEJCUF9VVjVvR082NmVuQy1WclVDX3A5bHNXYUlGRDVrZFBsUllCbjRnak9xeHF1OQ",
+      "source": "nikkei_news",
+      "title": "鳥取県、一部従業員の賃上げでも補助金 支払い余力乏しい中小を支援",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wWFUzZHltM0tES05tNDhPYUJRWE1GcFJGaC1zbjBPVUpZYThYMWxMU0tLeTJabkRacDFPaEJCUF9VVjVvR082NmVuQy1WclVDX3A5bHNXYUlGRDVrZFBsUllCbjRnak9xeHF1OQ?oc=5",
+      "publishedAt": "2026-08-26T09:21:33.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "鳥取県、一部従業員の賃上げでも補助金 支払い余力乏しい中小を支援(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBjM3o0N2Z2U3ZmRDhtX3ZHOW1aZlVUUklJUHpOX0Q3OWM3ZlUtd01FZWFjRi1lbUlpZmpFZ2VhbVVsVkx0MjBVTlg4eGNBbFprZHBaQXVQYkUxbGh3S0xBNldXckpJbWRneWRRcQ",
+      "source": "nikkei_news",
+      "title": "桐生信用金庫、フォーバルと包括連携 取引先の黒字化→賃上げへ支援",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjM3o0N2Z2U3ZmRDhtX3ZHOW1aZlVUUklJUHpOX0Q3OWM3ZlUtd01FZWFjRi1lbUlpZmpFZ2VhbVVsVkx0MjBVTlg4eGNBbFprZHBaQXVQYkUxbGh3S0xBNldXckpJbWRneWRRcQ?oc=5",
+      "publishedAt": "2026-08-26T09:10:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "桐生信用金庫、フォーバルと包括連携 取引先の黒字化→賃上げへ支援(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9zSnMtaC1selBHU1lqQkgyeDBJdUlZN2IwWXNldXZuamRVNE1nY2k0YWZUcjJFekJqbW12aEZ3bWhkdmxZMThFSGhlNWVzZ1JGQjllMEItYlFuNzEyZF9vQ2taXzBTUzR1Wkx4RA",
+      "source": "nikkei_news",
+      "title": "鹿児島県の最低賃金1090円、64円引き上げ答申 目安8円上回る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zSnMtaC1selBHU1lqQkgyeDBJdUlZN2IwWXNldXZuamRVNE1nY2k0YWZUcjJFekJqbW12aEZ3bWhkdmxZMThFSGhlNWVzZ1JGQjllMEItYlFuNzEyZF9vQ2taXzBTUzR1Wkx4RA?oc=5",
+      "publishedAt": "2026-08-26T09:04:09.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "鹿児島県の最低賃金1090円、64円引き上げ答申 目安8円上回る(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1XQTZaY2JzRVY4UGRIR204R2V5QTd6OFFwcTc5ZGhkNVViUG15Uk5xRlU1VDU2NU9ucUVjOWEzZ0hJV1lKTWFhaEctSVV3N084RjJ0V1AxWGNucXRxVWxTOENhQkx1Y2ktV2l5UQ",
+      "source": "nikkei_news",
+      "title": "青森県最低賃金、61円上げの1090円を答申 目安を5円上回る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XQTZaY2JzRVY4UGRIR204R2V5QTd6OFFwcTc5ZGhkNVViUG15Uk5xRlU1VDU2NU9ucUVjOWEzZ0hJV1lKTWFhaEctSVV3N084RjJ0V1AxWGNucXRxVWxTOENhQkx1Y2ktV2l5UQ?oc=5",
+      "publishedAt": "2026-08-26T08:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "青森県最低賃金、61円上げの1090円を答申 目安を5円上回る(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1DLVozM2VqczRGTnpMU29aQzBOMWk4VEQ1S1FhaDNBWVlCUzJxODFPcGdXY1hmdkNQV0dzaFQ5MFc2dHNyVWkwWkRqSFZNbGNvOVlVNVh2V0l2eHFVcUhLYm9GajBjQVdNS0J6Mw",
+      "source": "nikkei_news",
+      "title": "教員「働き方改革」推進自治体に5億円 AI電話対応や時間外減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DLVozM2VqczRGTnpMU29aQzBOMWk4VEQ1S1FhaDNBWVlCUzJxODFPcGdXY1hmdkNQV0dzaFQ5MFc2dHNyVWkwWkRqSFZNbGNvOVlVNVh2V0l2eHFVcUhLYm9GajBjQVdNS0J6Mw?oc=5",
+      "publishedAt": "2026-08-26T08:18:11.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "教員「働き方改革」推進自治体に5億円 AI電話対応や時間外減(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBqX0hGbkJCcHd4X1lvWVdRMFJZZ214R0VmRERld0VqQTVudFhJTWowT2RacERaYldSTy1XOUd3UnZyN2RKejJlblNNOEVmd2NKeVlGaS12Y0g0WVZOWTdpZW0yRE1BNEk",
+      "source": "nikkei_news",
+      "title": "日立製作所、2400人のシニアにジョブ型導入 報酬も大幅増「将来への投資」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqX0hGbkJCcHd4X1lvWVdRMFJZZ214R0VmRERld0VqQTVudFhJTWowT2RacERaYldSTy1XOUd3UnZyN2RKejJlblNNOEVmd2NKeVlGaS12Y0g0WVZOWTdpZW0yRE1BNEk?oc=5",
+      "publishedAt": "2026-08-26T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "日立製作所、2400人のシニアにジョブ型導入 報酬も大幅増「将来への投資」(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAxMVpxR284SnhiLU1ZV1dYRmdld25lZWFjcTFvUmVLb3B3SXF5b2Rrd2JlR1IxRFF0SjhUN3pvSnVHclVPcUg2WGpEUnE3MHNzdlNqeHR6cW5qNEw5RXFxME0ybHNqRnVpdVRvdg",
+      "source": "nikkei_news",
+      "title": "佐賀県、中小賃上げと農業支援に5.3億円 9月補正予算案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxMVpxR284SnhiLU1ZV1dYRmdld25lZWFjcTFvUmVLb3B3SXF5b2Rrd2JlR1IxRFF0SjhUN3pvSnVHclVPcUg2WGpEUnE3MHNzdlNqeHR6cW5qNEw5RXFxME0ybHNqRnVpdVRvdg?oc=5",
+      "publishedAt": "2026-08-26T06:25:13.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "佐賀県、中小賃上げと農業支援に5.3億円 9月補正予算案(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiakFVX3lxTE5EMGRyZmxGZ1Z2Ny1seUhjV1hUS0Z6X0NfVXJ4ODI4ZE5IeDAtOE8yOEJ1UGhBeEx0RWphU2tKUGVrS3NlU04tN015NUstSjJUMDBJMTBtbTFNWUdWb2hOcEZCeGNnSVlHUkE",
+      "source": "nikkei_news",
+      "title": "ＣＲＧホールディングス[7041]：サテライト型障がい者雇用サポート付きオフィス「Canvas岡山オフィス」が2026年10月中旬に開設 2026年8月26日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMGRyZmxGZ1Z2Ny1seUhjV1hUS0Z6X0NfVXJ4ODI4ZE5IeDAtOE8yOEJ1UGhBeEx0RWphU2tKUGVrS3NlU04tN015NUstSjJUMDBJMTBtbTFNWUdWb2hOcEZCeGNnSVlHUkE?oc=5",
+      "publishedAt": "2026-08-26T06:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "ＣＲＧホールディングス[7041]：サテライト型障がい者雇用サポート付きオフィス「Canvas岡山オフィス」が2026年10月中旬に開設 2026年8月26日(適時開示) ：日経会社情報DIGITAL(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
       "isGuideline": false
     },
     {
@@ -116,6 +239,30 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMickFVX3lxTE5oYndoMml5RGtoUkF6R09tdElMNjZYdnlYR1JDc0IzVmhvdGw3S2Y0cldIaVAwZjItcjhnOGZoY19FLS1CQkFJb0ZkSDBJV0o4R1poTEV2QVRUVjFHSWo4eEVJMjNwSU8xVE1QTmNTQ0Zvdw",
+      "source": "nikkei_news",
+      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oYndoMml5RGtoUkF6R09tdElMNjZYdnlYR1JDc0IzVmhvdGw3S2Y0cldIaVAwZjItcjhnOGZoY19FLS1CQkFJb0ZkSDBJV0o4R1poTEV2QVRUVjFHSWo4eEVJMjNwSU8xVE1QTmNTQ0Zvdw?oc=5",
+      "publishedAt": "2026-08-25T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」（2ページ目）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMilgFBVV95cUxQLXV2NkpjZ2RjYWE0UkxIWll0SHNzYmVKYlZ6Q2dUTzFnYkt2TDY5SnN0eFRTam9VemlvdGlZRDUxMjF0dXU2TElIS3RmLXJCeUVma1FEZk1HbzVEWDFZU1VTaGtSbnQ4ejk2cEt0bVk1SWZydEtrYklIbUg5RWxBR0ZYNVVGWGdyX1k4bEJSVHYxM3paZVE",
+      "source": "nikkei_news",
+      "title": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXV2NkpjZ2RjYWE0UkxIWll0SHNzYmVKYlZ6Q2dUTzFnYkt2TDY5SnN0eFRTam9VemlvdGlZRDUxMjF0dXU2TElIS3RmLXJCeUVma1FEZk1HbzVEWDFZU1VTaGtSbnQ4ejk2cEt0bVk1SWZydEtrYklIbUg5RWxBR0ZYNVVGWGdyX1k4bEJSVHYxM3paZVE?oc=5",
+      "publishedAt": "2026-08-25T18:25:40.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE9WWUhMMS02Z21VdnNULUtkc2ZLVUhjYlBOSDJCaGtrOEFIYnF1eUEzcDBaNUJveWRhMXFGcFlqVHU5N01zcUtEN2ZydmVrSVBUWVhfc0lzM0hQOVc3UExuZGU4NjVmelR3eTg4Mw",
       "source": "nikkei_news",
       "title": "AI時代の労働分配率（8）労働者の交渉力との関係",
@@ -176,6 +323,18 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5ITU1UdG5mdjFEdkxYMkxLdTNkSmZtTTQ5OXJwR2kzSkVkc2dMczhsSGRkNGNJV3puR1pMcjUyZVI3OXZyS2JGSVZHWV9ETzJROTR6QjROcmZZWUx3clNYdFpOZjRSQ2poVlF4MQ",
+      "source": "nikkei_news",
+      "title": "歯科技工士、なり手不足 低賃金を敬遠 50代以上過半に 入れ歯の入手、遅れる恐れ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ITU1UdG5mdjFEdkxYMkxLdTNkSmZtTTQ5OXJwR2kzSkVkc2dMczhsSGRkNGNJV3puR1pMcjUyZVI3OXZyS2JGSVZHWV9ETzJROTR6QjROcmZZWUx3clNYdFpOZjRSQ2poVlF4MQ?oc=5",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "歯科技工士、なり手不足 低賃金を敬遠 50代以上過半に 入れ歯の入手、遅れる恐れ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBEQmxISDRxXzJDa0ZINlNIY1NaN2diMjM0bm5tRWZrZHROR1N6cEVpVk8zMHdjTkZURnBtZF82ZlJVLUhCVlBzNC1wY2tMbG9XbDVmU0VwVjQxVTEtOWRzQnRKU3lRLVVhSjQ4ZQ",
       "source": "nikkei_news",
       "title": "日本発「品出しロボ」、NYのスーパーを快走 人手不足解消に期待",
@@ -197,6 +356,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "月例賃金検討の際に用いる主要統計資料(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.608Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5zWFVjWHliWm9kWE9HdW1NamdWcUVUcFR6b1o1Sm43VDRkUWtZb3Zlem1RN0lJZFZ6MjR5dmozaUxaVVNtVmQtVllLNWNGYTdiVGg4bG5rNmRTMGR6WkFIWHlaV0VOU3VwT1I2bg",
+      "source": "nikkei_news",
+      "title": "VW社長「追加リストラ、半分はドイツで」 10万人削減巡り労使協議",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWFVjWHliWm9kWE9HdW1NamdWcUVUcFR6b1o1Sm43VDRkUWtZb3Zlem1RN0lJZFZ6MjR5dmozaUxaVVNtVmQtVllLNWNGYTdiVGg4bG5rNmRTMGR6WkFIWHlaV0VOU3VwT1I2bg?oc=5",
+      "publishedAt": "2026-08-25T11:52:39.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "VW社長「追加リストラ、半分はドイツで」 10万人削減巡り労使協議(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
       "isGuideline": false
     },
     {
@@ -1736,6 +1907,18 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5sTXFGLWpVMEV6dUlxMHlUYjRIN21yWjVIMDBPVnJwMW1HbnM3OGkySFZDbFlZYUhQRk9VTHhHd21xU1Z3NGNTdFBjVEZpSDg5QWpzeQ",
+      "source": "rosei_news",
+      "title": "改正「同一労働同一賃金ガイドライン」の要点と自社制度点検の手順・留意点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sTXFGLWpVMEV6dUlxMHlUYjRIN21yWjVIMDBPVnJwMW1HbnM3OGkySFZDbFlZYUhQRk9VTHhHd21xU1Z3NGNTdFBjVEZpSDg5QWpzeQ?oc=5",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-26T10:31:36.078Z",
+      "summary": "改正「同一労働同一賃金ガイドライン」の要点と自社制度点検の手順・留意点(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
+      "isGuideline": true
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75340.html",
       "source": "mhlw_news",
       "title": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
@@ -2277,6 +2460,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "定年後再雇用前の非違行為を理由に、再雇用期間中に懲戒処分を科すことはできるか(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.608Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE05SWo5ZFF0cXNvWVpZTHBMcFVRWVEwaGNmV2phandzYzA5bHFJZ3NKcXdnMXBMbXczSzI4djZvQkMwRHpuUW02TlVNSzlRNDFuWEFBSmszeHNFdVVUMzVFVkpoWnNYQkU",
+      "source": "nikkei_news",
+      "title": "冬賞与が過去最高の大林組「職人年収1000万円へ」 人手不足で下請け待遇改善",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05SWo5ZFF0cXNvWVpZTHBMcFVRWVEwaGNmV2phandzYzA5bHFJZ3NKcXdnMXBMbXczSzI4djZvQkMwRHpuUW02TlVNSzlRNDFuWEFBSmszeHNFdVVUMzVFVkpoWnNYQkU?oc=5",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-26T10:31:36.077Z",
+      "summary": "冬賞与が過去最高の大林組「職人年収1000万円へ」 人手不足で下請け待遇改善(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
       "isGuideline": false
     },
     {
@@ -3337,6 +3532,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "人手不足、コロナ後深刻 ２４年版の労働経済白書(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE0tZ0dJbjNibldWZVk5VUU4dGxlX2xIXzJrUHBKcGFsRXVhQlBHSjZjQzcwb2p3SzQ4eGhDRmFzZmJ6cTJHUGNYYlJvYjNmTDlqZzQxVw",
+      "source": "rosei_news",
+      "title": "中小企業の賃上げ後押し 学び直し支援も",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tZ0dJbjNibldWZVk5VUU4dGxlX2xIXzJrUHBKcGFsRXVhQlBHSjZjQzcwb2p3SzQ4eGhDRmFzZmJ6cTJHUGNYYlJvYjNmTDlqZzQxVw?oc=5",
+      "publishedAt": "2024-08-30T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-26T10:31:36.078Z",
+      "summary": "中小企業の賃上げ後押し 学び直し支援も(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T10:31:40.637Z",
       "isGuideline": false
     },
     {
