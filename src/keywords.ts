@@ -77,6 +77,13 @@ export const NIKKEI_SEARCH_QUERIES: string[] = [
   "site:nikkei.com (賃上げ OR 残業 OR 外国人労働者 OR 労働組合 OR 労働政策)",
 ];
 
+// 労政時報(rosei.jp)にも無料RSS/APIがないため、同じくGoogleニュース検索経由で見出し・リンクのみ取得する。
+export const ROSEI_SEARCH_QUERIES: string[] = [
+  "site:rosei.jp (労働 OR 雇用 OR 賃金 OR 最低賃金 OR 働き方改革)",
+  "site:rosei.jp (育児休業 OR 有給休暇 OR 労働基準法 OR ハラスメント OR 人手不足)",
+  "site:rosei.jp (賃上げ OR 残業 OR 外国人労働者 OR 労働組合 OR 労働政策)",
+];
+
 export function isLaborRelatedLawName(lawName: string): boolean {
   return LABOR_LAW_NAME_PATTERNS.some((kw) => lawName.includes(kw));
 }

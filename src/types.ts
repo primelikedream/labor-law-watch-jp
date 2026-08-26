@@ -1,4 +1,4 @@
-export type SourceType = "mhlw_news" | "egov_law_update" | "nikkei_news";
+export type SourceType = "mhlw_news" | "egov_law_update" | "nikkei_news" | "rosei_news";
 
 export type LegislativeStage = "審議会検討" | "国会提出・審議" | "成立・公布" | "施行";
 

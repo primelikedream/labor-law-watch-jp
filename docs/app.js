@@ -1,12 +1,12 @@
 const params = new URLSearchParams(location.search);
 const periodDays = params.has("days") ? Number(params.get("days")) : null;
 
-const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei" };
+const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei", rosei_news: "rosei" };
 const STAGES = ["審議会検討", "国会提出・審議", "成立・公布", "施行"];
 
 const state = {
   items: [],
-  sources: new Set(["mhlw_news", "egov_law_update", "nikkei_news"]),
+  sources: new Set(["mhlw_news", "egov_law_update", "nikkei_news", "rosei_news"]),
   query: "",
   guidelineOnly: false,
 };
@@ -65,6 +65,7 @@ function renderStats() {
   const lawCount = items.filter((i) => i.source === "egov_law_update").length;
   const newsCount = items.filter((i) => i.source === "mhlw_news").length;
   const nikkeiCount = items.filter((i) => i.source === "nikkei_news").length;
+  const roseiCount = items.filter((i) => i.source === "rosei_news").length;
   const guidelineCount = items.filter((i) => i.isGuideline).length;
 
   const stats = [
@@ -73,6 +74,7 @@ function renderStats() {
     { n: lawCount, l: "法令改正", cls: "seal" },
     { n: newsCount, l: "厚労省 新着情報", cls: "" },
     { n: nikkeiCount, l: "日経新聞", cls: "nikkei" },
+    { n: roseiCount, l: "労政時報", cls: "rosei" },
     { n: guidelineCount, l: "解説・ガイドライン", cls: "accent" },
   ];
   document.getElementById("stats").innerHTML = stats
