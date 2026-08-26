@@ -26,6 +26,20 @@
 
   <div class="period-banner" id="periodBanner" hidden></div>
 
+  <div class="period-controls">
+    <div class="pill-group" id="periodPresets">
+      <button class="pill" data-preset="7" aria-pressed="false" type="button">直近7日</button>
+      <button class="pill" data-preset="30" aria-pressed="false" type="button">直近30日</button>
+      <button class="pill" data-preset="90" aria-pressed="false" type="button">直近90日</button>
+      <button class="pill" data-preset="all" aria-pressed="true" type="button">全期間</button>
+    </div>
+    <div class="date-range">
+      <input type="date" id="dateFromInput" aria-label="開始日" />
+      <span>〜</span>
+      <input type="date" id="dateToInput" aria-label="終了日" />
+    </div>
+  </div>
+
   <div class="controls">
     <div class="search">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>

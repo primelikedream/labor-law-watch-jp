@@ -3,12 +3,28 @@ const periodDays = params.has("days") ? Number(params.get("days")) : null;
 
 const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei", rosei_news: "rosei" };
 const STAGES = ["審議会検討", "国会提出・審議", "成立・公布", "施行"];
+const PRESETS = [
+  { key: "7", days: 7, label: "直近7日" },
+  { key: "30", days: 30, label: "直近30日" },
+  { key: "90", days: 90, label: "直近90日" },
+  { key: "all", days: null, label: "全期間" },
+];
+
+function todayIso() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function isoDaysAgo(days) {
+  return new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+}
 
 const state = {
   items: [],
   sources: new Set(["mhlw_news", "egov_law_update", "nikkei_news", "rosei_news"]),
   query: "",
   guidelineOnly: false,
+  dateFrom: periodDays ? isoDaysAgo(periodDays) : null,
+  dateTo: null,
 };
 
 async function loadItems() {
@@ -42,20 +58,43 @@ function renderStageTrack(stage) {
 }
 
 function withinPeriod(item) {
-  if (!periodDays) return true;
-  const cutoff = Date.now() - periodDays * 24 * 60 * 60 * 1000;
-  return new Date(item.publishedAt).getTime() >= cutoff;
+  const d = item.publishedAt.slice(0, 10);
+  if (state.dateFrom && d < state.dateFrom) return false;
+  if (state.dateTo && d > state.dateTo) return false;
+  return true;
 }
+
+function syncPeriodControls() {
+  document.getElementById("dateFromInput").value = state.dateFrom ?? "";
+  document.getElementById("dateToInput").value = state.dateTo ?? "";
+
+  const activePreset = PRESETS.find((p) => {
+    if (p.days === null) return !state.dateFrom && !state.dateTo;
+    return state.dateFrom === isoDaysAgo(p.days) && !state.dateTo;
+  });
+  document.querySelectorAll(".pill[data-preset]").forEach((btn) => {
+    btn.setAttribute("aria-pressed", String(activePreset?.key === btn.dataset.preset));
+  });
+}
+
+let bannerDismissed = false;
 
 function renderBanner(periodCount) {
   const banner = document.getElementById("periodBanner");
-  if (!periodDays) {
+  if (!periodDays || bannerDismissed) {
     banner.hidden = true;
     return;
   }
   const label = periodDays <= 1 ? "日次ダイジェスト" : `直近${periodDays}日間`;
   banner.hidden = false;
-  banner.innerHTML = `<span>${label}(${periodCount}件)を表示中</span><a href="./">すべてのトピックを見る →</a>`;
+  banner.innerHTML = `<span>${label}(${periodCount}件)を表示中</span><button type="button" id="periodBannerClear">すべての期間を見る →</button>`;
+  document.getElementById("periodBannerClear").addEventListener("click", () => {
+    bannerDismissed = true;
+    state.dateFrom = null;
+    state.dateTo = null;
+    syncPeriodControls();
+    render();
+  });
 }
 
 function renderStats() {
@@ -164,10 +203,32 @@ function setupControls() {
       render();
     });
   });
+
+  document.querySelectorAll(".pill[data-preset]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const preset = PRESETS.find((p) => p.key === btn.dataset.preset);
+      state.dateFrom = preset.days ? isoDaysAgo(preset.days) : null;
+      state.dateTo = null;
+      syncPeriodControls();
+      render();
+    });
+  });
+
+  document.getElementById("dateFromInput").addEventListener("change", (e) => {
+    state.dateFrom = e.target.value || null;
+    syncPeriodControls();
+    render();
+  });
+  document.getElementById("dateToInput").addEventListener("change", (e) => {
+    state.dateTo = e.target.value || null;
+    syncPeriodControls();
+    render();
+  });
 }
 
 async function init() {
   setupControls();
+  syncPeriodControls();
   try {
     await loadItems();
     renderStats();
