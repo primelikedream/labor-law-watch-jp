@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:13:38.611Z",
+  "updatedAt": "2026-08-26T01:15:33.624Z",
   "items": [
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
@@ -3820,6 +3820,18 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE9rTlFNS1V2VnRIQ2hPaTVjaS1tMmNIX2YxZ1AxZm0zOExuRGF0TWJOR2N3b1Y1Rk83WlRld09KdnlIbTN5M0x3NmtOT21VbUhXUHh3Q1dKNHVuNXM",
+      "source": "rosei_news",
+      "title": "【大阪開催】『企業のハラスメント対策、メンタルヘルス対応』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTlFNS1V2VnRIQ2hPaTVjaS1tMmNIX2YxZ1AxZm0zOExuRGF0TWJOR2N3b1Y1Rk83WlRld09KdnlIbTN5M0x3NmtOT21VbUhXUHh3Q1dKNHVuNXM?oc=5",
+      "publishedAt": "2023-06-01T14:20:15.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-26T01:15:28.107Z",
+      "summary": "【大阪開催】『企業のハラスメント対策、メンタルヘルス対応』(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T01:15:33.622Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5SSjZFNVVvYXk2NUU0SUo1MmVaMlgwR2hOeGV6dnJVQzRFXzRGY0tUWjFiTkdJS29aRlcyVUhpLTRKZE9ORFprQnJBZkV2NEVLT3VBOQ",
       "source": "rosei_news",
       "title": "雇用保険、２８年度加入拡大 週２０時間緩和、政府検討 子育て世帯を支援",
@@ -4429,6 +4441,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "年次有給休暇の時季指定権・時季変更権(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg",
+      "source": "rosei_news",
+      "title": "36協定の特別条項",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg?oc=5",
+      "publishedAt": "2019-04-01T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-26T01:15:28.107Z",
+      "summary": "36協定の特別条項(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T01:15:33.505Z",
       "isGuideline": false
     },
     {
