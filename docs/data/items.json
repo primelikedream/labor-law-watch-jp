@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:15:33.624Z",
+  "updatedAt": "2026-08-26T01:22:07.101Z",
   "items": [
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
@@ -3409,6 +3409,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "『超実践：ハラスメント相談・調査対応の実務』【半日】(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE0weXgwVDZEUEpJdFJCQ0tGbzhJaWdVQ1FOZHNmY3ItaTFyNXRsYS1DU2w1WmRVR2twVWx5d2ZVRXZPLVhrSlByZ2puVkR0UVdFNERSeA",
+      "source": "rosei_news",
+      "title": "予期せぬシステム障害への対応のため、時間外労働の上限規制を超える残業を行わせてもよいか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0weXgwVDZEUEpJdFJCQ0tGbzhJaWdVQ1FOZHNmY3ItaTFyNXRsYS1DU2w1WmRVR2twVWx5d2ZVRXZPLVhrSlByZ2puVkR0UVdFNERSeA?oc=5",
+      "publishedAt": "2024-07-26T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-26T01:22:02.237Z",
+      "summary": "予期せぬシステム障害への対応のため、時間外労働の上限規制を超える残業を行わせてもよいか(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-26T01:22:07.099Z",
       "isGuideline": false
     },
     {
