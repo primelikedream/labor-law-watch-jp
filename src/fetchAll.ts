@@ -4,6 +4,7 @@ import { collectNikkeiNews } from "./collectors/nikkei.js";
 import { collectRoseiNews } from "./collectors/rosei.js";
 import { summarizeItems } from "./summarize.js";
 import { classifyItems } from "./classify.js";
+import { clusterNewItems } from "./dedupe.js";
 import { loadData, mergeItems, saveData } from "./store.js";
 
 async function main() {
@@ -41,6 +42,10 @@ async function main() {
 
   console.log(`要約対象: ${merged.filter((item) => !item.summary).length}件`);
   await summarizeItems(merged);
+
+  const unclustered = merged.filter((item) => !item.storyId);
+  console.log(`クラスタリング対象: ${unclustered.length}件`);
+  await clusterNewItems(unclustered);
 
   const classified = classifyItems(merged);
 

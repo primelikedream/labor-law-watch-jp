@@ -13,12 +13,21 @@
 - **解説・ガイドライン**: 「リーフレット」「Q&A」「ガイドライン」等のキーワードで見出しを判定し、通常の告知と区別して表示・絞り込みできる([src/keywords.ts](src/keywords.ts) `isGuidelineTitle`)。
 - **法制化の進捗段階**: 「審議会検討 → 国会提出・審議 → 成立・公布 → 施行」の4段階を見出しキーワードから推定して表示する。e-Gov由来の項目のみ「施行」段階として確定情報。それ以外は見出しからの推定であり誤判定・未検出があり得る([src/keywords.ts](src/keywords.ts) `guessLegislativeStage`, [src/classify.ts](src/classify.ts))。正式な審議状況は[衆議院 議案情報](https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/menu_all.htm)を参照。
 
+## Claude APIキーがあると増える機能
+
+`ANTHROPIC_API_KEY` を設定すると、上記の高品質要約に加えて以下が有効になる(いずれも未設定時は自動的に無効化され、他の機能には影響しない):
+
+- **ソース横断の重複統合**([src/dedupe.ts](src/dedupe.ts)): 同じ出来事を複数ソース(e-Gov・厚労省・日経・労政時報)が報じている場合、Claudeに判定させて1つのカードにまとめ、代表記事の下に「関連: 日経新聞 労政時報」のようなリンクを添える。一度まとめたグループは変更しない。新規収集分だけを80件ずつバッチ処理するため、既存の大量データに初めて有効化した場合はその回にまとめて処理される。
+- **週次ダイジェストの記事化**([src/synthesize.ts](src/synthesize.ts)): 週次メールに、その週の主要な動きをテーマ別に整理した300〜450字程度の解説文を添える。日次メールは従来通りリンクのみ(ユーザーの希望により対象外)。
+
 ## 構成
 
 ```
-src/collectors/   データ収集 (MHLW RSS, e-Gov法令API, Googleニュース経由の日経見出し)
+src/collectors/   データ収集 (MHLW RSS, e-Gov法令API, Googleニュース経由の日経・労政時報見出し)
 src/classify.ts   進捗段階・解説ガイドライン分類 (収集のたび全項目に再適用)
 src/summarize.ts  Claude APIによる要約 (未設定時は簡易要約にフォールバック)
+src/dedupe.ts     Claude APIによるソース横断の重複統合 (未設定時は全件を単独記事として扱う)
+src/synthesize.ts Claude APIによる週次ダイジェストの記事化 (未設定時はリンクのみの簡易版)
 src/store.ts      docs/data/items.json への永続化・重複排除
 src/fetchAll.ts   収集→要約→保存 のエントリポイント (npm run fetch)
 src/digest.ts     日次/週次ダイジェスト生成・メール送信 (npm run digest:daily / digest:weekly)

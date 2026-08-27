@@ -2,6 +2,9 @@ const params = new URLSearchParams(location.search);
 const periodDays = params.has("days") ? Number(params.get("days")) : null;
 
 const SOURCE_CLASS = { egov_law_update: "law", nikkei_news: "nikkei", rosei_news: "rosei" };
+const SOURCE_LABEL = { mhlw_news: "厚労省", egov_law_update: "法令改正", nikkei_news: "日経新聞", rosei_news: "労政時報" };
+// 統合カードでどの記事を代表(主)表示にするかの優先順位(公式情報を優先)
+const SOURCE_PRIORITY = { egov_law_update: 0, mhlw_news: 1, nikkei_news: 2, rosei_news: 3 };
 const STAGES = ["審議会検討", "国会提出・審議", "成立・公布", "施行"];
 const PRESETS = [
   { key: "7", days: 7, label: "直近7日" },
@@ -57,6 +60,36 @@ function renderStageTrack(stage) {
     </div>`;
 }
 
+// storyIdが同じ項目(=同一の出来事を報じている項目)を1つの「ストーリー」にまとめる。
+// 代表記事(primary)は公式情報を優先し、進捗段階はグループ内で最も進んだ段階を採用する。
+function groupIntoStories(items) {
+  const byStory = new Map();
+  for (const item of items) {
+    const key = item.storyId || item.id;
+    if (!byStory.has(key)) byStory.set(key, []);
+    byStory.get(key).push(item);
+  }
+
+  return [...byStory.values()].map((members) => {
+    const sorted = [...members].sort(
+      (a, b) => (SOURCE_PRIORITY[a.source] ?? 9) - (SOURCE_PRIORITY[b.source] ?? 9),
+    );
+    const primary = sorted[0];
+    const related = sorted.slice(1);
+    const bestStage = members
+      .map((m) => m.stage)
+      .filter(Boolean)
+      .sort((a, b) => STAGES.indexOf(b) - STAGES.indexOf(a))[0];
+    return {
+      primary,
+      related,
+      dateKey: primary.publishedAt.slice(0, 10),
+      stage: bestStage,
+      isGuideline: members.some((m) => m.isGuideline),
+    };
+  });
+}
+
 function withinPeriod(item) {
   const d = item.publishedAt.slice(0, 10);
   if (state.dateFrom && d < state.dateFrom) return false;
@@ -108,7 +141,7 @@ function renderStats() {
   const guidelineCount = items.filter((i) => i.isGuideline).length;
 
   const stats = [
-    { n: items.length, l: "総トピック数", cls: "" },
+    { n: items.length, l: "総収集件数", cls: "" },
     { n: recent, l: "直近7日間", cls: "accent" },
     { n: lawCount, l: "法令改正", cls: "seal" },
     { n: newsCount, l: "厚労省 新着情報", cls: "" },
@@ -135,14 +168,15 @@ function render() {
     return true;
   });
 
-  document.getElementById("countLine").textContent = `${filtered.length}件のトピックを表示中`;
-  document.getElementById("emptyState").hidden = filtered.length !== 0;
+  const stories = groupIntoStories(filtered);
+
+  document.getElementById("countLine").textContent = `${stories.length}件のトピックを表示中`;
+  document.getElementById("emptyState").hidden = stories.length !== 0;
 
   const groups = new Map();
-  for (const item of filtered) {
-    const dateKey = item.publishedAt.slice(0, 10);
-    if (!groups.has(dateKey)) groups.set(dateKey, []);
-    groups.get(dateKey).push(item);
+  for (const story of stories) {
+    if (!groups.has(story.dateKey)) groups.set(story.dateKey, []);
+    groups.get(story.dateKey).push(story);
   }
   const sortedDates = [...groups.keys()].sort((a, b) => b.localeCompare(a));
 
@@ -152,19 +186,29 @@ function render() {
       const { d, y } = fmtDateLabel(dateKey);
       const cards = groups
         .get(dateKey)
-        .map((item) => {
+        .map((story) => {
+          const item = story.primary;
           const cls = SOURCE_CLASS[item.source] ?? "";
           const time = new Date(item.publishedAt).toLocaleTimeString("ja-JP", { hour: "2-digit", minute: "2-digit" });
+          const relatedRow = story.related.length
+            ? `<div class="related-row">関連: ${story.related
+                .map(
+                  (r) =>
+                    `<a class="chip ${SOURCE_CLASS[r.source] ?? ""}" href="${r.url}" target="_blank" rel="noopener">${SOURCE_LABEL[r.source] ?? r.category}</a>`,
+                )
+                .join("")}</div>`
+            : "";
           return `
             <article class="item ${cls}">
               <div class="item-top">
                 <span class="chip ${cls}">${escapeHtml(item.category)}</span>
-                ${item.isGuideline ? '<span class="chip outline">解説・ガイドライン</span>' : ""}
+                ${story.isGuideline ? '<span class="chip outline">解説・ガイドライン</span>' : ""}
                 <span class="item-time">${time}</span>
               </div>
               <p class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></p>
               <p class="item-summary">${escapeHtml(item.summary ?? "")}</p>
-              ${renderStageTrack(item.stage)}
+              ${renderStageTrack(story.stage)}
+              ${relatedRow}
             </article>`;
         })
         .join("");

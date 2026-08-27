@@ -354,6 +354,26 @@ a { color: inherit; }
   letter-spacing: 0.02em;
 }
 
+/* ---- Related sources (deduplicated story) ---- */
+.related-row {
+  margin-top: 0.55rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.related-row .chip {
+  text-decoration: none;
+  cursor: pointer;
+}
+.related-row .chip:hover {
+  filter: brightness(0.95);
+}
+
 .empty {
   text-align: center;
   color: var(--ink-faint);

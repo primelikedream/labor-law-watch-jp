@@ -16,6 +16,9 @@ export interface CollectedItem {
   // 見出しキーワードからの推定(egov由来の項目を除き正確性は保証しない)
   stage?: LegislativeStage;
   isGuideline?: boolean;
+  // 同一の出来事を報じている項目をまとめるためのグループID(未クラスタ化ならundefined)。
+  // 一度割り当てたら変更しない。単独記事の場合は自分自身のidを持つ。
+  storyId?: string;
 }
 
 export interface DataFile {
