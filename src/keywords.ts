@@ -95,10 +95,17 @@ export type LegislativeStage = "審議会検討" | "国会提出・審議" | "�
 const STAGE_PATTERNS: { stage: LegislativeStage; patterns: string[] }[] = [
   { stage: "成立・公布", patterns: ["成立", "公布"] },
   { stage: "国会提出・審議", patterns: ["国会提出", "法律案", "法案", "閣議決定", "要綱"] },
-  { stage: "審議会検討", patterns: ["審議会", "分科会", "検討会", "建議", "答申", "報告書"] },
+  { stage: "審議会検討", patterns: ["審議会", "分科会", "検討会", "建議", "報告書"] },
 ];
 
+// 最低賃金の改定は地方最低賃金審議会の答申→決定・公示という国会を通らない別建ての
+// 行政手続きであり、この4段階(法案が国会で成立し施行に至る過程)のモデルには乗らない。
+// 「審議会」等が見出しに含まれていても法制化の進捗として誤表示しないよう除外する。
+const MINIMUM_WAGE_RATE_PATTERN = /最低賃金.*(円|上げ|引き上げ|答申|発効)/;
+
 export function guessLegislativeStage(title: string): LegislativeStage | undefined {
+  if (MINIMUM_WAGE_RATE_PATTERN.test(title)) return undefined;
+
   for (const { stage, patterns } of STAGE_PATTERNS) {
     if (patterns.some((p) => title.includes(p))) return stage;
   }
