@@ -143,7 +143,7 @@ function renderStats() {
   const stats = [
     { n: items.length, l: "総収集件数", cls: "" },
     { n: recent, l: "直近7日間", cls: "accent" },
-    { n: lawCount, l: "法令改正", cls: "seal" },
+    { n: lawCount, l: "法令改正", cls: "law" },
     { n: newsCount, l: "厚労省 新着情報", cls: "" },
     { n: nikkeiCount, l: "日経新聞", cls: "nikkei" },
     { n: roseiCount, l: "労政時報", cls: "rosei" },

@@ -128,7 +128,7 @@ a { color: inherit; }
   line-height: 1;
 }
 .stat .n.accent { color: var(--accent); }
-.stat .n.seal { color: var(--seal); }
+.stat .n.law { color: var(--seal); }
 .stat .n.nikkei { color: var(--nikkei); }
 .stat .n.rosei { color: var(--rosei); }
 .stat .l {
