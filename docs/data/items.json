@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-08-26T10:31:40.639Z",
+  "updatedAt": "2026-08-27T07:48:40.006Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBlUDZmaFBaQTJ6N2pfcjItbERuaV81OUVLN2J0Y3ZZZkJhR2NNMFRDTlBqajBpX1Rnd2hsVmsyQm93YWZZeURBejZxTXVGMnY1LVQ1YkNKbFR6SXlub2piNmJMcER3bUtLb05CQQ",
+      "source": "nikkei_news",
+      "title": "山形県最低賃金、60円上げの1092円を答申 目安を4円上回る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlUDZmaFBaQTJ6N2pfcjItbERuaV81OUVLN2J0Y3ZZZkJhR2NNMFRDTlBqajBpX1Rnd2hsVmsyQm93YWZZeURBejZxTXVGMnY1LVQ1YkNKbFR6SXlub2piNmJMcER3bUtLb05CQQ?oc=5",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "山形県最低賃金、60円上げの1092円を答申 目安を4円上回る(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBJT3lGUHlkWk5neGxqM19nZzJlMFRjMTVzdXFGaWN2ZG1DZVlxelpBTFJ0eUJPVWZPVTZqRGxJUWE4SkF1UXRhNVRsbTktbUY4MFFSeGpwOU5BZ3ZJaUNFdnJuTVBMT1J3Um9TXw",
+      "source": "nikkei_news",
+      "title": "転職者半数が給与1割以上アップ、民間調査 専門職で引き合い強く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJT3lGUHlkWk5neGxqM19nZzJlMFRjMTVzdXFGaWN2ZG1DZVlxelpBTFJ0eUJPVWZPVTZqRGxJUWE4SkF1UXRhNVRsbTktbUY4MFFSeGpwOU5BZ3ZJaUNFdnJuTVBMT1J3Um9TXw?oc=5",
+      "publishedAt": "2026-08-27T05:08:41.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "転職者半数が給与1割以上アップ、民間調査 専門職で引き合い強く(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE0tbmV6Mk9LQTdwSzk4THFuVG03eEU1aXU5Qzl4a2hWNms0Wnh4QUVPbVBlQXJTWUktUFg4UzJyVll6SEhGXzFfYlB1U3NZSHAyNm1OaFNfNTItMERDaGhKSlp4ZXcxM3F1a0NXQQ",
+      "source": "nikkei_news",
+      "title": "森永乳業、職人のホイップ技術を自動化で再現 人手不足に対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbmV6Mk9LQTdwSzk4THFuVG03eEU1aXU5Qzl4a2hWNms0Wnh4QUVPbVBlQXJTWUktUFg4UzJyVll6SEhGXzFfYlB1U3NZSHAyNm1OaFNfNTItMERDaGhKSlp4ZXcxM3F1a0NXQQ?oc=5",
+      "publishedAt": "2026-08-27T04:54:32.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "森永乳業、職人のホイップ技術を自動化で再現 人手不足に対応(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFB1VHdEMlNpcHhGMlNEVXU5LWhBQ05jMmttWFNEWkFmTXBHQnZ4eEFZWkZVSWtDdG5zcllQaWFUQlZfanI3TWRDQVFIYUo0ekNRV1ozeA",
+      "source": "rosei_news",
+      "title": "賃上げ税制、平均給与要件 地方念頭に経産省要望へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1VHdEMlNpcHhGMlNEVXU5LWhBQ05jMmttWFNEWkFmTXBHQnZ4eEFZWkZVSWtDdG5zcllQaWFUQlZfanI3TWRDQVFIYUo0ekNRV1ozeA?oc=5",
+      "publishedAt": "2026-08-27T04:23:24.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "賃上げ税制、平均給与要件 地方念頭に経産省要望へ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAtc3k1blNBUVRvd1F5b1J6X1VxZ0lKY1RYb0Y2V2xlNnJtZjNLZ1ktcm5KSk9JM01YcFN0VkNxaG1yY04yTklhSFZDYkxHRXE0R1RSVjU0ZEtCbTdYMzBPa2daOEFOeUk1RVI2Sw",
+      "source": "nikkei_news",
+      "title": "転職市場「年収引き上げ続く」 パーソルキャリアの瀬野尾社長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtc3k1blNBUVRvd1F5b1J6X1VxZ0lKY1RYb0Y2V2xlNnJtZjNLZ1ktcm5KSk9JM01YcFN0VkNxaG1yY04yTklhSFZDYkxHRXE0R1RSVjU0ZEtCbTdYMzBPa2daOEFOeUk1RVI2Sw?oc=5",
+      "publishedAt": "2026-08-27T02:04:28.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "転職市場「年収引き上げ続く」 パーソルキャリアの瀬野尾社長(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75128.html",
       "source": "mhlw_news",
@@ -12,6 +73,42 @@
       "summary": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料(詳細は元記事を参照)",
       "summarizedAt": "2026-08-24T22:58:39.213Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMif0FVX3lxTE9xd2plNzdrVnptRjUwRkdhTnVvbXp3WFMxcmRlT2tvbWE2S3Nra3dER3dLN2dsTmExWmxzYU9aX2I3UFl3UFlCVmN0UXlyZi16MnlRMDFUSTl2elFJalZrNGwxRHJGUHdNS1p2dUR6XzRWSWU5WUxZMUNXNkZiUlU",
+      "source": "nikkei_news",
+      "title": "編集者の視点 ｢VWのリストラ､14万人に膨らむ恐れ｣",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xd2plNzdrVnptRjUwRkdhTnVvbXp3WFMxcmRlT2tvbWE2S3Nra3dER3dLN2dsTmExWmxzYU9aX2I3UFl3UFlCVmN0UXlyZi16MnlRMDFUSTl2elFJalZrNGwxRHJGUHdNS1p2dUR6XzRWSWU5WUxZMUNXNkZiUlU?oc=5",
+      "publishedAt": "2026-08-26T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "編集者の視点 ｢VWのリストラ､14万人に膨らむ恐れ｣(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBaRHpXVUlpNlN3WE9la19UUHgxbVQ0bHdIMkJFVDQxZkFtam1GMWRKNnhrd1IyeVpfNXRWaXQxb2U3czNYcjRLdVdyVXRleWlYYXBsRjdvcWd4WmI1SDY5MGVkS1V0V1hmbW5UWQ",
+      "source": "nikkei_news",
+      "title": "自動化で現場の人手不足を救う",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRHpXVUlpNlN3WE9la19UUHgxbVQ0bHdIMkJFVDQxZkFtam1GMWRKNnhrd1IyeVpfNXRWaXQxb2U3czNYcjRLdVdyVXRleWlYYXBsRjdvcWd4WmI1SDY5MGVkS1V0V1hmbW5UWQ?oc=5",
+      "publishedAt": "2026-08-26T17:02:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "自動化で現場の人手不足を救う(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1Bb0EtNGhWNXlfcGE3SHFGSXd3eEk3MGxuSExFZW96cElmVHh3eHdscktCSXhTZzI0SENtRDlTN2Y5dXVtbkpMek5uYklEMUppdlUwZ09QeGh3UkNSaXhaWWVvZjVOS1FmclhqYg",
+      "source": "nikkei_news",
+      "title": "AI時代の労働分配率（9）労働を節約する技術進歩",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bb0EtNGhWNXlfcGE3SHFGSXd3eEk3MGxuSExFZW96cElmVHh3eHdscktCSXhTZzI0SENtRDlTN2Y5dXVtbkpMek5uYklEMUppdlUwZ09QeGh3UkNSaXhaWWVvZjVOS1FmclhqYg?oc=5",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "AI時代の労働分配率（9）労働を節約する技術進歩(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -347,6 +444,18 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiygFBVV95cUxNOFp0ajRISzVBZDNxUFJBWFR6MVRqWHYwU2p1ZjRKZGcxRkd0eXB6QXZ0NUFIdnk4eEJKV1AtUlFUajctYm5XWHNFRmNvT08yUmxWOElKVkVuQUx5UmhWRjhOb3lueHVyRUtESkQwbExscExOMFlMWTNnckVaeGd5Q3NBTlB6S1JTMWVTSFRFUUpjRWw0N3hnbHgzbkwwUG90aTZKN1JwMGhONFFlWVIzM0ROM1lnbElLZVh6YS1DRnFNVm11SC1ZZ2xn",
+      "source": "nikkei_news",
+      "title": "ココがヘンだよ働き方改革",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFp0ajRISzVBZDNxUFJBWFR6MVRqWHYwU2p1ZjRKZGcxRkd0eXB6QXZ0NUFIdnk4eEJKV1AtUlFUajctYm5XWHNFRmNvT08yUmxWOElKVkVuQUx5UmhWRjhOb3lueHVyRUtESkQwbExscExOMFlMWTNnckVaeGd5Q3NBTlB6S1JTMWVTSFRFUUpjRWw0N3hnbHgzbkwwUG90aTZKN1JwMGhONFFlWVIzM0ROM1lnbElLZVh6YS1DRnFNVm11SC1ZZ2xn?oc=5",
+      "publishedAt": "2026-08-25T14:00:07.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "ココがヘンだよ働き方改革(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1YVnFWNmp5RzVobjlSNmtQWVBBbnhfMk95dC0yNmRfUmRiNmZaWUg0ZmlYSGJnZW5HNU9VQjhrVnZFVnVFUjYydEFSeU04V1czOW9RUg",
       "source": "rosei_news",
       "title": "月例賃金検討の際に用いる主要統計資料",
@@ -431,6 +540,18 @@
       "fetchedAt": "2026-08-25T23:01:02.741Z",
       "summary": "医療・介護への科学技術導入、7割以上が肯定的 26年版厚生労働白書(詳細は元記事を参照)",
       "summarizedAt": "2026-08-25T23:01:08.680Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiwwFBVV95cUxQY2EzVW14Q0o3UDREd1lvd3dTRzdfVVpvbmtOUHcyVzhmZmEyWnF4aUZwZUxDTjlsZVlVcHVPQnlGU25RQ1pjeHJrV2xsRUdOcUltUUI0YnVwLXBxRnJzTGhDVmpDYklYNkVMRW51RnFUT2s4YThYOTE3VUl5WGJ5QWhVbmdKMzdfc1Y0THhjSUdScF9mMUpGa1lxQmVoQW9nUmFGTTBibllkZDU0dEJLSVE1Vm5FQXg1dzVUbW1hTFZpRFE",
+      "source": "nikkei_news",
+      "title": "消費者や労働者を「スポンジ人間」にするな、AIを産学連携で人間中心に（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY2EzVW14Q0o3UDREd1lvd3dTRzdfVVpvbmtOUHcyVzhmZmEyWnF4aUZwZUxDTjlsZVlVcHVPQnlGU25RQ1pjeHJrV2xsRUdOcUltUUI0YnVwLXBxRnJzTGhDVmpDYklYNkVMRW51RnFUT2s4YThYOTE3VUl5WGJ5QWhVbmdKMzdfc1Y0THhjSUdScF9mMUpGa1lxQmVoQW9nUmFGTTBibllkZDU0dEJLSVE1Vm5FQXg1dzVUbW1hTFZpRFE?oc=5",
+      "publishedAt": "2026-08-25T03:50:08.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "消費者や労働者を「スポンジ人間」にするな、AIを産学連携で人間中心に（2ページ目）(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -2211,6 +2332,18 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1iYU84ZTZFcFY2b0hOaXZkQ2hLX2tGUXJINjVNdFBzdWlFUUFoLVZodktJUlotTnItcGJteWEwSU0wR2RCTnZWMUw0bnlxcFZjMFBRTw",
+      "source": "rosei_news",
+      "title": "春闘賃上げ率５・０２％ 連合傘下、６回目集計",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iYU84ZTZFcFY2b0hOaXZkQ2hLX2tGUXJINjVNdFBzdWlFUUFoLVZodktJUlotTnItcGJteWEwSU0wR2RCTnZWMUw0bnlxcFZjMFBRTw?oc=5",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "春闘賃上げ率５・０２％ 連合傘下、６回目集計(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9PbXZNT2hjS0R3bHlVUUc3UlBVRXJRQnowS2pUWk5xR1JOSnhmLVNRWVM0YzR2TXp2LW12Si1YQ05nVlZoV0I5SmI1cElyUkNFTmgwdA",
       "source": "rosei_news",
       "title": "障害者雇用改善へ議論 福祉と連携、厚労省",
@@ -2268,6 +2401,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "春闘賃上げ率５・０５％ 連合傘下、５回目集計(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBCd3RYdGFHbDJ3Q0xvN0RoUmNvangweW4yUndvdktyY2xTV0daVmFCUWdxUXMyRWtRa0VOOHVpNW41SXEyTjd6RkhsQWU4TUdBbkhMRQ",
+      "source": "rosei_news",
+      "title": "第5回・完 ハラスメントを防ぐポイントと、“ともに働く” 上で組織ができること",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCd3RYdGFHbDJ3Q0xvN0RoUmNvangweW4yUndvdktyY2xTV0daVmFCUWdxUXMyRWtRa0VOOHVpNW41SXEyTjd6RkhsQWU4TUdBbkhMRQ?oc=5",
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "第5回・完 ハラスメントを防ぐポイントと、“ともに働く” 上で組織ができること(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -2496,6 +2641,30 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "2026年賃上げの見通し(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5hell2b3h3Z2JEeURuOG5oY0NJaFRBQXFvMG43SlJNdnlNYXZ1U2ZEX2VmNnNlS0ZWaFRHU0pyTHZncUh5WWZNRzUyN1B0V1l2QXJuZA",
+      "source": "rosei_news",
+      "title": "労働組合を解散する際の留意点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hell2b3h3Z2JEeURuOG5oY0NJaFRBQXFvMG43SlJNdnlNYXZ1U2ZEX2VmNnNlS0ZWaFRHU0pyTHZncUh5WWZNRzUyN1B0V1l2QXJuZA?oc=5",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "労働組合を解散する際の留意点(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE1wWFZuZEVYSlFUM1A3aENWcWdVQVp2akhyOU5VUlJLc3FPRmFqUVFhR3BJWk41Q01pSFVoay1XTHlMZEkyNFBvdVVrVUNGYWd2blRmQlhTS24xUjBHNWxjQU5IUllIU2M",
+      "source": "nikkei_news",
+      "title": "「中卒高卒減少で人手不足加速、エッセンシャル職の進化を」法政大・山田教授",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wWFZuZEVYSlFUM1A3aENWcWdVQVp2akhyOU5VUlJLc3FPRmFqUVFhR3BJWk41Q01pSFVoay1XTHlMZEkyNFBvdVVrVUNGYWd2blRmQlhTS24xUjBHNWxjQU5IUllIU2M?oc=5",
+      "publishedAt": "2026-02-12T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-27T07:48:34.293Z",
+      "summary": "「中卒高卒減少で人手不足加速、エッセンシャル職の進化を」法政大・山田教授(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -3016,6 +3185,18 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBmQ01lOHJ1eWJuUldnaUxqYVFIaUJ2MjNJeXVyQkxZTDZYeGpmakpYX3JRaWJCQmdyR25QWlh3aTJSbXp6cnQzalBqSzVZdFhDMWZlRw",
+      "source": "rosei_news",
+      "title": "高知、残業割増率５０％に 全国初、長時間労働減狙い",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmQ01lOHJ1eWJuUldnaUxqYVFIaUJ2MjNJeXVyQkxZTDZYeGpmakpYX3JRaWJCQmdyR25QWlh3aTJSbXp6cnQzalBqSzVZdFhDMWZlRw?oc=5",
+      "publishedAt": "2025-09-10T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "高知、残業割増率５０％に 全国初、長時間労働減狙い(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiW0FVX3lxTE5DRnF4Y3ZKdkJ1Um1qd2g1TnRfbTl1US1FT1pQV2VuZWljRnBPUWFKbU1qTG14ZndWT25McGRhWWtmWjk4Tndid2VpT2RJRHpsamdlRXdLTDlOcmc",
       "source": "rosei_news",
       "title": "『60歳以降の再雇用制度・規程の見直し・運用の実務』",
@@ -3171,6 +3352,30 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "日銀、独自の賃上げ調査へ ２７年にも、政策判断に活用 労組ない企業の実態把握 短観に項目追加(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE8wYTNjVkNnd3EtbWh2bndOa1RpSzhlQzNHWTA3WXpTSl9UZkYxN3FMd2V0UFgyMzM4amtPSE5XbW1MVG9HaWwxWF9RdWY3OGJWdTNjVDRsSUlLWlU",
+      "source": "rosei_news",
+      "title": "『人材を惹きつける戦略的賃上げの実践』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wYTNjVkNnd3EtbWh2bndOa1RpSzhlQzNHWTA3WXpTSl9UZkYxN3FMd2V0UFgyMzM4amtPSE5XbW1MVG9HaWwxWF9RdWY3OGJWdTNjVDRsSUlLWlU?oc=5",
+      "publishedAt": "2025-05-03T04:58:25.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "『人材を惹きつける戦略的賃上げの実践』(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE4xY1c5dDRGV3JKT21SamNFazFiTFRPbXFfR1dtTzhVME1WamFaNXhKb1l6dEtBSU9EaEU4QVg4YzQwclE4eVJ6anhHTGRTenpmbENlSQ",
+      "source": "rosei_news",
+      "title": "人事労務関係の税務相談 - 第18回・完 退職・その他関係 ～退職時の年次有給休暇の買い上げに際して支給する金銭の税務上の取り扱いは？",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xY1c5dDRGV3JKT21SamNFazFiTFRPbXFfR1dtTzhVME1WamFaNXhKb1l6dEtBSU9EaEU4QVg4YzQwclE4eVJ6anhHTGRTenpmbENlSQ?oc=5",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "人事労務関係の税務相談 - 第18回・完 退職・その他関係 ～退職時の年次有給休暇の買い上げに際して支給する金銭の税務上の取り扱いは？(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -3352,6 +3557,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "冬のボーナス、過去最高額 主要企業、賃上げ反映か(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1iZG1zM1ZfakxhdGZGelpmWThQTDFycHQza05KLTRYQnhYQ01YNEpVQnFSTXNYR3AzdDQzQm9XUVU5bl84bHlZbHhpUkowZ3c5VE9UTQ",
+      "source": "rosei_news",
+      "title": "65歳超の定年後再雇用者を雇止めする際の留意点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iZG1zM1ZfakxhdGZGelpmWThQTDFycHQza05KLTRYQnhYQ01YNEpVQnFSTXNYR3AzdDQzQm9XUVU5bl84bHlZbHhpUkowZ3c5VE9UTQ?oc=5",
+      "publishedAt": "2025-01-10T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "65歳超の定年後再雇用者を雇止めする際の留意点(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
@@ -3715,6 +3932,19 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE82M0U3SEVPa2ZvTmRsNm1EbWNyclVzZDV0M3RFa3NUS29BbUdGelpESUpuMWFURXFIRi04bnRkZ0R3UlFMSzl3bk5uYU43aHdOUFFwRQ",
+      "source": "rosei_news",
+      "title": "「中堅企業」新設法成立へ 賃上げで税優遇",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82M0U3SEVPa2ZvTmRsNm1EbWNyclVzZDV0M3RFa3NUS29BbUdGelpESUpuMWFURXFIRi04bnRkZ0R3UlFMSzl3bk5uYU43aHdOUFFwRQ?oc=5",
+      "publishedAt": "2024-05-31T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "「中堅企業」新設法成立へ 賃上げで税優遇(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "stage": "成立・公布",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiW0FVX3lxTE9KVEowRThNZEdZbVE1REs3c2VHN2J2OVpDZWJMd1FaUWZrT0ZycFlrMFVPY2ctLTZMOUoxY1NDbXhNVnJtRC1JYnExX2dfdGhyVl9qdi1tM0tqaVE",
       "source": "rosei_news",
       "title": "【ZOOM開催】『令和6年度の労働基準監督署「重点指導項目」徹底解説』【半日】WEBセミナー",
@@ -3763,6 +3993,18 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBEVTB4TkwzYmpQT1EzR0lUWkRjUDRJNV9zNDdabnBDV1pMeW5MS0ZSdEg3UUVSYjVMVGxQXzV5ak4tOEZhMXZoVUVKUXFnbG1vMm9fMg",
+      "source": "rosei_news",
+      "title": "５％賃上げ、中小は２割 大企業と格差、財務省調べ 人件費転嫁でも苦慮",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEVTB4TkwzYmpQT1EzR0lUWkRjUDRJNV9zNDdabnBDV1pMeW5MS0ZSdEg3UUVSYjVMVGxQXzV5ak4tOEZhMXZoVUVKUXFnbG1vMm9fMg?oc=5",
+      "publishedAt": "2024-04-22T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "５％賃上げ、中小は２割 大企業と格差、財務省調べ 人件費転嫁でも苦慮(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5iWUFEUS1ua1hDTURzbGlrU3FVdGZaOWg0Y3BPZXdSQmNzYlpPZkd4OTE0bUl2SWVWZ2NsMWhkNE5jXzktd05LM05FNmhwd195UGpSRA",
       "source": "rosei_news",
       "title": "月給５万円で３００円負担 パートら雇用保険料",
@@ -3808,6 +4050,19 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "連合、春闘賃上げ５・２８％ 中間集計、３３年ぶり高水準 平均月額１万６千円超(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1xWlV4Y2hldk4wS0dhTDJCRWh2SzB2cjBnUEthckRGY21ncFRTRmt0Vk1xb2N5di12czZsbk1oTnA4cnA3NWYtcU1KTFdqdTBQa2M3VQ",
+      "source": "rosei_news",
+      "title": "男性育休、目標設定義務化 従業員１００人超の企業 厚労省、法案提出へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xWlV4Y2hldk4wS0dhTDJCRWh2SzB2cjBnUEthckRGY21ncFRTRmt0Vk1xb2N5di12czZsbk1oTnA4cnA3NWYtcU1KTFdqdTBQa2M3VQ?oc=5",
+      "publishedAt": "2024-02-26T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "男性育休、目標設定義務化 従業員１００人超の企業 厚労省、法案提出へ(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
+      "stage": "国会提出・審議",
       "isGuideline": false
     },
     {
@@ -4805,6 +5060,18 @@
       "fetchedAt": "2026-08-26T01:13:35.662Z",
       "summary": "賃金管理(詳細は元記事を参照)",
       "summarizedAt": "2026-08-26T01:13:38.609Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1uUHFjemV0VnFhUTBEUS1lQVJpSDFaSW1xWjQ3RmszQk1tUDhjOGdJWnNUM2ZzUVRTZlJPekhRUWNxU2x3Y3Q4Q3dvWFNnVFBVbFhhOQ",
+      "source": "rosei_news",
+      "title": "労働組合組織率",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uUHFjemV0VnFhUTBEUS1lQVJpSDFaSW1xWjQ3RmszQk1tUDhjOGdJWnNUM2ZzUVRTZlJPekhRUWNxU2x3Y3Q4Q3dvWFNnVFBVbFhhOQ?oc=5",
+      "publishedAt": "2010-12-05T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-27T07:48:34.294Z",
+      "summary": "労働組合組織率(詳細は元記事を参照)",
+      "summarizedAt": "2026-08-27T07:48:40.004Z",
       "isGuideline": false
     },
     {
