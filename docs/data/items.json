@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-28T22:08:47.318Z",
+  "updatedAt": "2026-08-29T22:08:30.641Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE4yR05DSkpZTWlYeS1QcG1SLWhXenZxUnhXQkpJc3liMWFBellocm5sbGdnZnNtRGJWYXlvbFA4aTVqRXZ1dVcxLWp2c21LQ0FQYnY2SWI1ckVFU2lnemx5Q2xTV3JBN18wVllfYw",
+      "source": "nikkei_news",
+      "title": "最低賃金「5%未満」の引き上げ率、にじむ政権との間合い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yR05DSkpZTWlYeS1QcG1SLWhXenZxUnhXQkpJc3liMWFBellocm5sbGdnZnNtRGJWYXlvbFA4aTVqRXZ1dVcxLWp2c21LQ0FQYnY2SWI1ckVFU2lnemx5Q2xTV3JBN18wVllfYw?oc=5",
+      "publishedAt": "2026-08-29T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-29T22:07:17.491Z",
+      "summary": "最低賃金の引き上げ率が5%未満にとどまる見通しとなり、政権の意向と審議会の判断との距離感が表れています。人事・労務担当者は今後の最低賃金改定の動向を注視し、自社の賃金水準の見直し検討が必要です。",
+      "summarizedAt": "2026-08-29T22:07:25.251Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE4yR05DSkpZTWlYeS1QcG1SLWhXenZxUnhXQkpJc3liMWFBellocm5sbGdnZnNtRGJWYXlvbFA4aTVqRXZ1dVcxLWp2c21LQ0FQYnY2SWI1ckVFU2lnemx5Q2xTV3JBN18wVllfYw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBWQW1Vci14OEpFZWc4YXhJc19Zc252QzRRbmZVYk1qMEN5MThtMmNOaVdQSm5NcG5jQTRmRlBnR1h4Qlp0elpubDViRGRkUE11dXhXYTBSc3lBUkxZc0ROSlNuUXpfeXU0TnZPcg",
+      "source": "nikkei_news",
+      "title": "「ホワハラ」転職検討者15%が経験 民間調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWQW1Vci14OEpFZWc4YXhJc19Zc252QzRRbmZVYk1qMEN5MThtMmNOaVdQSm5NcG5jQTRmRlBnR1h4Qlp0elpubDViRGRkUE11dXhXYTBSc3lBUkxZc0ROSlNuUXpfeXU0TnZPcg?oc=5",
+      "publishedAt": "2026-08-29T05:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-29T22:07:17.491Z",
+      "summary": "ホワイト企業を装いながら実際には過重労働などを強いる「ホワイトハラスメント(ホワハラ)」を、転職検討者の15%が経験していることが民間調査で判明した。採用時の労働条件と実態の乖離が離職要因となっており、企業は募集要項と実態の整合性確保が求められる。",
+      "summarizedAt": "2026-08-29T22:07:31.948Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBWQW1Vci14OEpFZWc4YXhJc19Zc252QzRRbmZVYk1qMEN5MThtMmNOaVdQSm5NcG5jQTRmRlBnR1h4Qlp0elpubDViRGRkUE11dXhXYTBSc3lBUkxZc0ROSlNuUXpfeXU0TnZPcg",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMifkFVX3lxTE1qTUc1TUZsNGp2RnE0UExjVXRzc1RENW1XVnZOcC1uMjliNlh6ZTRYTVZEcGE1NU1qN3ZxRU5ESXNCV2NMcVNaQlktSlFKUmZLdnprMW9GcndoT0ZpWGJjN1I4SFVTQkY0TS0xSEl4ZEtNcUhYRWlKcmxVUGlnQQ",
       "source": "nikkei_news",
@@ -28,6 +54,19 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE1UVVVNX19sM2E3enpCMnBNLVlhNHpIVGlPcHoxamxsZzUwLURFNWZKa3VySjNSNTBKZExQNUs1WElLNzNhalMtZ3R4cGtPQlo5TVFRMUdvUTRVTWVYbk1fRzZDdFRaMXRkR3luVA",
+      "source": "nikkei_news",
+      "title": "副業「やってみたい」27.6%に低下 出社回帰で本業忙しく",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVVVNX19sM2E3enpCMnBNLVlhNHpIVGlPcHoxamxsZzUwLURFNWZKa3VySjNSNTBKZExQNUs1WElLNzNhalMtZ3R4cGtPQlo5TVFRMUdvUTRVTWVYbk1fRzZDdFRaMXRkR3luVA?oc=5",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-29T22:07:17.491Z",
+      "summary": "副業への関心が27.6%に低下しており、出社回帰により本業が多忙になったことが背景にあります。人事担当者は、副業制度の利用状況が変化している可能性を認識し、従業員の働き方の実態把握と柔軟な制度運用の検討が必要です。",
+      "summarizedAt": "2026-08-29T22:07:28.068Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1UVVVNX19sM2E3enpCMnBNLVlhNHpIVGlPcHoxamxsZzUwLURFNWZKa3VySjNSNTBKZExQNUs1WElLNzNhalMtZ3R4cGtPQlo5TVFRMUdvUTRVTWVYbk1fRzZDdFRaMXRkR3luVA",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE93Zm4zMWc5SjVWUE8tVEh2VnhtTEZQNHM3LVplcWx6VWN1Q29IYlRfMF92SW5RNGJSTUZlZmFnRG1ULUNWYmRqbUhxTEU2UUpENndEQVNzMUtOSnM1S1VfTXRpd0Z5YjFOUE9ySw",
       "source": "nikkei_news",
       "title": "米雇用統計、年次改定で7.9万人下方修正へ 労働省3月時点推計",
@@ -51,6 +90,19 @@
       "summary": "この見出しは株式市場と為替相場に関する経済ニュースであり、労働法制の改正や企業の労務管理に関する内容ではありません。人事・労務担当者が対応すべき実務的な事項は含まれていないため、要約の対象外となります。",
       "summarizedAt": "2026-08-28T22:07:36.283Z",
       "storyId": "nikkei:CBMibEFVX3lxTE1LZ1E2alBXZVZrbnBPX0k1NFNsT3VTZFV2Z1M4S2JlaWhINlhtSUpiTHZ3aE13bWNNRm02ZXpjMGVHQjlkODQ3WXh2OEV2LVY0VThlOTIxd3dGQS1pTmYwdEkyZG1HUlVHRjJXcw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5EeEYzaml1M09XWm5ta3ZaTjJ0M1J4OFZ4RkVzRHNHajdzOWxKZVNOMkZsRFNlTzJDc1hDNlJ4Z3pRYThSUkppUVA4QmFxdGw5Q0t0eHk3cW45TTh0d0RSRVNmOFpqanctYUxqSQ",
+      "source": "nikkei_news",
+      "title": "横浜市長、パワハラで辞意 職員に「ポンコツ」、市政混乱で引責",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeEYzaml1M09XWm5ta3ZaTjJ0M1J4OFZ4RkVzRHNHajdzOWxKZVNOMkZsRFNlTzJDc1hDNlJ4Z3pRYThSUkppUVA4QmFxdGw5Q0t0eHk3cW45TTh0d0RSRVNmOFpqanctYUxqSQ?oc=5",
+      "publishedAt": "2026-08-28T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-08-29T22:07:17.491Z",
+      "summary": "横浜市長が職員への「ポンコツ」発言などパワハラ行為により辞意を表明した事例です。人事・労務担当者は、経営層・管理職層に対するハラスメント研修の徹底と、組織トップを含めた通報・対応体制の実効性確保が求められます。",
+      "summarizedAt": "2026-08-29T22:07:35.224Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE5EeEYzaml1M09XWm5ta3ZaTjJ0M1J4OFZ4RkVzRHNHajdzOWxKZVNOMkZsRFNlTzJDc1hDNlJ4Z3pRYThSUkppUVA4QmFxdGw5Q0t0eHk3cW45TTh0d0RSRVNmOFpqanctYUxqSQ",
       "isGuideline": false
     },
     {
@@ -3319,6 +3371,19 @@
       "storyId": "rosei:CBMiVEFVX3lxTE5hell2b3h3Z2JEeURuOG5oY0NJaFRBQXFvMG43SlJNdnlNYXZ1U2ZEX2VmNnNlS0ZWaFRHU0pyTHZncUh5WWZNRzUyN1B0V1l2QXJuZA"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1UOXo5di1iSEhPS3RrT0QxY2tzal9lSm5RSjRnNVRFNW1LUnVvUmtPbW5CTGZnQlI2VVh4ZkVmbkloMEZDakhJWEQ5WmxHRlY4Uy1Sdw",
+      "source": "rosei_news",
+      "title": "子を養育する労働者に対する「柔軟な働き方を実現するための措置」をパートタイマーに講じる際の留意点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UOXo5di1iSEhPS3RrT0QxY2tzal9lSm5RSjRnNVRFNW1LUnVvUmtPbW5CTGZnQlI2VVh4ZkVmbkloMEZDakhJWEQ5WmxHRlY4Uy1Sdw?oc=5",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "育児中の労働者への柔軟な働き方実現措置について、パートタイマーにも適用する際は、既存の短時間勤務や勤務時間帯など、個々の労働条件を考慮した上で実効性のある選択肢を提供できるよう留意が必要です。",
+      "summarizedAt": "2026-08-29T22:07:51.177Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE1UOXo5di1iSEhPS3RrT0QxY2tzal9lSm5RSjRnNVRFNW1LUnVvUmtPbW5CTGZnQlI2VVh4ZkVmbkloMEZDakhJWEQ5WmxHRlY4Uy1Sdw",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMiZ0FVX3lxTE1wWFZuZEVYSlFUM1A3aENWcWdVQVp2akhyOU5VUlJLc3FPRmFqUVFhR3BJWk41Q01pSFVoay1XTHlMZEkyNFBvdVVrVUNGYWd2blRmQlhTS24xUjBHNWxjQU5IUllIU2M",
       "source": "nikkei_news",
       "title": "「中卒高卒減少で人手不足加速、エッセンシャル職の進化を」法政大・山田教授",
@@ -3774,6 +3839,19 @@
       "storyId": "rosei:CBMiW0FVX3lxTE9aQmlQUTduS1pIZTJnTEthVEk3b0RhRGcwX2hpWktLZ2tRN1E2VkxwM1RaTHk5ZHJxMEF0eERRR0gyOUE3RG5NemI5UkFjU292U2VxeEhVRXQ3QWM"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBXbXpYVlZkcmZLbE5JVm1DeVVoZ240MTFrd2JYcFV2RjBub3ZIZUhaN1l2bVdfSkRKTmljZFV0Vm5hRmszZEwxdExQbGxKY01jUF9URA",
+      "source": "rosei_news",
+      "title": "実質賃金、安定的プラスを ２６年春闘、経団連指針原案 中小は「賃上げ疲れ」も",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXbXpYVlZkcmZLbE5JVm1DeVVoZ240MTFrd2JYcFV2RjBub3ZIZUhaN1l2bVdfSkRKTmljZFV0Vm5hRmszZEwxdExQbGxKY01jUF9URA?oc=5",
+      "publishedAt": "2025-10-28T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "2026年春闘に向けた経団連の指針原案では、実質賃金の安定的なプラス転換が目標として掲げられています。ただし中小企業では継続的な賃上げによる「賃上げ疲れ」の懸念もあり、企業規模による対応力の差に留意が必要です。",
+      "summarizedAt": "2026-08-29T22:08:25.711Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBXbXpYVlZkcmZLbE5JVm1DeVVoZ240MTFrd2JYcFV2RjBub3ZIZUhaN1l2bVdfSkRKTmljZFV0Vm5hRmszZEwxdExQbGxKY01jUF9URA",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBJTjZEdlpyRVFrbURIcjJobE51TjFyOFRIaXU3aU1JSWNiZk9RYzVhcGFINVV5WkZyZXBZeTRZWkhFSnE1Qy03cEN4cUIyWkFRcnpUQQ",
       "source": "rosei_news",
       "title": "初任給の大幅引き上げに伴う在籍者賃金調整の実務",
@@ -4087,6 +4165,19 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1NaGY3RWpkWFRCS2xaSzRvWTJLdGZxMGpHVy15cjRUd3ZKTlZ5TGNWYXdWRzF1amZYX2xza1NMUHQtaURUTlV2RHpQNU56YTRMZDR0MWJ6S080UjVKY2dtSTZ6MGo2MlVUbU13UA"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5PbThFdHlNQVcyOVY5V2FOMWVKc1pZdUdkSDRBcHY0elVIcjNXQU0tV2Rjd1d3XzB5LWJjdkRMTFlNOG5BeWFLVnE5WFhsbFVNNjhlRg",
+      "source": "rosei_news",
+      "title": "最低賃金改定、１１日から １５００円へ上げ幅焦点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PbThFdHlNQVcyOVY5V2FOMWVKc1pZdUdkSDRBcHY0elVIcjNXQU0tV2Rjd1d3XzB5LWJjdkRMTFlNOG5BeWFLVnE5WFhsbFVNNjhlRg?oc=5",
+      "publishedAt": "2025-07-06T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "最低賃金の改定が11日から実施されます。今後は1500円への引き上げ幅が焦点となるため、人事労務担当者は自社の賃金水準が最低賃金を下回らないよう確認し、必要に応じて給与改定の準備を進める必要があります。",
+      "summarizedAt": "2026-08-29T22:07:41.304Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE5PbThFdHlNQVcyOVY5V2FOMWVKc1pZdUdkSDRBcHY0elVIcjNXQU0tV2Rjd1d3XzB5LWJjdkRMTFlNOG5BeWFLVnE5WFhsbFVNNjhlRg",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFAyR3FsU1RaYlZWMTAzUlhzOUJHeTJVZ3pEOVhVU0djTzEwSDFGejJyWldGNkVaR0p0Y2ZhSUs1SkRZT3JyQlVWV3I3WVpreUJ4RnZnUQ",
       "source": "rosei_news",
       "title": "春闘賃上げ率５・２５％ ２年連続大台、連合集計 中小と格差、歯止めならず",
@@ -4375,6 +4466,19 @@
       "storyId": "rosei:CBMiggFBVV95cUxNNXB3RktLa2hvbGFOSWdOZ1lxbmpybmFhcHBJOG5BcERlZjBSVzBDTzB6azFQQkd2SmlMcDZPeUVTemVheUNtRkEtWEllWVZzMW9XVi1LQ2tiYTNSX2t1MFlzVl9CSncxR3ZMMHdZUHNfRk4zTFBVQXdFbm9uTmQzSEJ3"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE9NUElrd2ZtcnZabDh0Sk1Hemx0U1NjUHd3a1pjRXRZSnh1ODRzWmFPNjNJemFpZVQxT2w0VlJZRDlnX0dCWXJ5V3hkSkQ0X1lmdGRrdQ",
+      "source": "rosei_news",
+      "title": "中小、２年連続賃上げ５３％ 二極化進む、大同生命調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NUElrd2ZtcnZabDh0Sk1Hemx0U1NjUHd3a1pjRXRZSnh1ODRzWmFPNjNJemFpZVQxT2w0VlJZRDlnX0dCWXJ5V3hkSkQ0X1lmdGRrdQ?oc=5",
+      "publishedAt": "2025-02-01T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "大同生命の調査によると、中小企業の53%が2年連続で賃上げを実施した一方、賃上げ実施企業と非実施企業の二極化が進んでいることが明らかになりました。自社の賃上げ方針を検討する際、中小企業における賃上げ動向と企業間格差の拡大を参考情報として把握する必要があります。",
+      "summarizedAt": "2026-08-29T22:08:10.826Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9NUElrd2ZtcnZabDh0Sk1Hemx0U1NjUHd3a1pjRXRZSnh1ODRzWmFPNjNJemFpZVQxT2w0VlJZRDlnX0dCWXJ5V3hkSkQ0X1lmdGRrdQ",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBXT1VtZnBhLWtCTWo1ZlB4STJHX3pSQlhqLXFGbmx3TTRlc3JYQTkwZGZreEF5UU9XWS1abDhIX1pWREFiN01jd0tueXNwQzhzQWttdQ",
       "source": "rosei_news",
       "title": "外国人労働者２３０万人 １２・４％増で最多更新 特定技能は２０万人超",
@@ -4466,6 +4570,19 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBkTGV2eVZyQXVrc2hWeENOaHhqaklMTWI4WDk5RVE4aUx3SXJKNHdIZ2MyUndtNGdtYUxiY05RcjhxUVU5UnVNd1lOb3Z4eHYwZlNYRQ"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBXSzVfWjc1YS11cDlyak51bktIS0VadmhOWTdIbTZDd2RkVkFYS3JLeThqYV9wNzJxZEZkZWZmOWxwVC0xWEY1amlLdXBlTTFjdk1CNw",
+      "source": "rosei_news",
+      "title": "非正規春闘、目標１０％以上 労組連帯し賃上げ要求",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSzVfWjc1YS11cDlyak51bktIS0VadmhOWTdIbTZDd2RkVkFYS3JLeThqYV9wNzJxZEZkZWZmOWxwVC0xWEY1amlLdXBlTTFjdk1CNw?oc=5",
+      "publishedAt": "2024-12-02T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "非正規労働者の賃上げを求める春闘において、労働組合が連帯して10％以上の賃上げを目標に掲げる方針です。人事・労務担当者は非正規社員の処遇改善要求が強まる可能性を想定し、賃金交渉への対応準備が必要となります。",
+      "summarizedAt": "2026-08-29T22:08:16.686Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBXSzVfWjc1YS11cDlyak51bktIS0VadmhOWTdIbTZDd2RkVkFYS3JLeThqYV9wNzJxZEZkZWZmOWxwVC0xWEY1amlLdXBlTTFjdk1CNw",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBzMHdjUGhXZmlJN05rSnFkODZBUE5Mekx1UDVvVnEyUHE1ODBRWDBQMVRjbk1ZQkVMU1gwbDZ6YkF0ampRcHdGck9LZVBVR2xINTR2OQ",
       "source": "rosei_news",
       "title": "ハラスメント根絶へ法改正 「許さず」理念、明記検討 社会機運醸成で厚労省",
@@ -4516,6 +4633,19 @@
       "summarizedAt": "2026-08-26T01:13:38.608Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiW0FVX3lxTE5oc0VqYmt6TENndWFiRnZIUGRjLTQ5QU16ZGFHR0pSaG95aE1tXzA2YjRabTR1TWlvT3NlR2lXcXU4T3RUQzlxclFoMmxoQmMteDgtOTVRcTZyVnM"
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1URlBEYnFaQS1sc1pwenpZZERVWlJLODVtRC01SC1sZlZfOUtfbDNvcWdvSHpsdWZVRnRxX01LYjQ3N2laamdxWGRrVGVnQmdFUXlfSA",
+      "source": "rosei_news",
+      "title": "賃上げ初の１万円超え 月額平均、３年連続上昇 物価高で実質賃金は低迷",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1URlBEYnFaQS1sc1pwenpZZERVWlJLODVtRC01SC1sZlZfOUtfbDNvcWdvSHpsdWZVRnRxX01LYjQ3N2laamdxWGRrVGVnQmdFUXlfSA?oc=5",
+      "publishedAt": "2024-10-28T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "賃金が月額平均で初めて1万円を超える上昇となり3年連続で上昇しているものの、物価高により実質賃金は低迷しています。人事担当者は賃上げ動向を把握し、自社の賃金水準の妥当性を検証する必要があります。",
+      "summarizedAt": "2026-08-29T22:08:28.740Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE1URlBEYnFaQS1sc1pwenpZZERVWlJLODVtRC01SC1sZlZfOUtfbDNvcWdvSHpsdWZVRnRxX01LYjQ3N2laamdxWGRrVGVnQmdFUXlfSA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFBOQ2pxeU1ySFRKdUx1aDE3VGR3cUJTT3RMQXQ4b2tWZTdYWjE4MGFwbHJOSEpNTXpqRXR4ZWRZaTVoazNTZ2tER3ZSekhlV3U2eEtoTQ",
@@ -4633,6 +4763,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5MZDVHa0hOX0Y0OXktREdjNnhPdk1hTmNjUExsNkNsU1pmdUc2UlRuclJNMWFGZWtWYW9OdkFDb0xjOU5SUmEwZWplcTdFZ2kyUnRuaw"
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE40MmtnNDZKZlJ4Uzd6NGJkNFkxc2tHRDZtcHdrc1hsSUhDR0VqckhXbWJHN1l6dkpNQmtDWEpKX1N5emZ2V29jd3FMVUpZd0g3dDBGazRoZG9VcTA",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40MmtnNDZKZlJ4Uzd6NGJkNFkxc2tHRDZtcHdrc1hsSUhDR0VqckhXbWJHN1l6dkpNQmtDWEpKX1N5emZ2V29jd3FMVUpZd0g3dDBGazRoZG9VcTA?oc=5",
+      "publishedAt": "2024-09-02T05:02:06.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "労働基準法の基本的な内容や原則について解説する記事です。人事労務担当者として押さえておくべき労働時間、賃金、休暇等の基礎的なルールを確認し、日々の労務管理に活用することが求められます。",
+      "summarizedAt": "2026-08-29T22:07:58.085Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE40MmtnNDZKZlJ4Uzd6NGJkNFkxc2tHRDZtcHdrc1hsSUhDR0VqckhXbWJHN1l6dkpNQmtDWEpKX1N5emZ2V29jd3FMVUpZd0g3dDBGazRoZG9VcTA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE0tZ0dJbjNibldWZVk5VUU4dGxlX2xIXzJrUHBKcGFsRXVhQlBHSjZjQzcwb2p3SzQ4eGhDRmFzZmJ6cTJHUGNYYlJvYjNmTDlqZzQxVw",
@@ -4922,6 +5065,19 @@
       "storyId": "rosei:CBMiVEFVX3lxTE5iWUFEUS1ua1hDTURzbGlrU3FVdGZaOWg0Y3BPZXdSQmNzYlpPZkd4OTE0bUl2SWVWZ2NsMWhkNE5jXzktd05LM05FNmhwd195UGpSRA"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFA0Q2hJeU1yck1YTEtidW5PUFg5SmllVy1MY2dXdl9FRDFJZ2FlUV9RUWVCZzJveERoQ1cybmswSHozSU1YX2RpT1VLbTQxeXBoWDg4Xw",
+      "source": "rosei_news",
+      "title": "賃上げ３回目集計も５％台 連合傘下、高水準を維持",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0Q2hJeU1yck1YTEtidW5PUFg5SmllVy1MY2dXdl9FRDFJZ2FlUV9RUWVCZzJveERoQ1cybmswSHozSU1YX2RpT1VLbTQxeXBoWDg4Xw?oc=5",
+      "publishedAt": "2024-04-04T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "連合傘下の春闘賃上げ交渉において、3回目の集計結果でも5％台の高水準が維持されています。人事担当者は、自社の賃金水準が労働市場の動向と乖離していないか確認し、必要に応じて処遇改善を検討すべきです。",
+      "summarizedAt": "2026-08-29T22:08:13.606Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFA0Q2hJeU1yck1YTEtidW5PUFg5SmllVy1MY2dXdl9FRDFJZ2FlUV9RUWVCZzJveERoQ1cybmswSHozSU1YX2RpT1VLbTQxeXBoWDg4Xw",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5ZWlhNYUswUk84WFV0bUlONG8zcHlBX1RrQ19Mb25fSFl3dHJFc2tzSGwxUHdURUxiZGRmWjlBbDBYdmZYV1Fyd0U4Tjdmc0pkaDB6dQ",
       "source": "rosei_news",
       "title": "残業規制４業種でスタート 運転・建設・医師など 就労改善、人手不足深刻化",
@@ -5053,6 +5209,19 @@
       "storyId": "rosei:CBMiVEFVX3lxTE5zc0J2a1pkOVk3b3dCRGlBVTZNR0FUaXdfbkRDYVhaNmhLMUJkaUpzS0t3OXFkUDNQS1lWaEY4bVA0NmM3dGdFZFVERHhCV3hpQTFNQw"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBmQWZrc2ROclhWaVpKQmxDSTVCVE4zaGtBQ3o5TkNkT2lXazJpV21LcTJjZ0FNM1NzSVVOcC01eU5IZ04xdFhlb252ZkFVZENhQ1lJZg",
+      "source": "rosei_news",
+      "title": "『人事担当者のためのハラスメント防止研修ハンドブック ハラスメント防止研修の準備 実践 研修後まで』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmQWZrc2ROclhWaVpKQmxDSTVCVE4zaGtBQ3o5TkNkT2lXazJpV21LcTJjZ0FNM1NzSVVOcC01eU5IZ04xdFhlb252ZkFVZENhQ1lJZg?oc=5",
+      "publishedAt": "2024-01-26T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "人事担当者がハラスメント防止研修を企画・実施する際の実務手順を解説したハンドブックで、研修の準備段階から実施、研修後のフォローアップまでの一連のプロセスが網羅されています。社内研修の体系的な実施に活用できる実践的なガイドです。",
+      "summarizedAt": "2026-08-29T22:08:07.475Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBmQWZrc2ROclhWaVpKQmxDSTVCVE4zaGtBQ3o5TkNkT2lXazJpV21LcTJjZ0FNM1NzSVVOcC01eU5IZ04xdFhlb252ZkFVZENhQ1lJZg",
+      "isGuideline": true
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1JTFpoZFlzTFl2WGRsNEVhV3RmU2otVDJTbXRaTkwzcHRLelVXXzZPMXpFdmFqM3VMMVlJaWRnZU1kXzBSZTl1MnBUQ0dTdS04YjdsVA",
       "source": "rosei_news",
       "title": "賃上げ、昨年上回る水準を 経団連、４％以上念頭に 経労委報告、中小波及へ",
@@ -5090,6 +5259,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9WMEM5Wmo3ZjBCbUc5cmQ0ZnlmLV9pX1NUeGNSVllmNTRyZ2UyQ05tUU5MN0J6NnZPajdqZEZOUXR6VTFDdlF5TE1EUERCQUZjenNjTA"
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9QcTBWLXc4dXY1LUN1Q2FkTFdhaENVLUZjQzg3VXNIUGpNTlA0RFVLSjE4V2dGQ3k5OVB6U0cwU3p0S21RZ25ySjBrYVNtVFVVRUtDLQ",
+      "source": "rosei_news",
+      "title": "部下あり管理職の育児休業中に担当部署を廃止した場合、部下なし管理職として復帰させてもよいか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QcTBWLXc4dXY1LUN1Q2FkTFdhaENVLUZjQzg3VXNIUGpNTlA0RFVLSjE4V2dGQ3k5OVB6U0cwU3p0S21RZ25ySjBrYVNtVFVVRUtDLQ?oc=5",
+      "publishedAt": "2024-01-12T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "育児休業中に組織変更により担当部署が廃止された場合、管理職を部下なしのポストで復帰させることの適法性が問題となっています。育児休業からの復帰時には原則として原職相当のポストに配置する必要があり、不利益取扱いに該当しないか慎重な検討が求められます。",
+      "summarizedAt": "2026-08-29T22:08:01.324Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9QcTBWLXc4dXY1LUN1Q2FkTFdhaENVLUZjQzg3VXNIUGpNTlA0RFVLSjE4V2dGQ3k5OVB6U0cwU3p0S21RZ25ySjBrYVNtVFVVRUtDLQ",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE9DamtzakphRGVIeFVRMnlRSlNGaEdjTlE2bURFbUplZmhCSUFwbzRDVWFvNk8wTGYtQzQ4VnE2RHNpVk0xZXhNWXlhWTZ3RF92Sk1FOA",
@@ -5181,6 +5363,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9FYlBHc0xXLWY0dHVwaVJUR1ByOVRZMFBWd3Q2ai15NGRvUk1IWVdDSlFQd1ZKOUo0YzZVTFdEWmZkT0hCaF82cXVpWEpkelN6RHJLNA"
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE9IWXQyRC0tOS1rM2FhY3VtaEltNzR2ZkdCdjhYUVNsTUZvTVZLeWhMUGYtZF90aHhGYlVYeFlBZXp0OWJNOUVaQlVKN0dObEdqNHZlRENkNThUa2c",
+      "source": "rosei_news",
+      "title": "『労働組合からの団体交渉申入れに対する適切な対応』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWXQyRC0tOS1rM2FhY3VtaEltNzR2ZkdCdjhYUVNsTUZvTVZLeWhMUGYtZF90aHhGYlVYeFlBZXp0OWJNOUVaQlVKN0dObEdqNHZlRENkNThUa2c?oc=5",
+      "publishedAt": "2023-10-09T20:32:48.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "労働組合から団体交渉の申し入れがあった際に、使用者として法令上適切に対応するための実務的なポイントや留意点を解説した記事です。団交拒否による不当労働行為を避けるため、担当者は対応手順を確認しておく必要があります。",
+      "summarizedAt": "2026-08-29T22:07:44.588Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE9IWXQyRC0tOS1rM2FhY3VtaEltNzR2ZkdCdjhYUVNsTUZvTVZLeWhMUGYtZF90aHhGYlVYeFlBZXp0OWJNOUVaQlVKN0dObEdqNHZlRENkNThUa2c",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiTkFVX3lxTE5JbVBGanFIUG51cGd3TzZuaG43YmlEakxrSTZjdWRYcnhjd3E5blk5QmVSekh5aWo5VWw3aldITllBNHA4dVdUcmpRdzZ1UQ",
@@ -5324,6 +5519,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE4zNEQwWkZpRF9TR0lCeUlRYmVpZGZLOXhrVHJGbWhBNHVyak5DTHpwVEZrSV9PQ2Fsak8zSnlaRE56XzlkbXhrSXA0cDZKTTBrelIweQ"
+    },
+    {
+      "id": "rosei:CBMioAFBVV95cUxPMFYyYWxtSjFtYkRoYUFXY2x6WVpVSTZucGREM0JfZVlJNnp4Y1BweDBKZHhqdHY3QkEyc1E4VE55NW1FTUZGdzlSN3BsTjByVEd0TGwxWkdEZUNHbXdTNC0yRFIxbVZmbW0wSDQtNzF3NVpWR19qdC1LbV9sSnFmZXJqUlYwWDFick9kWXktNDNCRWg5akdiOGtfNzdPTk96",
+      "source": "rosei_news",
+      "title": "2023年賃上げの見通し",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFYyYWxtSjFtYkRoYUFXY2x6WVpVSTZucGREM0JfZVlJNnp4Y1BweDBKZHhqdHY3QkEyc1E4VE55NW1FTUZGdzlSN3BsTjByVEd0TGwxWkdEZUNHbXdTNC0yRFIxbVZmbW0wSDQtNzF3NVpWR19qdC1LbV9sSnFmZXJqUlYwWDFick9kWXktNDNCRWg5akdiOGtfNzdPTk96?oc=5",
+      "publishedAt": "2023-02-10T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "【要約】\n2023年の賃上げ動向に関する見通しを解説。人事・労務担当者は自社の賃金改定方針を検討する際の参考として、記事で示される賃上げ率の予測や業界動向を確認すべきです。\n\n(79字)",
+      "summarizedAt": "2026-08-29T22:08:19.756Z",
+      "storyId": "rosei:CBMioAFBVV95cUxPMFYyYWxtSjFtYkRoYUFXY2x6WVpVSTZucGREM0JfZVlJNnp4Y1BweDBKZHhqdHY3QkEyc1E4VE55NW1FTUZGdzlSN3BsTjByVEd0TGwxWkdEZUNHbXdTNC0yRFIxbVZmbW0wSDQtNzF3NVpWR19qdC1LbV9sSnFmZXJqUlYwWDFick9kWXktNDNCRWg5akdiOGtfNzdPTk96",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE81OWdJTi01MU5TM0FuVm9EZXJBYk05LVFVNEJ6Qy11NU1PUkxNMVB3eFN4a29FSGowVGltdUNlN0l4M3BXMVhqOXFhX2ZMVUoyRF9yZg",
@@ -5571,6 +5779,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiTEFVX3lxTE1ra2NEaXJPdlFoMGpYRE5rNDlreG9oUVYwSWJtMloyOVlycUMxZzhXOHBtcU9tOXg2WlE5ampvRHFxaFp5RzJkQ1p1c1U"
+    },
+    {
+      "id": "rosei:CBMiTEFVX3lxTE9xREtvaFp0SVZrbG5udDNJb3RRLWFHSjN3VkI4cmNNM1d2VURMb0wzNGJ3cDVsNnNiaEtPUUpYckFVNmYwOXBIYXVaODA",
+      "source": "rosei_news",
+      "title": "実務Q&Aシリーズ 退職・再雇用・定年延長",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xREtvaFp0SVZrbG5udDNJb3RRLWFHSjN3VkI4cmNNM1d2VURMb0wzNGJ3cDVsNnNiaEtPUUpYckFVNmYwOXBIYXVaODA?oc=5",
+      "publishedAt": "2022-04-05T07:16:23.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "【要約】\n退職手続き、定年後の再雇用制度、定年延長制度に関する実務上の疑問点について、Q&A形式で解説。人事担当者が直面する具体的な手続きや制度設計・運用上の留意点を確認できる内容となっています。\n\n(97字)",
+      "summarizedAt": "2026-08-29T22:07:38.378Z",
+      "storyId": "rosei:CBMiTEFVX3lxTE9xREtvaFp0SVZrbG5udDNJb3RRLWFHSjN3VkI4cmNNM1d2VURMb0wzNGJ3cDVsNnNiaEtPUUpYckFVNmYwOXBIYXVaODA",
+      "isGuideline": true
     },
     {
       "id": "rosei:CBMiTEFVX3lxTE9TZkVTVXRvT2k5SEs4cUo3cWxvQjFtRENMdDFiMnJZVHpuUVdTYWpEdXRKT1dfZFU3dDZCN3hnSU1JN1hmQTNzcUJXZ1k",
@@ -5846,6 +6067,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFAxZGthV2wzSS1UcUVQemFJX2dxeFU5MDJaSHJBRVZxUGE5LUlrWThsckkzNHdCcFhpaXdvc2F1S1JYQUhwTU41QkpxR1NoMnEtVnVfMA"
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE9WVFZZemZ6NEw0WXI4UEwwc180RlpNNlR3MWVSUkhZQjVCUndHTF9uLW9OQTFGVTUzT0g0VWxmTkhlN2ZhTkt2Z2tWaDVoMVo3MWhNQw",
+      "source": "rosei_news",
+      "title": "育休促進に「男性版産休」 取得働き掛け企業の義務 政府、改正案を閣議決定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WVFZZemZ6NEw0WXI4UEwwc180RlpNNlR3MWVSUkhZQjVCUndHTF9uLW9OQTFGVTUzT0g0VWxmTkhlN2ZhTkt2Z2tWaDVoMVo3MWhNQw?oc=5",
+      "publishedAt": "2021-02-26T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "政府が育児休業法改正案を閣議決定し、男性の育休取得を促進する「男性版産休」制度を創設するとともに、企業に対して従業員への取得働きかけを義務付けることとなりました。人事担当者は新制度の内容把握と、男性従業員への取得勧奨体制の整備が必要です。",
+      "summarizedAt": "2026-08-29T22:07:55.059Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9WVFZZemZ6NEw0WXI4UEwwc180RlpNNlR3MWVSUkhZQjVCUndHTF9uLW9OQTFGVTUzT0g0VWxmTkhlN2ZhTkt2Z2tWaDVoMVo3MWhNQw",
+      "stage": "国会提出・審議",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1wWnFwczZ5cTI0VXpXbHpacHJVYzhtY2hKdjZwZzZIN19XbzZja0QxLTZDcVlOVEY1dm1mRXRSX0NOYnJzSXhySzFTaU01aEFlaXlTYg",
       "source": "rosei_news",
       "title": "第173回 佐々木 勝 ―マネジメントとリーダーシップ：ハラスメント発生メカニズムを踏まえた新しい組織づくり",
@@ -5922,6 +6157,32 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBoV2xpdEZqY1QzeVVTVHVSQXVQQXhwR0kyMTBtWHhSRnktTFpDVEVNRnh6MjgxbkhrdmhNZ0ZwX2xmQUNmVnJ5M0U3ZkRZWUhQYXVPZQ"
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBNSlkwYXZTanB1UnJjSkdKOWFic3NzMTlhOGF0QTdOaHF2X2xyb2hZRDhWMWhoUWxjSEJ4NHB4eV9VU1JWS05KbnJHUkhRRFpiWjlIeQ",
+      "source": "rosei_news",
+      "title": "残業代控除の賃金規則「違法」と最高裁",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSlkwYXZTanB1UnJjSkdKOWFic3NzMTlhOGF0QTdOaHF2X2xyb2hZRDhWMWhoUWxjSEJ4NHB4eV9VU1JWS05KbnJHUkhRRFpiWjlIeQ?oc=5",
+      "publishedAt": "2020-03-30T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "最高裁判所が、残業代を控除する内容の賃金規則を違法と判断しました。人事労務担当者は自社の賃金規則に残業代控除の定めがないか確認し、該当する規定があれば見直しが必要です。",
+      "summarizedAt": "2026-08-29T22:08:22.613Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBNSlkwYXZTanB1UnJjSkdKOWFic3NzMTlhOGF0QTdOaHF2X2xyb2hZRDhWMWhoUWxjSEJ4NHB4eV9VU1JWS05KbnJHUkhRRFpiWjlIeQ",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA",
+      "source": "rosei_news",
+      "title": "『管理職のための ハラスメント予防＆対応ブック』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA?oc=5",
+      "publishedAt": "2020-02-28T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "管理職向けのハラスメント予防と対応に関する実務書が発行されました。人事担当者は本書を管理職研修の教材として活用し、ハラスメント発生の未然防止と発生時の適切な対応方法を管理職に習得させることが推奨されます。",
+      "summarizedAt": "2026-08-29T22:08:04.313Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5vRXg5Z0hNUGpiSE9JT0xOTzhoa0doSFFJTEhDRmhOOGFzSDJ1VGZWT0JkQjRBdFh2UzZ6em1xUjVIQm15RkFZYVZGRlhtbi05Q0h3RA",
@@ -6339,6 +6600,19 @@
       "summarizedAt": "2026-08-26T01:13:38.609Z",
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE4yYzdINU05RFBZUDJ4Nl9YOUhxWjdSWjE1TVJnTG96U1F3YzBCY2Y3U3hyYTQzMDZTZVFXdWxMRTUzc1dtTHJZeWVuSWVfNHpEeFdVRw"
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1QZHVEcmI0OGNtN3N2blNXMXEwdDR1M29hak5fb1hnWlhxOVpLVTVjWmh6NXhKWEFMYVVvaW9TQkpQLVVwTW4zcVFaWWwzZmo1cV8ybA",
+      "source": "rosei_news",
+      "title": "所定外賃金",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QZHVEcmI0OGNtN3N2blNXMXEwdDR1M29hak5fb1hnWlhxOVpLVTVjWmh6NXhKWEFMYVVvaW9TQkpQLVVwTW4zcVFaWWwzZmo1cV8ybA?oc=5",
+      "publishedAt": "2007-10-05T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-08-29T22:07:17.493Z",
+      "summary": "申し訳ございませんが、提供された情報は「所定外賃金」という単語のみで、法改正や制度変更の内容、時期、背景等が一切含まれていません。この見出しだけでは「何がどう変わるか/何をすべきか」を判断できないため、推測を避けて要約を作成することができません。記事本文や追加情報が必要です。",
+      "summarizedAt": "2026-08-29T22:07:48.471Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE1QZHVEcmI0OGNtN3N2blNXMXEwdDR1M29hak5fb1hnWlhxOVpLVTVjWmh6NXhKWEFMYVVvaW9TQkpQLVVwTW4zcVFaWWwzZmo1cV8ybA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5yY1VEck9CMHFkQ1Zwd0IxSGJCTkFZdWtDS3dQOGlDQTRqQjFoeVVCX25LNnRiSnUwR3RZQkM2UGt2RnVnaWItbkhrNHlVaDhwU3ZTcg",
