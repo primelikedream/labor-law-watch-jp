@@ -19,6 +19,9 @@ export interface CollectedItem {
   // 同一の出来事を報じている項目をまとめるためのグループID(未クラスタ化ならundefined)。
   // 一度割り当てたら変更しない。単独記事の場合は自分自身のidを持つ。
   storyId?: string;
+  // nikkei_news/rosei_newsが労働法規・人事制度の話題として妥当か判定済みか。
+  // true未設定のまま残る項目はない(対象外と判定された項目はストアから削除される)。
+  relevanceChecked?: boolean;
 }
 
 export interface DataFile {

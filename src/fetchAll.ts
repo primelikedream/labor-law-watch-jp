@@ -5,6 +5,7 @@ import { collectRoseiNews } from "./collectors/rosei.js";
 import { summarizeItems } from "./summarize.js";
 import { classifyItems } from "./classify.js";
 import { clusterNewItems } from "./dedupe.js";
+import { filterRelevantItems } from "./relevance.js";
 import { loadData, mergeItems, saveData } from "./store.js";
 
 async function main() {
@@ -40,14 +41,21 @@ async function main() {
   ]);
   console.log(`新規追加: ${addedCount}件 (合計 ${merged.length}件)`);
 
-  console.log(`要約対象: ${merged.filter((item) => !item.summary).length}件`);
-  await summarizeItems(merged);
+  const toCheck = merged.filter(
+    (item) => (item.source === "nikkei_news" || item.source === "rosei_news") && !item.relevanceChecked,
+  ).length;
+  console.log(`関連性チェック対象: ${toCheck}件`);
+  const relevant = await filterRelevantItems(merged);
+  console.log(`対象外として除外: ${merged.length - relevant.length}件 (残り ${relevant.length}件)`);
 
-  const unclustered = merged.filter((item) => !item.storyId);
+  console.log(`要約対象: ${relevant.filter((item) => !item.summary).length}件`);
+  await summarizeItems(relevant);
+
+  const unclustered = relevant.filter((item) => !item.storyId);
   console.log(`クラスタリング対象: ${unclustered.length}件`);
   await clusterNewItems(unclustered);
 
-  const classified = classifyItems(merged);
+  const classified = classifyItems(relevant);
 
   await saveData({ updatedAt: new Date().toISOString(), items: classified });
   console.log("保存完了: docs/data/items.json");
