@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-09-01T22:13:30.583Z",
+  "updatedAt": "2026-09-02T22:14:31.240Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8xSTBnblVhTy1aRVJ2c0d6OU9rY0ZFTE9kVWs2ckcweFdzTkQtbW9RUGpGclZFTVFReFhORnVWaGVKczRpbWRCM2IxbEFVMm1Nc3BLN09zVXAtN3V6MnZ2ZmVoc0VhNUtsVm9XZQ",
+      "source": "nikkei_news",
+      "title": "最低賃金上昇、地域経済に副作用も 森川正之氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xSTBnblVhTy1aRVJ2c0d6OU9rY0ZFTE9kVWs2ckcweFdzTkQtbW9RUGpGclZFTVFReFhORnVWaGVKczRpbWRCM2IxbEFVMm1Nc3BLN09zVXAtN3V6MnZ2ZmVoc0VhNUtsVm9XZQ?oc=5",
+      "publishedAt": "2026-09-02T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "# 要約\n\n最低賃金の引き上げが地域経済に何らかの負の影響を及ぼす可能性が指摘されています。人事・労務担当者は、賃金改定に伴う経営への影響を注視し、地域の経済動向も踏まえた対応が求められます。\n\n(98字)",
+      "summarizedAt": "2026-09-02T22:14:03.975Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE8xSTBnblVhTy1aRVJ2c0d6OU9rY0ZFTE9kVWs2ckcweFdzTkQtbW9RUGpGclZFTVFReFhORnVWaGVKczRpbWRCM2IxbEFVMm1Nc3BLN09zVXAtN3V6MnZ2ZmVoc0VhNUtsVm9XZQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE0yMVlZMnhGTS1TY1lsdVFCU2taN1lfQ0pMNldHT0w1NkQ4WGVWUTZiazBnTmZMNE1Zc0FLcmxqZkUzUW10UVBYYmNja3Fab0FDQktNVGE5bU43R01pTmp0NWFjdXNQbkJpQzlDVw",
+      "source": "nikkei_news",
+      "title": "四国の最低賃金、3県で国の目安上回る 「10月発効」意識の動きも",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yMVlZMnhGTS1TY1lsdVFCU2taN1lfQ0pMNldHT0w1NkQ4WGVWUTZiazBnTmZMNE1Zc0FLcmxqZkUzUW10UVBYYmNja3Fab0FDQktNVGE5bU43R01pTmp0NWFjdXNQbkJpQzlDVw?oc=5",
+      "publishedAt": "2026-09-02T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "四国4県のうち3県が、国の示した最低賃金引き上げの目安額を上回る改定を実施しました。一部地域では10月の発効時期を意識した動きも見られるため、労務担当者は自社事業所所在地の最低賃金改定額と発効日を確認し、給与改定の準備を進める必要があります。",
+      "summarizedAt": "2026-09-02T22:13:57.664Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE0yMVlZMnhGTS1TY1lsdVFCU2taN1lfQ0pMNldHT0w1NkQ4WGVWUTZiazBnTmZMNE1Zc0FLcmxqZkUzUW10UVBYYmNja3Fab0FDQktNVGE5bU43R01pTmp0NWFjdXNQbkJpQzlDVw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE44RFlSWXh0V0hsMDRmS19PNG9PdDJRU2dGeTJmeUlaVHhYWE4xZWRMT3lyRUZhbGtVOFgtbGlQMnYxVlBvMnV3T1diZ01YbVNUWTU0N0l0TjZqSGZOYl84dExVaEJpWHFsZnBvRQ",
+      "source": "nikkei_news",
+      "title": "長野県の最低賃金、答申通り1117円に 10月2日から",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44RFlSWXh0V0hsMDRmS19PNG9PdDJRU2dGeTJmeUlaVHhYWE4xZWRMT3lyRUZhbGtVOFgtbGlQMnYxVlBvMnV3T1diZ01YbVNUWTU0N0l0TjZqSGZOYl84dExVaEJpWHFsZnBvRQ?oc=5",
+      "publishedAt": "2026-09-02T09:57:19.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "長野県の最低賃金が10月2日から時給1117円に改定されます。人事・労務担当者は、対象従業員の賃金が新最低賃金を下回らないよう、施行日までに給与額の確認と必要に応じた引き上げ対応を行ってください。",
+      "summarizedAt": "2026-09-02T22:14:00.695Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE44RFlSWXh0V0hsMDRmS19PNG9PdDJRU2dGeTJmeUlaVHhYWE4xZWRMT3lyRUZhbGtVOFgtbGlQMnYxVlBvMnV3T1diZ01YbVNUWTU0N0l0TjZqSGZOYl84dExVaEJpWHFsZnBvRQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1PZDNUVzJ1NExpdEdBM1o4TS01NlVIOFdJbWtPaUEtTDZmWlRVT2tZUnpsb29fZWx6T3laZ003UXNncDQzYml4bEVMckJBUXNrWWF6aTVTbHp2elgwRmJpMUM2dGl0dXZIX1piZQ",
+      "source": "nikkei_news",
+      "title": "カスハラ経験者、7割以上が退職検討 3割は転職や退職申し出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PZDNUVzJ1NExpdEdBM1o4TS01NlVIOFdJbWtPaUEtTDZmWlRVT2tZUnpsb29fZWx6T3laZ003UXNncDQzYml4bEVMckJBUXNrWWF6aTVTbHp2elgwRmJpMUM2dGl0dXZIX1piZQ?oc=5",
+      "publishedAt": "2026-09-02T09:17:48.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "**要約:**\nカスタマーハラスメント被害を受けた従業員の7割超が退職を検討し、実際に3割が転職・退職を申し出ている実態が明らかになった。人材流出防止のため、カスハラ対策の強化が急務となる。\n\n(97字)",
+      "summarizedAt": "2026-09-02T22:14:09.952Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1PZDNUVzJ1NExpdEdBM1o4TS01NlVIOFdJbWtPaUEtTDZmWlRVT2tZUnpsb29fZWx6T3laZ003UXNncDQzYml4bEVMckJBUXNrWWF6aTVTbHp2elgwRmJpMUM2dGl0dXZIX1piZQ",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75762.html",
+      "source": "mhlw_news",
+      "title": "救急医療功労者及び産科医療功労者厚生労働大臣表彰式を開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75762.html",
+      "publishedAt": "2026-09-02T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-02T22:13:34.072Z",
+      "summary": "厚生労働省が救急医療および産科医療の分野で功労のあった個人・団体を対象とした大臣表彰式を開催します。労務・人事担当者が直接対応すべき法改正や制度変更はありません。",
+      "summarizedAt": "2026-09-02T22:13:45.672Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75762.html",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5pc2ZpUnNDdENyWkZvZTdQMlFHY0Q5ZWZrX2dyY3BLcngwZVBESlNZMGFTVE5udEs2SFdYTTg3bVUxdkJPQlNGSmctcHBJeTF4cVZESHpCb1hxam52RUZpaTdOWXZka19QMXliNQ",
+      "source": "nikkei_news",
+      "title": "介護報酬改定で「賃上げ実感」、従事者の3割どまり 民間調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pc2ZpUnNDdENyWkZvZTdQMlFHY0Q5ZWZrX2dyY3BLcngwZVBESlNZMGFTVE5udEs2SFdYTTg3bVUxdkJPQlNGSmctcHBJeTF4cVZESHpCb1hxam52RUZpaTdOWXZka19QMXliNQ?oc=5",
+      "publishedAt": "2026-09-02T04:17:22.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "2024年度の介護報酬改定により賃上げ措置が講じられたものの、民間調査によると実際に賃上げを実感している介護従事者は3割程度にとどまっていることが明らかになりました。介護事業者は報酬改定の効果を現場従事者に適切に還元できているか、賃金制度や配分方法を再確認する必要があります。",
+      "summarizedAt": "2026-09-02T22:14:13.697Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE5pc2ZpUnNDdENyWkZvZTdQMlFHY0Q5ZWZrX2dyY3BLcngwZVBESlNZMGFTVE5udEs2SFdYTTg3bVUxdkJPQlNGSmctcHBJeTF4cVZESHpCb1hxam52RUZpaTdOWXZka19QMXliNQ",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
+      "source": "mhlw_news",
+      "title": "キャリアコンサルタント更新講習について、講習一覧を更新しました",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
+      "publishedAt": "2026-09-02T02:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-02T22:13:34.072Z",
+      "summary": "キャリアコンサルタントの5年ごとの更新に必要な更新講習について、厚生労働省が実施機関や講習内容の一覧情報を更新しました。キャリアコンサルタント有資格者を雇用する企業は、従業員の更新時期を確認し最新の講習情報を共有してください。",
+      "summarizedAt": "2026-09-02T22:13:48.925Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant02.html",
+      "source": "mhlw_news",
+      "title": "キャリアコンサルタントとして活動している方へ（ホームページを更新しました）",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant02.html",
+      "publishedAt": "2026-09-02T02:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-02T22:13:34.072Z",
+      "summary": "キャリアコンサルタント登録者向けに厚生労働省のホームページが更新されました。現在キャリアコンサルタントとして活動している方は、最新の情報や制度変更等の確認のため、同省ホームページを確認することが推奨されます。",
+      "summarizedAt": "2026-09-02T22:13:51.591Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant02.html",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9BN2E5YWtyMVEyb1Y4cnE1U0VQV2hfd1VJdmJmX05QMFhOS05qX0Z4bkZzYXBEZFZuTU9MOUQ2ZWZ1clExb0M0MjdvTVNXRGRkQmVFTjF6U3Z0bGZQcnFlZ1JzdERsejlvZ2RBWA",
       "source": "nikkei_news",
@@ -55,6 +164,20 @@
       "summary": "【要約】\n東京ガスが男性育休取得率100%・平均68日を実現した3つの改革事例。人事・労務担当者は、自社の男性育休取得促進に向けた具体的施策の参考として、同社の取り組み内容を確認することが有用。",
       "summarizedAt": "2026-09-01T22:13:05.321Z",
       "storyId": "nikkei:CBMijAFBVV95cUxNemY3TGpSYmRNRm9sc0lTVm9FR0dNT0Q1UTBtdkdDUklpdG1jOWNmVDNJSl9NOHZoTzlXa2NQeVAwSTlhanE2NHduZ29VN1B1YUhJVmstZXVieWpTbkIyVjRQWXd3aXNLQWpXYUxmYlF5bUZrNG1VeTkzVmdYQkdERWhPdE0wRFE0dHUzYw",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75946.html",
+      "source": "mhlw_news",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75946.html",
+      "publishedAt": "2026-09-01T10:28:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-02T22:13:34.072Z",
+      "summary": "労働政策審議会人材開発分科会の第59回会合がオンライン併用形式で開催されます。人材育成や職業能力開発に関する施策の審議が行われる見込みのため、関連する制度改正の動向に注意が必要です。",
+      "summarizedAt": "2026-09-02T22:13:54.265Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75946.html",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -125,6 +248,20 @@
       "summary": "**要約(89字):**\n\n金属労協議長が2027年春闘に向けて賃上げの流れを定着・発展させる方針を表明しました。労務・人事担当者は、金属産業を中心とした賃上げ基調の継続が見込まれるため、今後の春闘動向や業界の賃上げ要求水準を注視し、自社の賃金改定方針の検討が必要です。",
       "summarizedAt": "2026-09-01T22:13:02.161Z",
       "storyId": "nikkei:CBMibEFVX3lxTE1GVXZyWDZnUTRwY1Y3UmVoTmM1R0N1UWQ3dUl2cG9KdGVBWDFiV2ttUVdidHgyYVFQWV9WNFI5a0JUdTVvNzNSYU0xbVZoUGxvYzRqZFNDOGdDYUlZQ0h4Tnc0LTJSZjZ1X0xBXw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMikwFBVV95cUxNOVJGc1JuRUdBM2Y0eGJ5dUhta0dTQUJudldMdS1IUEFNQzFZXzdSRTFaeGpDYnduQWEwMTgycWNrMVlLa1ZZV0tmQ09IVGd5ZHJGRGZrU0g0UWNPZUdsQWt6cmZzMVZjUU0xVlhKaFBHR0lTeGJzM1RaQzRHZG1JaU1fYUVjSmhWcVpQNm5LZGtNb00",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVJGc1JuRUdBM2Y0eGJ5dUhta0dTQUJudldMdS1IUEFNQzFZXzdSRTFaeGpDYnduQWEwMTgycWNrMVlLa1ZZV0tmQ09IVGd5ZHJGRGZrU0g0UWNPZUdsQWt6cmZzMVZjUU0xVlhKaFBHR0lTeGJzM1RaQzRHZG1JaU1fYUVjSmhWcVpQNm5LZGtNb00?oc=5",
+      "publishedAt": "2026-09-01T06:01:32.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-02T22:13:33.821Z",
+      "relevanceChecked": true,
+      "summary": "【要約】\n全国建設業労働災害防止大会が新潟で開催される。建設業の労務・人事担当者は、業界の安全衛生対策の最新動向や災害防止の取り組み事例を把握する機会として活用できる。\n\n（79字）",
+      "summarizedAt": "2026-09-02T22:14:06.855Z",
+      "storyId": "nikkei:CBMikwFBVV95cUxNOVJGc1JuRUdBM2Y0eGJ5dUhta0dTQUJudldMdS1IUEFNQzFZXzdSRTFaeGpDYnduQWEwMTgycWNrMVlLa1ZZV0tmQ09IVGd5ZHJGRGZrU0g0UWNPZUdsQWt6cmZzMVZjUU0xVlhKaFBHR0lTeGJzM1RaQzRHZG1JaU1fYUVjSmhWcVpQNm5LZGtNb00",
       "isGuideline": false
     },
     {
@@ -5595,6 +5732,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5iSndDbS1meEVvc1dvRnFzSlk5NllCMWplOGpMY3RKUzNZUnp6eHFnbS0yeHd5YlhGel91UDE2dTJWYmxpMklnLWQwd2tUWU9NQkhDZA",
+      "source": "rosei_news",
+      "title": "年次有給休暇の与え方",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iSndDbS1meEVvc1dvRnFzSlk5NllCMWplOGpMY3RKUzNZUnp6eHFnbS0yeHd5YlhGel91UDE2dTJWYmxpMklnLWQwd2tUWU9NQkhDZA?oc=5",
+      "publishedAt": "2022-02-01T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-02T22:13:33.823Z",
+      "relevanceChecked": true,
+      "summary": "労務担当者向けに、年次有給休暇の法的な付与要件、付与日数、時季指定義務などの基本的なルールと、実務上の適切な運用方法について解説した記事です。正確な年休管理のための実務対応の確認に活用できます。",
+      "summarizedAt": "2026-09-02T22:14:23.352Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE5iSndDbS1meEVvc1dvRnFzSlk5NllCMWplOGpMY3RKUzNZUnp6eHFnbS0yeHd5YlhGel91UDE2dTJWYmxpMklnLWQwd2tUWU9NQkhDZA",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBQMWlXRGJONUh1MW42azFXMkpYdGVBOEpKdHg3REF0Y0c2dDB1WlA3SGpGamdvdjNuVk9EWkNuUnNCeml6aFY0c2p5T05qbldmVVpIaw",
       "source": "rosei_news",
       "title": "経団連、賃上げ目標見送り 好業績企業にはベア促す ２２年春闘、経営側指針",
@@ -5694,6 +5845,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5obTA1dEFYVHVZYnF0c0JqVFNwNHFpaWNvWmlyMlBKRkt6MDVqNnJhZFJ4Rk1SREw4WFQxcDRqZEF2QW9lcGxiOHlBY3lfXzF0Z3B4ZA",
+      "source": "rosei_news",
+      "title": "経団連「一律賃上げ困難」 ベア、好業績なら選択肢 春闘指針、働き方も重視",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5obTA1dEFYVHVZYnF0c0JqVFNwNHFpaWNvWmlyMlBKRkt6MDVqNnJhZFJ4Rk1SREw4WFQxcDRqZEF2QW9lcGxiOHlBY3lfXzF0Z3B4ZA?oc=5",
+      "publishedAt": "2021-01-19T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-02T22:13:33.823Z",
+      "relevanceChecked": true,
+      "summary": "経団連が春闘指針で、業績に関わらない一律のベースアップは困難との見解を示し、好業績企業に限定した選択肢として位置付けました。賃上げ交渉では賃金のみならず、働き方改革への取り組みも重視する方針です。",
+      "summarizedAt": "2026-09-02T22:14:29.637Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE5obTA1dEFYVHVZYnF0c0JqVFNwNHFpaWNvWmlyMlBKRkt6MDVqNnJhZFJ4Rk1SREw4WFQxcDRqZEF2QW9lcGxiOHlBY3lfXzF0Z3B4ZA",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9PN0tnc2VCbzFNY3VFNWdWRW1NSmEwdjlTU19MUXM5SUthemo0RzZSV1hwekRheDdQRm8xbnlvSHZRc2dWVHZBOEoxMmZXN19fdkp2Yw",
       "source": "rosei_news",
       "title": "雇い止め、女性敗訴確定 育休復帰後、最高裁",
@@ -5750,6 +5915,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA",
+      "source": "rosei_news",
+      "title": "『管理職のための ハラスメント予防＆対応ブック』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA?oc=5",
+      "publishedAt": "2020-02-28T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-02T22:13:33.823Z",
+      "relevanceChecked": true,
+      "summary": "管理職を対象としたハラスメント予防と発生時の対応に関する実務ガイドです。人事労務担当者は、管理職研修の教材として活用し、予防策の徹底と適切な初動対応の体制整備に役立てることができます。",
+      "summarizedAt": "2026-09-02T22:14:16.561Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5vRXg5Z0hNUGpiSE9JT0xOTzhoa0doSFFJTEhDRmhOOGFzSDJ1VGZWT0JkQjRBdFh2UzZ6em1xUjVIQm15RkFZYVZGRlhtbi05Q0h3RA",
       "source": "rosei_news",
       "title": "第133回 長嶺超輝 ―人事労務に関わる社会人なら知っておきたい、労働判例の「味わい方」",
@@ -5762,6 +5941,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5vRXg5Z0hNUGpiSE9JT0xOTzhoa0doSFFJTEhDRmhOOGFzSDJ1VGZWT0JkQjRBdFh2UzZ6em1xUjVIQm15RkFZYVZGRlhtbi05Q0h3RA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBIV2NJSTlfVHAtZWhNWjJTX0NNMDV6bzNRak5WNzZucXB5Y3d2TEsxV0t6bV9wYW1aU1MyNU42cldZQkdWQ2NOdDQtYTFfMjAwbEppMw",
+      "source": "rosei_news",
+      "title": "年次有給休暇の時季指定権・時季変更権",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIV2NJSTlfVHAtZWhNWjJTX0NNMDV6bzNRak5WNzZucXB5Y3d2TEsxV0t6bV9wYW1aU1MyNU42cldZQkdWQ2NOdDQtYTFfMjAwbEppMw?oc=5",
+      "publishedAt": "2019-04-01T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-02T22:13:33.823Z",
+      "relevanceChecked": true,
+      "summary": "年次有給休暇における労働者の時季指定権と使用者の時季変更権について、それぞれの権利の行使要件や法的性質、運用上の留意点を解説した内容です。適切な権利行使のルールを理解し、労使トラブルを防ぐ運用体制の整備が求められます。",
+      "summarizedAt": "2026-09-02T22:14:26.430Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBIV2NJSTlfVHAtZWhNWjJTX0NNMDV6bzNRak5WNzZucXB5Y3d2TEsxV0t6bV9wYW1aU1MyNU42cldZQkdWQ2NOdDQtYTFfMjAwbEppMw",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE1GRy1reDRMY0k1T1NER3J0T2Z2SEdEUVlTcmZQUjhuOWhLX3NMOGJwa19YVGd0cTRvdk5lbFNxeXB1d2g1Z1VQbDJTdkV2T0pzbnpLcg",
@@ -5804,6 +5997,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBBNlNEaDJmVWw1ZjdYUjBkOU8wamxCemxXNFRtVHBZcEtvdGJGaENUZGhIQjZ4ZWF6UmxDZmR2S0g0amdxeC1oNTVCYlFFZFhTNV9wbA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBmUUtTaFVPNXloNWZTdE5iRERRX1laR2VXWFJGZC1qSHJFMHNzMjliS0VBSV9MSGdHMGxiV3JBY21LOXlOVHpManU1NmptMWVUeVNxdA",
+      "source": "rosei_news",
+      "title": "第11回 賃金台帳の整備と年次有給休暇の管理",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmUUtTaFVPNXloNWZTdE5iRERRX1laR2VXWFJGZC1qSHJFMHNzMjliS0VBSV9MSGdHMGxiV3JBY21LOXlOVHpManU1NmptMWVUeVNxdA?oc=5",
+      "publishedAt": "2015-08-03T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-02T22:13:33.823Z",
+      "relevanceChecked": true,
+      "summary": "【要約】\n賃金台帳は労働基準法により記載事項が定められており正確な整備が必要です。また年次有給休暇は取得日数・残日数を適切に管理し、年5日取得義務の履行状況を把握できる体制を整えることが求められます。\n\n(94字)",
+      "summarizedAt": "2026-09-02T22:14:19.695Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBmUUtTaFVPNXloNWZTdE5iRERRX1laR2VXWFJGZC1qSHJFMHNzMjliS0VBSV9MSGdHMGxiV3JBY21LOXlOVHpManU1NmptMWVUeVNxdA",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMi8wFBVV95cUxQR0NySHlNakc2RzA4Z0NqSk12NVZ5MkZNTC1vMzRuZXk5Rkc1WGlIXzhFc0QzaHRrOGY3SVhkMXRnZHpHazhHLW1PQ3pYRERQdjB1aldNbUplY2hNRDlCVGRnUzRDQ1VlS2RyZUl5MzJxNFluVVQ1c0xmR253X29hM0VfN29nME0wbXZMakFVbk5mN1gzQV96V3hGTkxlTHBTeUxwcU1fVXdDNUVtYTdVaVp3NG5ndTBCZm00amRaY0ZuVGtIMlh3czJvcnFEaEU5WGFwWTRteGo3Wno3dlpDVjRja3NaT2ZPOUluRktvSmN3clE",
