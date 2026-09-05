@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-04T22:15:30.027Z",
+  "updatedAt": "2026-09-05T22:13:16.359Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1vbEgyaXh2cHdpcUl4eVlIa3E0YXNQVS1nd05GMFMzMzJoRk5zNWZMd2ticUs0UVB6TXpTQWV4SXVPTHhsNERjYlhCRXlBLXRBUFlmOWRPemJkZjNZbUlieHk1Q2pGLTFQNGhKZw",
+      "source": "nikkei_news",
+      "title": "〈労働臨界〉労働需給、国推計なぜ「均衡」 40年、民間では「1100万人不足」 AI時代前提の青写真",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vbEgyaXh2cHdpcUl4eVlIa3E0YXNQVS1nd05GMFMzMzJoRk5zNWZMd2ticUs0UVB6TXpTQWV4SXVPTHhsNERjYlhCRXlBLXRBUFlmOWRPemJkZjNZbUlieHk1Q2pGLTFQNGhKZw?oc=5",
+      "publishedAt": "2026-09-05T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-05T22:12:38.893Z",
+      "relevanceChecked": true,
+      "summary": "2040年の労働需給について、政府は均衡すると推計する一方、民間予測では1100万人不足するとの見方もあり、AI時代を見据えた労働力確保策の検討が必要です。人事担当者は政府・民間双方の予測を踏まえ、中長期的な人材戦略の見直しを進めるべきでしょう。",
+      "summarizedAt": "2026-09-05T22:12:50.566Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1vbEgyaXh2cHdpcUl4eVlIa3E0YXNQVS1nd05GMFMzMzJoRk5zNWZMd2ticUs0UVB6TXpTQWV4SXVPTHhsNERjYlhCRXlBLXRBUFlmOWRPemJkZjNZbUlieHk1Q2pGLTFQNGhKZw",
+      "isGuideline": false
+    },
     {
       "id": "egov:361M50000800001:20261001",
       "source": "egov_law_update",
@@ -542,6 +556,20 @@
       "summary": "# 要約\n\n最低賃金の引き上げが地域経済に何らかの負の影響を及ぼす可能性が指摘されています。人事・労務担当者は、賃金改定に伴う経営への影響を注視し、地域の経済動向も踏まえた対応が求められます。\n\n(98字)",
       "summarizedAt": "2026-09-02T22:14:03.975Z",
       "storyId": "nikkei:CBMibEFVX3lxTE8xSTBnblVhTy1aRVJ2c0d6OU9rY0ZFTE9kVWs2ckcweFdzTkQtbW9RUGpGclZFTVFReFhORnVWaGVKczRpbWRCM2IxbEFVMm1Nc3BLN09zVXAtN3V6MnZ2ZmVoc0VhNUtsVm9XZQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9ZTk1qaEd6NFgxZ2ozaW84dEJZZzJyUDBSbUZMRHBydGlCYlQ3S2prWkVkRnh1NFUta01HU2hNS2g3OWsxTFdKTDI4czJWbUtlamJWQTVRVWh3V2RoaEJpZ3owdGlKQjhleG5lcA",
+      "source": "nikkei_news",
+      "title": "『スポーツとハラスメント』高峰修著 藤島大氏が選ぶ一冊",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTk1qaEd6NFgxZ2ozaW84dEJZZzJyUDBSbUZMRHBydGlCYlQ3S2prWkVkRnh1NFUta01HU2hNS2g3OWsxTFdKTDI4czJWbUtlamJWQTVRVWh3V2RoaEJpZ3owdGlKQjhleG5lcA?oc=5",
+      "publishedAt": "2026-09-02T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-05T22:12:38.893Z",
+      "relevanceChecked": true,
+      "summary": "この見出しは書籍紹介記事であり、労働法制の改正や企業の実務対応に関する情報ではありません。スポーツ分野におけるハラスメントをテーマとした著作の書評記事と思われ、人事労務担当者向けの制度変更や対応事項は含まれていません。",
+      "summarizedAt": "2026-09-05T22:12:59.708Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE9ZTk1qaEd6NFgxZ2ozaW84dEJZZzJyUDBSbUZMRHBydGlCYlQ3S2prWkVkRnh1NFUta01HU2hNS2g3OWsxTFdKTDI4czJWbUtlamJWQTVRVWh3V2RoaEJpZ3owdGlKQjhleG5lcA",
       "isGuideline": false
     },
     {
@@ -4787,6 +4815,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMib0FVX3lxTE1iVHpQQTZhOHdDM19Zank2Rm1lQnRwWmtWZHl6NExEbVNMQXlVcy0xbmFvYk9YUE5nUUR2dUducEpuaUVZODBnc0xwWF9rb1NmTHJpOHFzWnE3dUszNlVGTXhnR2hLXzNtZFE2TlZUZw",
+      "source": "nikkei_news",
+      "title": "ゲーム活用のeスポーツ研修 重要性増す障害者雇用の理解深める",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVHpQQTZhOHdDM19Zank2Rm1lQnRwWmtWZHl6NExEbVNMQXlVcy0xbmFvYk9YUE5nUUR2dUducEpuaUVZODBnc0xwWF9rb1NmTHJpOHFzWnE3dUszNlVGTXhnR2hLXzNtZFE2TlZUZw?oc=5",
+      "publishedAt": "2025-07-09T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-05T22:12:38.893Z",
+      "relevanceChecked": true,
+      "summary": "障害者雇用への理解促進を目的として、eスポーツ(ゲーム)を活用した新たな研修手法が登場しています。障害者雇用の重要性が高まる中、人事・労務担当者は従来と異なる研修アプローチの導入を検討する必要があります。",
+      "summarizedAt": "2026-09-05T22:12:53.434Z",
+      "storyId": "nikkei:CBMib0FVX3lxTE1iVHpQQTZhOHdDM19Zank2Rm1lQnRwWmtWZHl6NExEbVNMQXlVcy0xbmFvYk9YUE5nUUR2dUducEpuaUVZODBnc0xwWF9rb1NmTHJpOHFzWnE3dUszNlVGTXhnR2hLXzNtZFE2TlZUZw",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5PbThFdHlNQVcyOVY5V2FOMWVKc1pZdUdkSDRBcHY0elVIcjNXQU0tV2Rjd1d3XzB5LWJjdkRMTFlNOG5BeWFLVnE5WFhsbFVNNjhlRg",
       "source": "rosei_news",
       "title": "最低賃金改定、１１日から １５００円へ上げ幅焦点",
@@ -5417,6 +5459,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBIUC1CbGdpTnh4ZVE5SU5aQ3g0SHZmUUs2TU11eE4yZ3dRdXJlUzlyVV9hNjdlMzZqeUVMQ0E4MU9zc2tvb25jeDJES01GdnFZT2tfeg",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE1ZMFR6SzItZnBEaWZUOGxKYXVXdWtzdElwVWVuVG00MGg3RDZEZkhPYk55Q0JzbUZNWkFQMGpyNnp2eHg2U1BWZjhuTnBOdGx5ZnlXbVhyLUQzR0E",
+      "source": "rosei_news",
+      "title": "『賃上げ交渉に向けた業績・賃金データの徹底検証』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZMFR6SzItZnBEaWZUOGxKYXVXdWtzdElwVWVuVG00MGg3RDZEZkhPYk55Q0JzbUZNWkFQMGpyNnp2eHg2U1BWZjhuTnBOdGx5ZnlXbVhyLUQzR0E?oc=5",
+      "publishedAt": "2024-10-01T15:33:31.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-05T22:12:38.894Z",
+      "relevanceChecked": true,
+      "summary": "【要約】\n賃上げ交渉を効果的に進めるため、自社の業績データと賃金水準に関するデータを多角的に分析・検証し、交渉の根拠となる客観的な資料を準備することが求められます。\n\n(79字)",
+      "summarizedAt": "2026-09-05T22:13:14.534Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE1ZMFR6SzItZnBEaWZUOGxKYXVXdWtzdElwVWVuVG00MGg3RDZEZkhPYk55Q0JzbUZNWkFQMGpyNnp2eHg2U1BWZjhuTnBOdGx5ZnlXbVhyLUQzR0E",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5nNVBITV9KcXBlc0M2Vk9PNS1kU0dJRS1wQW1rZEQ3MERjeGJ5YmNXS1RScVJpbzViRTlKbzFWR3Z0SU5xSW52d0EtMjNtaEo1M3B5SA",
@@ -6205,6 +6261,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE1QaUxKQ0dTMS1UWEdLN1pHQlRxZ081bjRvT3ZXZ3dVX28zZ1d4OXVNMVpzaEJ3V0RfNkpzeFFBQ0c0QVZYME1vaGlnamFicU16UHJRNG9SV0xpV1U",
+      "source": "rosei_news",
+      "title": "【大阪開催】『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QaUxKQ0dTMS1UWEdLN1pHQlRxZ081bjRvT3ZXZ3dVX28zZ1d4OXVNMVpzaEJ3V0RfNkpzeFFBQ0c0QVZYME1vaGlnamFicU16UHJRNG9SV0xpV1U?oc=5",
+      "publishedAt": "2023-06-01T23:31:05.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-05T22:12:38.894Z",
+      "relevanceChecked": true,
+      "summary": "大阪で開催される労働基準法の基礎知識に関するセミナーまたは研修のご案内です。労務・人事担当者が労働基準法の基本的な内容を学ぶ機会となります。",
+      "summarizedAt": "2026-09-05T22:13:05.370Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE1QaUxKQ0dTMS1UWEdLN1pHQlRxZ081bjRvT3ZXZ3dVX28zZ1d4OXVNMVpzaEJ3V0RfNkpzeFFBQ0c0QVZYME1vaGlnamFicU16UHJRNG9SV0xpV1U",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1sbjFoSmZzUUZfN3ZZUm5fS2lCUGdNWENIVWlCNEE1WmU5eEozblpWQWdDcXF1MWQ5a296cjhMeHdXM2hhM3BwWjFVeU55Rjl5N3lOZw",
       "source": "rosei_news",
       "title": "厚生年金加入拡大を議論 短時間労働者や個人事業所",
@@ -6343,6 +6413,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5ET1lPbXlReTNNbDJubFY5MUFld2NIY0U0aVV4Zm9nRmUxdDFzMlpMc0kxeHNZQWdiVHcxdE1uQjA2Wk12MXFMNEhZc0kyTVR1aHVGcg",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE1BMmw5THFPVHhFVFJnZXRQZGk5Y21jSXA4My11a0hJRWhwTkRqTkhEdy1LQ1FjVWtGQm83S3V1OEcxVkQzSlJ2LWRwbEVyVlEzUy1NZmlWMnRwS0U",
+      "source": "rosei_news",
+      "title": "『企業のハラスメント防止と相談・調査対応の実務ポイント』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BMmw5THFPVHhFVFJnZXRQZGk5Y21jSXA4My11a0hJRWhwTkRqTkhEdy1LQ1FjVWtGQm83S3V1OEcxVkQzSlJ2LWRwbEVyVlEzUy1NZmlWMnRwS0U?oc=5",
+      "publishedAt": "2023-01-17T08:59:54.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-05T22:12:38.894Z",
+      "relevanceChecked": true,
+      "summary": "企業に求められるハラスメント防止体制の整備について、相談窓口の設置・運用方法や、ハラスメント事案発生時の調査手順など、実務上押さえるべき対応のポイントを解説した内容です。",
+      "summarizedAt": "2026-09-05T22:13:08.033Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE1BMmw5THFPVHhFVFJnZXRQZGk5Y21jSXA4My11a0hJRWhwTkRqTkhEdy1LQ1FjVWtGQm83S3V1OEcxVkQzSlJ2LWRwbEVyVlEzUy1NZmlWMnRwS0U",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5FS2lTRmpIaWJFTjI0MFlPbko0NmpkYzlycmxGcEFIRG81QmFfYjhMSVE4QVRWbkJjMUZDejlXMTE0OVBUMXhsOXlZbnh3UFdDeGRKUQ",
@@ -6594,6 +6678,20 @@
       "summary": "「働き方改革時代の規程集」は、働き方改革関連法に対応した就業規則や社内規程の整備・見直しに関する参考資料と考えられます。人事労務担当者は自社の規程が法改正に適合しているか確認し、必要に応じて改定を検討すべきです。",
       "summarizedAt": "2026-09-04T22:14:19.252Z",
       "storyId": "rosei:CBMiTEFVX3lxTE5PT0RpV3hJQjUwRVlNWXM2TmJGT2xTaDdIcWs3QzRuTlBLSVIxTERNbjVxQ1lJWEh3VFZOdnlFVEJra0R2Sm5GbkxlM00",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiTEFVX3lxTE81SjdENVpWVTBKYjczN2o0cnh0aE9rNDdwYlFkWmIzV1dqblJmVEJYVUxYU3JQZzJWUUVUTEtkSWhKS19HM3hvQW5kbXE",
+      "source": "rosei_news",
+      "title": "第3版 職場のハラスメント－適正な対応と実務－",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81SjdENVpWVTBKYjczN2o0cnh0aE9rNDdwYlFkWmIzV1dqblJmVEJYVUxYU3JQZzJWUUVUTEtkSWhKS19HM3hvQW5kbXE?oc=5",
+      "publishedAt": "2022-04-04T08:19:04.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-05T22:12:38.894Z",
+      "relevanceChecked": true,
+      "summary": "職場のハラスメントに関する適正な対応方法と実務手続きについて解説した第3版の資料です。人事労務担当者は、最新の法令や判例を踏まえたハラスメント対策の実務対応を確認し、社内体制の見直しに活用することが推奨されます。",
+      "summarizedAt": "2026-09-05T22:13:11.512Z",
+      "storyId": "rosei:CBMiTEFVX3lxTE81SjdENVpWVTBKYjczN2o0cnh0aE9rNDdwYlFkWmIzV1dqblJmVEJYVUxYU3JQZzJWUUVUTEtkSWhKS19HM3hvQW5kbXE",
       "isGuideline": false
     },
     {
@@ -6948,6 +7046,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMirgFBVV95cUxPdlBOZ3JVNmdCNGpZOUlhNnhLR3hEMU1QbXlxdWJzendwemJqLVJXZ1V5cE10TTJBNjVCU2JjYkZPUjFCalltczJuVHBRTDdIaF9XdXVrTDlWODg0c2FidUxYTkpwQ3pWVG9yM054bGFILXJEdGVJYVNTQkg2Y3VpMTRQSl9oZHU2RnkxZTdkd1BGak91Z0RiaFlTVjllaVJDejY0M3AxQkxVTVRVekE",
+      "source": "nikkei_news",
+      "title": "日本人が会社にぶら下がる理由 リクルートが雇用と報酬を調査",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBOZ3JVNmdCNGpZOUlhNnhLR3hEMU1QbXlxdWJzendwemJqLVJXZ1V5cE10TTJBNjVCU2JjYkZPUjFCalltczJuVHBRTDdIaF9XdXVrTDlWODg0c2FidUxYTkpwQ3pWVG9yM054bGFILXJEdGVJYVNTQkg2Y3VpMTRQSl9oZHU2RnkxZTdkd1BGak91Z0RiaFlTVjllaVJDejY0M3AxQkxVTVRVekE?oc=5",
+      "publishedAt": "2020-05-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-05T22:12:38.893Z",
+      "relevanceChecked": true,
+      "summary": "リクルートが雇用と報酬に関する調査を実施し、日本人が会社に留まり続ける理由を分析しました。人事担当者は調査結果を参考に、自社の雇用制度や報酬体系の見直しを検討する際の判断材料として活用できます。",
+      "summarizedAt": "2026-09-05T22:12:56.489Z",
+      "storyId": "nikkei:CBMirgFBVV95cUxPdlBOZ3JVNmdCNGpZOUlhNnhLR3hEMU1QbXlxdWJzendwemJqLVJXZ1V5cE10TTJBNjVCU2JjYkZPUjFCalltczJuVHBRTDdIaF9XdXVrTDlWODg0c2FidUxYTkpwQ3pWVG9yM054bGFILXJEdGVJYVNTQkg2Y3VpMTRQSl9oZHU2RnkxZTdkd1BGak91Z0RiaFlTVjllaVJDejY0M3AxQkxVTVRVekE",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBNSlkwYXZTanB1UnJjSkdKOWFic3NzMTlhOGF0QTdOaHF2X2xyb2hZRDhWMWhoUWxjSEJ4NHB4eV9VU1JWS05KbnJHUkhRRFpiWjlIeQ",
       "source": "rosei_news",
       "title": "残業代控除の賃金規則「違法」と最高裁",
@@ -7156,6 +7268,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9kR3diQ3UxMTFnLWQ2NVMyU09JdDFjbTZQMFlRMEhTbnB0Z2U1WHYyeWE5d1dIN3kwX2V1eVBoTE9YbWRaalVvTkJMcjk1TVJXUjdYTA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE43R1BxenA2ekU5eHI3OVAwaXZaVHdNQU5vdlQ5aUxoanVsQkhDaTY4ZjFfY2hjQi1RazhmVUh2UGVGN1M0VnFvWmRTVUtxb2tkMHJRbg",
+      "source": "rosei_news",
+      "title": "定年引上げ等奨励金",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43R1BxenA2ekU5eHI3OVAwaXZaVHdNQU5vdlQ5aUxoanVsQkhDaTY4ZjFfY2hjQi1RazhmVUh2UGVGN1M0VnFvWmRTVUtxb2tkMHJRbg?oc=5",
+      "publishedAt": "2012-05-29T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-05T22:12:38.894Z",
+      "relevanceChecked": true,
+      "summary": "「定年引上げ等奨励金」は、企業が定年年齢の引上げや継続雇用制度の導入等を行った際に支給される助成金制度です。人事担当者は、高年齢者雇用施策の実施時に本制度の活用可能性を確認し、要件や申請手続きを把握しておくべきでしょう。",
+      "summarizedAt": "2026-09-05T22:13:03.069Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE43R1BxenA2ekU5eHI3OVAwaXZaVHdNQU5vdlQ5aUxoanVsQkhDaTY4ZjFfY2hjQi1RazhmVUh2UGVGN1M0VnFvWmRTVUtxb2tkMHJRbg",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFBVLUdaOHNDb1A0UjduR2RTSE42R0lsVmJKUDlzR0g1MFN5b01Dd1ZtUGtaWnJ6ZXZBd3lyYl9CYk5VWFhvN3FsY25LN1ZhZFZxZGlLdw",
