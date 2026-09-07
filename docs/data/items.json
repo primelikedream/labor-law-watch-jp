@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-09-06T22:13:22.165Z",
+  "updatedAt": "2026-09-07T22:15:04.454Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBlRHlCOFhDVkExR2ppWDJ3VVUwWVlXSkRlMVMtUHpraHRZNlRJNlo0RkhEMThSVW5qZXpWMlNMTVVmUEExQzBKTjFfbVdPeG1kU3I2QTY5Zk4wWWVIbnhkUEtaMUxDaEFadlpVeA",
+      "source": "nikkei_news",
+      "title": "社会福祉職員の退職金支給 「勤続1年」から延長検討 厚労省、財政難で3年や5年案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlRHlCOFhDVkExR2ppWDJ3VVUwWVlXSkRlMVMtUHpraHRZNlRJNlo0RkhEMThSVW5qZXpWMlNMTVVmUEExQzBKTjFfbVdPeG1kU3I2QTY5Zk4wWWVIbnhkUEtaMUxDaEFadlpVeA?oc=5",
+      "publishedAt": "2026-09-07T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-07T22:14:07.763Z",
+      "relevanceChecked": true,
+      "summary": "厚生労働省は社会福祉職員の退職金支給要件について、現行の勤続1年以上から3年または5年への延長を検討しています。財政難が背景にあるため、人事担当者は今後の制度改正動向を注視し、職員への説明や採用・定着への影響を考慮した対応準備が必要です。",
+      "summarizedAt": "2026-09-07T22:14:47.237Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBlRHlCOFhDVkExR2ppWDJ3VVUwWVlXSkRlMVMtUHpraHRZNlRJNlo0RkhEMThSVW5qZXpWMlNMTVVmUEExQzBKTjFfbVdPeG1kU3I2QTY5Zk4wWWVIbnhkUEtaMUxDaEFadlpVeA",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76057.html",
+      "source": "mhlw_news",
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76057.html",
+      "publishedAt": "2026-09-07T08:39:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "上野厚生労働大臣による閣議後の記者会見が行われることの告知です。具体的な議題は不明ですが、労働政策や社会保障に関する最新の方針が示される可能性があるため、人事労務担当者は会見内容の確認が推奨されます。",
+      "summarizedAt": "2026-09-07T22:14:18.146Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76057.html",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76056.html",
+      "source": "mhlw_news",
+      "title": "第131回労働政策審議会労働条件分科会労災保険部会資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76056.html",
+      "publishedAt": "2026-09-07T08:02:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "労働政策審議会の労災保険部会が開催され、労災保険制度に関する審議が行われました。具体的な制度改正の方向性や検討事項については配布資料を確認し、今後の労災認定基準や保険給付の変更可能性に注意が必要です。",
+      "summarizedAt": "2026-09-07T22:14:21.383Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76056.html",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
+      "source": "mhlw_news",
+      "title": "第２回厚生労働省ヘルスケアＡＸ・ＤＸ推進本部の開催案内",
+      "url": "https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
+      "publishedAt": "2026-09-07T06:14:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "厚生労働省が第2回ヘルスケアAX・DX推進本部を開催します。医療・健康分野のデジタル化や業務変革の推進方針が議論される見込みで、今後の労働環境や健康管理のデジタル対応に影響する可能性があるため、動向を注視する必要があります。",
+      "summarizedAt": "2026-09-07T22:14:24.837Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76050.html",
+      "source": "mhlw_news",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76050.html",
+      "publishedAt": "2026-09-07T06:09:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "第59回労働政策審議会人材開発分科会がオンライン併用で開催されます。人材育成や能力開発に関する労働政策の議論が行われる予定のため、人材開発施策の動向把握が必要です。",
+      "summarizedAt": "2026-09-07T22:14:27.202Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76050.html",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76047.html",
+      "source": "mhlw_news",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76047.html",
+      "publishedAt": "2026-09-07T05:06:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "労働政策審議会人材開発分科会の第59回会合がオンライン併用で開催されます。人材育成や職業能力開発に関する施策の審議が行われる見込みのため、人事・労務担当者は今後の制度改正の動向に注目する必要があります。",
+      "summarizedAt": "2026-09-07T22:14:29.904Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76050.html",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75971.html",
+      "source": "mhlw_news",
+      "title": "第２回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75971.html",
+      "publishedAt": "2026-09-07T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "医師の働き方改革の推進に関する検討会の第2回会合が令和8年度に開催されます。医療機関の労務担当者は、医師の労働時間管理や時間外労働の上限規制など、今後の制度運用に関する検討状況を注視する必要があります。",
+      "summarizedAt": "2026-09-07T22:14:32.383Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75971.html",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMifkFVX3lxTE1taFJLRFV5eVJvWXlnUDlXZmZfMmVoQzZMT1BPU2JBdUlqWnZyRUMzbDJvWXIwb2Zpb2dqWl9HQUpDbFVRR013aU90ZFBoajFEZE5UV1Q5c2xRNW5NQ3ZFU1gwZncwVXRneGlnM05FSmlBS2JjRGYwVUVIVC1KZw",
       "source": "nikkei_news",
@@ -777,6 +873,20 @@
       "summary": "佐賀県の最低賃金が1095円に引き上げられる答申がなされました。上げ幅は国の目安を9円上回る水準です。労務担当者は答申後の正式決定を確認のうえ、施行日までに時給制従業員の賃金改定と就業規則の見直しを行う必要があります。",
       "summarizedAt": "2026-09-01T22:12:55.631Z",
       "storyId": "nikkei:CBMibEFVX3lxTFBZR3RnZmlVSTdPZU1hUDFHZU15Tl93RXdkUXRpRmU0N3VRajRBcFVlaU5fZXpYX2M0dEt1MmlNbGdoSTJ6Qi1qUTB4X2dVUnB5dHNxS25wdEhPM0ZXQ1F5bURMSVRXdzBNZFdGVw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE13bVZDQy1fU3dTQWpMZFdEaE4wbHNCRmpWY3pfODRLZ2JWbjBPTlZURzlJM2t3eGtIekxmN2g5QjdONG5LRlREMThGLVI3QzZRZXJhX0s1eHlyYmRSUjNUN2hoZW01elc2TDhUMw",
+      "source": "nikkei_news",
+      "title": "佐賀の最低賃金1095円に 審議会答申 上げ幅目安を9円上回る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bVZDQy1fU3dTQWpMZFdEaE4wbHNCRmpWY3pfODRLZ2JWbjBPTlZURzlJM2t3eGtIekxmN2g5QjdONG5LRlREMThGLVI3QzZRZXJhX0s1eHlyYmRSUjNUN2hoZW01elc2TDhUMw?oc=5",
+      "publishedAt": "2026-09-01T16:49:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-07T22:14:07.763Z",
+      "relevanceChecked": true,
+      "summary": "佐賀県の最低賃金が1095円に引き上げられる答申がなされました。上げ幅は国の目安を9円上回る水準となっており、労務担当者は正式決定後、最低賃金未満の従業員がいないか確認し、必要に応じて賃金改定を行う必要があります。",
+      "summarizedAt": "2026-09-07T22:14:40.021Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE13bVZDQy1fU3dTQWpMZFdEaE4wbHNCRmpWY3pfODRLZ2JWbjBPTlZURzlJM2t3eGtIekxmN2g5QjdONG5LRlREMThGLVI3QzZRZXJhX0s1eHlyYmRSUjNUN2hoZW01elc2TDhUMw",
       "isGuideline": false
     },
     {
@@ -1606,6 +1716,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE5QeHlwMTdHMjRZb2xGa0ZLLTBiUklHelVqOXV6OHMyNmVjcXdOR1JwZ25ITUEyT2dWUmlwOFlLNUdDRDVRalZNU1VJZWw3MXdxMWp3bVM1VVVZQ253QnJaNkZyT2JBNlNRZ0hLSQ",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shinngi_00021.html",
+      "source": "mhlw_news",
+      "title": "第８回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)",
+      "url": "https://www.mhlw.go.jp/stf/shinngi_00021.html",
+      "publishedAt": "2026-08-27T07:39:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-07T22:14:08.523Z",
+      "summary": "組織再編(合併・事業譲渡等)に伴う労働契約や労働条件の取扱いに関するルール整備について、労働政策審議会の専門部会で第8回目の審議が行われます。今後の法改正や指針策定により、M&A等における労働者保護や手続きのルールが明確化される可能性があります。",
+      "summarizedAt": "2026-09-07T22:14:36.357Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shinngi_00021.html",
+      "stage": "審議会検討",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBlUDZmaFBaQTJ6N2pfcjItbERuaV81OUVLN2J0Y3ZZZkJhR2NNMFRDTlBqajBpX1Rnd2hsVmsyQm93YWZZeURBejZxTXVGMnY1LVQ1YkNKbFR6SXlub2piNmJMcER3bUtLb05CQQ",
@@ -3540,6 +3664,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE0zbnFLTzZMb2JVZWxwaFB1ajgtdnN0QmZfMFRyTkhVY2lYNmNaamxvTkFKT0FVTzcwODZqVHRwWEgwaTZpTzFRc0FzenRjam44Qk1HRQ",
+      "source": "rosei_news",
+      "title": "大手賃上げ３年連続５％超 経団連、２６年春闘最終集計",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbnFLTzZMb2JVZWxwaFB1ajgtdnN0QmZfMFRyTkhVY2lYNmNaamxvTkFKT0FVTzcwODZqVHRwWEgwaTZpTzFRc0FzenRjam44Qk1HRQ?oc=5",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-07T22:14:07.764Z",
+      "relevanceChecked": true,
+      "summary": "経団連の2026年春闘最終集計によると、大手企業の賃上げ率が3年連続で5％を超える水準となりました。人事担当者は自社の賃金水準や競争力確保の観点から、次年度以降の賃上げ方針を検討する必要があります。",
+      "summarizedAt": "2026-09-07T22:15:02.587Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE0zbnFLTzZMb2JVZWxwaFB1ajgtdnN0QmZfMFRyTkhVY2lYNmNaamxvTkFKT0FVTzcwODZqVHRwWEgwaTZpTzFRc0FzenRjam44Qk1HRQ",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg",
       "source": "nikkei_news",
       "title": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ",
@@ -3764,6 +3902,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5ZdE1XN0VTbHNNcDQ5Q1k5SDZDcDcwdkFlZlZXa1h3TFdMYW55OEk3NkExcHNxZkVGb1BmMmg0aEdqb2kyNWFKd25tUVBJNzdHb0ttRw",
+      "source": "rosei_news",
+      "title": "官民投資促進で賃上げへ 複数年予算や人材強化提唱 自民提言案が判明",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZdE1XN0VTbHNNcDQ5Q1k5SDZDcDcwdkFlZlZXa1h3TFdMYW55OEk3NkExcHNxZkVGb1BmMmg0aEdqb2kyNWFKd25tUVBJNzdHb0ttRw?oc=5",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-07T22:14:07.764Z",
+      "relevanceChecked": true,
+      "summary": "自民党の提言案で、賃上げ促進に向けた官民投資の強化策として、複数年予算の編成や人材強化策が盛り込まれたことが判明しました。今後の政府予算編成や企業の賃上げ方針に影響を与える可能性があり、動向を注視する必要があります。",
+      "summarizedAt": "2026-09-07T22:14:59.628Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE5ZdE1XN0VTbHNNcDQ5Q1k5SDZDcDcwdkFlZlZXa1h3TFdMYW55OEk3NkExcHNxZkVGb1BmMmg0aEdqb2kyNWFKd25tUVBJNzdHb0ttRw",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFB1T3lvZ1NqQm0xU3V3SERFcmNBUzY2c0Rlb1REakYyaXFxQ1FxRU5ZdXZ6dVVTZGp2UGJGU3NuMHBnYTJ6WGp4b0txWHJGS3REV040Yg",
       "source": "rosei_news",
       "title": "春闘賃上げ率５・０５％ 連合傘下、５回目集計",
@@ -3958,6 +4110,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBOMGd4MFlwN1V5QTJjWkYyeFF4dGZ6TkhWMXlFbnJiMlliQ3VXZlZwbDRyNFFya3Y0b2NDTUtIQkdLSTBrYkJucFFPV3RPbDJOMU9OYw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg",
+      "source": "nikkei_news",
+      "title": "育休の意外な効用、三井住友銀の女性行員が発見 不確実性の耐性磨く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg?oc=5",
+      "publishedAt": "2026-03-22T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-07T22:14:07.763Z",
+      "relevanceChecked": true,
+      "summary": "三井住友銀行の女性行員が育休取得を通じて不確実性への耐性を高める効果を発見した事例です。人事担当者は育休を単なる休暇制度ではなく、予測困難な状況に対応する能力を育む機会として位置づけ直すことが期待されます。",
+      "summarizedAt": "2026-09-07T22:14:43.479Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5FemtaWnY3akp4eF9UOXlxUVYydlJEcUNPZHFjenBZd2FXb3g1VXNtbXAyY3UtMFJNOVloZHBER1hnYmxRaHA4c3o5Q3FwMTVmZzlidQ",
@@ -5109,6 +5275,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBVNGJKNWJURmNFNWVlTjhxejFrSG5KRDRpWndIODJpa25USk13dmN4eVRnV2NJUlEtWHdQMkNuMXFFZzBXTC1EcEFYeTV6VTdVN3NiUA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBERGptUEVsc1lzM3Q5aWZZdm5fU0hiU1NvMXp2TTNxTkx5T3h1dTlHdXpTc0N6TGFXMDNxOXVsaG5OOG9jeWtZMExrY1FGMDZZTDVNbA",
+      "source": "rosei_news",
+      "title": "賃上げ要求平均６・０９％ 連合集計、３２年ぶり水準",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERGptUEVsc1lzM3Q5aWZZdm5fU0hiU1NvMXp2TTNxTkx5T3h1dTlHdXpTc0N6TGFXMDNxOXVsaG5OOG9jeWtZMExrY1FGMDZZTDVNbA?oc=5",
+      "publishedAt": "2025-03-06T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-07T22:14:07.764Z",
+      "relevanceChecked": true,
+      "summary": "連合の集計によると、今次の賃上げ要求が平均6.09％と32年ぶりの高水準となっており、今後の労使交渉や自社の賃金改定において、この相場感を踏まえた対応が求められます。",
+      "summarizedAt": "2026-09-07T22:14:56.463Z",
+      "storyId": "rosei:CBMiVEFVX3lxTFBERGptUEVsc1lzM3Q5aWZZdm5fU0hiU1NvMXp2TTNxTkx5T3h1dTlHdXpTc0N6TGFXMDNxOXVsaG5OOG9jeWtZMExrY1FGMDZZTDVNbA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiW0FVX3lxTFA0aG0ybEpIM1RocllOWm5PUlQ4OGN1SWhzNHBQcWFmZFhCWHItbmNzS1VrUDZrdHZFcVNWUXFuMTRueWRDRWF3N2pTUVhmWndRZG9ESDJodFl5OXM",
@@ -6314,6 +6494,20 @@
       "summary": "【要約】\nOpenWorkが入社後の社員データも扱うサービスを展開。ジョブ型雇用の普及に伴い、入社前後を通じた継続的なデータ活用が重要となるため、人事担当者は採用時だけでなく入社後の人材情報管理の見直しが必要になる可能性がある。\n\n(111文字)",
       "summarizedAt": "2026-09-06T22:12:38.614Z",
       "storyId": "nikkei:CBMia0FVX3lxTE44M2ZQRGZFb0MycHZjaE52eG90UWVIZUdRNTl0R0xScTM5VUF6ZEJSeThnYklHYThQZ0xTNks2dDlfcHctZHVoaFp6bnlhU2U4bmZmVVVGOGhHMGRpdURycjBTOTdfMU1fdGQ0",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9KWTdvekZUU1pMT0t0V3dIV1hvOHZjM0d1ZnM5N053OHFkTDRYcFR3RVc2U1h5Sm9zelV3ZHJLRUZEa1p5OEQwU1FrZEZ2eGRDZlBFQw",
+      "source": "rosei_news",
+      "title": "賃上げ、国内投資を促進 税制改正要望、増税も焦点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KWTdvekZUU1pMT0t0V3dIV1hvOHZjM0d1ZnM5N053OHFkTDRYcFR3RVc2U1h5Sm9zelV3ZHJLRUZEa1p5OEQwU1FrZEZ2eGRDZlBFQw?oc=5",
+      "publishedAt": "2023-08-30T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-07T22:14:07.764Z",
+      "relevanceChecked": true,
+      "summary": "賃上げや国内投資を促す税制優遇措置が検討されています。人事・労務担当者は、賃上げ実施により税制優遇を受けられる可能性があるため、税制改正の動向を注視し、自社の賃上げ計画への影響を確認する必要があります。",
+      "summarizedAt": "2026-09-07T22:14:50.057Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE9KWTdvekZUU1pMT0t0V3dIV1hvOHZjM0d1ZnM5N053OHFkTDRYcFR3RVc2U1h5Sm9zelV3ZHJLRUZEa1p5OEQwU1FrZEZ2eGRDZlBFQw",
       "isGuideline": false
     },
     {
@@ -7549,6 +7743,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE1uUHFjemV0VnFhUTBEUS1lQVJpSDFaSW1xWjQ3RmszQk1tUDhjOGdJWnNUM2ZzUVRTZlJPekhRUWNxU2x3Y3Q4Q3dvWFNnVFBVbFhhOQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE13ckxtSHRnOURBQVFHTW1ZeGJlRkNHcE9hV3NGNDVmbWZrYy1FQnlrT3JjR3U1LWQySGRMajdtQUdna1Qyc3RuRWZESDZ2ZXVLeDhzYw",
+      "source": "rosei_news",
+      "title": "労働組合",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ckxtSHRnOURBQVFHTW1ZeGJlRkNHcE9hV3NGNDVmbWZrYy1FQnlrT3JjR3U1LWQySGRMajdtQUdna1Qyc3RuRWZESDZ2ZXVLeDhzYw?oc=5",
+      "publishedAt": "2010-12-05T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-07T22:14:07.764Z",
+      "relevanceChecked": true,
+      "summary": "申し訳ございませんが、提供されたタイトル「労働組合」だけでは、具体的な法改正内容や実務上の変更点を読み取ることができません。記事の詳細情報や副題などの追加情報があれば、適切な要約を作成できます。",
+      "summarizedAt": "2026-09-07T22:14:53.218Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE13ckxtSHRnOURBQVFHTW1ZeGJlRkNHcE9hV3NGNDVmbWZrYy1FQnlrT3JjR3U1LWQySGRMajdtQUdna1Qyc3RuRWZESDZ2ZXVLeDhzYw",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFBCM2MycDh3aGdqQkw4SWMtYUVFSXJxMFI2RGtPTzBLWHdmS3dkdjFsaV9ybERIcmJtZEdVTUthZU85TDExZmtiSlZHdm1kcmliTDY2TA",
