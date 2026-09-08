@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:15:16.066Z",
+  "updatedAt": "2026-09-08T23:53:52.719Z",
   "items": [
     {
       "id": "egov:350M50002000003:20260825",
@@ -27,6 +27,20 @@
       "summary": "実質賃金が7カ月連続で前年同月比プラスとなり、賃金上昇トレンドが継続していることが示されました。人事担当者は今後の賃上げ交渉や処遇改善の検討において、この市場動向を参考材料とすることが望まれます。",
       "summarizedAt": "2026-09-08T22:14:25.954Z",
       "storyId": "nikkei:CBMifkFVX3lxTFBITGlfWmtKd1NlNmcydmpfZ1czTmdpQ0FJWG5WYkVzLUhCMW1GMEN0bnJaM2xMT2V1a0tnVXFnc2J5Y1B3dE8yZlpDRlhfQkdqVGdmZ0pKN3dmRFFqVFh6ZTdGMmlSQUVwd3RNSC0xQ3pjZWtST01sWGloMjRYdw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE14SlZNTjBqNGd0WnJaQVotZXFfZU1UUF9RdkxSQVlRa0pPS0Vpb2JkREZsZVgwTXM0YmpEb1F5QTE2NVAzMHNaTFFTdXhrcnMwdVQ3WU1zbU9uazY4dkJBV0lQWXhHUXM",
+      "source": "nikkei_news",
+      "title": "自宅で副業したい傷病休職中のITエンジニア、パソコンは使える体調だという",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SlZNTjBqNGd0WnJaQVotZXFfZU1UUF9RdkxSQVlRa0pPS0Vpb2JkREZsZVgwTXM0YmpEb1F5QTE2NVAzMHNaTFFTdXhrcnMwdVQ3WU1zbU9uazY4dkJBV0lQWXhHUXM?oc=5",
+      "publishedAt": "2026-09-08T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T23:53:34.832Z",
+      "relevanceChecked": true,
+      "summary": "傷病休職中の社員が副業を希望するケースについて、体調面での就労可能性と休職の趣旨との整合性が問われる事例です。休職制度の目的や副業許可基準を踏まえ、就業規則の規定と個別の健康状態を確認したうえで慎重に判断する必要があります。",
+      "summarizedAt": "2026-09-08T23:53:44.812Z",
+      "storyId": "nikkei:CBMiZ0FVX3lxTE14SlZNTjBqNGd0WnJaQVotZXFfZU1UUF9RdkxSQVlRa0pPS0Vpb2JkREZsZVgwTXM0YmpEb1F5QTE2NVAzMHNaTFFTdXhrcnMwdVQ3WU1zbU9uazY4dkJBV0lQWXhHUXM",
       "isGuideline": false
     },
     {
@@ -181,6 +195,34 @@
       "summary": "厚生労働省は社会福祉職員の退職金支給要件について、現行の勤続1年以上から3年または5年への延長を検討しています。財政難が背景にあるため、人事担当者は今後の制度改正動向を注視し、職員への説明や採用・定着への影響を考慮した対応準備が必要です。",
       "summarizedAt": "2026-09-07T22:14:47.237Z",
       "storyId": "nikkei:CBMibEFVX3lxTFBlRHlCOFhDVkExR2ppWDJ3VVUwWVlXSkRlMVMtUHpraHRZNlRJNlo0RkhEMThSVW5qZXpWMlNMTVVmUEExQzBKTjFfbVdPeG1kU3I2QTY5Zk4wWWVIbnhkUEtaMUxDaEFadlpVeA",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5veDhQLU5wZlJzMVJmSWFKSVpMdlk5ZC1MbVQ0azh2YjkzeTAtdkVUdEFwT3pjQkhZd2pVR0p3dUgwUlNfMGN5UVY1UXU4OXRreDRhdUhpaUVDNlpjY2JaOHdLT3c5WTNhLUU1Xw",
+      "source": "nikkei_news",
+      "title": "山中・横浜市長、パワハラ問題で辞職 「信頼失墜、心からおわび」 出直し選出馬、明言避ける",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5veDhQLU5wZlJzMVJmSWFKSVpMdlk5ZC1MbVQ0azh2YjkzeTAtdkVUdEFwT3pjQkhZd2pVR0p3dUgwUlNfMGN5UVY1UXU4OXRreDRhdUhpaUVDNlpjY2JaOHdLT3c5WTNhLUU1Xw?oc=5",
+      "publishedAt": "2026-09-07T16:49:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T23:53:34.832Z",
+      "relevanceChecked": true,
+      "summary": "【要約】\n横浜市の山中市長がパワハラ問題を理由に辞職を表明しました。人事担当者は、トップのハラスメントが組織の信頼失墜につながる事例として、管理職へのハラスメント防止教育の重要性を再認識すべきです。\n\n(99字)",
+      "summarizedAt": "2026-09-08T23:53:50.984Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1odm04R2lEalFKQTFEQ1NtY0RobFdsOXZ1eG5NZUpwdHlGOHJMMFFxYnpPUVlMQVQ0bUJKeFI5M01QRndObFNlUXpIUm9WMUNYUjlYc0V1U091RUVFcXBTaHAxMDdXRXVhMlFSYg",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1odm04R2lEalFKQTFEQ1NtY0RobFdsOXZ1eG5NZUpwdHlGOHJMMFFxYnpPUVlMQVQ0bUJKeFI5M01QRndObFNlUXpIUm9WMUNYUjlYc0V1U091RUVFcXBTaHAxMDdXRXVhMlFSYg",
+      "source": "nikkei_news",
+      "title": "横浜市長・山中竹春氏の辞職に同意 市議会、パワハラ問題で引責",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1odm04R2lEalFKQTFEQ1NtY0RobFdsOXZ1eG5NZUpwdHlGOHJMMFFxYnpPUVlMQVQ0bUJKeFI5M01QRndObFNlUXpIUm9WMUNYUjlYc0V1U091RUVFcXBTaHAxMDdXRXVhMlFSYg?oc=5",
+      "publishedAt": "2026-09-07T09:10:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T23:53:34.832Z",
+      "relevanceChecked": true,
+      "summary": "横浜市の山中竹春市長がパワハラ問題を理由に辞職し、市議会が同意しました。労務担当者は、首長レベルでもパワハラが辞職事由となる事例として、組織のハラスメント防止体制の重要性を再認識すべきでしょう。",
+      "summarizedAt": "2026-09-08T23:53:47.655Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1odm04R2lEalFKQTFEQ1NtY0RobFdsOXZ1eG5NZUpwdHlGOHJMMFFxYnpPUVlMQVQ0bUJKeFI5M01QRndObFNlUXpIUm9WMUNYUjlYc0V1U091RUVFcXBTaHAxMDdXRXVhMlFSYg",
       "isGuideline": false
     },
     {
