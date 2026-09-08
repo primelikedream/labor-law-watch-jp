@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-09-07T22:15:04.454Z",
+  "updatedAt": "2026-09-08T22:15:16.066Z",
   "items": [
+    {
+      "id": "egov:350M50002000003:20260825",
+      "source": "egov_law_update",
+      "title": "雇用保険法施行規則 — 雇用保険法施行規則の一部を改正する省令(施行日: 20260825)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=350M50002000003_20260825_508M60000100134",
+      "publishedAt": "2026-09-08T22:14:04.926Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-09-08T22:14:03.750Z",
+      "summary": "2026年8月25日に雇用保険法施行規則が改正施行されます。労務・人事担当者は、改正省令の具体的な変更内容を確認し、雇用保険の手続きや届出方法等に変更がある場合は、社内の実務対応を見直す必要があります。",
+      "summarizedAt": "2026-09-08T22:14:13.848Z",
+      "storyId": "egov:350M50002000003:20260825",
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMifkFVX3lxTFBITGlfWmtKd1NlNmcydmpfZ1czTmdpQ0FJWG5WYkVzLUhCMW1GMEN0bnJaM2xMT2V1a0tnVXFnc2J5Y1B3dE8yZlpDRlhfQkdqVGdmZ0pKN3dmRFFqVFh6ZTdGMmlSQUVwd3RNSC0xQ3pjZWtST01sWGloMjRYdw",
+      "source": "nikkei_news",
+      "title": "見通しは暗くない 「実質賃金、7カ月連続で前年同月を上回る」など3本をお届けします",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBITGlfWmtKd1NlNmcydmpfZ1czTmdpQ0FJWG5WYkVzLUhCMW1GMEN0bnJaM2xMT2V1a0tnVXFnc2J5Y1B3dE8yZlpDRlhfQkdqVGdmZ0pKN3dmRFFqVFh6ZTdGMmlSQUVwd3RNSC0xQ3pjZWtST01sWGloMjRYdw?oc=5",
+      "publishedAt": "2026-09-08T20:00:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "実質賃金が7カ月連続で前年同月比プラスとなり、賃金上昇トレンドが継続していることが示されました。人事担当者は今後の賃上げ交渉や処遇改善の検討において、この市場動向を参考材料とすることが望まれます。",
+      "summarizedAt": "2026-09-08T22:14:25.954Z",
+      "storyId": "nikkei:CBMifkFVX3lxTFBITGlfWmtKd1NlNmcydmpfZ1czTmdpQ0FJWG5WYkVzLUhCMW1GMEN0bnJaM2xMT2V1a0tnVXFnc2J5Y1B3dE8yZlpDRlhfQkdqVGdmZ0pKN3dmRFFqVFh6ZTdGMmlSQUVwd3RNSC0xQ3pjZWtST01sWGloMjRYdw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9mZmV0VGk4dzhzaW9GU3dHbzNWZ1IzZjNaN1BDMFJLWFF4cVM3Mm1XMGNMOU5HTlN3WjJ2YTN3U3VIZ0lBVlRYWVBtZWFfVFIxUmJoY1docTZWT05uc2Z6ZmljUnU2M2JfQVByMA",
+      "source": "nikkei_news",
+      "title": "実質賃金、マイナスの可能性 賃上げ進み7カ月連続増も…迫る秋の値上げラッシュ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZmV0VGk4dzhzaW9GU3dHbzNWZ1IzZjNaN1BDMFJLWFF4cVM3Mm1XMGNMOU5HTlN3WjJ2YTN3U3VIZ0lBVlRYWVBtZWFfVFIxUmJoY1docTZWT05uc2Z6ZmljUnU2M2JfQVByMA?oc=5",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "賃上げにより実質賃金は7カ月連続増加しているものの、秋の値上げラッシュにより再びマイナスに転じる可能性があります。人事担当者は物価動向を注視し、従業員の実質的な購買力維持に向けた賃金施策の検討が求められます。",
+      "summarizedAt": "2026-09-08T22:14:32.654Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE9mZmV0VGk4dzhzaW9GU3dHbzNWZ1IzZjNaN1BDMFJLWFF4cVM3Mm1XMGNMOU5HTlN3WjJ2YTN3U3VIZ0lBVlRYWVBtZWFfVFIxUmJoY1docTZWT05uc2Z6ZmljUnU2M2JfQVByMA",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1UY0tZNVFMSmw5RVZFLWVnakRXb0MxRm9CSHM3anc3VlBuYTctVGJVY0FjbF92TU8zWUxab3RtTGpHUS1la3FTcGg1THAycExCTU10M2RHR2FpRUp5RExaQzhBWHlxQ2l5Yy1Bbw",
+      "source": "nikkei_news",
+      "title": "企業倒産、3%増830件 8月、飲食業目立つ 人手不足など響く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UY0tZNVFMSmw5RVZFLWVnakRXb0MxRm9CSHM3anc3VlBuYTctVGJVY0FjbF92TU8zWUxab3RtTGpHUS1la3FTcGg1THAycExCTU10M2RHR2FpRUp5RExaQzhBWHlxQ2l5Yy1Bbw?oc=5",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "8月の企業倒産件数が前年同月比3%増の830件となり、特に飲食業での倒産が目立った。人事・労務担当者は人手不足が倒産要因の一つとなっている状況を踏まえ、自社の人員確保・定着策の強化が求められる。",
+      "summarizedAt": "2026-09-08T22:14:38.897Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1UY0tZNVFMSmw5RVZFLWVnakRXb0MxRm9CSHM3anc3VlBuYTctVGJVY0FjbF92TU8zWUxab3RtTGpHUS1la3FTcGg1THAycExCTU10M2RHR2FpRUp5RExaQzhBWHlxQ2l5Yy1Bbw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBiQWVpYjJzYUc1aVgweHNhYXR0ZWl5UGh6TXhWVVZwS0NWNmFCMkpIRlJnUmFNVXpraFdaY29CeDhzUXo4MGtXS1Y0M2pLNXh0eWdqWEJOZDMwMHBRZ2x0QU1iNHdEYXgyREo5cA",
+      "source": "nikkei_news",
+      "title": "ワタミ退職金、業績を反映 部長以上に当事者意識 積立金最大2割増/赤字ならゼロ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQWVpYjJzYUc1aVgweHNhYXR0ZWl5UGh6TXhWVVZwS0NWNmFCMkpIRlJnUmFNVXpraFdaY29CeDhzUXo4MGtXS1Y0M2pLNXh0eWdqWEJOZDMwMHBRZ2x0QU1iNHdEYXgyREo5cA?oc=5",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "ワタミが部長以上の退職金制度を業績連動型に変更し、業績好調時は積立金を最大2割増額する一方、赤字時はゼロとする仕組みを導入します。経営層に当事者意識を持たせる狙いがあり、他社も同様の制度導入を検討する際の参考事例となります。",
+      "summarizedAt": "2026-09-08T22:14:49.514Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBiQWVpYjJzYUc1aVgweHNhYXR0ZWl5UGh6TXhWVVZwS0NWNmFCMkpIRlJnUmFNVXpraFdaY29CeDhzUXo4MGtXS1Y0M2pLNXh0eWdqWEJOZDMwMHBRZ2x0QU1iNHdEYXgyREo5cA",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBBZmF0XzJOUWtVcGU2UmRqamxlWk05ZW1xVG5rZXhkT016Y1piMXdfVklnU2lwWGxOMWR1WlpWOFJwS3lCOXViQ25aLXF5VEwwbVNCSFVOV2gtZ0pVWUlpRFI0YnFkY1I1Sk9kLQ",
+      "source": "nikkei_news",
+      "title": "［社説］最低賃金の引き上げへ生産性向上を急げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZmF0XzJOUWtVcGU2UmRqamxlWk05ZW1xVG5rZXhkT016Y1piMXdfVklnU2lwWGxOMWR1WlpWOFJwS3lCOXViQ25aLXF5VEwwbVNCSFVOV2gtZ0pVWUlpRFI0YnFkY1I1Sk9kLQ?oc=5",
+      "publishedAt": "2026-09-08T10:05:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "最低賃金の引き上げが進められる中、企業は単なる人件費増への対応ではなく、生産性向上による経営体質の強化が求められています。人事・労務担当者は賃上げ対応と並行して、業務効率化や従業員のスキル向上などの生産性改善策を早急に検討すべきです。",
+      "summarizedAt": "2026-09-08T22:14:22.776Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBBZmF0XzJOUWtVcGU2UmRqamxlWk05ZW1xVG5rZXhkT016Y1piMXdfVklnU2lwWGxOMWR1WlpWOFJwS3lCOXViQ25aLXF5VEwwbVNCSFVOV2gtZ0pVWUlpRFI0YnFkY1I1Sk9kLQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE4yRmY4S1MyWXFOVDdZWWM1RVExQ1pxVVZhWC1wZURGVnFraUZfajYwZzNYQ1hYWnRaRU9Qai1paVVXQkZnVHRhbVplMWwzR1Z2Yk9SUTdrQTNDQUYzQnpvMm5CamFHZU13Z0V3Qg",
+      "source": "nikkei_news",
+      "title": "東北企業「26年度に賃上げ実施」86% 民間調べ、全国上回る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yRmY4S1MyWXFOVDdZWWM1RVExQ1pxVVZhWC1wZURGVnFraUZfajYwZzNYQ1hYWnRaRU9Qai1paVVXQkZnVHRhbVplMWwzR1Z2Yk9SUTdrQTNDQUYzQnpvMm5CamFHZU13Z0V3Qg?oc=5",
+      "publishedAt": "2026-09-08T08:45:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "2026年度に賃上げを実施予定の東北企業が86%に達し全国平均を上回ることが民間調査で判明しました。労務担当者は東北地域における賃金動向を注視し、自社の賃金水準の競争力確保と採用・定着施策の見直しが必要です。",
+      "summarizedAt": "2026-09-08T22:14:45.892Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE4yRmY4S1MyWXFOVDdZWWM1RVExQ1pxVVZhWC1wZURGVnFraUZfajYwZzNYQ1hYWnRaRU9Qai1paVVXQkZnVHRhbVplMWwzR1Z2Yk9SUTdrQTNDQUYzQnpvMm5CamFHZU13Z0V3Qg",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBwVDl5b19ETFV1M29iU3NXQmFuZFFKTTBpOTBjX1RfQXBwWnU3N0dCWnR6TURaTHVaMTY1SjhMZTc1N0N1MFkyT0hIU0V2a1cxZFdmQ1VlZXlXNTZub2VXWUo5eVg3UmVuLVpqeQ",
+      "source": "nikkei_news",
+      "title": "農林水産業の小規模事業者、31年度から労災保険を強制適用 厚労省",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwVDl5b19ETFV1M29iU3NXQmFuZFFKTTBpOTBjX1RfQXBwWnU3N0dCWnR6TURaTHVaMTY1SjhMZTc1N0N1MFkyT0hIU0V2a1cxZFdmQ1VlZXlXNTZub2VXWUo5eVg3UmVuLVpqeQ?oc=5",
+      "publishedAt": "2026-09-08T08:03:09.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "厚生労働省は2031年度から、農林水産業の小規模事業者に対して労災保険の加入を義務化します。現在は任意加入となっている小規模事業者も強制適用の対象となるため、該当する事業者は加入準備と保険料負担への対応が必要です。",
+      "summarizedAt": "2026-09-08T22:14:35.737Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBwVDl5b19ETFV1M29iU3NXQmFuZFFKTTBpOTBjX1RfQXBwWnU3N0dCWnR6TURaTHVaMTY1SjhMZTc1N0N1MFkyT0hIU0V2a1cxZFdmQ1VlZXlXNTZub2VXWUo5eVg3UmVuLVpqeQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBjenRwbWl3bUlIMEZBbnNfVThwZE1LYmhOd1RUcXBndy10dndCTkV6WVJxUlhlbEpKTTZfVTMweDkzcl9BRy05a29JV0hhYUFWSjNHUHhVVk5fQ3ZuMnZPWGgzckFSS1EtLWh2Rw",
+      "source": "nikkei_news",
+      "title": "実質賃金、7月2.4%増 7カ月連続プラス、賞与・賃上げ寄与",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjenRwbWl3bUlIMEZBbnNfVThwZE1LYmhOd1RUcXBndy10dndCTkV6WVJxUlhlbEpKTTZfVTMweDkzcl9BRy05a29JV0hhYUFWSjNHUHhVVk5fQ3ZuMnZPWGgzckFSS1EtLWh2Rw?oc=5",
+      "publishedAt": "2026-09-08T05:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "2024年7月の実質賃金が前年比2.4%増となり、7カ月連続でプラスを記録しました。賞与支給と賃上げの効果が寄与しており、労務担当者は賃金動向の全体的な上昇傾向を把握し、自社の賃金水準の見直しや採用競争力の確保を検討する必要があります。",
+      "summarizedAt": "2026-09-08T22:14:29.494Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFBjenRwbWl3bUlIMEZBbnNfVThwZE1LYmhOd1RUcXBndy10dndCTkV6WVJxUlhlbEpKTTZfVTMweDkzcl9BRy05a29JV0hhYUFWSjNHUHhVVk5fQ3ZuMnZPWGgzckFSS1EtLWh2Rw",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1jel9TNFV6eVE1XzVzdDAzeTNvSXl0alM2ejlrN2IyQ2IzRlJ2eDB4dmlyUV9Zb0EwOHdJZTAwODVPaFJzOWt1bFZxRkNjTGxvMjJyXw",
+      "source": "rosei_news",
+      "title": "実質賃金７カ月連続プラス ２１年に並ぶ、７月２・４％ 物価抑制、賞与高水準",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jel9TNFV6eVE1XzVzdDAzeTNvSXl0alM2ejlrN2IyQ2IzRlJ2eDB4dmlyUV9Zb0EwOHdJZTAwODVPaFJzOWt1bFZxRkNjTGxvMjJyXw?oc=5",
+      "publishedAt": "2026-09-08T03:54:12.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "2024年7月の実質賃金が前年同月比2.4%増となり、7カ月連続のプラス（2021年と並ぶ水準）を記録しました。物価抑制と高水準の賞与支給が要因とされ、賃上げと処遇改善の継続が労務管理上の重要課題となります。",
+      "summarizedAt": "2026-09-08T22:14:52.730Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE1jel9TNFV6eVE1XzVzdDAzeTNvSXl0alM2ejlrN2IyQ2IzRlJ2eDB4dmlyUV9Zb0EwOHdJZTAwODVPaFJzOWt1bFZxRkNjTGxvMjJyXw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE4tdDlLbmU2Q2JCRHFCVEl5OXBnUWxCV0k5UjhfQVVZYXdhUzhVdWJUV3pBMnkzOC1OM09KU3FhMk5WeDVkeFM3dFpoYTZoNEt2aWJoRW1qMXhDNHdZSWJJRkM1dnBUY3lMb0NFaQ",
+      "source": "nikkei_news",
+      "title": "実質賃金、秋にマイナスの可能性 迫る食品値上げと電気代補助終了",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdDlLbmU2Q2JCRHFCVEl5OXBnUWxCV0k5UjhfQVVZYXdhUzhVdWJUV3pBMnkzOC1OM09KU3FhMk5WeDVkeFM3dFpoYTZoNEt2aWJoRW1qMXhDNHdZSWJJRkM1dnBUY3lMb0NFaQ?oc=5",
+      "publishedAt": "2026-09-08T02:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "食品値上げと電気代補助終了により秋以降の実質賃金がマイナスに転じる可能性があるため、人事・労務担当者は従業員の生活への影響を考慮し、賃金改定や福利厚生の見直しなど処遇改善の検討が求められます。",
+      "summarizedAt": "2026-09-08T22:14:16.851Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE4tdDlLbmU2Q2JCRHFCVEl5OXBnUWxCV0k5UjhfQVVZYXdhUzhVdWJUV3pBMnkzOC1OM09KU3FhMk5WeDVkeFM3dFpoYTZoNEt2aWJoRW1qMXhDNHdZSWJJRkM1dnBUY3lMb0NFaQ",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB6S1pkMXY1SXl5MTlYX0M1a1dMQUpNVUZmekdINm1iYUtxVmJYczNuZ19PMV92cHpYZy1iNzBHcHVoLXh2dFNJVnM0YkVPVnJzbENtd3RRLXdhQUZvazRYOEdPVzduWDRReXNlWg",
+      "source": "nikkei_news",
+      "title": "7月の実質賃金2.4%増、7カ月連続プラス 夏季賞与の伸びが寄与",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6S1pkMXY1SXl5MTlYX0M1a1dMQUpNVUZmekdINm1iYUtxVmJYczNuZ19PMV92cHpYZy1iNzBHcHVoLXh2dFNJVnM0YkVPVnJzbENtd3RRLXdhQUZvazRYOEdPVzduWDRReXNlWg?oc=5",
+      "publishedAt": "2026-09-07T23:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "2024年7月の実質賃金は前年同月比2.4%増加し、7カ月連続でプラスとなりました。夏季賞与の伸びが寄与しており、賃金上昇トレンドの継続が確認されています。",
+      "summarizedAt": "2026-09-08T22:14:19.072Z",
+      "storyId": "nikkei:CBMibEFVX3lxTFB6S1pkMXY1SXl5MTlYX0M1a1dMQUpNVUZmekdINm1iYUtxVmJYczNuZ19PMV92cHpYZy1iNzBHcHVoLXh2dFNJVnM0YkVPVnJzbENtd3RRLXdhQUZvazRYOEdPVzduWDRReXNlWg",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBlRHlCOFhDVkExR2ppWDJ3VVUwWVlXSkRlMVMtUHpraHRZNlRJNlo0RkhEMThSVW5qZXpWMlNMTVVmUEExQzBKTjFfbVdPeG1kU3I2QTY5Zk4wWWVIbnhkUEtaMUxDaEFadlpVeA",
       "source": "nikkei_news",
@@ -123,6 +291,20 @@
       "summary": "ケアマネジャーの8割がカスタマーハラスメントを経験している実態が明らかになりました。複数人での訪問による対策が考えられるものの、人手不足が深刻で実施は困難な状況です。",
       "summarizedAt": "2026-09-06T22:12:44.959Z",
       "storyId": "nikkei:CBMibEFVX3lxTE0ydG1KMllYVmZTaW5xQ0hDaUMwU0JlbF9FLWQycDhmQVRaTVp1UllmWjZYMUtpbXJCbVY5eEpzdFVkUWFwRjFIRkluQk90VnAtd2VZQzI4VURpcEN2blhWNE93VHBaV0tpMWpOZw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1SeWxYT3NIVHJhN3dveGxvZjNHOE1oTG00ZGN3RWVOQ2NPdWtYVzVESGJjUkxfb3poUzl4X05BVTlSdHRUZDN3MGxKdW5DdG1CYWxiU2x1Z3Yzai1iZFlid2xvRHd4ZE1KVHVoOA",
+      "source": "nikkei_news",
+      "title": "（社説）首長のパワハラを抑えるには",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SeWxYT3NIVHJhN3dveGxvZjNHOE1oTG00ZGN3RWVOQ2NPdWtYVzVESGJjUkxfb3poUzl4X05BVTlSdHRUZDN3MGxKdW5DdG1CYWxiU2x1Z3Yzai1iZFlid2xvRHd4ZE1KVHVoOA?oc=5",
+      "publishedAt": "2026-09-06T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-08T22:14:03.752Z",
+      "relevanceChecked": true,
+      "summary": "この見出しだけでは労働法制の具体的な変更内容や企業の対応事項は読み取れません。自治体首長によるパワハラ問題への対策の必要性を論じた社説と推測されますが、民間企業の労務・人事実務への直接的な影響は不明です。",
+      "summarizedAt": "2026-09-08T22:14:42.188Z",
+      "storyId": "nikkei:CBMibEFVX3lxTE1SeWxYT3NIVHJhN3dveGxvZjNHOE1oTG00ZGN3RWVOQ2NPdWtYVzVESGJjUkxfb3poUzl4X05BVTlSdHRUZDN3MGxKdW5DdG1CYWxiU2x1Z3Yzai1iZFlid2xvRHd4ZE1KVHVoOA",
       "isGuideline": false
     },
     {
@@ -4840,6 +5022,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiXEFVX3lxTE9VV2lHcEk2U2R0c0Q5TjloRTNyalFkVFEydDllOHZHM1hkUlE1Z1ZmeHpRZVdUSGpxNS1ILVp3ZnBSbUYwZG9qTEN0SzBmTnRmMlR0cl93emlVMkhp",
+      "source": "rosei_news",
+      "title": "『ハラスメント被害者からの相談への初動対応』",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VV2lHcEk2U2R0c0Q5TjloRTNyalFkVFEydDllOHZHM1hkUlE1Z1ZmeHpRZVdUSGpxNS1ILVp3ZnBSbUYwZG9qTEN0SzBmTnRmMlR0cl93emlVMkhp?oc=5",
+      "publishedAt": "2025-10-02T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "ハラスメント被害の相談を受けた際の初動対応について解説した記事です。人事労務担当者は、被害者からの相談時における適切な聴取方法や対応手順を確認し、二次被害の防止と迅速な事実確認の実施が求められます。",
+      "summarizedAt": "2026-09-08T22:15:08.342Z",
+      "storyId": "rosei:CBMiXEFVX3lxTE9VV2lHcEk2U2R0c0Q5TjloRTNyalFkVFEydDllOHZHM1hkUlE1Z1ZmeHpRZVdUSGpxNS1ILVp3ZnBSbUYwZG9qTEN0SzBmTnRmMlR0cl93emlVMkhp",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBXYWUwZTBZX0tKU0lwUE9qa3o3bHpfSFVxT2lSeFBxT1UtNDhQV3ZSUzE0aUZ4Ql95ZlNjckZlbnZjRmd5NkMxQXZYZlhjclVSQ1VzVw",
       "source": "rosei_news",
       "title": "ハラスメント加害者としてヒアリングを受けた社員が、直接謝罪したいと申し出た場合にどう対応すべきか",
@@ -5599,6 +5795,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMia0FVX3lxTFBRUlFvOERpa2I0VzRDNmcwTU96dlEtS1A4SUdCbURQNEh2LWRnd1JQS0djcXNPUGhfaWV6RDBuSW1GZWc4bnI4Rjl2Tmd5N3hiRnNOUlR4Ty1kX3JpbDloUVozc1UzZUFNc2lj",
+      "source": "rosei_news",
+      "title": "2024年度 モデル賃金・年収調査",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRUlFvOERpa2I0VzRDNmcwTU96dlEtS1A4SUdCbURQNEh2LWRnd1JQS0djcXNPUGhfaWV6RDBuSW1GZWc4bnI4Rjl2Tmd5N3hiRnNOUlR4Ty1kX3JpbDloUVozc1UzZUFNc2lj?oc=5",
+      "publishedAt": "2024-11-08T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "2024年度における企業の賃金水準の実態を把握するための調査結果であり、人事担当者は自社の賃金テーブルや年収水準が市場相場と比較して適正かを検証し、賃金制度の見直しや採用時の処遇設定の参考資料として活用すべきです。",
+      "summarizedAt": "2026-09-08T22:14:56.386Z",
+      "storyId": "rosei:CBMia0FVX3lxTFBRUlFvOERpa2I0VzRDNmcwTU96dlEtS1A4SUdCbURQNEh2LWRnd1JQS0djcXNPUGhfaWV6RDBuSW1GZWc4bnI4Rjl2Tmd5N3hiRnNOUlR4Ty1kX3JpbDloUVozc1UzZUFNc2lj",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9hTl9MTHZXLWh3cDgxdHZwaHBBQ3gtd25rckhNS0dwNk1RejRySGVQbjVtM3E0MnU5a1BIRHF2LVlibWpUeElUSkVDTGkxZUczYzlrOA",
       "source": "rosei_news",
       "title": "賃上げ定着、企業の責務 ２５年春闘で経団連指針案 中小、非正規アップが鍵",
@@ -6031,6 +6241,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE41UzFmTTUtNnQ4Rkd1N3JfZDRrQTN3XzloM3JYQTdTdFZrZTJidjlUY2R3UldQcEcwMGY5Sm9lVks2NUlqVDlnMHZmUEE5clRNUW5aQw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5fa2xDbjJqM1M3aXprOHY4OUdfb21lRHlDUldzQUEyQWE2ZmdfNU4zWkJGNXdMR2xZUnBhMTFCNktWZEVsWWZYem1CVTdORk16V3dMUA",
+      "source": "rosei_news",
+      "title": "外国人労働者について、社外副業を認めたり、社外からの副業を受け入れたりできるか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fa2xDbjJqM1M3aXprOHY4OUdfb21lRHlDUldzQUEyQWE2ZmdfNU4zWkJGNXdMR2xZUnBhMTFCNktWZEVsWWZYem1CVTdORk16V3dMUA?oc=5",
+      "publishedAt": "2024-06-14T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "外国人労働者の副業について、自社従業員の社外副業許可や、他社勤務の外国人を副業として受け入れる際の法的可否や留意点を解説しています。在留資格との関係を確認し、適切な対応が求められます。",
+      "summarizedAt": "2026-09-08T22:15:14.081Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE5fa2xDbjJqM1M3aXprOHY4OUdfb21lRHlDUldzQUEyQWE2ZmdfNU4zWkJGNXdMR2xZUnBhMTFCNktWZEVsWWZYem1CVTdORk16V3dMUA",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE82M0U3SEVPa2ZvTmRsNm1EbWNyclVzZDV0M3RFa3NUS29BbUdGelpESUpuMWFURXFIRi04bnRkZ0R3UlFMSzl3bk5uYU43aHdOUFFwRQ",
@@ -6581,6 +6805,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE9rTlFNS1V2VnRIQ2hPaTVjaS1tMmNIX2YxZ1AxZm0zOExuRGF0TWJOR2N3b1Y1Rk83WlRld09KdnlIbTN5M0x3NmtOT21VbUhXUHh3Q1dKNHVuNXM",
+      "source": "rosei_news",
+      "title": "【大阪開催】『企業のハラスメント対策、メンタルヘルス対応』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTlFNS1V2VnRIQ2hPaTVjaS1tMmNIX2YxZ1AxZm0zOExuRGF0TWJOR2N3b1Y1Rk83WlRld09KdnlIbTN5M0x3NmtOT21VbUhXUHh3Q1dKNHVuNXM?oc=5",
+      "publishedAt": "2023-06-01T14:20:15.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "大阪開催のセミナー案内です。企業のハラスメント対策とメンタルヘルス対応について学ぶ機会が提供されています。人事労務担当者で関心のある方は参加を検討してください。",
+      "summarizedAt": "2026-09-08T22:14:59.024Z",
+      "storyId": "rosei:CBMiW0FVX3lxTE9rTlFNS1V2VnRIQ2hPaTVjaS1tMmNIX2YxZ1AxZm0zOExuRGF0TWJOR2N3b1Y1Rk83WlRld09KdnlIbTN5M0x3NmtOT21VbUhXUHh3Q1dKNHVuNXM",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1sbjFoSmZzUUZfN3ZZUm5fS2lCUGdNWENIVWlCNEE1WmU5eEozblpWQWdDcXF1MWQ5a296cjhMeHdXM2hhM3BwWjFVeU55Rjl5N3lOZw",
       "source": "rosei_news",
       "title": "厚生年金加入拡大を議論 短時間労働者や個人事業所",
@@ -6620,6 +6858,20 @@
       "summary": "職場のハラスメント防止を目的としたeラーニング形式のコミュニケーション講座が提供されています。人事担当者は社内研修の選択肢として、このeラーニング教材の導入を検討できます。",
       "summarizedAt": "2026-09-03T22:18:01.815Z",
       "storyId": "rosei:CBMiWEFVX3lxTE0wMUpCcFF1QVlabExOVjljeGJVNkxHVHNtODlJWnU1bHo2SFJiVVVncjV0ME9aWHNKZE52SHpwWlB1NW44LXMzUlRuczM0TVpvNVl2Wm9UZFY",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiYkFVX3lxTE15S3RQS2hXZmx3NDlNWnRVc0NtMWZtYXBpUENQQ1ozTWMyYkNDb0JlU0VRUWtQVEVmOHQ0ejlzQVd3R0RGbjJROWN5ZGRaVDVLZFhwZ1RNOGp0QnB3b1NYMjF3",
+      "source": "rosei_news",
+      "title": "ハラスメント講座",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15S3RQS2hXZmx3NDlNWnRVc0NtMWZtYXBpUENQQ1ozTWMyYkNDb0JlU0VRUWtQVEVmOHQ0ejlzQVd3R0RGbjJROWN5ZGRaVDVLZFhwZ1RNOGp0QnB3b1NYMjF3?oc=5",
+      "publishedAt": "2023-03-02T11:38:53.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "提供された情報が「ハラスメント講座」という見出しのみのため、具体的な法改正や実務上の変更点を特定できません。講座内容の詳細(対象となるハラスメントの種類、法的要件、企業に求められる対応措置など)が確認できる情報が必要です。",
+      "summarizedAt": "2026-09-08T22:15:05.599Z",
+      "storyId": "rosei:CBMiYkFVX3lxTE15S3RQS2hXZmx3NDlNWnRVc0NtMWZtYXBpUENQQ1ozTWMyYkNDb0JlU0VRUWtQVEVmOHQ0ejlzQVd3R0RGbjJROWN5ZGRaVDVLZFhwZ1RNOGp0QnB3b1NYMjF3",
       "isGuideline": false
     },
     {
@@ -6777,6 +7029,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiWkFVX3lxTFBKYVBMT21CZUh6MFdQUnN6MGdMS21IbU01cTYtbHB3dVVKS1R3Z0xxRk1JS0kxbFdYaGo5SGFnQTVsdUItT2ZsdlMyTEJDSmU5OUNPMXNvLUpodw",
+      "source": "rosei_news",
+      "title": "『職場のハラスメント～適正な対応と実務～』",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKYVBMT21CZUh6MFdQUnN6MGdMS21IbU01cTYtbHB3dVVKS1R3Z0xxRk1JS0kxbFdYaGo5SGFnQTVsdUItT2ZsdlMyTEJDSmU5OUNPMXNvLUpodw?oc=5",
+      "publishedAt": "2022-11-23T11:10:13.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "職場のハラスメントに関する適正な対応方法と実務上の取り扱いについて解説した記事です。人事労務担当者は、ハラスメント防止措置や発生時の対応手順など、実務に必要な知識を確認することが推奨されます。",
+      "summarizedAt": "2026-09-08T22:15:11.206Z",
+      "storyId": "rosei:CBMiWkFVX3lxTFBKYVBMT21CZUh6MFdQUnN6MGdMS21IbU01cTYtbHB3dVVKS1R3Z0xxRk1JS0kxbFdYaGo5SGFnQTVsdUItT2ZsdlMyTEJDSmU5OUNPMXNvLUpodw",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMia0FVX3lxTE5xRmVTTElxTktRV09URWVKSjF1VklPQng1Y2h0SmJEWC00b0VWczRVemE1ZlZJenJUVjREZFJ4VlYyZEs2NFpPLXFiZ1pjcklONUg3R24yNEVvLThGTHIyT19BaEJDdmRtUS0w",
       "source": "rosei_news",
       "title": "雇用調整助成金における 新型コロナウイルス感染症の 特例措置",
@@ -6789,6 +7055,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMia0FVX3lxTE5xRmVTTElxTktRV09URWVKSjF1VklPQng1Y2h0SmJEWC00b0VWczRVemE1ZlZJenJUVjREZFJ4VlYyZEs2NFpPLXFiZ1pjcklONUg3R24yNEVvLThGTHIyT19BaEJDdmRtUS0w",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1nT2prZGhjX2p0c1hFcHB4Z0YzajBuR2VZdUxPZ19rd2drTnFtT3lIQS00aUZPQU1RUV9uLXdoRTdnc0w5M3ktNDJOUE5zc0lhVUJuUw",
+      "source": "rosei_news",
+      "title": "改正育児・介護休業法への対応アンケート",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nT2prZGhjX2p0c1hFcHB4Z0YzajBuR2VZdUxPZ19rd2drTnFtT3lIQS00aUZPQU1RUV9uLXdoRTdnc0w5M3ktNDJOUE5zc0lhVUJuUw?oc=5",
+      "publishedAt": "2022-09-23T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-08T22:14:03.753Z",
+      "relevanceChecked": true,
+      "summary": "育児・介護休業法の改正を受けた企業の対応状況についてのアンケート調査結果です。他社の対応事例や取り組み状況を参考に、自社の法改正対応の進捗状況を確認することができます。",
+      "summarizedAt": "2026-09-08T22:15:01.996Z",
+      "storyId": "rosei:CBMiVEFVX3lxTE1nT2prZGhjX2p0c1hFcHB4Z0YzajBuR2VZdUxPZ19rd2drTnFtT3lIQS00aUZPQU1RUV9uLXdoRTdnc0w5M3ktNDJOUE5zc0lhVUJuUw",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiWkFVX3lxTE5zRUNGeW5wMUpsUUpCQnJCMGwxRmhncGtGMzhtTDRoN0NfcHBmakRUSWxtN1puRUl6Qm9FeDVHM0JvZzJtcnNGUDg3ZElBSWI2QTlUT3ZnTXBuZw",
