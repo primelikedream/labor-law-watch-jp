@@ -48,12 +48,13 @@ async function main() {
   const relevant = await filterRelevantItems(merged);
   console.log(`対象外として除外: ${merged.length - relevant.length}件 (残り ${relevant.length}件)`);
 
-  console.log(`要約対象: ${relevant.filter((item) => !item.summary).length}件`);
-  await summarizeItems(relevant);
-
+  // 要約が同じ出来事の他ソース見出しを参照できるよう、クラスタリングを要約より先に行う。
   const unclustered = relevant.filter((item) => !item.storyId);
   console.log(`クラスタリング対象: ${unclustered.length}件`);
   await clusterNewItems(unclustered);
+
+  console.log(`要約対象: ${relevant.filter((item) => !item.summary).length}件`);
+  await summarizeItems(relevant);
 
   const classified = classifyItems(relevant);
 
