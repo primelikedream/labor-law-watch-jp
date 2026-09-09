@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-09T00:18:21.850Z",
+  "updatedAt": "2026-09-09T22:13:11.982Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76089.html",
+      "source": "mhlw_news",
+      "title": "第２回　令和８年度医師の働き方改革の推進等に関する検討会：資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76089.html",
+      "publishedAt": "2026-09-09T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-09T22:12:53.636Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76089.html",
+      "summary": "令和8年度における医師の働き方改革の推進策について、厚生労働省が検討会で議論を実施しています。医療機関の労務担当者は、医師の時間外労働上限規制への対応状況の確認や追加的な支援策の動向について、今後公表される資料内容を注視する必要があります。",
+      "summarizedAt": "2026-09-09T22:13:05.806Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
+      "source": "mhlw_news",
+      "title": "女性支援事業７０周年記念厚生労働大臣表彰について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
+      "publishedAt": "2026-09-09T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-09T22:12:53.636Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
+      "summary": "女性支援事業の70周年を記念して厚生労働大臣による表彰が実施されます。労務・人事担当者が直接対応すべき法改正や制度変更ではなく、功労者等への表彰事業の告知です。",
+      "summarizedAt": "2026-09-09T22:13:08.866Z",
+      "isGuideline": false
+    },
     {
       "id": "egov:350M50002000003:20260825",
       "source": "egov_law_update",
@@ -7250,6 +7277,20 @@
       "summary": "中国における労働法制と実務を日本の制度と対比させながら解説した書籍です。中国に拠点を持つ企業の人事労務担当者が、日中の相違点を理解し適切な労務管理を行うための参考資料として活用できます。",
       "summarizedAt": "2026-09-04T22:15:00.986Z",
       "storyId": "rosei:CBMiVEFVX3lxTE81YVlXUDBVSHBuOUloUVJONFpBTVE3RDFQTmZtSndpdktUYkNacXd6eU1vWlhqeU1qLVRoVExzWllubHh6eVpnQkVxVzdTTHJ3ZFgxRQ",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiWkFVX3lxTE8wMlNlb0l4T0dEemNMamRrTl9CQm1BT1lYVkFReVZkX250WHRzU1dwZUdMRHBwWmNjNjZ2ZVJZR1BGTlFSS3Y3UHBwcklUbGUtS2Q0ay1FSXc5dw",
+      "source": "rosei_news",
+      "title": "『労働条件の見直し・不利益変更をめぐる諸問題』【半日】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wMlNlb0l4T0dEemNMamRrTl9CQm1BT1lYVkFReVZkX250WHRzU1dwZUdMRHBwWmNjNjZ2ZVJZR1BGTlFSS3Y3UHBwcklUbGUtS2Q0ay1FSXc5dw?oc=5",
+      "publishedAt": "2022-04-05T07:34:26.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-09T22:12:53.107Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiWkFVX3lxTE8wMlNlb0l4T0dEemNMamRrTl9CQm1BT1lYVkFReVZkX250WHRzU1dwZUdMRHBwWmNjNjZ2ZVJZR1BGTlFSS3Y3UHBwcklUbGUtS2Q0ay1FSXc5dw",
+      "summary": "労働条件の変更や不利益変更に関する法的問題と実務対応を学ぶ半日研修プログラムです。人事・労務担当者は、就業規則変更時の合理性判断や従業員との合意形成など、適法な変更手続きの要点を確認する機会として活用できます。",
+      "summarizedAt": "2026-09-09T22:13:11.980Z",
       "isGuideline": false
     },
     {
