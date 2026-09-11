@@ -1,6 +1,117 @@
 {
-  "updatedAt": "2026-09-10T22:13:14.910Z",
+  "updatedAt": "2026-09-11T22:14:28.202Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1XTVRnZkpVUlNKeXdGTVQ4Y3JWcDR3UFYzd3M1dnd4bkthU0w1V09OMS0tbHhscFNlRWhZYUVWMF9JS1FrMmlmNjNOWjhMeDcxSmRfbWppeGxEYTY3YnlhdEV2RGk2QWlob21HSQ",
+      "source": "nikkei_news",
+      "title": "令和なコトバ「長文ハラスメント」 特に注意すべき人は",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XTVRnZkpVUlNKeXdGTVQ4Y3JWcDR3UFYzd3M1dnd4bkthU0w1V09OMS0tbHhscFNlRWhZYUVWMF9JS1FrMmlmNjNOWjhMeDcxSmRfbWppeGxEYTY3YnlhdEV2RGk2QWlob21HSQ?oc=5",
+      "publishedAt": "2026-09-11T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1XTVRnZkpVUlNKeXdGTVQ4Y3JWcDR3UFYzd3M1dnd4bkthU0w1V09OMS0tbHhscFNlRWhZYUVWMF9JS1FrMmlmNjNOWjhMeDcxSmRfbWppeGxEYTY3YnlhdEV2RGk2QWlob21HSQ",
+      "summary": "【要約】\n職場で「長文ハラスメント」と呼ばれる行為が問題視されており、メールやチャットで過度に長い文章を送る行為がハラスメントと受け取られる可能性があるため、人事・労務担当者は職場のコミュニケーション指針の見直しが必要です。\n\n(95字)",
+      "summarizedAt": "2026-09-11T22:14:15.302Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBybkJFa094dmZmTWlPVGNiVE56UkdSTWV3ZU8xV01GU0dsZGhLeVEzeEppRzhWUnZ4WnZ2QmkwUDM2Yk9FZDNjZTJ4SkRWdVVCb2hGODRpWmEtclVuN0x0cmdRTVJVakY0REFNdw",
+      "source": "nikkei_news",
+      "title": "生活不安で結婚ためらう 家庭築く準備、支援薄く 賃金・住居・教育が障壁 希望出生率1.46に低下試算",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybkJFa094dmZmTWlPVGNiVE56UkdSTWV3ZU8xV01GU0dsZGhLeVEzeEppRzhWUnZ4WnZ2QmkwUDM2Yk9FZDNjZTJ4SkRWdVVCb2hGODRpWmEtclVuN0x0cmdRTVJVakY0REFNdw?oc=5",
+      "publishedAt": "2026-09-11T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBybkJFa094dmZmTWlPVGNiVE56UkdSTWV3ZU8xV01GU0dsZGhLeVEzeEppRzhWUnZ4WnZ2QmkwUDM2Yk9FZDNjZTJ4SkRWdVVCb2hGODRpWmEtclVuN0x0cmdRTVJVakY0REFNdw",
+      "summary": "この見出しのみからは労働法制の改正や企業の労務対応に関する具体的な変更点は読み取れません。賃金・住居・教育面での支援不足が結婚・出生率低下の背景にあることが示唆されていますが、人事労務担当者が直ちに対応すべき法令改正や実務上の変更は含まれていないと判断されます。",
+      "summarizedAt": "2026-09-11T22:14:03.196Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1jX05RNUZpVHpFMldLVjVXS0taSTVzVWtwakN2RVJGX1hEMEZKb1FuZTJwMjFjNmM1SHNXV0UwdTIwZkFxSGFlcllreTc4NF9TLUdwU0lZVFRUT3FheVhpSW43NUJrUlk3OVBCRA",
+      "source": "nikkei_news",
+      "title": "全トヨタ労連、休日増の「旗を降ろさず」 賃上げ原資は生産改善で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jX05RNUZpVHpFMldLVjVXS0taSTVzVWtwakN2RVJGX1hEMEZKb1FuZTJwMjFjNmM1SHNXV0UwdTIwZkFxSGFlcllreTc4NF9TLUdwU0lZVFRUT3FheVhpSW43NUJrUlk3OVBCRA?oc=5",
+      "publishedAt": "2026-09-11T08:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1jX05RNUZpVHpFMldLVjVXS0taSTVzVWtwakN2RVJGX1hEMEZKb1FuZTJwMjFjNmM1SHNXV0UwdTIwZkFxSGFlcllreTc4NF9TLUdwU0lZVFRUT3FheVhpSW43NUJrUlk3OVBCRA",
+      "summary": "トヨタグループの労働組合が、賃上げの原資を生産性改善で確保しつつ、年間休日の増加要求を継続する方針を示しました。労務担当者は同業他社の動向として、賃上げと休日増加の両立を求める労組要求の強まりに注意が必要です。",
+      "summarizedAt": "2026-09-11T22:14:22.063Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMib0FVX3lxTE9GQ3FkVlB1d0pYWHhPdmg3SmVXeUNNTWFIYy1CVG9OR2JqMmgwMS1sVVRWTGw4dFJhTVM2NEF0TXdjcC1FOERzX3c0UDRRTm1IclBYdmN5Njhjd2g5LWJPRVl3ekg3elZvYldmanhBcw",
+      "source": "nikkei_news",
+      "title": "「労使トラブルは経営者自身を映す鏡」 労働事件を招く社長に4つの共通点",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQ3FkVlB1d0pYWHhPdmg3SmVXeUNNTWFIYy1CVG9OR2JqMmgwMS1sVVRWTGw4dFJhTVM2NEF0TXdjcC1FOERzX3c0UDRRTm1IclBYdmN5Njhjd2g5LWJPRVl3ekg3elZvYldmanhBcw?oc=5",
+      "publishedAt": "2026-09-11T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMib0FVX3lxTE9GQ3FkVlB1d0pYWHhPdmg3SmVXeUNNTWFIYy1CVG9OR2JqMmgwMS1sVVRWTGw4dFJhTVM2NEF0TXdjcC1FOERzX3c0UDRRTm1IclBYdmN5Njhjd2g5LWJPRVl3ekg3elZvYldmanhBcw",
+      "summary": "労働事件を招く経営者には4つの共通点があるとされており、労使トラブルは経営者自身の姿勢を反映するものであることから、人事・労務担当者は経営層の意識改革や労務管理体制の見直しが必要かを検討すべきです。",
+      "summarizedAt": "2026-09-11T22:13:59.540Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76159.html",
+      "source": "mhlw_news",
+      "title": "第30回キャリアコンサルタント登録制度等に関する検討会（議事録）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76159.html",
+      "publishedAt": "2026-09-11T07:30:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-11T22:13:41.313Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76159.html",
+      "summary": "厚生労働省が第30回キャリアコンサルタント登録制度等に関する検討会を開催し、その議事録が公開されました。キャリアコンサルタント制度の運用や課題について議論された内容を確認できます。",
+      "summarizedAt": "2026-09-11T22:13:51.119Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76104.html",
+      "source": "mhlw_news",
+      "title": "厚生労働省及びPMDAはProject Orbisに参加します ～抗がん剤領域におけるドラッグラグ・ロスの解消を目指します～",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76104.html",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-11T22:13:41.313Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76104.html",
+      "summary": "この情報は抗がん剤の承認審査に関する国際連携の取組であり、労働関連法制や人事労務管理に直接影響する内容ではありません。労務・人事担当者が対応すべき事項は特にありません。",
+      "summarizedAt": "2026-09-11T22:13:53.756Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75967.html",
+      "source": "mhlw_news",
+      "title": "第211回労働政策審議会労働条件分科会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75967.html",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-11T22:13:41.313Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75967.html",
+      "summary": "労働政策審議会労働条件分科会の第211回会合が開催されます。労働条件に関する制度改正等の審議動向を確認するため、議事録や配布資料の公表後に内容を把握することが推奨されます。",
+      "summarizedAt": "2026-09-11T22:13:56.430Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiW0FVX3lxTE0xdFNhR3JUbTktTTJPcGFSUlRtYk1jb09MUGw1WjgyazRqRXNwZjB3YTNtc1A3VnUtYXB6d2FoU0F0VGh6czY1Sl83d3VPOG5hQlJCY284eDVxQXc",
+      "source": "nikkei_news",
+      "title": "残業「月45時間以内」一律指導緩和、働き方どう変わる？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdFNhR3JUbTktTTJPcGFSUlRtYk1jb09MUGw1WjgyazRqRXNwZjB3YTNtc1A3VnUtYXB6d2FoU0F0VGh6czY1Sl83d3VPOG5hQlJCY284eDVxQXc?oc=5",
+      "publishedAt": "2026-09-11T00:10:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiW0FVX3lxTE0xdFNhR3JUbTktTTJPcGFSUlRtYk1jb09MUGw1WjgyazRqRXNwZjB3YTNtc1A3VnUtYXB6d2FoU0F0VGh6czY1Sl83d3VPOG5hQlJCY284eDVxQXc",
+      "summary": "厚生労働省が時間外労働の上限規制について、月45時間超の残業に対する一律的な是正指導を緩和する方針を示したとみられます。労務担当者は今後の指導基準の変更内容を確認し、自社の残業管理方針への影響を検討する必要があります。",
+      "summarizedAt": "2026-09-11T22:14:25.023Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiigFBVV95cUxQQmdfTEozb3AyNk5sUWxLWHhqRGg2RGlDcDlUMktkb0xSX1B4VUZJWGdFWXNJU0hWMGVuODJlQkR6S1hxbTMtbjNUVDl1Mkt2Z0xlbE9Dc0k4VUpETEJOZEhWTUd1dGtFS3c4ZHotTGduUUhDX0czZHlIRVYzTHhpdDJmZy0taWlsRmc",
       "source": "nikkei_news",
@@ -70,6 +181,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9qRDhsWDFQSlpfSlBUNWJCcG1zRlZiUmVWVXhNWWp4QTNjV1BWNHVHS1hpMng3ck9oeklrN2xOVUJjZ29GS3NRYm12VTRhWThoNnFHb1RubldYblMwVTV1RXRRQVNuSXRxdWhMTA",
+      "source": "nikkei_news",
+      "title": "国のテレワーク月間に幕、助成金も廃止 定着踏まえAI活用にシフト",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRDhsWDFQSlpfSlBUNWJCcG1zRlZiUmVWVXhNWWp4QTNjV1BWNHVHS1hpMng3ck9oeklrN2xOVUJjZ29GS3NRYm12VTRhWThoNnFHb1RubldYblMwVTV1RXRRQVNuSXRxdWhMTA?oc=5",
+      "publishedAt": "2026-09-10T02:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9qRDhsWDFQSlpfSlBUNWJCcG1zRlZiUmVWVXhNWWp4QTNjV1BWNHVHS1hpMng3ck9oeklrN2xOVUJjZ29GS3NRYm12VTRhWThoNnFHb1RubldYblMwVTV1RXRRQVNuSXRxdWhMTA",
+      "summary": "国が推進してきた「テレワーク月間」が終了し、関連助成金も廃止されます。テレワークが一定程度定着したことを受け、今後は政府の支援がAI活用などの新たな施策へシフトするため、従来の補助制度を前提とした導入計画の見直しが必要です。",
+      "summarizedAt": "2026-09-11T22:14:18.530Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBOSWF5bktuRWlNQUtuWlk2aHdNUV9MMDdJcnBNTkY3ZlRmRWhpYW1oaDNIRHk4ajRSMy1wN21DeWU5a1dHSWpkVXdtN3RsRGZrd3F2VlNpUVBEWWY5OFNyMXpab1haQzZ2ZlhvTA",
       "source": "nikkei_news",
       "title": "台湾がパワハラ防止義務化 企業は窓口整備、管理責任重く",
@@ -96,6 +221,20 @@
       "summary": "警察庁が警備業を特定技能制度の対象職種に追加することを検討しており、実現すれば外国人材の受け入れが可能になります。人手不足が背景にあるため、警備業を営む企業は今後の制度化の動向を注視し、受け入れ体制の準備を検討する必要があります。",
       "summarizedAt": "2026-09-10T22:13:11.397Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9NSURqbHJaMHl6X1h4V3BOUkRDREctRGlBekVySmRkUmwwUDc4Vm1TSjZNS2dFS2x4dFBfeDhZUWJJT2FMQjczYkROU2JPdTFCWkV6UUkwVXRKQm9KdE9nRzl3OVA0S3NfWXpYSA",
+      "source": "nikkei_news",
+      "title": "若者の金融資産、格差拡大 20代のNISA利用は4人に1人 投資余力に差、賃金カギ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSURqbHJaMHl6X1h4V3BOUkRDREctRGlBekVySmRkUmwwUDc4Vm1TSjZNS2dFS2x4dFBfeDhZUWJJT2FMQjczYkROU2JPdTFCWkV6UUkwVXRKQm9KdE9nRzl3OVA0S3NfWXpYSA?oc=5",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9NSURqbHJaMHl6X1h4V3BOUkRDREctRGlBekVySmRkUmwwUDc4Vm1TSjZNS2dFS2x4dFBfeDhZUWJJT2FMQjczYkROU2JPdTFCWkV6UUkwVXRKQm9KdE9nRzl3OVA0S3NfWXpYSA",
+      "summary": "この見出しのみからは労働法制の改正や企業の人事労務対応に関する情報が読み取れません。若年層の資産形成格差とNISA利用状況は金融・経済動向であり、労務担当者が対応すべき法改正や制度変更には該当しないため、要約対象外となります。",
+      "summarizedAt": "2026-09-11T22:14:12.050Z",
       "isGuideline": false
     },
     {
@@ -221,6 +360,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9sejJ1MS0xOHdOWXFlNEtlUlZzQ1hSNlNrQnV2SWROVlpRYTFQOVpBbGswRFZpbUU2TlAtNzFmbU0tZ2xDbTVmZFJnQVo1VzhZaGpFalI0ZWx2dVB0Umw4cUo0VHNMSUhkQTBzQQ",
       "summary": "最低賃金の引き上げが見込まれる中、企業は賃上げ原資を確保するため生産性向上への取り組みが急務となっています。人事・労務担当者は最低賃金改定の動向を注視し、賃金体系の見直しや業務効率化の準備を進める必要があります。",
       "summarizedAt": "2026-09-10T22:13:04.520Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9hTWViLW9yLVRWWHdQeWZfMGR0RnVwNlV6cGVGcV9uMTAtMTFnSHB0YV82dFdLVUxTZ1RpcnJ3ckh3Q1RnS3M5dUVjeEkxU3B0N1JrR0Vxa3RDY01scGhDWlF0UTVxMlJRUk1Pag",
+      "source": "nikkei_news",
+      "title": "Future of Work AIが変える雇用と仕事",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hTWViLW9yLVRWWHdQeWZfMGR0RnVwNlV6cGVGcV9uMTAtMTFnSHB0YV82dFdLVUxTZ1RpcnJ3ckh3Q1RnS3M5dUVjeEkxU3B0N1JrR0Vxa3RDY01scGhDWlF0UTVxMlJRUk1Pag?oc=5",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-11T22:13:40.875Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9hTWViLW9yLVRWWHdQeWZfMGR0RnVwNlV6cGVGcV9uMTAtMTFnSHB0YV82dFdLVUxTZ1RpcnJ3ckh3Q1RnS3M5dUVjeEkxU3B0N1JrR0Vxa3RDY01scGhDWlF0UTVxMlJRUk1Pag",
+      "summary": "# 要約(見出しのみのため限定的)\n\n本記事は「AIが雇用と仕事に与える変化」をテーマとしていますが、見出しのみでは具体的な法改正や実務上の対応事項は不明です。AI技術の進展が労働環境に及ぼす影響について論じている可能性があります。\n\n(72字)\n\n---\n**編集者注記**: 記事本文がないため、法令改正の有無、企業に求められる具体的対応、時期などの実務情報は提供できません。",
+      "summarizedAt": "2026-09-11T22:14:08.387Z",
       "isGuideline": false
     },
     {
@@ -6604,6 +6757,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5nNW9wLUJGVTVLbkxucTF5S25xazRVWVVDbVBXLVNyR3RMSzVhcTBlcEY3TkpBcXlzUVRCM0lONXh1T2tfYkdvRWpqMzNjanFjTVF3LQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFAwOXZZM2x0b0VqcTkxREU4M2ZoWWdZcXY1c1liN0JoT2VMa0tkZHVISWhlejNGN3Q4TnpsRGZ4RWQyRFJTRWx5ZU5zZUx3SmRFUXJQUQ",
+      "source": "rosei_news",
+      "title": "残業規制９割「守れず」 働き方改革半数が評価 業務移管、複数主治医制も 特定機能病院調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwOXZZM2x0b0VqcTkxREU4M2ZoWWdZcXY1c1liN0JoT2VMa0tkZHVISWhlejNGN3Q4TnpsRGZ4RWQyRFJTRWx5ZU5zZUx3SmRFUXJQUQ?oc=5",
+      "publishedAt": "2024-03-09T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-11T22:13:40.876Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFAwOXZZM2x0b0VqcTkxREU4M2ZoWWdZcXY1c1liN0JoT2VMa0tkZHVISWhlejNGN3Q4TnpsRGZ4RWQyRFJTRWx5ZU5zZUx3SmRFUXJQUQ",
+      "summary": "特定機能病院の9割が時間外労働の上限規制を守れていない実態が調査で判明しました。医師の働き方改革への対応として、業務移管や複数主治医制などの取り組みが進められているものの、規制遵守には依然課題が残っています。",
+      "summarizedAt": "2026-09-11T22:14:28.200Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE1xWlV4Y2hldk4wS0dhTDJCRWh2SzB2cjBnUEthckRGY21ncFRTRmt0Vk1xb2N5di12czZsbk1oTnA4cnA3NWYtcU1KTFdqdTBQa2M3VQ",
