@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-11T22:14:28.202Z",
+  "updatedAt": "2026-09-12T22:13:21.849Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5uNV9aWW9Mbk5CeEhVZUR0bkV0MllTM1o3ODNRcUVhdV9XempDTmNBVWdyZmpmSmQyb2dzM3hicHVkRHE1TFFjZTMtdzR1dDdidlN1RlFKR0JtUndiazNObU5MWWRUenFsRDFlNg",
+      "source": "nikkei_news",
+      "title": "ステーキのあさくま、「スキマ店長」採用 管理職の長時間労働を是正",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNV9aWW9Mbk5CeEhVZUR0bkV0MllTM1o3ODNRcUVhdV9XempDTmNBVWdyZmpmSmQyb2dzM3hicHVkRHE1TFFjZTMtdzR1dDdidlN1RlFKR0JtUndiazNObU5MWWRUenFsRDFlNg?oc=5",
+      "publishedAt": "2026-09-12T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-12T22:13:02.025Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5uNV9aWW9Mbk5CeEhVZUR0bkV0MllTM1o3ODNRcUVhdV9XempDTmNBVWdyZmpmSmQyb2dzM3hicHVkRHE1TFFjZTMtdzR1dDdidlN1RlFKR0JtUndiazNObU5MWWRUenFsRDFlNg",
+      "summary": "ステーキチェーン「あさくま」が店長の長時間労働を是正するため、「スキマ店長」という新たな管理職採用形態を導入しました。人手不足と管理職の労働時間削減を両立させる取り組みとして、自社の管理職配置や勤務体制の見直しの参考になります。",
+      "summarizedAt": "2026-09-12T22:13:12.867Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE1XTVRnZkpVUlNKeXdGTVQ4Y3JWcDR3UFYzd3M1dnd4bkthU0w1V09OMS0tbHhscFNlRWhZYUVWMF9JS1FrMmlmNjNOWjhMeDcxSmRfbWppeGxEYTY3YnlhdEV2RGk2QWlob21HSQ",
       "source": "nikkei_news",
@@ -6956,6 +6970,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5sRUlDMmlMWmRPd21YTThGUkVXZVpfR2lpbXo3NXY3MXBHcUlHWWU4Uk8wbnBMZEVzb3ZvME9yS1RpeXNkcUpiY00xQ0p3TWxsR3NTQg",
+      "source": "rosei_news",
+      "title": "政労使会議、地方版開催へ 来春闘で、厚労省通達 賃上げ機運醸成狙う",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRUlDMmlMWmRPd21YTThGUkVXZVpfR2lpbXo3NXY3MXBHcUlHWWU4Uk8wbnBMZEVzb3ZvME9yS1RpeXNkcUpiY00xQ0p3TWxsR3NTQg?oc=5",
+      "publishedAt": "2023-12-19T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-12T22:13:02.026Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5sRUlDMmlMWmRPd21YTThGUkVXZVpfR2lpbXo3NXY3MXBHcUlHWWU4Uk8wbnBMZEVzb3ZvME9yS1RpeXNkcUpiY00xQ0p3TWxsR3NTQg",
+      "summary": "厚生労働省が来春闘に向けて地方版の政労使会議開催を通達しました。地域レベルでの賃上げ機運を高める狙いがあり、各地域での労使交渉や賃金改定の動向に影響を与える可能性があります。",
+      "summarizedAt": "2026-09-12T22:13:21.847Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBDTTlnS0ZDcXJfXzZwZlF5dE9BM0w3VzdpemlzaUZwQ3R0enF4UHlCSHlIQXRoM01MQ2tlYldGM2pCVnE0ZkVkV0t4eEhKX0lQTzc0Zw",
       "source": "rosei_news",
       "title": "佐賀大教授の解雇は無効 福岡地裁が賃金支払い命令",
@@ -8133,6 +8161,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5IMXNEbmhrdkJRaW04ZW8wU09aVElxVWZqQ1hJYlk5MUFkUVdrQ0hWSXpTd0phOXJoWmVrQmYyUHE5aXVSSHNCZmZoczl3TlZ4a0dMeQ",
+      "source": "rosei_news",
+      "title": "年次有給休暇の計画的付与",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IMXNEbmhrdkJRaW04ZW8wU09aVElxVWZqQ1hJYlk5MUFkUVdrQ0hWSXpTd0phOXJoWmVrQmYyUHE5aXVSSHNCZmZoczl3TlZ4a0dMeQ?oc=5",
+      "publishedAt": "2019-04-01T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-12T22:13:02.026Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5IMXNEbmhrdkJRaW04ZW8wU09aVElxVWZqQ1hJYlk5MUFkUVdrQ0hWSXpTd0phOXJoWmVrQmYyUHE5aXVSSHNCZmZoczl3TlZ4a0dMeQ",
+      "summary": "【要約】\n年次有給休暨の計画的付与制度について、労使協定の締結により従業員の有休のうち5日を超える部分を計画的に付与できる仕組みを解説。導入により年休取得率の向上や業務の計画的な運営が可能となります。\n\n(98字)",
+      "summarizedAt": "2026-09-12T22:13:19.047Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBYdUN4UF84d2pPa0JpQnJ4TG9neXF0N0pNNWNjLVBabFhmSHdyeFVnYUNjYmFzeU1sQVlrS21naGVlSUJ0d0MyRi16dHZBcGdtaHdhNw",
       "source": "rosei_news",
       "title": "［149］『パワーハラスメント〈第2版〉』",
@@ -8440,6 +8482,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9WN3QySHd1UUZCV29ER3pOTS1HMEQyVURXaFZ1ZTFpMzZuMDIzNTBVUW90b0lUNUx3R0hmcDBWanllQVlrQWZ4ZHhkNklsQTJCQzFrdg",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBaSk56MGFsYVhXTGJOOWpPUVpCakUyQkhEYk9aYWRZSUNuZXdrdzZteHV2Y2JNejJHc00xV18xcTVnSmd0Y1A4dmpCcUFDMldiMjczNQ",
+      "source": "rosei_news",
+      "title": "年次有給休暇の発生要件",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSk56MGFsYVhXTGJOOWpPUVpCakUyQkhEYk9aYWRZSUNuZXdrdzZteHV2Y2JNejJHc00xV18xcTVnSmd0Y1A4dmpCcUFDMldiMjczNQ?oc=5",
+      "publishedAt": "2009-08-18T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-12T22:13:02.026Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBaSk56MGFsYVhXTGJOOWpPUVpCakUyQkhEYk9aYWRZSUNuZXdrdzZteHV2Y2JNejJHc00xV18xcTVnSmd0Y1A4dmpCcUFDMldiMjczNQ",
+      "summary": "# 要約\n\n年次有給休暇は、雇入れ日から6か月間継続勤務し、全労働日の8割以上出勤した労働者に対して10日間付与されることが法定されており、人事担当者はこの要件充足を適切に管理する必要があります。",
+      "summarizedAt": "2026-09-12T22:13:15.740Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE9EanIxX25DblpzbzhLUjJ0LWI0LWVjZEJ2YTRSZ1h4cDNVLUlIYUlUb0o2SDMwODg5dUVFZ3RZMzItMEdTRTBzV2ZJeXc1SmpLTnFtZg",
