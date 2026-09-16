@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-09-15T22:14:47.400Z",
+  "updatedAt": "2026-09-16T22:14:25.552Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE94YjVhejR6WnZNRVFMd2dZaTJGYzJvYXhkYV9VdWNSYjRtSXJ1S1hmeWh5Z1pmNy1PeVpZMjNqcWZlV29relZ5QVFtNFJqWmRObHlaZWlBR3pqblFDVm5sQ3lKd3NOTmJtMld4dA",
+      "source": "nikkei_news",
+      "title": "障害者雇用、代行業者「丸投げ」待った 数合わせ脱し戦力化に本腰を",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94YjVhejR6WnZNRVFMd2dZaTJGYzJvYXhkYV9VdWNSYjRtSXJ1S1hmeWh5Z1pmNy1PeVpZMjNqcWZlV29relZ5QVFtNFJqWmRObHlaZWlBR3pqblFDVm5sQ3lKd3NOTmJtMld4dA?oc=5",
+      "publishedAt": "2026-09-16T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE94YjVhejR6WnZNRVFMd2dZaTJGYzJvYXhkYV9VdWNSYjRtSXJ1S1hmeWh5Z1pmNy1PeVpZMjNqcWZlV29relZ5QVFtNFJqWmRObHlaZWlBR3pqblFDVm5sQ3lKd3NOTmJtMld4dA",
+      "summary": "障害者雇用において、代行業者への業務委託だけで法定雇用率を満たす「丸投げ」形態が問題視されており、企業は数合わせではなく障害者を実質的な戦力として自社で受け入れ活用する体制整備が求められています。",
+      "summarizedAt": "2026-09-16T22:13:47.733Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5wZlc4aDFkeUx0VEs3OE9oVUE4WWl4ZnFsQUJTeWFoWWMwNUlPTFd2aDRWS0dmNkJRV243emg1RGF2aF9VM25oRExUazZicUdzQ0lSNXpEY3NzR1kwbkNEMjR5aTd4eUYzVC1wVw",
+      "source": "nikkei_news",
+      "title": "連続勤務「最長48日」短縮へ 厚労省、労基法見直し議論 裁量労働拡大も争点",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZlc4aDFkeUx0VEs3OE9oVUE4WWl4ZnFsQUJTeWFoWWMwNUlPTFd2aDRWS0dmNkJRV243emg1RGF2aF9VM25oRExUazZicUdzQ0lSNXpEY3NzR1kwbkNEMjR5aTd4eUYzVC1wVw?oc=5",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg",
+      "summary": "厚生労働省が労働基準法の見直しに着手し、現行制度で最長48日間の連続勤務が可能となっている規定の短縮を検討します。裁量労働制の適用拡大も争点となる見込みで、労務担当者は今後の法改正議論の動向に注目し、勤務間インターバルや休日付与の運用見直しが必要になる可能性があります。",
+      "summarizedAt": "2026-09-16T22:14:08.227Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE83VlpsRG5HWkRMb0FkMmlKT1dnald3WG9tNm1nM3hYZlBvR0xyUklteDhwYklRblpYUk1OUEpOTkNCU0Qzd0Q4RnZfQk5BYThFR1pOMklPQmhfYlRiWWVGa1BrWEVWQ1h4QkowMg",
+      "source": "nikkei_news",
+      "title": "経団連と東北経済連合会、労働生産性向上やAI活用で議論",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83VlpsRG5HWkRMb0FkMmlKT1dnald3WG9tNm1nM3hYZlBvR0xyUklteDhwYklRblpYUk1OUEpOTkNCU0Qzd0Q4RnZfQk5BYThFR1pOMklPQmhfYlRiWWVGa1BrWEVWQ1h4QkowMg?oc=5",
+      "publishedAt": "2026-09-16T10:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE83VlpsRG5HWkRMb0FkMmlKT1dnald3WG9tNm1nM3hYZlBvR0xyUklteDhwYklRblpYUk1OUEpOTkNCU0Qzd0Q4RnZfQk5BYThFR1pOMklPQmhfYlRiWWVGa1BrWEVWQ1h4QkowMg",
+      "summary": "経団連と東北経済連合会が労働生産性向上とAI活用をテーマに議論を実施しました。具体的な法改正や企業への義務付けではなく経済団体間の意見交換の段階であり、現時点で人事労務担当者に求められる対応はありません。",
+      "summarizedAt": "2026-09-16T22:13:56.685Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg",
+      "source": "nikkei_news",
+      "title": "連続勤務「最長48日間」を短縮へ 厚労省、裁量労働拡大とあわせ議論",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg?oc=5",
+      "publishedAt": "2026-09-16T07:21:49.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg",
+      "summary": "厚生労働省は、現行制度で最長48日間の連続勤務が可能となっている労働基準法の見直し議論を開始し、この連続勤務日数の上限短縮を検討します。裁量労働制の対象拡大も併せて議論される見通しで、人事担当者は今後の制度改正動向を注視し、勤務シフト管理の見直し準備が必要です。",
+      "summarizedAt": "2026-09-16T22:13:44.987Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5FMS1WbGNrYm9fcE9NU3JPNmtnYlRFV0Z2UnpBbmhXWHFkYUk5MTg5OE5lcXNXenlrM0xWM051YTNmVVg1c3JINW1fNnBhNEpDaEVGRzRzYko0V3Y2YkJMSkR3RUIwY1JIdXRfMg",
+      "source": "nikkei_news",
+      "title": "千葉県内企業、賃上げ実施は77% 25年度調査から3ポイント減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FMS1WbGNrYm9fcE9NU3JPNmtnYlRFV0Z2UnpBbmhXWHFkYUk5MTg5OE5lcXNXenlrM0xWM051YTNmVVg1c3JINW1fNnBhNEpDaEVGRzRzYko0V3Y2YkJMSkR3RUIwY1JIdXRfMg?oc=5",
+      "publishedAt": "2026-09-16T06:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5FMS1WbGNrYm9fcE9NU3JPNmtnYlRFV0Z2UnpBbmhXWHFkYUk5MTg5OE5lcXNXenlrM0xWM051YTNmVVg1c3JINW1fNnBhNEpDaEVGRzRzYko0V3Y2YkJMSkR3RUIwY1JIdXRfMg",
+      "summary": "千葉県内企業の2025年度賃上げ実施率は77%で前年度比3ポイント減少しました。賃上げ継続が困難になる企業が増加傾向にあるため、自社の賃金水準の市場競争力を改めて確認し、人材確保策の見直しが必要です。",
+      "summarizedAt": "2026-09-16T22:14:11.094Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76126.html",
+      "source": "mhlw_news",
+      "title": "令和８年度「高年齢者活躍企業コンテスト」の入賞企業が決定しました ～厚生労働大臣表彰最優秀賞・株式会社エヴァーブルー（静岡県浜松市）はじめ 入賞企業を10月９日（金）に表彰～",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76126.html",
+      "publishedAt": "2026-09-16T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-16T22:13:22.647Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76126.html",
+      "summary": "厚生労働省が令和8年度「高年齢者活躍企業コンテスト」の入賞企業を決定し、10月9日に表彰式を実施します。最優秀賞は株式会社エヴァーブルー（静岡県浜松市）が受賞し、高年齢者の雇用・活用の優良事例として参考になります。",
+      "summarizedAt": "2026-09-16T22:13:34.058Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5NQ3NwQnAyRi1tNmw2Z1R5WmVxVVNxM2FUd0xMT0NJVDBvWUt3eU5ZdDZ6TXdJWnEtODNMUkdCWkRJdV9vc205YjZEVVM5aFhjbENrQ3M0WjBBOWI2MHQ1WjJTUTdNUExqSGFYSQ",
+      "source": "nikkei_news",
+      "title": "就活生の8割、転職前提で入社 ワークライフバランスを重視",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQ3NwQnAyRi1tNmw2Z1R5WmVxVVNxM2FUd0xMT0NJVDBvWUt3eU5ZdDZ6TXdJWnEtODNMUkdCWkRJdV9vc205YjZEVVM5aFhjbENrQ3M0WjBBOWI2MHQ1WjJTUTdNUExqSGFYSQ?oc=5",
+      "publishedAt": "2026-09-16T04:52:36.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5NQ3NwQnAyRi1tNmw2Z1R5WmVxVVNxM2FUd0xMT0NJVDBvWUt3eU5ZdDZ6TXdJWnEtODNMUkdCWkRJdV9vc205YjZEVVM5aFhjbENrQ3M0WjBBOWI2MHQ1WjJTUTdNUExqSGFYSQ",
+      "summary": "就職活動中の学生の約8割が転職を前提に入社を考えており、ワークライフバランスを重視する傾向が強まっています。人事担当者は定着率向上のため、働き方改革や柔軟な勤務制度の整備が求められます。",
+      "summarizedAt": "2026-09-16T22:14:13.362Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBDOUtyR3F0ZVdObDlSSkZFZExGZVdSYXRtcDY2dXI4b2RmWk9mVmVRNkdGRDdDVzZaNTN5UVpTSC13ZUhYb3RnemZnWmZRQkxrUHNKRjk2d0hSVjFBQ1ZPcWJwMmdpd2VENXl4ZA",
+      "source": "nikkei_news",
+      "title": "警備業の外国人就労、警察庁検討会が初会合 「人手不足が特に深刻」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOUtyR3F0ZVdObDlSSkZFZExGZVdSYXRtcDY2dXI4b2RmWk9mVmVRNkdGRDdDVzZaNTN5UVpTSC13ZUhYb3RnemZnWmZRQkxrUHNKRjk2d0hSVjFBQ1ZPcWJwMmdpd2VENXl4ZA?oc=5",
+      "publishedAt": "2026-09-16T02:30:47.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBDOUtyR3F0ZVdObDlSSkZFZExGZVdSYXRtcDY2dXI4b2RmWk9mVmVRNkdGRDdDVzZaNTN5UVpTSC13ZUhYb3RnemZnWmZRQkxrUHNKRjk2d0hSVjFBQ1ZPcWJwMmdpd2VENXl4ZA",
+      "summary": "警察庁が警備業における外国人就労の受け入れに向けた検討会を開始しました。人手不足が深刻な警備業界で外国人材の活用が可能になる制度変更が検討される見込みのため、今後の制度設計と受け入れ要件の動向に注目が必要です。",
+      "summarizedAt": "2026-09-16T22:14:03.869Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76162.html",
+      "source": "mhlw_news",
+      "title": "人事労務マガジン 特集第248号　「働き方改革推進支援セミナー2026秋」を10月から開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76162.html",
+      "publishedAt": "2026-09-16T01:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-16T22:13:22.647Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76162.html",
+      "summary": "厚生労働省が2026年10月から「働き方改革推進支援セミナー2026秋」を開催します。労務・人事担当者は働き方改革の最新動向や実務対応を学ぶ機会として、セミナーへの参加を検討することが推奨されます。",
+      "summarizedAt": "2026-09-16T22:13:36.847Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBBNV8xTkliZEpoczdzVTdYbFRFSGtlb0NvVVZPazIybHRqa25SYkN3ZzJGRzh0eG80ek1UZ2lwTXdOb1FBU3BiZjJxelcyXzBqWEZiTmVvOHVlZ2dPRjlwODY5emdiMGZaeWo1Mw",
+      "source": "nikkei_news",
+      "title": "正社員求人票見て応募、実際の雇用は2カ月 条件変更伝わらず訴訟に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNV8xTkliZEpoczdzVTdYbFRFSGtlb0NvVVZPazIybHRqa25SYkN3ZzJGRzh0eG80ek1UZ2lwTXdOb1FBU3BiZjJxelcyXzBqWEZiTmVvOHVlZ2dPRjlwODY5emdiMGZaeWo1Mw?oc=5",
+      "publishedAt": "2026-09-16T01:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBBNV8xTkliZEpoczdzVTdYbFRFSGtlb0NvVVZPazIybHRqa25SYkN3ZzJGRzh0eG80ek1UZ2lwTXdOb1FBU3BiZjJxelcyXzBqWEZiTmVvOHVlZ2dPRjlwODY5emdiMGZaeWo1Mw",
+      "summary": "求人票に記載された労働条件と実際の雇用契約が異なるトラブルが訴訟に発展した事例が報道されました。人事担当者は、求人時の条件変更がある場合は応募者に確実に伝達し、書面等で明示・合意を得るプロセスを徹底すべきです。",
+      "summarizedAt": "2026-09-16T22:13:51.173Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76187.html",
+      "source": "mhlw_news",
+      "title": "第211回労働政策審議会労働条件分科会（資料）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76187.html",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-16T22:13:22.647Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76187.html",
+      "summary": "労働政策審議会労働条件分科会の第211回会合が開催され、労働条件に関する議論が行われました。具体的な審議内容や方向性については配布資料を確認する必要があります。",
+      "summarizedAt": "2026-09-16T22:13:39.168Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE02Zl9DUXNWU01hbWRLcEM3VjliLXpxTU1fRWtQcng3MG1HUXBBZkpDMzc1bHJ2TVZEWXdMeEV1UmdNZFFEcVNlczFPWXlRWHlUdnVLY0U4OVgxLWZLRFhYeUpGVW9KQUk",
       "source": "nikkei_news",
@@ -163,6 +316,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9WckQtZ0tJazRKVTJydjhicWZiSjF4YzBDOWVqRXlDMldiRTRycmVIbXAzNWtMamNMRENrRng0ZFdQRzNSSVdiTVJwa0JNNThMcTBjdjl3V3BEeFgzZ1hmNG1lMVhDeER5MjBvMw",
       "summary": "労働副大臣が栃木県の自動車整備工場を視察しました。現時点では法制度や実務対応の変更を伴う情報は含まれていないため、続報や関連通達の有無を確認する必要があります。",
       "summarizedAt": "2026-09-15T22:14:32.597Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76217.html",
+      "source": "mhlw_news",
+      "title": "第189回労働政策審議会安全衛生分科会（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76217.html",
+      "publishedAt": "2026-09-14T12:03:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-16T22:13:22.647Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76217.html",
+      "summary": "労働政策審議会安全衛生分科会の第189回会合が開催されます。現時点では議題等の詳細は不明ですが、安全衛生に関する制度改正等の審議動向を注視する必要があります。",
+      "summarizedAt": "2026-09-16T22:13:41.282Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -1815,6 +1982,20 @@
       "summary": "情報が不足しているため、具体的な法改正や新制度の内容は判断できません。建設業における労働災害防止に関する全国大会が新潟で開催されることを示す見出しですが、労務・人事担当者が対応すべき具体的な変更点は本文を確認する必要があります。",
       "summarizedAt": "2026-09-06T22:12:32.047Z",
       "storyId": "nikkei:CBMikwFBVV95cUxOTTlwRF9ieE10QXhNTzQwcWZKemN4QjBkdHh2R0xEQUx5cGpScjJiMHF3cUtlQ2kxTHdzRVQyMVNPVXJ5bEhuSWxKZGRoNkZPVUNNSkx1eXRmMzNwMjhyZ1l4dE1FeUItY2VqaVFBNkJxLUhjT0VqUVlfVUdiNGVUV2NNbnVGM05HRXFRWEpqX1k3RHc",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiwgFBVV95cUxPQVdQeUxBdjJYTzVTNjFxUWRQa2ZyY0lJN3J4cy1HVVg2TC02aXQwdUEyMUVEdDlzQnQ5SmNibVZtU0ZkbW5pSE9NcGUydG9NS1JNcmQxWHEwMXJEV2Y3bmxqd0swOTEzcWp2SjJrMXZTNFg4TXhoYnRWY01XZ2JyOEZ4V0ZXTVY4Q28zeVZUQldrUjVLVmdGNkJVMkVWYmlpLWFYZUw2cW8zNkpCX0VZZzdQcWxmMjkzRUUtWnM5X3gzdw",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVdQeUxBdjJYTzVTNjFxUWRQa2ZyY0lJN3J4cy1HVVg2TC02aXQwdUEyMUVEdDlzQnQ5SmNibVZtU0ZkbW5pSE9NcGUydG9NS1JNcmQxWHEwMXJEV2Y3bmxqd0swOTEzcWp2SjJrMXZTNFg4TXhoYnRWY01XZ2JyOEZ4V0ZXTVY4Q28zeVZUQldrUjVLVmdGNkJVMkVWYmlpLWFYZUw2cW8zNkpCX0VZZzdQcWxmMjkzRUUtWnM5X3gzdw?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiwgFBVV95cUxPQVdQeUxBdjJYTzVTNjFxUWRQa2ZyY0lJN3J4cy1HVVg2TC02aXQwdUEyMUVEdDlzQnQ5SmNibVZtU0ZkbW5pSE9NcGUydG9NS1JNcmQxWHEwMXJEV2Y3bmxqd0swOTEzcWp2SjJrMXZTNFg4TXhoYnRWY01XZ2JyOEZ4V0ZXTVY4Q28zeVZUQldrUjVLVmdGNkJVMkVWYmlpLWFYZUw2cW8zNkpCX0VZZzdQcWxmMjkzRUUtWnM5X3gzdw",
+      "summary": "全国建設業労働災害防止大会が新潟で開催されることを伝える見出しですが、本文情報がないため、具体的な内容や労務担当者が対応すべき事項は確認できません。",
+      "summarizedAt": "2026-09-16T22:13:53.596Z",
       "isGuideline": false
     },
     {
@@ -5502,6 +5683,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE9ZX3hzZ3l5UHNwdDlscFh4dkdEUkJJRk1heXU1cEZ3M0x1SlhMN0s5dnA3eXhxLXQ0Q3dWNmxuQ1VqYi1paUNhaUFhOE95YXJkVi1UYTFuYThJMUE",
+      "source": "rosei_news",
+      "title": "『外国人雇用管理の留意点と実務対策』【半日】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZX3hzZ3l5UHNwdDlscFh4dkdEUkJJRk1heXU1cEZ3M0x1SlhMN0s5dnA3eXhxLXQ0Q3dWNmxuQ1VqYi1paUNhaUFhOE95YXJkVi1UYTFuYThJMUE?oc=5",
+      "publishedAt": "2025-11-04T06:30:47.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-16T22:13:22.227Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE9ZX3hzZ3l5UHNwdDlscFh4dkdEUkJJRk1heXU1cEZ3M0x1SlhMN0s5dnA3eXhxLXQ0Q3dWNmxuQ1VqYi1paUNhaUFhOE95YXJkVi1UYTFuYThJMUE",
+      "summary": "外国人労働者の雇用管理における法令上の留意点と実務上の対策について学ぶ半日セミナーが開催されます。人事労務担当者は、在留資格の確認や雇用手続きなど、適正な外国人雇用管理の実務知識を習得できる機会となります。",
+      "summarizedAt": "2026-09-16T22:14:19.089Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiW0FVX3lxTE9aQmlQUTduS1pIZTJnTEthVEk3b0RhRGcwX2hpWktLZ2tRN1E2VkxwM1RaTHk5ZHJxMEF0eERRR0gyOUE3RG5NemI5UkFjU292U2VxeEhVRXQ3QWM",
       "source": "rosei_news",
       "title": "『カスタマーハラスメント対策と企業対応』【半日】",
@@ -5682,6 +5877,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9Ic3dzVUs5ak1sVTN5b0hnNVllNXBoLTdUWVlmQjhMc25JaTc0YWlhX1FkY014Zjk0d09lOVZybno3cGpWdk1CbEZIM3FkOE9hOWVELQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE56eFZLWE5jYW5vN1QwUzNWR2VWZWZHMGR2TThncW5yQV9WN3ZubjlYcC1MTVA3aF9wYWJaTE5HRG1yRGlCcENHRF9PNkZDMm5FVFRYLQ",
+      "source": "rosei_news",
+      "title": "有期労働契約において契約期間中の労働条件の変更・雇止めは可能か",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56eFZLWE5jYW5vN1QwUzNWR2VWZWZHMGR2TThncW5yQV9WN3ZubjlYcC1MTVA3aF9wYWJaTE5HRG1yRGlCcENHRF9PNkZDMm5FVFRYLQ?oc=5",
+      "publishedAt": "2025-09-26T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-16T22:13:22.227Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE56eFZLWE5jYW5vN1QwUzNWR2VWZWZHMGR2TThncW5yQV9WN3ZubjlYcC1MTVA3aF9wYWJaTE5HRG1yRGlCcENHRF9PNkZDMm5FVFRYLQ",
+      "summary": "有期労働契約では契約期間中の一方的な労働条件変更は原則不可能であり、雇止めについては契約更新の実態や期待の有無により解雇権濫用法理が類推適用される場合があるため、慎重な対応が求められます。",
+      "summarizedAt": "2026-09-16T22:14:16.312Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE55R2tUWW1TOFB3bEdKVjNUXzJMQUdWdFlCbnppM2xaaUFjWjZ0c01lR29acTJwRkVtWlJ6ek5BYWNVRFNKMEt3UWxER2JGMU5MdVcxaw",
@@ -6259,6 +6468,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBXT1VtZnBhLWtCTWo1ZlB4STJHX3pSQlhqLXFGbmx3TTRlc3JYQTkwZGZreEF5UU9XWS1abDhIX1pWREFiN01jd0tueXNwQzhzQWttdQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMia0FVX3lxTE9CaXFfM1l0YkJHanpXN29Jd3BTRjlVaGNma0JNRjJqc0QteUxKeVVueFVWUkJIb255eTlfeXNYSGJRZVlFTEpCamZOVjZiTFg1ODVCN3IxNmt0UG1CSUllQy15YzZiMU0zN0Y4",
+      "source": "nikkei_news",
+      "title": "スタバの働き方改革 金髪や帽子も可、定年なし、個性の表現こそが強さ （2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaXFfM1l0YkJHanpXN29Jd3BTRjlVaGNma0JNRjJqc0QteUxKeVVueFVWUkJIb255eTlfeXNYSGJRZVlFTEpCamZOVjZiTFg1ODVCN3IxNmt0UG1CSUllQy15YzZiMU0zN0Y4?oc=5",
+      "publishedAt": "2025-01-31T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-16T22:13:22.226Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMia0FVX3lxTE9CaXFfM1l0YkJHanpXN29Jd3BTRjlVaGNma0JNRjJqc0QteUxKeVVueFVWUkJIb255eTlfeXNYSGJRZVlFTEpCamZOVjZiTFg1ODVCN3IxNmt0UG1CSUllQy15YzZiMU0zN0Y4",
+      "summary": "スターバックスが服装・髪色などの身だしなみ規定を緩和し金髪や帽子を容認、さらに定年制度も廃止して従業員の個性を尊重する働き方改革を実施。人事担当者は多様性を重視した就業規則の見直しや年齢に関わらず活躍できる制度設計の参考事例として注目すべきです。",
+      "summarizedAt": "2026-09-16T22:14:00.473Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFBvU0tXamd2NVlUTTR1VUZick5UY1RrRzFoT2Zmckt4VkFJLTY2b2k4dVhhVkdNcDY3YkgxXzY1S2I0YXdQNWhqZHZJalRNREd4eUcwMQ",
@@ -8504,6 +8727,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg",
+      "source": "rosei_news",
+      "title": "36協定の特別条項",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg?oc=5",
+      "publishedAt": "2019-04-01T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-16T22:13:22.227Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg",
+      "summary": "# 要約\n\n36協定の特別条項は、通常の時間外労働の上限を超えて労働させる必要がある場合に、労使間で特別に定める協定であり、年720時間以内などの上限規制を遵守した上で、臨時的な特別の事情がある場合に限り締結できます。",
+      "summarizedAt": "2026-09-16T22:14:22.442Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBYdUN4UF84d2pPa0JpQnJ4TG9neXF0N0pNNWNjLVBabFhmSHdyeFVnYUNjYmFzeU1sQVlrS21naGVlSUJ0d0MyRi16dHZBcGdtaHdhNw",
       "source": "rosei_news",
       "title": "［149］『パワーハラスメント〈第2版〉』",
@@ -8557,6 +8794,20 @@
       "summary": "職場でハラスメントが発生する原因とその対処方法について解説した記事です。人事労務担当者は、ハラスメントの発生メカニズムを理解し、適切な予防策と対応手順を確認することが求められます。",
       "summarizedAt": "2026-09-04T22:15:14.240Z",
       "storyId": "rosei:CBMiVEFVX3lxTFA1OU01bmQ3c3V3ay11ZHZiSkxlcm9RLTZUUldLaGhkdkNqalo5bUxXbEpyZWxmcVB0ckpfT0tNSjlTU3ZvNEFUbVplbkM0Zk1NTHlJSg",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1rRmFqQ056cU9OQjRyMXA0SmdFUjhWQ1FvQVkwb1lrLWwtQnJfSmp4NlRKMVBXSHpuVEdPRVFOYVA2Y2duWVM3RDgxVXR6aUo2dkNKTw",
+      "source": "rosei_news",
+      "title": "「働き方改革」の焦点――労働市場改革と「働き方改革」をつなぐカギ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rRmFqQ056cU9OQjRyMXA0SmdFUjhWQ1FvQVkwb1lrLWwtQnJfSmp4NlRKMVBXSHpuVEdPRVFOYVA2Y2duWVM3RDgxVXR6aUo2dkNKTw?oc=5",
+      "publishedAt": "2018-03-27T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-16T22:13:22.227Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1rRmFqQ056cU9OQjRyMXA0SmdFUjhWQ1FvQVkwb1lrLWwtQnJfSmp4NlRKMVBXSHpuVEdPRVFOYVA2Y2duWVM3RDgxVXR6aUo2dkNKTw",
+      "summary": "本記事は「働き方改革」における労働市場改革との関連性について論じており、両者を結びつける重要な要素や視点が解説されています。人事労務担当者は、個別企業の取り組みと労働市場全体の動向との接続を意識した施策検討が求められます。",
+      "summarizedAt": "2026-09-16T22:14:25.549Z",
       "isGuideline": false
     },
     {
