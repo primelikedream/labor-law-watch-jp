@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-09-16T22:14:25.552Z",
+  "updatedAt": "2026-09-17T22:14:15.408Z",
   "items": [
+    {
+      "id": "egov:505M60000102006:20260918",
+      "source": "egov_law_update",
+      "title": "内閣府・厚生労働省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令 — 内閣府・厚生労働省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令の一部を改正する命令(施行日: 20260918)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=505M60000102006_20260918_508M60000102012",
+      "publishedAt": "2026-09-17T22:13:21.253Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-09-17T22:13:19.821Z",
+      "storyId": "egov:505M60000102006:20260918",
+      "summary": "経済安全保障推進法に基づく特定社会基盤事業者の指定等に関する内閣府・厚生労働省の命令が2026年9月18日に改正施行されます。医療等の重要インフラ事業者の指定基準や手続きが変更される可能性があるため、該当事業を営む企業は改正内容の確認が必要です。",
+      "summarizedAt": "2026-09-17T22:13:36.880Z",
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1lazJmbUVrLXg2YUIyalZtd2ZMMzF3LTlGcE15WHFlcmVZNmhRUGVkQ09rSGxsUVFvZU5mXzljNFU4N0N5NjNYM3BaamF3b1FjX3gxekU0aEhhc2ZaWDN6VXFvajVqa2VQYl9uZw",
+      "source": "nikkei_news",
+      "title": "高齢者医療、負担上げ判断 厚労相は続投 裁量労働制拡大も賛否",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lazJmbUVrLXg2YUIyalZtd2ZMMzF3LTlGcE15WHFlcmVZNmhRUGVkQ09rSGxsUVFvZU5mXzljNFU4N0N5NjNYM3BaamF3b1FjX3gxekU0aEhhc2ZaWDN6VXFvajVqa2VQYl9uZw?oc=5",
+      "publishedAt": "2026-09-17T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
+      "summary": "厚労相続投のもと、裁量労働制の適用拡大が検討されますが、連合は労働時間規制の強化を求めており、拡大の可否判断には賛否両論があります。労務担当者は裁量労働制に関する制度改正の動向と、労働時間管理のあり方について情報収集が必要です。",
+      "summarizedAt": "2026-09-17T22:13:49.711Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
+      "source": "nikkei_news",
+      "title": "連合・芳野会長「労働時間の規制強化を」 上野厚労相の続投受け",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ?oc=5",
+      "publishedAt": "2026-09-17T09:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
+      "summary": "連合の芳野会長が労働時間規制の強化を求める姿勢を示し、続投する上野厚労相は裁量労働制の拡大可否について判断を迫られることになります。労務・人事担当者は裁量労働制に関する今後の制度改正動向を注視し、自社の労働時間管理体制の見直し準備を進める必要があります。",
+      "summarizedAt": "2026-09-17T22:13:43.360Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9QaWVNWThLN25GY0ZycTJIYmRmYnZJTHZfTHpfNXVGTHBKeGRacW1HRE1LNDVCVVZhSVJQRjRUcGVhRWg3aDBlVVloNDBYV01xQkh0MmR0cGgwUkJYQ2VEdFdvLXVOakVjSjVRZQ",
+      "source": "nikkei_news",
+      "title": "上野賢一郎厚労相は続投、高齢者医療負担上げが難題 裁量労働拡大の可否も判断",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QaWVNWThLN25GY0ZycTJIYmRmYnZJTHZfTHpfNXVGTHBKeGRacW1HRE1LNDVCVVZhSVJQRjRUcGVhRWg3aDBlVVloNDBYV01xQkh0MmR0cGgwUkJYQ2VEdFdvLXVOakVjSjVRZQ?oc=5",
+      "publishedAt": "2026-09-17T09:13:29.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
+      "summary": "上野厚労相の続投により、裁量労働制の対象拡大の可否判断が焦点となる一方、連合は労働時間規制の強化を求めており、今後の労働法制改正の動向に注視が必要です。人事・労務担当者は裁量労働制の適用範囲や労働時間管理の要件見直しに備えた準備が求められます。",
+      "summarizedAt": "2026-09-17T22:14:05.688Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76306.html",
+      "source": "mhlw_news",
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76306.html",
+      "publishedAt": "2026-09-17T08:29:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-17T22:13:20.444Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76306.html",
+      "summary": "上野厚生労働大臣による閣議後の記者会見が行われることが発表されました。労働関連施策に関する発表や質疑応答が予定される可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
+      "summarizedAt": "2026-09-17T22:13:31.219Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1XMDU5WFNrN1BlOXVDc0pMUk5hQnNmdjJXbVlkQXBKakgzOHVxRlllenQyVUptdmotR09IXzgtenEydmpfU01YYzZhekdRVzEySDdzV2ZZQ3FDNFBleHZ1UlBXQjJpZC11MElmSg",
+      "source": "nikkei_news",
+      "title": "介護報酬改定で賃上げ、従事者「実感」3割どまり",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XMDU5WFNrN1BlOXVDc0pMUk5hQnNmdjJXbVlkQXBKakgzOHVxRlllenQyVUptdmotR09IXzgtenEydmpfU01YYzZhekdRVzEySDdzV2ZZQ3FDNFBleHZ1UlBXQjJpZC11MElmSg?oc=5",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1XMDU5WFNrN1BlOXVDc0pMUk5hQnNmdjJXbVlkQXBKakgzOHVxRlllenQyVUptdmotR09IXzgtenEydmpfU01YYzZhekdRVzEySDdzV2ZZQ3FDNFBleHZ1UlBXQjJpZC11MElmSg",
+      "summary": "2024年度の介護報酬改定により介護従事者の賃上げが実施されたものの、実際に賃上げを実感している従事者は約3割にとどまっていることが明らかになりました。介護事業者は報酬改定の効果を現場に適切に反映できているか、賃金体系の見直しと従業員への説明が求められます。",
+      "summarizedAt": "2026-09-17T22:13:56.512Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5iN09SVWFHUmxQU3BoVmhIYnFkRkpyZlY3dTI3YzU3SW5YTkRZSm4zM3d0dmYyUE9ZZlRSRzlUMGpCNkhGanRLRTZHbTBGSlRvX1hjMm1UVFZxV1RTUXFndWZublJDaXZ1SC1XeA",
+      "source": "nikkei_news",
+      "title": "男性育休、「見えない家事」の負担解消が課題に 積水ハウスが調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iN09SVWFHUmxQU3BoVmhIYnFkRkpyZlY3dTI3YzU3SW5YTkRZSm4zM3d0dmYyUE9ZZlRSRzlUMGpCNkhGanRLRTZHbTBGSlRvX1hjMm1UVFZxV1RTUXFndWZublJDaXZ1SC1XeA?oc=5",
+      "publishedAt": "2026-09-17T05:26:38.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5iN09SVWFHUmxQU3BoVmhIYnFkRkpyZlY3dTI3YzU3SW5YTkRZSm4zM3d0dmYyUE9ZZlRSRzlUMGpCNkhGanRLRTZHbTBGSlRvX1hjMm1UVFZxV1RTUXFndWZublJDaXZ1SC1XeA",
+      "summary": "積水ハウスの調査により、男性育休取得が進む中で「見えない家事」の負担解消が新たな課題として浮き彫りになりました。育休制度の運用面では、取得促進だけでなく家事分担の実質的な改善も視野に入れた支援が求められます。",
+      "summarizedAt": "2026-09-17T22:14:02.437Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76036.html",
+      "source": "mhlw_news",
+      "title": "第78回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76036.html",
+      "publishedAt": "2026-09-17T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-17T22:13:20.444Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76036.html",
+      "summary": "労働政策審議会人材開発分科会の監理団体審査部会が第78回会合を開催します。技能実習制度における監理団体の許可等に関する審査が行われる見込みですが、現時点で人事労務担当者の対応事項はありません。",
+      "summarizedAt": "2026-09-17T22:13:33.818Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiakFVX3lxTFBWSGlpbU1YNmoyMHhYWTNoeS03UnBjblEzb2V2RmxZWFVzY2V3c0hMUVZWaDdvM1ZMNjRIYnctZk51NUd5bGJIVFoxOU5MUkRVNkVHWFVpb0ZDM1k4bWIwLURZQ3p5aGlCWmc",
+      "source": "nikkei_news",
+      "title": "【男女育休取得率 100 インターグ、男性育休を考える「 IKUKYU.PJT 」に賛同 〜休業中の孤立を防ぐ新制度「育休中面談」も導入",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWSGlpbU1YNmoyMHhYWTNoeS03UnBjblEzb2V2RmxZWFVzY2V3c0hMUVZWaDdvM1ZMNjRIYnctZk51NUd5bGJIVFoxOU5MUkRVNkVHWFVpb0ZDM1k4bWIwLURZQ3p5aGlCWmc?oc=5",
+      "publishedAt": "2026-09-17T02:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiakFVX3lxTFBWSGlpbU1YNmoyMHhYWTNoeS03UnBjblEzb2V2RmxZWFVzY2V3c0hMUVZWaDdvM1ZMNjRIYnctZk51NUd5bGJIVFoxOU5MUkRVNkVHWFVpb0ZDM1k4bWIwLURZQ3p5aGlCWmc",
+      "summary": "インターグループが男性育休推進プロジェクトに賛同し、育休取得者の孤立防止を目的とした「育休中面談」制度を新たに導入しました。育休取得率向上と休業中の従業員サポート体制強化を検討する企業の参考事例となります。",
+      "summarizedAt": "2026-09-17T22:13:59.495Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE94YjVhejR6WnZNRVFMd2dZaTJGYzJvYXhkYV9VdWNSYjRtSXJ1S1hmeWh5Z1pmNy1PeVpZMjNqcWZlV29relZ5QVFtNFJqWmRObHlaZWlBR3pqblFDVm5sQ3lKd3NOTmJtMld4dA",
       "source": "nikkei_news",
@@ -27,6 +152,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg",
       "summary": "厚生労働省が労働基準法の見直しに着手し、現行制度で最長48日間の連続勤務が可能となっている規定の短縮を検討します。裁量労働制の適用拡大も争点となる見込みで、労務担当者は今後の法改正議論の動向に注目し、勤務間インターバルや休日付与の運用見直しが必要になる可能性があります。",
       "summarizedAt": "2026-09-16T22:14:08.227Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAybzVJWUk5cktqTHhzMXRrYzFYZ1dYcnUxek1ZOUhjX1I4UmVER1QzcThNSFMyU1BNT2NzdVpjSUgySDEzUm5RaFhaVnhPc3k4dUF6cGpkdjZDREhRdzhjYTRHem9kWVpGcTMzbA",
+      "source": "nikkei_news",
+      "title": "〈中小企業リーガル処方箋〉求人票の雇用期間、契約書と相違 変更するなら会社に説明責任",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAybzVJWUk5cktqTHhzMXRrYzFYZ1dYcnUxek1ZOUhjX1I4UmVER1QzcThNSFMyU1BNT2NzdVpjSUgySDEzUm5RaFhaVnhPc3k4dUF6cGpkdjZDREhRdzhjYTRHem9kWVpGcTMzbA?oc=5",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFAybzVJWUk5cktqTHhzMXRrYzFYZ1dYcnUxek1ZOUhjX1I4UmVER1QzcThNSFMyU1BNT2NzdVpjSUgySDEzUm5RaFhaVnhPc3k4dUF6cGpkdjZDREhRdzhjYTRHem9kWVpGcTMzbA",
+      "summary": "求人票に記載した雇用期間と実際の労働契約書の内容が異なる場合、会社側に説明責任が生じるため、労働条件を変更する際は求職者に対して明確な理由説明と合意取得が必要です。",
+      "summarizedAt": "2026-09-17T22:13:46.250Z",
       "isGuideline": false
     },
     {
@@ -316,6 +455,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9WckQtZ0tJazRKVTJydjhicWZiSjF4YzBDOWVqRXlDMldiRTRycmVIbXAzNWtMamNMRENrRng0ZFdQRzNSSVdiTVJwa0JNNThMcTBjdjl3V3BEeFgzZ1hmNG1lMVhDeER5MjBvMw",
       "summary": "労働副大臣が栃木県の自動車整備工場を視察しました。現時点では法制度や実務対応の変更を伴う情報は含まれていないため、続報や関連通達の有無を確認する必要があります。",
       "summarizedAt": "2026-09-15T22:14:32.597Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE43S0FJd09PMXhuR01tbzBKRnZBd2FWam82WUJ3RDcybjFpVFZMbDBvU1l2LXNRcUt1cFE1ZmcxVUg0dU9vcjBObjBwMk5WZVoySDJjZERHT3F0R3lwdTZrUUNKSEpIMlloNlFZNw",
+      "source": "nikkei_news",
+      "title": "〈外国人「共生」の行方〉雇用、上がるハードル 「高度人材」偽装問題、政府が対策 在留者も資格更新に不安",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43S0FJd09PMXhuR01tbzBKRnZBd2FWam82WUJ3RDcybjFpVFZMbDBvU1l2LXNRcUt1cFE1ZmcxVUg0dU9vcjBObjBwMk5WZVoySDJjZERHT3F0R3lwdTZrUUNKSEpIMlloNlFZNw?oc=5",
+      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE43S0FJd09PMXhuR01tbzBKRnZBd2FWam82WUJ3RDcybjFpVFZMbDBvU1l2LXNRcUt1cFE1ZmcxVUg0dU9vcjBObjBwMk5WZVoySDJjZERHT3F0R3lwdTZrUUNKSEpIMlloNlFZNw",
+      "summary": "外国人の「高度人材」資格を偽装する問題を受けて政府が対策を強化しており、雇用時の審査基準が厳格化される見通しです。既に在留している外国人労働者も資格更新時の審査が厳しくなる可能性があるため、雇用企業は該当者の在留資格要件を再確認する必要があります。",
+      "summarizedAt": "2026-09-17T22:13:53.067Z",
       "isGuideline": false
     },
     {
@@ -2273,6 +2426,20 @@
       "summary": "厚生労働省が令和9年度(2027年度)の組織体制と人員配置の要求内容を公表しました。省内の機構改革や定員増減の方向性が示されていますが、具体的な労働法制の改正内容や企業対応については、詳細資料の確認が必要です。",
       "summarizedAt": "2026-08-31T22:07:43.456Z",
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75872.html",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiU0FVX3lxTE16dTB2TGpoWkN5cS1IQzdsUlVWd3lMZ29YWElITjhKNjZ1WHp4LVNUT3BGT196OU05R21MeHRfY2I4ZnJEUFgtZ1pVVm5sYWtISlI4",
+      "source": "nikkei_news",
+      "title": "最低賃金4.9％引き上げ――問われるのは「賃上げ」ではなく「払える経営」である",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16dTB2TGpoWkN5cS1IQzdsUlVWd3lMZ29YWElITjhKNjZ1WHp4LVNUT3BGT196OU05R21MeHRfY2I4ZnJEUFgtZ1pVVm5sYWtISlI4?oc=5",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-17T22:13:19.822Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiU0FVX3lxTE16dTB2TGpoWkN5cS1IQzdsUlVWd3lMZ29YWElITjhKNjZ1WHp4LVNUT3BGT196OU05R21MeHRfY2I4ZnJEUFgtZ1pVVm5sYWtISlI4",
+      "summary": "最低賃金が4.9%引き上げられることを受け、労務担当者は賃金改定の対応が必要ですが、一時的な賃上げではなく、継続的に適正賃金を支払える経営体制の構築が企業に求められています。",
+      "summarizedAt": "2026-09-17T22:13:39.833Z",
       "isGuideline": false
     },
     {
@@ -5725,6 +5892,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE9aX1EtVU04OGJFWUh5cXhfcGQxLXlLeG9LRXBNVkFTNDRkR2N0akR6WmpMbUxvWEhxT1lRbFVQZERFT2poc0lnMlJKaFhQU2ZtUlo3MA",
+      "source": "rosei_news",
+      "title": "精神障害の労災、３倍超に １０～２４年度、過労死白書 労働現場、現状深刻",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aX1EtVU04OGJFWUh5cXhfcGQxLXlLeG9LRXBNVkFTNDRkR2N0akR6WmpMbUxvWEhxT1lRbFVQZERFT2poc0lnMlJKaFhQU2ZtUlo3MA?oc=5",
+      "publishedAt": "2025-10-28T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-17T22:13:19.823Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9aX1EtVU04OGJFWUh5cXhfcGQxLXlLeG9LRXBNVkFTNDRkR2N0akR6WmpMbUxvWEhxT1lRbFVQZERFT2poc0lnMlJKaFhQU2ZtUlo3MA",
+      "summary": "2024年版過労死等防止対策白書によると、2010年度から2024年度にかけて精神障害による労災認定件数が3倍超に増加しており、労働現場におけるメンタルヘルス対策の強化が急務となっています。人事労務担当者は職場のストレスチェック体制の見直しや相談窓口の充実など、精神疾患予防のための対策を早急に講じる必要があります。",
+      "summarizedAt": "2026-09-17T22:14:09.190Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBJTjZEdlpyRVFrbURIcjJobE51TjFyOFRIaXU3aU1JSWNiZk9RYzVhcGFINVV5WkZyZXBZeTRZWkhFSnE1Qy03cEN4cUIyWkFRcnpUQQ",
       "source": "rosei_news",
       "title": "初任給の大幅引き上げに伴う在籍者賃金調整の実務",
@@ -7746,6 +7927,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFB3eWlvS1h5NmROTHgtUzF1R3lhSDNBX2JPQllRMTRGbWtWUGpjMTB1M3FIMkhRS3hyMm9XN3NrOWQtSzJVcDhSeGZEN1J1S1FsMy1BWA",
+      "source": "rosei_news",
+      "title": "障害者雇用、助成金新設へ 企業向け、既存分の拡充も 厚労省、相談や定着支援",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eWlvS1h5NmROTHgtUzF1R3lhSDNBX2JPQllRMTRGbWtWUGpjMTB1M3FIMkhRS3hyMm9XN3NrOWQtSzJVcDhSeGZEN1J1S1FsMy1BWA?oc=5",
+      "publishedAt": "2023-03-21T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-17T22:13:19.823Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFB3eWlvS1h5NmROTHgtUzF1R3lhSDNBX2JPQllRMTRGbWtWUGpjMTB1M3FIMkhRS3hyMm9XN3NrOWQtSzJVcDhSeGZEN1J1S1FsMy1BWA",
+      "summary": "厚生労働省は障害者雇用を促進するため、企業向けに新たな助成金を創設し、既存の助成制度も拡充する方針です。相談対応や職場定着支援など、雇用後のサポート体制強化に向けた助成が想定されるため、障害者雇用を進める企業は新制度の詳細確認と活用を検討すべきでしょう。",
+      "summarizedAt": "2026-09-17T22:14:12.833Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiWEFVX3lxTE0wMUpCcFF1QVlabExOVjljeGJVNkxHVHNtODlJWnU1bHo2SFJiVVVncjV0ME9aWHNKZE52SHpwWlB1NW44LXMzUlRuczM0TVpvNVl2Wm9UZFY",
       "source": "rosei_news",
       "title": "eラーニング ハラスメント対策｜ハラスメントを防ぐ！職場のコミュニケーション講座",
@@ -8501,6 +8696,20 @@
       "stage": "国会提出・審議",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFB3QmhuYXNvM1lrRmFhdHN4M0lWMXRkZENnLTJXOWtuTkNuLTVTelNkNVFXTWl0S2tEbHFMeFNOSGVFQjUtcmVKT1hnRDZFTVNKbjVkLQ",
+      "source": "rosei_news",
+      "title": "［199］『男性育休の困難―取得を阻む「職場の雰囲気」』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3QmhuYXNvM1lrRmFhdHN4M0lWMXRkZENnLTJXOWtuTkNuLTVTelNkNVFXTWl0S2tEbHFMeFNOSGVFQjUtcmVKT1hnRDZFTVNKbjVkLQ?oc=5",
+      "publishedAt": "2021-02-02T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-17T22:13:19.823Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFB3QmhuYXNvM1lrRmFhdHN4M0lWMXRkZENnLTJXOWtuTkNuLTVTelNkNVFXTWl0S2tEbHFMeFNOSGVFQjUtcmVKT1hnRDZFTVNKbjVkLQ",
+      "summary": "男性の育児休業取得を阻む主な要因として「職場の雰囲気」が課題となっており、人事・労務担当者は制度整備だけでなく、管理職や職場全体の意識改革と取得しやすい風土づくりに取り組む必要があります。",
+      "summarizedAt": "2026-09-17T22:14:15.406Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE1wWnFwczZ5cTI0VXpXbHpacHJVYzhtY2hKdjZwZzZIN19XbzZja0QxLTZDcVlOVEY1dm1mRXRSX0NOYnJzSXhySzFTaU01aEFlaXlTYg",
