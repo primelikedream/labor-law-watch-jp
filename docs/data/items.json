@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:14:35.472Z",
+  "updatedAt": "2026-09-19T22:14:28.484Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE45ZWVKWGJnRklyTEpTZ0RscDBhZ0tYZDhLV2RvLTFYRVkxMkxjdV9MWXhILXB4UDFGTnRqbVBiSEh1VXRMeC1vbl82Y09Kak05VV9YLWJUR3BmZFVRbmNlU1dOX0hfWkpXNXlRcg",
@@ -219,6 +219,34 @@
       "summary": "経済安全保障推進法に基づく特定社会基盤事業者の指定等に関する内閣府・厚生労働省の命令が2026年9月18日に改正施行されます。医療等の重要インフラ事業者の指定基準や手続きが変更される可能性があるため、該当事業を営む企業は改正内容の確認が必要です。",
       "summarizedAt": "2026-09-17T22:13:36.880Z",
       "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTFA2UWxkLU9tQUJpa1pmUXlqcmgwOVhCYzYtYXpmd3kyM0h2NlV1Y3E1eDlha2hHdzVLc1gyY0JnaVNMaU1QUGZBZ29qbW5la3pWcXViZ2d0bGFOekV5V3hRUTBrZ014MGhUOTEwSGhod3Y",
+      "source": "nikkei_news",
+      "title": "優秀な現場力が低賃金を長引かせた 日本企業が陥った逆説 首藤若菜 立教大学教授",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2UWxkLU9tQUJpa1pmUXlqcmgwOVhCYzYtYXpmd3kyM0h2NlV1Y3E1eDlha2hHdzVLc1gyY0JnaVNMaU1QUGZBZ29qbW5la3pWcXViZ2d0bGFOekV5V3hRUTBrZ014MGhUOTEwSGhod3Y?oc=5",
+      "publishedAt": "2026-09-17T21:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTFA2UWxkLU9tQUJpa1pmUXlqcmgwOVhCYzYtYXpmd3kyM0h2NlV1Y3E1eDlha2hHdzVLc1gyY0JnaVNMaU1QUGZBZ29qbW5la3pWcXViZ2d0bGFOekV5V3hRUTBrZ014MGhUOTEwSGhod3Y",
+      "summary": "【要約】\n日本企業の優れた現場力が皮肉にも低賃金構造を固定化させてきたという指摘があり、人事・労務担当者は賃金水準の見直しと適切な評価制度の構築を検討する必要があります。",
+      "summarizedAt": "2026-09-19T22:12:46.000Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5Mek9nWk90RHZCTDg1WDBpbXNoN3RPNWl2Z2p0S2dScG1TRzlvMF9uM29KM0s4V1Z1ajgtekZydHlKOXhHM1ItaWJmVHNETlptNUtLUi14YzJLTEFWSVdDSk5pTlF2MkdVSDRaMw",
+      "source": "nikkei_news",
+      "title": "パート収入、扶養内に収めるべきか否か 将来の暮らし方や働き方も勘案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Mek9nWk90RHZCTDg1WDBpbXNoN3RPNWl2Z2p0S2dScG1TRzlvMF9uM29KM0s4V1Z1ajgtekZydHlKOXhHM1ItaWJmVHNETlptNUtLUi14YzJLTEFWSVdDSk5pTlF2MkdVSDRaMw?oc=5",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5Mek9nWk90RHZCTDg1WDBpbXNoN3RPNWl2Z2p0S2dScG1TRzlvMF9uM29KM0s4V1Z1ajgtekZydHlKOXhHM1ItaWJmVHNETlptNUtLUi14YzJLTEFWSVdDSk5pTlF2MkdVSDRaMw",
+      "summary": "パート労働者が配偶者の扶養範囲内で働くか、それを超えて働くかの判断においては、目先の手取り額だけでなく、将来の年金受給額や長期的なキャリア形成など、中長期的な暮らし方・働き方も含めて総合的に検討する必要があるとの指摘です。",
+      "summarizedAt": "2026-09-19T22:12:49.788Z",
       "isGuideline": false
     },
     {
@@ -2784,6 +2812,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE10NUVRYU5WRVdSMmVZN3RBYVgzUGdSUnBuNlNEQ1doUlIyZmZkSGN3UkVyY1ZWZW4wTkNtYXBHTEdBc3VJNFdMejhKWG9hWHZ1V2FzM1luZlhTd2lXWHlPQVRNenJSY3F0bUN5YQ",
+      "source": "nikkei_news",
+      "title": "ハラスメント条例、各地で 172自治体制定、首長・議員ら対象",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10NUVRYU5WRVdSMmVZN3RBYVgzUGdSUnBuNlNEQ1doUlIyZmZkSGN3UkVyY1ZWZW4wTkNtYXBHTEdBc3VJNFdMejhKWG9hWHZ1V2FzM1luZlhTd2lXWHlPQVRNenJSY3F0bUN5YQ?oc=5",
+      "publishedAt": "2026-08-29T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10NUVRYU5WRVdSMmVZN3RBYVgzUGdSUnBuNlNEQ1doUlIyZmZkSGN3UkVyY1ZWZW4wTkNtYXBHTEdBc3VJNFdMejhKWG9hWHZ1V2FzM1luZlhTd2lXWHlPQVRNenJSY3F0bUN5YQ",
+      "summary": "全国172の自治体がハラスメント防止条例を制定し、首長や議員を対象としています。自治体の動向として把握しておくべき情報ですが、見出しのみでは民間企業への直接的な影響は不明です。",
+      "summarizedAt": "2026-09-19T22:12:52.225Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBWQW1Vci14OEpFZWc4YXhJc19Zc252QzRRbmZVYk1qMEN5MThtMmNOaVdQSm5NcG5jQTRmRlBnR1h4Qlp0elpubDViRGRkUE11dXhXYTBSc3lBUkxZc0ROSlNuUXpfeXU0TnZPcg",
       "source": "nikkei_news",
       "title": "「ホワハラ」転職検討者15%が経験 民間調査",
@@ -5034,6 +5076,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9lbzFPTUpLNzhKZHYwMFMyeUY3SzU3cnJDb01LbEtvelZFaF9CeTFvbkcwY3pBSzFwR0FGYVF5cFdDOHBIbWZqVjQxNlBVREQxNVZBNnZEQWxnM1pBT0haZWZhZWkteWxwNTZUZw",
+      "source": "nikkei_news",
+      "title": "AI活用するほど残業多い傾向、労働負荷軽減は道半ば 経財白書が指摘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lbzFPTUpLNzhKZHYwMFMyeUY3SzU3cnJDb01LbEtvelZFaF9CeTFvbkcwY3pBSzFwR0FGYVF5cFdDOHBIbWZqVjQxNlBVREQxNVZBNnZEQWxnM1pBT0haZWZhZWkteWxwNTZUZw?oc=5",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9lbzFPTUpLNzhKZHYwMFMyeUY3SzU3cnJDb01LbEtvelZFaF9CeTFvbkcwY3pBSzFwR0FGYVF5cFdDOHBIbWZqVjQxNlBVREQxNVZBNnZEQWxnM1pBT0haZWZhZWkteWxwNTZUZw",
+      "summary": "経財白書において、AI活用が進む職場ほど残業時間が多い傾向が指摘され、AIによる労働負荷軽減効果は現時点で限定的であることが明らかになりました。人事担当者はAI導入後も労働時間管理を継続的に行い、業務量の適正化を図る必要があります。",
+      "summarizedAt": "2026-09-19T22:14:00.433Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE50RFdPM0o5Y0R4MGw2ZWQ0RWVmcmlUc0oxbVRzWFIzMlJ3WkY3OXcyT2JvTFlTYTJfaFlCNVUyNEo2d2RmU0dTYV9SRW9MV2ppVjZCNg",
       "source": "rosei_news",
       "title": "実質賃金６カ月連続プラス ２１年以来、６月１・６％ 物価抑制、値上げ懸念も",
@@ -5188,6 +5244,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE02TGRzLW5BNXVldjZCejZUVzVJZ04xbmlmVnB0QWZfSHZJemVnVmM1ci1kdzVrOFdQVnpZaXBBOXhBZENPcTBwb0phUTlxLXZGZEZRcEZxYndlNmxVaWo5eUJXcGJpa0xMWjQ0WQ",
+      "source": "nikkei_news",
+      "title": "中小企業の賃上げ4.29%、前年0.26ポイント上回る 日商調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02TGRzLW5BNXVldjZCejZUVzVJZ04xbmlmVnB0QWZfSHZJemVnVmM1ci1kdzVrOFdQVnpZaXBBOXhBZENPcTBwb0phUTlxLXZGZEZRcEZxYndlNmxVaWo5eUJXcGJpa0xMWjQ0WQ?oc=5",
+      "publishedAt": "2026-06-08T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE02TGRzLW5BNXVldjZCejZUVzVJZ04xbmlmVnB0QWZfSHZJemVnVmM1ci1kdzVrOFdQVnpZaXBBOXhBZENPcTBwb0phUTlxLXZGZEZRcEZxYndlNmxVaWo5eUJXcGJpa0xMWjQ0WQ",
+      "summary": "日本商工会議所の調査によると、中小企業の賃上げ率が4.29%となり前年を0.26ポイント上回りました。中小企業でも賃上げの動きが継続しており、人事担当者は自社の賃金水準の見直しや優秀な人材確保に向けた対応が求められます。",
+      "summarizedAt": "2026-09-19T22:14:28.481Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1iYU84ZTZFcFY2b0hOaXZkQ2hLX2tGUXJINjVNdFBzdWlFUUFoLVZodktJUlotTnItcGJteWEwSU0wR2RCTnZWMUw0bnlxcFZjMFBRTw",
       "source": "rosei_news",
       "title": "春闘賃上げ率５・０２％ 連合傘下、６回目集計",
@@ -5258,6 +5328,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMicEFVX3lxTE5EMC11bG1PU21yV0tGbThURDZOV2RsREdqd3FHcEljVDgzQ3pHbVU0OWRZcUNUenBEUm1ic04yT2VQT3pSWTlfYTRGMlh2dzlOdl9ZMUlCQmlYMVNJOFdFRE5ieEFoNm1sQ1p6QWdISm8",
+      "source": "nikkei_news",
+      "title": "外国人労働政策はなぜゆがんだのか 混迷の30年を検証 濱口桂一郎氏に聞く",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EMC11bG1PU21yV0tGbThURDZOV2RsREdqd3FHcEljVDgzQ3pHbVU0OWRZcUNUenBEUm1ic04yT2VQT3pSWTlfYTRGMlh2dzlOdl9ZMUlCQmlYMVNJOFdFRE5ieEFoNm1sQ1p6QWdISm8?oc=5",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE5EMC11bG1PU21yV0tGbThURDZOV2RsREdqd3FHcEljVDgzQ3pHbVU0OWRZcUNUenBEUm1ic04yT2VQT3pSWTlfYTRGMlh2dzlOdl9ZMUlCQmlYMVNJOFdFRE5ieEFoNm1sQ1p6QWdISm8",
+      "summary": "【要約】\n外国人労働政策の過去30年間の混迷の経緯について、労働法政策の専門家である濱口桂一郎氏が検証しています。人事・労務担当者は政策のゆがみの背景を理解することで、今後の外国人雇用対応の参考にできます。\n\n(99字)",
+      "summarizedAt": "2026-09-19T22:14:08.910Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFB6eEtzR0pKYnNPOWFEVWlZaWZYRGkwNjVBM1ZjRGNMSE80VEM0RHlROUpyTTExMzl6Zy02OWVXejJQZUkyd3ZmcnFZXzlRdnlaM1ltaA",
       "source": "rosei_news",
       "title": "２５年度実質賃金０・５％減 ４年連続、先行き不透明",
@@ -5297,6 +5381,35 @@
       "summary": "自民党の提言案で、賃上げ促進に向けた官民投資の強化策として、複数年予算の編成や人材強化策が盛り込まれたことが判明しました。今後の政府予算編成や企業の賃上げ方針に影響を与える可能性があり、動向を注視する必要があります。",
       "summarizedAt": "2026-09-07T22:14:59.628Z",
       "storyId": "rosei:CBMiVEFVX3lxTE5ZdE1XN0VTbHNNcDQ5Q1k5SDZDcDcwdkFlZlZXa1h3TFdMYW55OEk3NkExcHNxZkVGb1BmMmg0aEdqb2kyNWFKd25tUVBJNzdHb0ttRw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5rM1JuUWdQZFk3MUQxNmh2QVp1eDlsdG43M3NkMU01WFVtSUpKTjJNVTBRMGNSYmdIbnlpREdxZzg2Q1VMdEtUWk81dXVmZ1NmaXRTUFlXMmdCM1diUnQ0cjE4Y2FXRUdKLVBmUg",
+      "source": "nikkei_news",
+      "title": "公務員、予備自衛官の兼業しやすく 人手不足打開へ今国会で法案成立公算",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rM1JuUWdQZFk3MUQxNmh2QVp1eDlsdG43M3NkMU01WFVtSUpKTjJNVTBRMGNSYmdIbnlpREdxZzg2Q1VMdEtUWk81dXVmZ1NmaXRTUFlXMmdCM1diUnQ0cjE4Y2FXRUdKLVBmUg?oc=5",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5rM1JuUWdQZFk3MUQxNmh2QVp1eDlsdG43M3NkMU01WFVtSUpKTjJNVTBRMGNSYmdIbnlpREdxZzg2Q1VMdEtUWk81dXVmZ1NmaXRTUFlXMmdCM1diUnQ0cjE4Y2FXRUdKLVBmUg",
+      "summary": "公務員が予備自衛官を兼業する際の手続きが簡素化される見通しで、今国会で関連法案が成立する公算です。民間企業においては直接的な影響はありませんが、公的部門における兼業緩和の動向として注視する必要があります。",
+      "summarizedAt": "2026-09-19T22:13:14.717Z",
+      "stage": "成立・公布",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBOUFRLWnlmYW1lbHVLR1pJZkpfWHR0OWVMZ3lWaVlKWTV5dHhUUlpSY3NGUkI2SnBIVXFaZHNJWmNDUGRFS3VCQTFWVno1VnVDN0Z0X3EzQlNyWnhJNkJUM0tIeUgxd1lpZHZjTA",
+      "source": "nikkei_news",
+      "title": "ビル管理で稼ぐALSOK 人手不足の警備で待遇改善へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUFRLWnlmYW1lbHVLR1pJZkpfWHR0OWVMZ3lWaVlKWTV5dHhUUlpSY3NGUkI2SnBIVXFaZHNJWmNDUGRFS3VCQTFWVno1VnVDN0Z0X3EzQlNyWnhJNkJUM0tIeUgxd1lpZHZjTA?oc=5",
+      "publishedAt": "2026-05-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBOUFRLWnlmYW1lbHVLR1pJZkpfWHR0OWVMZ3lWaVlKWTV5dHhUUlpSY3NGUkI2SnBIVXFaZHNJWmNDUGRFS3VCQTFWVno1VnVDN0Z0X3EzQlNyWnhJNkJUM0tIeUgxd1lpZHZjTA",
+      "summary": "【要約】\nALSOK社が警備業界の人手不足に対応するため、警備員の待遇改善に乗り出す方針。人材確保が課題となる警備業務において、待遇向上が進む可能性がある。\n\n(80字)",
+      "summarizedAt": "2026-09-19T22:13:29.019Z",
       "isGuideline": false
     },
     {
@@ -5412,6 +5525,34 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9uSmt4c3l5SFE1UWlpTXlQeUtiNUQ1OUpWamV2OVZjM3I2RkR0d2tmRmlYWUNRblQyc2VHdjFCYTcyTFRiNFIyOVBpM1h3UlhYMW80S0hhTlpjYzZERXdKbG5jeFBQS0pFTEJFVQ",
+      "source": "nikkei_news",
+      "title": "先回りや過剰な配慮は「ホワイトハラスメント」 経験者の7割が転職意向",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSmt4c3l5SFE1UWlpTXlQeUtiNUQ1OUpWamV2OVZjM3I2RkR0d2tmRmlYWUNRblQyc2VHdjFCYTcyTFRiNFIyOVBpM1h3UlhYMW80S0hhTlpjYzZERXdKbG5jeFBQS0pFTEJFVQ?oc=5",
+      "publishedAt": "2026-04-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9uSmt4c3l5SFE1UWlpTXlQeUtiNUQ1OUpWamV2OVZjM3I2RkR0d2tmRmlYWUNRblQyc2VHdjFCYTcyTFRiNFIyOVBpM1h3UlhYMW80S0hhTlpjYzZERXdKbG5jeFBQS0pFTEJFVQ",
+      "summary": "部下への過度な配慮や先回りした対応が「ホワイトハラスメント」として問題視され、経験者の約7割が転職を検討している実態が明らかになりました。適切な業務指導と成長機会の提供のバランスを見直す必要があります。",
+      "summarizedAt": "2026-09-19T22:12:54.652Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE55NG9EeVhYZjN5VUhKd25tcjg5VmVxSW4yRTM1OGRtcFdwVnQ1UTA4OElOQlVpSENpSUJUS05DNnBnLXcxYUJuMnN5S1RBUTFFRHFpMk5UZ0Uza2l0LTJVSlUwc2dVNWFJbFpLNw",
+      "source": "nikkei_news",
+      "title": "男性育休、取得率が上がっても男性の家事・育児は増えない？ 経済学者に聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NG9EeVhYZjN5VUhKd25tcjg5VmVxSW4yRTM1OGRtcFdwVnQ1UTA4OElOQlVpSENpSUJUS05DNnBnLXcxYUJuMnN5S1RBUTFFRHFpMk5UZ0Uza2l0LTJVSlUwc2dVNWFJbFpLNw?oc=5",
+      "publishedAt": "2026-04-16T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE55NG9EeVhYZjN5VUhKd25tcjg5VmVxSW4yRTM1OGRtcFdwVnQ1UTA4OElOQlVpSENpSUJUS05DNnBnLXcxYUJuMnN5S1RBUTFFRHFpMk5UZ0Uza2l0LTJVSlUwc2dVNWFJbFpLNw",
+      "summary": "男性の育休取得率が上昇している一方で、実際の家事・育児参加時間の増加には必ずしも結びついていない可能性が指摘されています。人事担当者は取得率だけでなく、育休中の実質的な育児参加を促す施策の検討が求められます。",
+      "summarizedAt": "2026-09-19T22:13:31.863Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1KNGNhNWt2QkVSLXRpZ21iZHhwSGhmZGxyaC01ZUhKc1Z4R1ZtNDc0aW1sTHI5Q1N1UWpWbGtqU3plYUNyTEd3S3pMZUpHckRLQ1lHLQ",
       "source": "rosei_news",
       "title": "残業削減、運用見直しへ 労基署指導巡り自民提言 長時間労働助長に懸念も",
@@ -5468,6 +5609,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA",
+      "source": "nikkei_news",
+      "title": "竹中工務店、平均10%超賃上げ 4年連続ベア",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA?oc=5",
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA",
+      "summary": "竹中工務店が4年連続でベースアップを実施し、平均10%超の賃上げを行います。建設業界における大幅賃上げの動きとして、自社の賃金水準や採用競争力の見直しを検討する参考事例となります。",
+      "summarizedAt": "2026-09-19T22:13:57.311Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiWEFVX3lxTE9NU3Z0MkFMUlV1T1dOcERqU1Jlb2hWZ1NQMkRwekw2WDJFUk9BX1pCclREU0hqX3JsM1RESmZZa0M3eHlDUHhYY012b2dRN09JTmhXQm5DREQ",
       "source": "rosei_news",
       "title": "eラーニング ハラスメント対策｜ハラスメントを防ぐ！アンガーマネジメント講座",
@@ -5496,6 +5651,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5yZEdEelY5eWtISmpXNGVuSHpzaFkweHJIUENVQTMzMWctY0NMM3l6alNvODdFejA4M3B0TnFQMTZUODFmbExlMjBsRG50RjZBdEUydTNQamI2aFh0d2lfcUFBY3lrUmU5RFRBMw",
+      "source": "nikkei_news",
+      "title": "アサヒ飲料、ベア平均1万2700円で満額回答 賃上げ率は5%",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZEdEelY5eWtISmpXNGVuSHpzaFkweHJIUENVQTMzMWctY0NMM3l6alNvODdFejA4M3B0TnFQMTZUODFmbExlMjBsRG50RjZBdEUydTNQamI2aFh0d2lfcUFBY3lrUmU5RFRBMw?oc=5",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5yZEdEelY5eWtISmpXNGVuSHpzaFkweHJIUENVQTMzMWctY0NMM3l6alNvODdFejA4M3B0TnFQMTZUODFmbExlMjBsRG50RjZBdEUydTNQamI2aFh0d2lfcUFBY3lrUmU5RFRBMw",
+      "summary": "アサヒ飲料が2025年春闘においてベースアップ平均1万2700円（賃上げ率5%）の満額回答を実施しました。大手企業の高水準な賃上げ動向として、自社の賃金改定方針を検討する際の市場参考情報となります。",
+      "summarizedAt": "2026-09-19T22:14:19.747Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg",
       "source": "nikkei_news",
       "title": "育休の意外な効用、三井住友銀の女性行員が発見 不確実性の耐性磨く",
@@ -5522,6 +5691,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5FemtaWnY3akp4eF9UOXlxUVYydlJEcUNPZHFjenBZd2FXb3g1VXNtbXAyY3UtMFJNOVloZHBER1hnYmxRaHA4c3o5Q3FwMTVmZzlidQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBZRzJHekpJUDBRaGpWWFFYUWZBaUIxMURteFF2bV85ck85c3FVUEVzVHlGZ1pWR0RCSDlEbl9Mek5FWnZsNHVfZ3FmS01NUHpWVV9YY1J2OUwzWWxaeklROWkzM216S1A5cWlRTA",
+      "source": "nikkei_news",
+      "title": "東海理化、今春6.1%賃上げ 物価上昇に対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRzJHekpJUDBRaGpWWFFYUWZBaUIxMURteFF2bV85ck85c3FVUEVzVHlGZ1pWR0RCSDlEbl9Mek5FWnZsNHVfZ3FmS01NUHpWVV9YY1J2OUwzWWxaeklROWkzM216S1A5cWlRTA?oc=5",
+      "publishedAt": "2026-03-13T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBZRzJHekpJUDBRaGpWWFFYUWZBaUIxMURteFF2bV85ck85c3FVUEVzVHlGZ1pWR0RCSDlEbl9Mek5FWnZsNHVfZ3FmS01NUHpWVV9YY1J2OUwzWWxaeklROWkzM216S1A5cWlRTA",
+      "summary": "東海理化が2025年春闘で6.1%の賃上げを実施し、物価上昇に対応する方針を決定しました。今春闘における賃上げ率の参考指標として、自社の賃上げ検討の際に活用できます。",
+      "summarizedAt": "2026-09-19T22:13:46.722Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiXEFVX3lxTE9BQ1ltVTl6cHlMNUVPVHdhejU2RGFVbDBHRDM5aFJEeGFQNXlGSi0xaERaMmJGN0JvUWdnZTJRMTFWOWN0RExkRVcxQlpyazFNTHA1NGh4ODNWUW81",
@@ -5578,6 +5761,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE1ibTh0THhRaFVLbjBhbWhoUHVRWklUWTU2OVRZUW5mVGE0NHlkMlpvVi1DWWJ5ekNKNWpBd0JuaGx3SktXZzhIUUZlbmJJM09BWWg1WA",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE0tajFlUXVxa3Ewb21peGpmWDFpUXA0LV8wU2lWclpfTGN6eWxHd3JBZXd3VnBMSlVVYnJPUU1uNEJBbUF4V284SThDaURSYWVRaklCNVNPZWhucmQySXZsNTNEcm1aZVgyd1J3Sg",
+      "source": "nikkei_news",
+      "title": "佐賀銀行が6%賃上げ、3年連続実施 中堅層に手厚く配分",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tajFlUXVxa3Ewb21peGpmWDFpUXA0LV8wU2lWclpfTGN6eWxHd3JBZXd3VnBMSlVVYnJPUU1uNEJBbUF4V284SThDaURSYWVRaklCNVNPZWhucmQySXZsNTNEcm1aZVgyd1J3Sg?oc=5",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE0tajFlUXVxa3Ewb21peGpmWDFpUXA0LV8wU2lWclpfTGN6eWxHd3JBZXd3VnBMSlVVYnJPUU1uNEJBbUF4V284SThDaURSYWVRaklCNVNPZWhucmQySXZsNTNEcm1aZVgyd1J3Sg",
+      "summary": "佐賀銀行が3年連続で賃上げを実施し、今回は6%の引き上げで特に中堅層への配分を手厚くしました。地方金融機関における継続的な賃上げと中堅社員重視の配分方針の参考事例となります。",
+      "summarizedAt": "2026-09-19T22:13:54.787Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5TT0VreTZra1pDbE5xbklzcjhlT1BTbzhiWHRrdFR6ZmhPcjRWa1RSQlZIcEVuWWVIdzJFQjl0djBZUU9iZlhqM01NWEx5aTVSREJ6ag",
@@ -5664,6 +5861,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiZ0FVX3lxTE0wYTZrbGgxM0Y1dkFsTWNoOHBXcWE5akUyRG5zb21naHg0Sm45NXpYUmRVanNuMmdzQk1HTENFNWRSaVlSRjlBQVpwY1FRT0JwTjJpS0dZZ0E0U0Rld0VHZUhKbVhEV2M",
+      "source": "nikkei_news",
+      "title": "春闘、トヨタ労組は「個人の頑張り重視」の要求 全体の賃上げ率は足踏み",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wYTZrbGgxM0Y1dkFsTWNoOHBXcWE5akUyRG5zb21naHg0Sm45NXpYUmRVanNuMmdzQk1HTENFNWRSaVlSRjlBQVpwY1FRT0JwTjJpS0dZZ0E0U0Rld0VHZUhKbVhEV2M?oc=5",
+      "publishedAt": "2026-02-06T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE0wYTZrbGgxM0Y1dkFsTWNoOHBXcWE5akUyRG5zb21naHg0Sm45NXpYUmRVanNuMmdzQk1HTENFNWRSaVlSRjlBQVpwY1FRT0JwTjJpS0dZZ0E0U0Rld0VHZUhKbVhEV2M",
+      "summary": "トヨタ労組が今春闘で個人業績を重視した賃金制度への転換を要求しており、全体の賃上げ率は前年より伸び悩む見通しです。人事担当者は成果配分の個別化傾向と賃上げ動向の変化に注視が必要です。",
+      "summarizedAt": "2026-09-19T22:14:25.946Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9kUVRtNkRVS3Mya280QkVzbndCeWVzTWxIbTZrY0xrT2pISUVLNGFJeWhPS1JkdTcwRmp6RTkxdFJkNnRiUWQ2bVhJRmtub2g5VExiRw",
       "source": "rosei_news",
       "title": "賃上げ率５％へ強気姿勢 春闘要求、人材獲得も背景 電機追い風、車は不透明",
@@ -5690,6 +5901,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiW0FVX3lxTE16Q09HV05PSGdHY3RmMnFpOF91YVZlQnFnYnJ6eTh4b0k0elFucXlXek5IYXp6UkgyOVA2RWVqZm5aMHU3a1ZsU0l4dEQ3b3hNSnVjZlFScmY3N0U",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9tcGhMczM5ZEFHRXE3d3Y4R001c3d3NWlpbm9SY3o4NUlTbTM2UGs0WHo4Sm42MWRNQUlRNFFjaUhydjFTSmZzRlRmXzhRdVgwcWRaZ3Y3aFRwMnlQRF9PZVFNQVRFaDhKeF9VWg",
+      "source": "nikkei_news",
+      "title": "大分県の外国人労働者、過去最多の1万4300人",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tcGhMczM5ZEFHRXE3d3Y4R001c3d3NWlpbm9SY3o4NUlTbTM2UGs0WHo4Sm42MWRNQUlRNFFjaUhydjFTSmZzRlRmXzhRdVgwcWRaZ3Y3aFRwMnlQRF9PZVFNQVRFaDhKeF9VWg?oc=5",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9tcGhMczM5ZEFHRXE3d3Y4R001c3d3NWlpbm9SY3o4NUlTbTM2UGs0WHo4Sm42MWRNQUlRNFFjaUhydjFTSmZzRlRmXzhRdVgwcWRaZ3Y3aFRwMnlQRF9PZVFNQVRFaDhKeF9VWg",
+      "summary": "大分県における外国人労働者数が過去最多の1万4300人に達しました。人事担当者は外国人材の採用ニーズの高まりを踏まえ、在留資格管理や多文化対応の労務体制整備を検討する必要があります。",
+      "summarizedAt": "2026-09-19T22:13:41.553Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5wWUNheTJLeWpPSkRRUlRnSUpPbFlHVWZ1bEdNSDY1cFdOWWIzNy1tejgzd2lNWkFSalQ0b1Nfb25pWFNreml5OE4yejBSX21SRmNSRQ",
@@ -5762,6 +5987,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9zU0haaVNIdnhja1ItcUxWSk1laGVEMGJvZFRoT2Y2OVg5VHgxMWh0Szl1NUltUTZSaTRiZVhxakIxX0E2WGV3UnpFVUVpcjRTSzNVZlpUUWhqQ3lKMXRmZkhyN25sbm4zMFo2bQ",
+      "source": "nikkei_news",
+      "title": "ホンダ労組、賃上げ1万8500円要求 一時金は5.4カ月分",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zU0haaVNIdnhja1ItcUxWSk1laGVEMGJvZFRoT2Y2OVg5VHgxMWh0Szl1NUltUTZSaTRiZVhxakIxX0E2WGV3UnpFVUVpcjRTSzNVZlpUUWhqQ3lKMXRmZkhyN25sbm4zMFo2bQ?oc=5",
+      "publishedAt": "2026-01-23T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9zU0haaVNIdnhja1ItcUxWSk1laGVEMGJvZFRoT2Y2OVg5VHgxMWh0Szl1NUltUTZSaTRiZVhxakIxX0E2WGV3UnpFVUVpcjRTSzNVZlpUUWhqQ3lKMXRmZkhyN25sbm4zMFo2bQ",
+      "summary": "ホンダ労組が月額1万8500円の賃上げと年間5.4カ月分の一時金を要求しました。春闘の動向を示す事例として、自社の賃上げ交渉や労使協議の参考指標となる可能性があります。",
+      "summarizedAt": "2026-09-19T22:13:52.358Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9IeTlVZFpUUDdRSzBoWmVFdjI4WXZHNzVIMmNZR0tTMjAzcmdJZUFjQ1ZscnZFbDFwNE4xWmk4OG5rN1ZrcUI2ZkRRWjdSTzNpTXd4ZQ",
       "source": "rosei_news",
       "title": "中小企業、防衛賃上げ多く 業績より人材確保を優先",
@@ -5818,6 +6057,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBSUFE1NEItMnNjZUJoTW9zaXZNcVVsUTl2bFc3b1JvUk9Ccmt2cVlKV0JUTHM2NlBLb2IyN3FMVWIyTlZQZWF4S1ZfRW1LTnctSTVNbUhtd2JhXzFFZTBxSjJzNHRjc1UxOV9hVA",
+      "source": "nikkei_news",
+      "title": "26年春闘、5%超の賃上げ表明相次ぐ 経営トップ年頭会合",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSUFE1NEItMnNjZUJoTW9zaXZNcVVsUTl2bFc3b1JvUk9Ccmt2cVlKV0JUTHM2NlBLb2IyN3FMVWIyTlZQZWF4S1ZfRW1LTnctSTVNbUhtd2JhXzFFZTBxSjJzNHRjc1UxOV9hVA?oc=5",
+      "publishedAt": "2026-01-06T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBSUFE1NEItMnNjZUJoTW9zaXZNcVVsUTl2bFc3b1JvUk9Ccmt2cVlKV0JUTHM2NlBLb2IyN3FMVWIyTlZQZWF4S1ZfRW1LTnctSTVNbUhtd2JhXzFFZTBxSjJzNHRjc1UxOV9hVA",
+      "summary": "2026年春闘において、経営トップの年頭会合で5%超の賃上げを表明する企業が相次いでいることが明らかになりました。人事・労務担当者は、自社の賃上げ方針の検討や労使交渉の準備を早急に進める必要があります。",
+      "summarizedAt": "2026-09-19T22:14:02.857Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1HVHhiLWxaejg3ekpFekoweUduZUJnMXdNdzNSRHBlWVNHTGVYaUNTd2ZjZXBla1NkX0Y0UnhQS2ZZdUE4YTVDNHRabTF5T3pTTk9jRQ",
       "source": "rosei_news",
       "title": "国内景気、拡大予想７０％ 賃金上昇、消費回復期待 物価高と米関税が重荷に 主要１１４社アンケート",
@@ -5830,6 +6083,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE1HVHhiLWxaejg3ekpFekoweUduZUJnMXdNdzNSRHBlWVNHTGVYaUNTd2ZjZXBla1NkX0Y0UnhQS2ZZdUE4YTVDNHRabTF5T3pTTk9jRQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiREFVX3lxTE5qXzV4NW10UWpyN0Qyd3plajJWV3h1YXM3S2VzTHFVTTJMeUU5Zm5xZzRWWjN1RVlkVjBnWEl5aV9fMFJE",
+      "source": "nikkei_news",
+      "title": "人手不足をチャンスに変える！企業が選ばれるための新常識",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qXzV4NW10UWpyN0Qyd3plajJWV3h1YXM3S2VzTHFVTTJMeUU5Zm5xZzRWWjN1RVlkVjBnWEl5aV9fMFJE?oc=5",
+      "publishedAt": "2025-12-28T07:53:53.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiREFVX3lxTE5qXzV4NW10UWpyN0Qyd3plajJWV3h1YXM3S2VzTHFVTTJMeUU5Zm5xZzRWWjN1RVlkVjBnWEl5aV9fMFJE",
+      "summary": "【要約】\n人手不足が深刻化する中、求職者から選ばれる企業になるための対応が求められています。労務・人事担当者は、採用競争力を高める施策の見直しや、働きやすい職場環境の整備を検討する必要があります。\n\n(99字)",
+      "summarizedAt": "2026-09-19T22:13:09.137Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFAwWHdsb1R6Wm5NZXR2V3U4eXBMVXpHNVZ6YkNoaF9zZ2VVbU5Fd1NtRUptS2IyX1I0M2JJb0I1TmY2Y09yM1EtbEZpMmhCT1YtRTdhcg",
@@ -6476,6 +6743,34 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBMdDlxbXFfOEhBaEtUZjd6VG1kTmZGV1BrOWV2UXJCaXdrYmRhRHZLXzRSLVUtYW5abVpENHVkTVM4TFB5TVVXU3FOZFdZSVZUNlIzekx1N25kZ0JLX3I1MW55aWNUN0dUVXh6aw",
+      "source": "nikkei_news",
+      "title": "男性育休取得率が初の4割超 24年度40.5%、中小は伸び悩み",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdDlxbXFfOEhBaEtUZjd6VG1kTmZGV1BrOWV2UXJCaXdrYmRhRHZLXzRSLVUtYW5abVpENHVkTVM4TFB5TVVXU3FOZFdZSVZUNlIzekx1N25kZ0JLX3I1MW55aWNUN0dUVXh6aw?oc=5",
+      "publishedAt": "2025-07-30T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBMdDlxbXFfOEhBaEtUZjd6VG1kTmZGV1BrOWV2UXJCaXdrYmRhRHZLXzRSLVUtYW5abVpENHVkTVM4TFB5TVVXU3FOZFdZSVZUNlIzekx1N25kZ0JLX3I1MW55aWNUN0dUVXh6aw",
+      "summary": "2024年度の男性育休取得率が初めて40.5%と4割を超えましたが、中小企業では依然として取得が進んでいない状況です。中小企業の人事担当者は取得促進に向けた職場環境整備や代替要員確保などの対策強化が求められます。",
+      "summarizedAt": "2026-09-19T22:13:17.589Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiW0FVX3lxTE0xSWtmNGRjWFdxZnV4T2Y3LVF3OUYxRkZTN3dlZDE1WDh4Nk4xT1J3aERwcGlzVmNNRVVpTm1YQlJvVXpqVjIzWmV3NnF1SUMyeHZBUTEtSXZqa0U",
+      "source": "nikkei_news",
+      "title": "企業も氷河期対策、セコムなど賃上げ手厚く 中高年も離職リスク",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSWtmNGRjWFdxZnV4T2Y3LVF3OUYxRkZTN3dlZDE1WDh4Nk4xT1J3aERwcGlzVmNNRVVpTm1YQlJvVXpqVjIzWmV3NnF1SUMyeHZBUTEtSXZqa0U?oc=5",
+      "publishedAt": "2025-07-29T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiW0FVX3lxTE0xSWtmNGRjWFdxZnV4T2Y3LVF3OUYxRkZTN3dlZDE1WDh4Nk4xT1J3aERwcGlzVmNNRVVpTm1YQlJvVXpqVjIzWmV3NnF1SUMyeHZBUTEtSXZqa0U",
+      "summary": "セコムなど一部企業が、就職氷河期世代を含む中高年層の離職防止策として、同世代への賃上げを手厚くする動きを見せています。中高年層の離職リスクが高まる中、人事担当者は自社の賃金体系や世代別処遇の見直しを検討する必要があります。",
+      "summarizedAt": "2026-09-19T22:14:22.960Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiTkFVX3lxTE5ScXpfbmYxdTRpeWNjT21CaFBlT1RFYUo2aEN1dmFxcXB2Z21zRE9DTUtkVUVCU204YXNjOGVBVG9haFBidnRxX3k4bDlZdw",
       "source": "rosei_news",
       "title": "第2版 実務家のための労働法令読みこなし術",
@@ -6646,6 +6941,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE42ZWR1T0tVNkFsTC1DVnpNT09oNDJYYnRVbTdzaUVGQlFiN3JkLTFHOUxVbGxaYlhBQVFKT3hzQ1VmYzlmYkc2SmdVYjg0U1cyQ3VEcDVFZEhvY25qZWpVR2Ywb2hFU2V2bFhBNw",
+      "source": "nikkei_news",
+      "title": "フジテレビ、ハラスメント根絶宣言発表 全社員に署名求める",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ZWR1T0tVNkFsTC1DVnpNT09oNDJYYnRVbTdzaUVGQlFiN3JkLTFHOUxVbGxaYlhBQVFKT3hzQ1VmYzlmYkc2SmdVYjg0U1cyQ3VEcDVFZEhvY25qZWpVR2Ywb2hFU2V2bFhBNw?oc=5",
+      "publishedAt": "2025-05-02T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE42ZWR1T0tVNkFsTC1DVnpNT09oNDJYYnRVbTdzaUVGQlFiN3JkLTFHOUxVbGxaYlhBQVFKT3hzQ1VmYzlmYkc2SmdVYjg0U1cyQ3VEcDVFZEhvY25qZWpVR2Ywb2hFU2V2bFhBNw",
+      "summary": "フジテレビがハラスメント根絶を宣言し、全社員に署名を求める取り組みを開始しました。ハラスメント防止の実効性を高めるため、全社員参加型の対策を検討している企業は参考になる事例です。",
+      "summarizedAt": "2026-09-19T22:12:56.860Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE4xY1c5dDRGV3JKT21SamNFazFiTFRPbXFfR1dtTzhVME1WamFaNXhKb1l6dEtBSU9EaEU4QVg4YzQwclE4eVJ6anhHTGRTenpmbENlSQ",
       "source": "rosei_news",
       "title": "人事労務関係の税務相談 - 第18回・完 退職・その他関係 ～退職時の年次有給休暇の買い上げに際して支給する金銭の税務上の取り扱いは？",
@@ -6674,6 +6983,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiZEFVX3lxTFB1bDlFaDdtWTAzZE5CdTRac0xrTWtIS3NqTlhHclozMmxLZDRBOVIwai0yaENjbURzSWJ6OXdJSjQtT1dobTE4TldFc3RPdEJlTXY2UXZrQ0o5Y01nSGRqM0FnRFc",
+      "source": "nikkei_news",
+      "title": "「反DEI」で高まるハラスメントリスク",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1bDlFaDdtWTAzZE5CdTRac0xrTWtIS3NqTlhHclozMmxLZDRBOVIwai0yaENjbURzSWJ6OXdJSjQtT1dobTE4TldFc3RPdEJlTXY2UXZrQ0o5Y01nSGRqM0FnRFc?oc=5",
+      "publishedAt": "2025-03-28T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZEFVX3lxTFB1bDlFaDdtWTAzZE5CdTRac0xrTWtIS3NqTlhHclozMmxLZDRBOVIwai0yaENjbURzSWJ6OXdJSjQtT1dobTE4TldFc3RPdEJlTXY2UXZrQ0o5Y01nSGRqM0FnRFc",
+      "summary": "# 要約\n\n米国の「反DEI」の動きが日本企業にも影響する可能性があり、多様性推進施策に対する反発やハラスメントが職場で増加するリスクが高まっているため、人事担当者は社内の対話促進や相談体制の強化など予防的な対応が求められます。\n\n(117字)",
+      "summarizedAt": "2026-09-19T22:13:00.543Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE05NkRGdFI0bElWLXNpUmgwNFJGSmtXMkNVVEVVYmNzMTk5cW1jOGxiYS1Eb3RlU2hrM055a1d2TDJkQV8zTDFoQXBHX2VWV0hZNUVGQw",
       "source": "rosei_news",
       "title": "企業の人手不足感続く 正社員もパートも",
@@ -6685,6 +7008,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE05NkRGdFI0bElWLXNpUmgwNFJGSmtXMkNVVEVVYmNzMTk5cW1jOGxiYS1Eb3RlU2hrM055a1d2TDJkQV8zTDFoQXBHX2VWV0hZNUVGQw",
       "summary": "企業における人手不足感が継続しており、正社員・パート双方で人材確保が困難な状況が続いています。採用活動の強化や労働条件の見直し、既存社員の定着率向上に向けた施策の検討が必要です。",
       "summarizedAt": "2026-09-18T22:14:35.468Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBXalFfalpOYVk2WllNZVpSNHhYWm1ZMUdnYXdkTkltTlRPU29nU0hwR3lQeDBEb2x1RnRneGZEanFxSzVVQVgwVmVOM1p1b0lWTTlyamNMVE85TUFIZVVVeFJoSVpyM3c",
+      "source": "nikkei_news",
+      "title": "改正育児・介護休業法施行 パタハラ防止・育休取得向上は企業風土改革で",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXalFfalpOYVk2WllNZVpSNHhYWm1ZMUdnYXdkTkltTlRPU29nU0hwR3lQeDBEb2x1RnRneGZEanFxSzVVQVgwVmVOM1p1b0lWTTlyamNMVE85TUFIZVVVeFJoSVpyM3c?oc=5",
+      "publishedAt": "2025-03-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBXalFfalpOYVk2WllNZVpSNHhYWm1ZMUdnYXdkTkltTlRPU29nU0hwR3lQeDBEb2x1RnRneGZEanFxSzVVQVgwVmVOM1p1b0lWTTlyamNMVE85TUFIZVVVeFJoSVpyM3c",
+      "summary": "改正育児・介護休業法が施行され、パタニティハラスメント防止への対応が求められます。企業は育児休業取得率向上に向けて、制度整備だけでなく職場の意識改革を含めた企業風土の抜本的な見直しが必要です。",
+      "summarizedAt": "2026-09-19T22:13:11.970Z",
       "isGuideline": false
     },
     {
@@ -6955,6 +7292,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5SeGJMNWxSUzBrcTFwTFNKTGpYT2g5YVlMOTZudmZOUldycjNrUVlRZlRQbF9JSU4tbGpiMXFHQzd3dlUyc3RZWS1La01DNmFfSS1UNkZfMUpTNEVaUmlwTU53d1h1QlZZWGpQUw",
+      "source": "nikkei_news",
+      "title": "日本で働く外国人労働者230万人 24年、伸び幅最大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeGJMNWxSUzBrcTFwTFNKTGpYT2g5YVlMOTZudmZOUldycjNrUVlRZlRQbF9JSU4tbGpiMXFHQzd3dlUyc3RZWS1La01DNmFfSS1UNkZfMUpTNEVaUmlwTU53d1h1QlZZWGpQUw?oc=5",
+      "publishedAt": "2025-01-31T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5SeGJMNWxSUzBrcTFwTFNKTGpYT2g5YVlMOTZudmZOUldycjNrUVlRZlRQbF9JSU4tbGpiMXFHQzd3dlUyc3RZWS1La01DNmFfSS1UNkZfMUpTNEVaUmlwTU53d1h1QlZZWGpQUw",
+      "summary": "2024年に日本で働く外国人労働者数が230万人に達し、過去最大の増加幅を記録しました。人事・労務担当者は外国人雇用の適切な在留資格管理や労働条件の整備、多言語対応などの受入体制強化が一層求められます。",
+      "summarizedAt": "2026-09-19T22:13:49.632Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBvU0tXamd2NVlUTTR1VUZick5UY1RrRzFoT2Zmckt4VkFJLTY2b2k4dVhhVkdNcDY3YkgxXzY1S2I0YXdQNWhqZHZJalRNREd4eUcwMQ",
       "source": "rosei_news",
       "title": "冬のボーナス、過去最高額 主要企業、賃上げ反映か",
@@ -7093,6 +7444,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBzMHdjUGhXZmlJN05rSnFkODZBUE5Mekx1UDVvVnEyUHE1ODBRWDBQMVRjbk1ZQkVMU1gwbDZ6YkF0ampRcHdGck9LZVBVR2xINTR2OQ",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5RUGI4amEtTG1rREV4Y2JnMGFIS3NVRTZnc3hPUEduS3BKTkZ3cXBSMmVwU1Jla3JkM2p3Ti1YczZvNi1FNmNCUVA2STJwSjdLS2JtblhtWnlIWTUxZEFBRHBhU2Q0T0hMbmkzNQ",
+      "source": "nikkei_news",
+      "title": "「人手不足じゃない」ダイヤ精機に見る“辞めない若手”の育て方",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RUGI4amEtTG1rREV4Y2JnMGFIS3NVRTZnc3hPUEduS3BKTkZ3cXBSMmVwU1Jla3JkM2p3Ti1YczZvNi1FNmNCUVA2STJwSjdLS2JtblhtWnlIWTUxZEFBRHBhU2Q0T0hMbmkzNQ?oc=5",
+      "publishedAt": "2024-11-18T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5RUGI4amEtTG1rREV4Y2JnMGFIS3NVRTZnc3hPUEduS3BKTkZ3cXBSMmVwU1Jla3JkM2p3Ti1YczZvNi1FNmNCUVA2STJwSjdLS2JtblhtWnlIWTUxZEFBRHBhU2Q0T0hMbmkzNQ",
+      "summary": "# 要約\n\nダイヤ精機の事例として、若手社員の離職を防ぐ人材育成手法が紹介されており、人手不足対策として参考になる可能性がありますが、見出しのみでは具体的な施策内容は不明です。",
+      "summarizedAt": "2026-09-19T22:13:03.427Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE14VkZNN3VNNUJmc2lsLTR5UXVEeG1oWnhYY0ZiSHRTbVpXSDRiMERuSzVaWTdvSWUxaFVNRHNlLVBmWVJMbFpBRzRXYkxnSHNSRWg3aQ",
@@ -7811,6 +8176,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiWkFVX3lxTE04bFI2ZnhtQ1ZXMm9YTW03SktYZTBaUnY0ajNHWEtJcGFhOHhBRl84Q29mUFFLSmxWUHctVXpObnRMUzlkeEhjaDVYSGRUUTdoLUM3NnFrdGdnUQ",
+      "source": "nikkei_news",
+      "title": "物言う労働組合",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bFI2ZnhtQ1ZXMm9YTW03SktYZTBaUnY0ajNHWEtJcGFhOHhBRl84Q29mUFFLSmxWUHctVXpObnRMUzlkeEhjaDVYSGRUUTdoLUM3NnFrdGdnUQ?oc=5",
+      "publishedAt": "2024-02-22T15:05:04.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWkFVX3lxTE04bFI2ZnhtQ1ZXMm9YTW03SktYZTBaUnY0ajNHWEtJcGFhOHhBRl84Q29mUFFLSmxWUHctVXpObnRMUzlkeEhjaDVYSGRUUTdoLUM3NnFrdGdnUQ",
+      "summary": "# 要約\n\nこの見出しのみでは具体的な法改正や実務上の対応事項が判別できないため、要約を作成できません。記事本文または詳細情報の提供が必要です。\n\n---\n\n**補足**: 「物言う労働組合」は労使関係の動向を示唆する表現ですが、見出しだけでは何が変わるのか、企業が何をすべきかの具体的内容が不明です。",
+      "summarizedAt": "2026-09-19T22:14:16.525Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9sa3dtMDg1VHlUbEN6SWpMTFNSWjJpWU9zYW5rRmxsUkxBRVZTd1UtbEt3QVVOMTRjeEs4YUlsYUxjdU1GeDJ0UDFaRlNXc0NjUzNGVQ",
       "source": "rosei_news",
       "title": "第247回 新田 龍―人手不足時代を乗り越える、若手社員とのコミュニケーションの要諦",
@@ -8033,6 +8412,34 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1IbDZWM25OYnVKek5ndGt5T0tsQVhwY2c3TTRZT0VLcmpsaWV2VEFOWnhSRUhaVlBJX3kxNWpFMFVyQ3Y5T04tU3oyazVIMkF4YjFRSA",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiWkFVX3lxTE5Eb1NvUnNNV0JxTmpBS0doV3U0dGxDRDJrUmNBdWxMQ0RXdC1BWGJtaEhic2c2VFc1YlVYbWRUOWdFVlVRaE1Ha1lZN2RWMjB4QnhRMHpGLU01UQ",
+      "source": "nikkei_news",
+      "title": "賃上げ・春闘2026 企業や業界の最新動向",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Eb1NvUnNNV0JxTmpBS0doV3U0dGxDRDJrUmNBdWxMQ0RXdC1BWGJtaEhic2c2VFc1YlVYbWRUOWdFVlVRaE1Ha1lZN2RWMjB4QnhRMHpGLU01UQ?oc=5",
+      "publishedAt": "2023-10-30T16:28:32.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWkFVX3lxTE5Eb1NvUnNNV0JxTmpBS0doV3U0dGxDRDJrUmNBdWxMQ0RXdC1BWGJtaEhic2c2VFc1YlVYbWRUOWdFVlVRaE1Ha1lZN2RWMjB4QnhRMHpGLU01UQ",
+      "summary": "この見出しのみからは具体的な法改正や制度変更に関する情報が読み取れないため、労務担当者が対応すべき具体的事項を要約することはできません。2026年春闘に向けた企業動向を扱った記事と推測されますが、本文情報なしでは正確な要約は困難です。",
+      "summarizedAt": "2026-09-19T22:14:12.206Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE9xSngza3FacUkxLVlrd1dlNjEyb3hNajR0UVppYkFxbXV4TTBvc1RSQ3Vpb0VmbHZBM1Vpbmxvenl4Y3VDYVl0cnR3VG5nVl91Y3ZLaWNCalNVa3JsVF9QQ1ZJUkJDX0k",
+      "source": "nikkei_news",
+      "title": "INCJ志賀会長「人手不足の原因、3つのアンマッチを解消せよ」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xSngza3FacUkxLVlrd1dlNjEyb3hNajR0UVppYkFxbXV4TTBvc1RSQ3Vpb0VmbHZBM1Vpbmxvenl4Y3VDYVl0cnR3VG5nVl91Y3ZLaWNCalNVa3JsVF9QQ1ZJUkJDX0k?oc=5",
+      "publishedAt": "2023-10-26T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE9xSngza3FacUkxLVlrd1dlNjEyb3hNajR0UVppYkFxbXV4TTBvc1RSQ3Vpb0VmbHZBM1Vpbmxvenl4Y3VDYVl0cnR3VG5nVl91Y3ZLaWNCalNVa3JsVF9QQ1ZJUkJDX0k",
+      "summary": "INCJ志賀会長は人手不足の原因として3つのアンマッチ(具体的内容は不明)の存在を指摘し、その解消が必要と提言しています。人事担当者は自社における雇用のミスマッチ要因を分析し、採用・配置戦略の見直しを検討することが求められます。",
+      "summarizedAt": "2026-09-19T22:13:06.396Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE1mclhFZ0JYYk83MkRUcFp5QWVONExXeVZGR0NXM2E3SzAwY2ZhZHJNTzhvMnB4TzRiaml4bVlrR2d5TWJnQk5IWGE2YnFqRXNvQjdoag",
@@ -8427,6 +8834,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMickFVX3lxTFBRZDZmTUc5b0h1cXNIVHRGTVRpSEx1aXoyLUVDZWF3VGJ2OXVYVXo0QmVOQ1MySTFXYmMzUXhFclM3QmNiY3hSXzZyNzFWcXhtNHVyXzFlZkRvZUZoMHEtc0Qta2JSTFdrczJtNmFLYmFpdw",
+      "source": "nikkei_news",
+      "title": "男性育休、管理職の葛藤「希望通りに」と言いたいが…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRZDZmTUc5b0h1cXNIVHRGTVRpSEx1aXoyLUVDZWF3VGJ2OXVYVXo0QmVOQ1MySTFXYmMzUXhFclM3QmNiY3hSXzZyNzFWcXhtNHVyXzFlZkRvZUZoMHEtc0Qta2JSTFdrczJtNmFLYmFpdw?oc=5",
+      "publishedAt": "2022-11-08T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMickFVX3lxTFBRZDZmTUc5b0h1cXNIVHRGTVRpSEx1aXoyLUVDZWF3VGJ2OXVYVXo0QmVOQ1MySTFXYmMzUXhFclM3QmNiY3hSXzZyNzFWcXhtNHVyXzFlZkRvZUZoMHEtc0Qta2JSTFdrczJtNmFLYmFpdw",
+      "summary": "【要約】\n男性育休取得において、管理職が部下の希望を尊重したい意向と業務運営の現実との間で板挟みになっている状況が示されています。管理職への支援体制の整備や業務分担の見直しなど、組織的な対応策の検討が必要です。\n\n(102文字)",
+      "summarizedAt": "2026-09-19T22:13:35.349Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMia0FVX3lxTE5xRmVTTElxTktRV09URWVKSjF1VklPQng1Y2h0SmJEWC00b0VWczRVemE1ZlZJenJUVjREZFJ4VlYyZEs2NFpPLXFiZ1pjcklONUg3R24yNEVvLThGTHIyT19BaEJDdmRtUS0w",
       "source": "rosei_news",
       "title": "雇用調整助成金における 新型コロナウイルス感染症の 特例措置",
@@ -8593,6 +9014,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9rbDJCSDcyNllTSktXUWNSNjhOYmNucm05enFIbHZyOUtUQ1hvUWI1SWc2eFJMbnFyWm9GV2o4NFJvVVRxMVI3aGtlY0locTdDYS03aQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiX0FVX3lxTFBQbXV4clJ6cGRPN3pEc2lZZWJwVFRzM1pNejRQWTV0TEQ0bG1Qd2NacFJWS2pjT1ZuV2pIb1dRTlFsRU1MNURjaFFDTlo4Rk9ZbTNNbU1SUHEtN3l4VjNB",
+      "source": "nikkei_news",
+      "title": "女性活躍推進を阻む ハラスメントの罠",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQbXV4clJ6cGRPN3pEc2lZZWJwVFRzM1pNejRQWTV0TEQ0bG1Qd2NacFJWS2pjT1ZuV2pIb1dRTlFsRU1MNURjaFFDTlo4Rk9ZbTNNbU1SUHEtN3l4VjNB?oc=5",
+      "publishedAt": "2022-05-27T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiX0FVX3lxTFBQbXV4clJ6cGRPN3pEc2lZZWJwVFRzM1pNejRQWTV0TEQ0bG1Qd2NacFJWS2pjT1ZuV2pIb1dRTlFsRU1MNURjaFFDTlo4Rk9ZbTNNbU1SUHEtN3l4VjNB",
+      "summary": "# 要約\n\n女性活躍推進の取り組みにおいて、ハラスメントが阻害要因となっている実態が指摘されています。人事・労務担当者は、女性登用とハラスメント防止策を一体的に進める必要があります。\n\n(90字)",
+      "summarizedAt": "2026-09-19T22:13:26.260Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE81YVlXUDBVSHBuOUloUVJONFpBTVE3RDFQTmZtSndpdktUYkNacXd6eU1vWlhqeU1qLVRoVExzWllubHh6eVpnQkVxVzdTTHJ3ZFgxRQ",
@@ -8987,6 +9422,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMia0FVX3lxTE8zSEdGeFJwQ0k5OWNIajJCWGZiT2JuT1NiLWNJMzNXandha2xzWmQxSVZVd19FeU1XWENLUzhISjc4b2hPdC1tU1NzTWNpUU1PMEhuMHFzMkFXMHhTVGk2aE9tZFREajBhSm1R",
+      "source": "nikkei_news",
+      "title": "男性育休の取得率が50％超え 岐阜県庁の秘密",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zSEdGeFJwQ0k5OWNIajJCWGZiT2JuT1NiLWNJMzNXandha2xzWmQxSVZVd19FeU1XWENLUzhISjc4b2hPdC1tU1NzTWNpUU1PMEhuMHFzMkFXMHhTVGk2aE9tZFREajBhSm1R?oc=5",
+      "publishedAt": "2021-04-07T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMia0FVX3lxTE8zSEdGeFJwQ0k5OWNIajJCWGZiT2JuT1NiLWNJMzNXandha2xzWmQxSVZVd19FeU1XWENLUzhISjc4b2hPdC1tU1NzTWNpUU1PMEhuMHFzMkFXMHhTVGk2aE9tZFREajBhSm1R",
+      "summary": "【要約】\n岐阜県庁では男性職員の育児休業取得率が50％を超える水準に達しています。人事・労務担当者は、高取得率を実現した同県の取り組み内容を参考に、自組織の男性育休促進施策の見直しを検討することが推奨されます。",
+      "summarizedAt": "2026-09-19T22:13:20.633Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9WVFZZemZ6NEw0WXI4UEwwc180RlpNNlR3MWVSUkhZQjVCUndHTF9uLW9OQTFGVTUzT0g0VWxmTkhlN2ZhTkt2Z2tWaDVoMVo3MWhNQw",
       "source": "rosei_news",
       "title": "育休促進に「男性版産休」 取得働き掛け企業の義務 政府、改正案を閣議決定",
@@ -9184,6 +9633,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMickFVX3lxTE5tSGVJV2NRWFcxNnB3THoxdFRMcDFKUVhtSV9yc181Ti0zOERhMFU2U3ZndVUxR3JiRjZOUDN0WWF0aUZSRHVmMlIwMzZacDhuNk9CLVBxcGNCekwzQmFPM01XQUF6SUR4MjFpNkZKU3VMQQ",
+      "source": "nikkei_news",
+      "title": "ママの輪入れた、ずっと家しんどい 育休男性が座談会",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSGVJV2NRWFcxNnB3THoxdFRMcDFKUVhtSV9yc181Ti0zOERhMFU2U3ZndVUxR3JiRjZOUDN0WWF0aUZSRHVmMlIwMzZacDhuNk9CLVBxcGNCekwzQmFPM01XQUF6SUR4MjFpNkZKU3VMQQ?oc=5",
+      "publishedAt": "2019-08-06T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMickFVX3lxTE5tSGVJV2NRWFcxNnB3THoxdFRMcDFKUVhtSV9yc181Ti0zOERhMFU2U3ZndVUxR3JiRjZOUDN0WWF0aUZSRHVmMlIwMzZacDhuNk9CLVBxcGNCekwzQmFPM01XQUF6SUR4MjFpNkZKU3VMQQ",
+      "summary": "この見出しのみからは労働法制の具体的な変更点や企業の対応義務は読み取れませんが、男性育休取得者が座談会で「ママの輪」への参加や在宅での孤立感について語った事例として、男性育休者への支援体制や復帰後のフォロー施策を検討する際の参考情報となります。",
+      "summarizedAt": "2026-09-19T22:13:39.017Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5vRXg5Z0hNUGpiSE9JT0xOTzhoa0doSFFJTEhDRmhOOGFzSDJ1VGZWT0JkQjRBdFh2UzZ6em1xUjVIQm15RkFZYVZGRlhtbi05Q0h3RA",
       "source": "rosei_news",
       "title": "第133回 長嶺超輝 ―人事労務に関わる社会人なら知っておきたい、労働判例の「味わい方」",
@@ -9265,6 +9728,20 @@
       "summary": "労働問題研究会等から出版された書籍『パワーハラスメント〈第2版〉』の紹介です。パワハラ防止法施行後の最新動向や実務対応を学ぶ参考資料として活用できます。",
       "summarizedAt": "2026-09-06T22:13:09.926Z",
       "storyId": "rosei:CBMiVEFVX3lxTFBYdUN4UF84d2pPa0JpQnJ4TG9neXF0N0pNNWNjLVBabFhmSHdyeFVnYUNjYmFzeU1sQVlrS21naGVlSUJ0d0MyRi16dHZBcGdtaHdhNw",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMickFVX3lxTFA3MTlOVS1OWXJINkEzYmlhTElPYW9lRXVzZnFUMHlSZ3VTbHowZTFCN0wwT0FGNUJkNEVkQ1Z5YjVuRlZ4SkIySURoZ3F0a0NWWVV1eV9QS0VfUGo0U3NieHlDRThfN1dmYV80NHczNWJhUQ",
+      "source": "nikkei_news",
+      "title": "回答率99% サイバーの社員調査はハラスメント防ぐ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MTlOVS1OWXJINkEzYmlhTElPYW9lRXVzZnFUMHlSZ3VTbHowZTFCN0wwT0FGNUJkNEVkQ1Z5YjVuRlZ4SkIySURoZ3F0a0NWWVV1eV9QS0VfUGo0U3NieHlDRThfN1dmYV80NHczNWJhUQ?oc=5",
+      "publishedAt": "2018-12-05T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMickFVX3lxTFA3MTlOVS1OWXJINkEzYmlhTElPYW9lRXVzZnFUMHlSZ3VTbHowZTFCN0wwT0FGNUJkNEVkQ1Z5YjVuRlZ4SkIySURoZ3F0a0NWWVV1eV9QS0VfUGo0U3NieHlDRThfN1dmYV80NHczNWJhUQ",
+      "summary": "サイバーエージェントが高い回答率(99%)を達成する社員調査を実施し、その結果をハラスメント防止に活用している事例が紹介されています。人事担当者は、効果的な社員調査の設計・運用方法の参考として注目すべき取り組みです。",
+      "summarizedAt": "2026-09-19T22:13:23.796Z",
       "isGuideline": false
     },
     {
@@ -9366,6 +9843,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMib0FVX3lxTFBlanprTzZqZm5PUWJfS0d3M3hYXzdLV29kV21ueWp5clhCNHpQUllOQVJ0dUZDSzRMenNEWkUyblJodUlWVE4tVTNoVUhaT3BHX0ZjNWdVOTNSb0NneGdNcTYzbmFFaG5sOW9qMkxyMA",
+      "source": "nikkei_news",
+      "title": "労働組合がある職場とない職場、何が違うの？",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlanprTzZqZm5PUWJfS0d3M3hYXzdLV29kV21ueWp5clhCNHpQUllOQVJ0dUZDSzRMenNEWkUyblJodUlWVE4tVTNoVUhaT3BHX0ZjNWdVOTNSb0NneGdNcTYzbmFFaG5sOW9qMkxyMA?oc=5",
+      "publishedAt": "2016-07-04T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMib0FVX3lxTFBlanprTzZqZm5PUWJfS0d3M3hYXzdLV29kV21ueWp5clhCNHpQUllOQVJ0dUZDSzRMenNEWkUyblJodUlWVE4tVTNoVUhaT3BHX0ZjNWdVOTNSb0NneGdNcTYzbmFFaG5sOW9qMkxyMA",
+      "summary": "【要約】\n労働組合の有無による職場の違いについて解説した記事です。人事・労務担当者は、組合の有無が賃金交渉や労働条件決定のプロセスに与える影響を理解し、自社の労使関係の特性を踏まえた適切な対応が求められます。\n\n（99文字）",
+      "summarizedAt": "2026-09-19T22:14:05.733Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBmUUtTaFVPNXloNWZTdE5iRERRX1laR2VXWFJGZC1qSHJFMHNzMjliS0VBSV9MSGdHMGxiV3JBY21LOXlOVHpManU1NmptMWVUeVNxdA",
       "source": "rosei_news",
       "title": "第11回 賃金台帳の整備と年次有給休暇の管理",
@@ -9377,6 +9868,20 @@
       "summary": "【要約】\n賃金台帳は労働基準法により記載事項が定められており正確な整備が必要です。また年次有給休暇は取得日数・残日数を適切に管理し、年5日取得義務の履行状況を把握できる体制を整えることが求められます。\n\n(94字)",
       "summarizedAt": "2026-09-02T22:14:19.695Z",
       "storyId": "rosei:CBMiVEFVX3lxTFBmUUtTaFVPNXloNWZTdE5iRERRX1laR2VXWFJGZC1qSHJFMHNzMjliS0VBSV9MSGdHMGxiV3JBY21LOXlOVHpManU1NmptMWVUeVNxdA",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTE01bUg3Uk4zU203MUg3NWt6TWxfMVVEa1VtV0ZJNWlJREd6X0E2dTlidHVmcHZ1Q2paMkFpdHZneXhJMHdzTW1odk9zQVZ4WlA5Um4yY0hiYUQybk5WeWN5SXFZZ0pTQVVpWEZ6ZXJRdjA",
+      "source": "nikkei_news",
+      "title": "「残業代至上主義」が阻む多様な働き方",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01bUg3Uk4zU203MUg3NWt6TWxfMVVEa1VtV0ZJNWlJREd6X0E2dTlidHVmcHZ1Q2paMkFpdHZneXhJMHdzTW1odk9zQVZ4WlA5Um4yY0hiYUQybk5WeWN5SXFZZ0pTQVVpWEZ6ZXJRdjA?oc=5",
+      "publishedAt": "2015-06-02T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-19T22:12:33.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE01bUg3Uk4zU203MUg3NWt6TWxfMVVEa1VtV0ZJNWlJREd6X0E2dTlidHVmcHZ1Q2paMkFpdHZneXhJMHdzTW1odk9zQVZ4WlA5Um4yY0hiYUQybk5WeWN5SXFZZ0pTQVVpWEZ6ZXJRdjA",
+      "summary": "# 要約\n\n「残業代至上主義」が多様な働き方の実現を妨げているという指摘がなされています。人事担当者は、残業代に依存しない評価・報酬制度の見直しや、柔軟な働き方を可能にする制度設計の検討が求められる可能性があります。\n\n(99文字)",
+      "summarizedAt": "2026-09-19T22:13:44.357Z",
       "isGuideline": false
     },
     {
