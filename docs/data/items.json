@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:14:28.484Z",
+  "updatedAt": "2026-09-20T22:13:04.453Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE45ZWVKWGJnRklyTEpTZ0RscDBhZ0tYZDhLV2RvLTFYRVkxMkxjdV9MWXhILXB4UDFGTnRqbVBiSEh1VXRMeC1vbl82Y09Kak05VV9YLWJUR3BmZFVRbmNlU1dOX0hfWkpXNXlRcg",
@@ -5230,6 +5230,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE1Cb1pHQ21hN1dZc3NpUWphaDBCeVBzSzktaEZfRW1CSHF2VmdicUM4M09zRlFCbVBPUnRxUU00RFJLd2VMWFV2VjNmVVhmT2dVNHY5QVdEclh3U2tkUnEwb3V4UVNfcHRia0dqZw",
+      "source": "nikkei_news",
+      "title": "決算:自転車のあさひ、3〜5月税引き利益8%減 賃上げで人件費増える",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cb1pHQ21hN1dZc3NpUWphaDBCeVBzSzktaEZfRW1CSHF2VmdicUM4M09zRlFCbVBPUnRxUU00RFJLd2VMWFV2VjNmVVhmT2dVNHY5QVdEclh3U2tkUnEwb3V4UVNfcHRia0dqZw?oc=5",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-20T22:12:48.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1Cb1pHQ21hN1dZc3NpUWphaDBCeVBzSzktaEZfRW1CSHF2VmdicUM4M09zRlFCbVBPUnRxUU00RFJLd2VMWFV2VjNmVVhmT2dVNHY5QVdEclh3U2tkUnEwb3V4UVNfcHRia0dqZw",
+      "summary": "自転車のあさひが2025年3〜5月期決算で税引き利益が8%減少し、賃上げによる人件費増加が収益を圧迫したことが明らかになりました。労務担当者は賃上げが企業業績に与える影響を注視する必要があります。",
+      "summarizedAt": "2026-09-20T22:12:58.596Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE53Yy1MRUd4MkFDdEtRQ3c1SFE4SzNXcklMTlU4VEpZVFg3T09NeUl4bnJvcVM3WlhZc1pGZEg3MVpUVDhZVWJWUi1STEJXNmNvMmpmag",
       "source": "rosei_news",
       "title": "中小賃上げ率４・２９％ 日商調査、前年から微増",
@@ -5929,6 +5943,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5wWUNheTJLeWpPSkRRUlRnSUpPbFlHVWZ1bEdNSDY1cFdOWWIzNy1tejgzd2lNWkFSalQ0b1Nfb25pWFNreml5OE4yejBSX21SRmNSRQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1EdzFrRjFzMDJxNDk3eDRjdHJudk5MSmY5bldtN1BaY0ltRFduZEFsZElmT0NWcmdXeU83M25HSlZRR05GdzFQN3FLa1FBQW5icjQzN3NVdktIXzB1R2tQaGF5dWFtelFpXzJEOQ",
+      "source": "nikkei_news",
+      "title": "JR連合会長｢柔軟な運賃改定を｣ 賃上げ原資の確保求める",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdzFrRjFzMDJxNDk3eDRjdHJudk5MSmY5bldtN1BaY0ltRFduZEFsZElmT0NWcmdXeU83M25HSlZRR05GdzFQN3FLa1FBQW5icjQzN3NVdktIXzB1R2tQaGF5dWFtelFpXzJEOQ?oc=5",
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-20T22:12:48.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1EdzFrRjFzMDJxNDk3eDRjdHJudk5MSmY5bldtN1BaY0ltRFduZEFsZElmT0NWcmdXeU83M25HSlZRR05GdzFQN3FLa1FBQW5icjQzN3NVdktIXzB1R2tQaGF5dWFtelFpXzJEOQ",
+      "summary": "JR連合の会長が、賃上げの原資を確保するため、柔軟な運賃改定の実施を求める方針を示しました。鉄道業界における今後の賃上げ動向と運賃政策の関連性に注目が必要です。",
+      "summarizedAt": "2026-09-20T22:13:04.451Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5RdjVBWFNxYVJtMi16UGxBMG1nOUJFT2pQb1pmT2RDVkZ0YjZ4S05selVUZjAzVjVYZHVsR0NNNE93NUJGUmt4dUJuWmU1THZhU3p3SQ",
@@ -9377,6 +9405,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE8wRUFCTmwtbmlmQVRnbWJIMzNYaUpaeEJfM2gxNkdzZVo2RG5COEJKNjNOa3JpZFRzUy1CWW1kbnloS0RuQ1Q3YVJJdkdIbnAwWTBIOA",
       "summary": "最低賃金の引き上げ幅をめぐり中央最低賃金審議会で労使の意見に隔たりがあり、7月中旬の答申に向けて議論が続いています。答申後は各都道府県で地域別最低賃金額が決定されるため、人事担当者は賃金改定の準備を進める必要があります。",
       "summarizedAt": "2026-09-15T22:14:43.941Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiYkFVX3lxTE9ZdXlFV1pOa2UxbUNsZ2hMOHFKaFlKWGNSS3B4V0p1ZkJiSU95TnBlNzJoQXVZdXVDM2xjOFZOdmRhanIyYUJWZlZBemRhckNVMWkwNHloaTBYNmN4d0NmM2pB",
+      "source": "nikkei_news",
+      "title": "東芝子会社で突然の左遷、絶望の労働組合 寄る辺なき会社員の闘争",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdXlFV1pOa2UxbUNsZ2hMOHFKaFlKWGNSS3B4V0p1ZkJiSU95TnBlNzJoQXVZdXVDM2xjOFZOdmRhanIyYUJWZlZBemRhckNVMWkwNHloaTBYNmN4d0NmM2pB?oc=5",
+      "publishedAt": "2021-06-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-20T22:12:48.451Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiYkFVX3lxTE9ZdXlFV1pOa2UxbUNsZ2hMOHFKaFlKWGNSS3B4V0p1ZkJiSU95TnBlNzJoQXVZdXVDM2xjOFZOdmRhanIyYUJWZlZBemRhckNVMWkwNHloaTBYNmN4d0NmM2pB",
+      "summary": "【要約】\n東芝子会社において突然の左遷が発生し、労働組合が十分に機能しない状況で労働者が孤立している事例が報じられました。企業は配置転換時の手続きの適正性確保と、組合機能の実効性を再確認する必要があります。\n\n(99字)",
+      "summarizedAt": "2026-09-20T22:13:01.889Z",
       "isGuideline": false
     },
     {
