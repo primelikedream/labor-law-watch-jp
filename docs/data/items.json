@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-20T22:13:04.453Z",
+  "updatedAt": "2026-09-22T00:39:45.046Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ",
+      "source": "nikkei_news",
+      "title": "事業に生きる障害者雇用 伊藤努氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ?oc=5",
+      "publishedAt": "2026-09-21T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-22T00:39:19.702Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ",
+      "summary": "綜合キャリアトラスト代表取締役の伊藤努氏が、障害者雇用を単なる法定雇用率の達成手段ではなく、事業活動に実質的に貢献する戦力として位置づける考え方について論じています。人事担当者は障害者雇用を事業戦略の一環として捉え直すことが求められます。",
+      "summarizedAt": "2026-09-22T00:39:31.622Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE42OVZNay1Dc2ZxeE43Y1JuaGljNzFyeEd1THRuUldoM0h5Rl9rVExaV05odThFbHR6ZkxQRHpNdmNSWlZuajJzQnVJaDR2WDRWV0JIeWI5UTBiT2phelRmUGwySmo3eXhScUhEaQ",
+      "source": "nikkei_news",
+      "title": "事業に生きる障害者雇用 綜合キャリアトラスト 代表取締役 伊藤努",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42OVZNay1Dc2ZxeE43Y1JuaGljNzFyeEd1THRuUldoM0h5Rl9rVExaV05odThFbHR6ZkxQRHpNdmNSWlZuajJzQnVJaDR2WDRWV0JIeWI5UTBiT2phelRmUGwySmo3eXhScUhEaQ?oc=5",
+      "publishedAt": "2026-09-21T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-22T00:39:19.702Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ",
+      "summary": "【障害者雇用の実践事例】綜合キャリアトラストの伊藤努代表取締役が、障害者雇用を単なる法定雇用率の達成手段ではなく事業活動に活かす取り組みについて紹介しています。人事担当者は障害者雇用の戦略的活用の参考として確認すべき内容です。",
+      "summarizedAt": "2026-09-22T00:39:34.831Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAzdXJrSDhobHI1emlqU0xuN3UxWjgzMDNtOERrYW1VSWtNQjZwWnI2TUQ3TENHVVlvemF0djZBT2NFME5EZ2RORXptY0ZtMEpUNXFuUVB1Rl9BOGVzUnlnNWF2eld4d1FTZkoxRQ",
+      "source": "nikkei_news",
+      "title": "ディスコ社長が語る働き方「明るく・楽しく・全力で」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdXJrSDhobHI1emlqU0xuN3UxWjgzMDNtOERrYW1VSWtNQjZwWnI2TUQ3TENHVVlvemF0djZBT2NFME5EZ2RORXptY0ZtMEpUNXFuUVB1Rl9BOGVzUnlnNWF2eld4d1FTZkoxRQ?oc=5",
+      "publishedAt": "2026-09-20T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-22T00:39:19.702Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFAzdXJrSDhobHI1emlqU0xuN3UxWjgzMDNtOERrYW1VSWtNQjZwWnI2TUQ3TENHVVlvemF0djZBT2NFME5EZ2RORXptY0ZtMEpUNXFuUVB1Rl9BOGVzUnlnNWF2eld4d1FTZkoxRQ",
+      "summary": "ディスコ社長が自社の働き方理念として「明るく・楽しく・全力で」を掲げていることを紹介した記事です。労務担当者は、他社の働き方改革や企業文化づくりの参考事例として留意する価値があります。",
+      "summarizedAt": "2026-09-22T00:39:37.144Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE45ZWVKWGJnRklyTEpTZ0RscDBhZ0tYZDhLV2RvLTFYRVkxMkxjdV9MWXhILXB4UDFGTnRqbVBiSEh1VXRMeC1vbl82Y09Kak05VV9YLWJUR3BmZFVRbmNlU1dOX0hfWkpXNXlRcg",
       "source": "nikkei_news",
@@ -7194,6 +7236,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiW0FVX3lxTE9nd0plSmZBS29tbkFfMlZCVUcwYlFaTFhwVTUyVHlUMml4bmRHQzF5SmVadlBWTGttdWJMMTlWM0Z6NVVpZHI5YjNWNlNyMk1XeFZJQjhEUGtCaW8",
+      "source": "nikkei_news",
+      "title": "三井住友銀行、25年度8%程度賃上げへ 3年連続ベアも",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nd0plSmZBS29tbkFfMlZCVUcwYlFaTFhwVTUyVHlUMml4bmRHQzF5SmVadlBWTGttdWJMMTlWM0Z6NVVpZHI5YjNWNlNyMk1XeFZJQjhEUGtCaW8?oc=5",
+      "publishedAt": "2025-02-28T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-22T00:39:19.702Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiW0FVX3lxTE9nd0plSmZBS29tbkFfMlZCVUcwYlFaTFhwVTUyVHlUMml4bmRHQzF5SmVadlBWTGttdWJMMTlWM0Z6NVVpZHI5YjNWNlNyMk1XeFZJQjhEUGtCaW8",
+      "summary": "三井住友銀行が2025年度に約8%の賃上げを実施する方針で、3年連続のベースアップも予定しています。他業界でも賃上げ機運が高まる中、自社の賃金水準や昇給施策の見直し検討が必要です。",
+      "summarizedAt": "2026-09-22T00:39:42.395Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE96dndWUGcycDJEZHR0N0RsS0Jib3plRXlpWTlXbVNzMFNwamt5RnRsWXpqZTk5SXJLYXoyNjRXR1dPZ1ptTDdQQkJYNGZkOUU5dWJrRw",
       "source": "rosei_news",
       "title": "第23回 二つのデータから分かる外国人労働者の実態と、その戦力化に必要なこと",
@@ -9955,6 +10011,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMidEFVX3lxTE1uMldGWHQ4aFFqT0VOUkR4N2tXNzZkUGNmM250cm8zSXc3Zml1eTFaQkdrdkxtcndlSGtCbERta2J1SnItLWZYc242eVVsV3MwbFFaT090azFtaTZsblVISFJraUVNVmROS1p1c0JXVWhFSmRw",
+      "source": "nikkei_news",
+      "title": "労働組合の職人派遣事業が注目",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMldGWHQ4aFFqT0VOUkR4N2tXNzZkUGNmM250cm8zSXc3Zml1eTFaQkdrdkxtcndlSGtCbERta2J1SnItLWZYc242eVVsV3MwbFFaT090azFtaTZsblVISFJraUVNVmROS1p1c0JXVWhFSmRw?oc=5",
+      "publishedAt": "2014-07-22T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-22T00:39:19.702Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMidEFVX3lxTE1uMldGWHQ4aFFqT0VOUkR4N2tXNzZkUGNmM250cm8zSXc3Zml1eTFaQkdrdkxtcndlSGtCbERta2J1SnItLWZYc242eVVsV3MwbFFaT090azFtaTZsblVISFJraUVNVmROS1p1c0JXVWhFSmRw",
+      "summary": "# 要約\n\n労働組合による職人派遣事業が注目を集めています。人事・労務担当者は、専門技能を持つ人材の確保手段として、労働組合が運営する派遣事業の活用可能性を検討する価値があります。\n\n(80字)",
+      "summarizedAt": "2026-09-22T00:39:39.511Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1odTJreGRoQmxDWm55SUlaSVRaS2FkQml3TUVTQlhJZ0xIa3VGUjN0WjQ5YmdkdlZDVUpIenJSWWljbU9FNUVSdkphV1UwYnlzVHc5ZQ",
       "source": "rosei_news",
       "title": "第12回 金田宏之 ―人と組織の成長の観点から「これからの賃上げ」を考える",
@@ -9995,6 +10065,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9kR3diQ3UxMTFnLWQ2NVMyU09JdDFjbTZQMFlRMEhTbnB0Z2U1WHYyeWE5d1dIN3kwX2V1eVBoTE9YbWRaalVvTkJMcjk1TVJXUjdYTA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9zd01CWktmOWVlNURwS2tCcnNLRkhVUlRJWlR2bExXSnlNSU9MNU9JTWhyQmxYSDlVcHlLb2pQUDNTcUdTMEE0Z0x3Zml1RXJQZVZaMA",
+      "source": "rosei_news",
+      "title": "「労政時報」調査速報 - 【速報】13年賃上げ見通し―労使とも定昇込みで約1.6％と予測",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zd01CWktmOWVlNURwS2tCcnNLRkhVUlRJWlR2bExXSnlNSU9MNU9JTWhyQmxYSDlVcHlLb2pQUDNTcUdTMEE0Z0x3Zml1RXJQZVZaMA?oc=5",
+      "publishedAt": "2013-01-28T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-22T00:39:19.703Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9zd01CWktmOWVlNURwS2tCcnNLRkhVUlRJWlR2bExXSnlNSU9MNU9JTWhyQmxYSDlVcHlLb2pQUDNTcUdTMEE0Z0x3Zml1RXJQZVZaMA",
+      "summary": "2013年の賃上げについて、労使双方が定期昇給を含めて約1.6％の上昇を予測していることが調査で明らかになりました。人事・労務担当者は、この水準を参考に自社の賃金改定方針の検討を進める必要があります。",
+      "summarizedAt": "2026-09-22T00:39:45.043Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE43R1BxenA2ekU5eHI3OVAwaXZaVHdNQU5vdlQ5aUxoanVsQkhDaTY4ZjFfY2hjQi1RazhmVUh2UGVGN1M0VnFvWmRTVUtxb2tkMHJRbg",
