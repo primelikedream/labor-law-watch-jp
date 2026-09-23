@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:39:45.046Z",
+  "updatedAt": "2026-09-23T00:09:38.090Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ",
@@ -581,6 +581,20 @@
       "storyId": "nikkei:CBMiZ0FVX3lxTE02Zl9DUXNWU01hbWRLcEM3VjliLXpxTU1fRWtQcng3MG1HUXBBZkpDMzc1bHJ2TVZEWXdMeEV1UmdNZFFEcVNlczFPWXlRWHlUdnVLY0U4OVgxLWZLRFhYeUpGVW9KQUk",
       "summary": "所定労働時間が8時間未満の場合、法定労働時間(8時間)までの残業は「法定内残業」、8時間超は「法定外残業」となり、前者は通常の割増率、後者は法定割増率(25%以上)が適用されるため、残業手当の単価が2種類発生します。",
       "summarizedAt": "2026-09-15T22:14:20.793Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBSZzg3TjRLUHpNTDkyd2pDbjJwS2kyTi15QmptRVdaanZvaThUSzdWMVRlaE5jYmFyTXQ4bDU4VnZDNnc4Szc3Wi1tX29EenhGMTRqVnN6M0lqS2hzeXE4R29yT3JWMm16NU5Fcg",
+      "source": "nikkei_news",
+      "title": "単価が違う2種類の残業手当？ 所定労働時間が8時間未満になったエンジニア（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZzg3TjRLUHpNTDkyd2pDbjJwS2kyTi15QmptRVdaanZvaThUSzdWMVRlaE5jYmFyTXQ4bDU4VnZDNnc4Szc3Wi1tX29EenhGMTRqVnN6M0lqS2hzeXE4R29yT3JWMm16NU5Fcg?oc=5",
+      "publishedAt": "2026-09-15T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBSZzg3TjRLUHpNTDkyd2pDbjJwS2kyTi15QmptRVdaanZvaThUSzdWMVRlaE5jYmFyTXQ4bDU4VnZDNnc4Szc3Wi1tX29EenhGMTRqVnN6M0lqS2hzeXE4R29yT3JWMm16NU5Fcg",
+      "summary": "**与えられた情報が見出しのみのため、正確な要約は困難です。**推測される内容は、所定労働時間を8時間未満に設定した場合、法定内残業（8時間まで）と法定外残業（8時間超）で割増率が異なるため、残業手当が2種類発生する可能性がある事例ですが、本文確認が必要です。",
+      "summarizedAt": "2026-09-23T00:09:25.737Z",
       "isGuideline": false
     },
     {
@@ -2179,6 +2193,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMickFVX3lxTFBUVmM0MWMzbXl3aTk3QjNRbTI2NV91dVlMczdhWlhCVkR0WVJXLXpaa3FueW9ndFJVVDlyRVdMdWdGVnc0eTNaRHVCb3pZOXRKdnVkSDVYdWhDSnF5U1VOOVVQeXladGw1TWNfaHIzdDJ3dw",
+      "source": "nikkei_news",
+      "title": "男性育休取得100％・平均取得日数68日につなげた東京ガスの3つの改革 （3ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVmM0MWMzbXl3aTk3QjNRbTI2NV91dVlMczdhWlhCVkR0WVJXLXpaa3FueW9ndFJVVDlyRVdMdWdGVnc0eTNaRHVCb3pZOXRKdnVkSDVYdWhDSnF5U1VOOVVQeXladGw1TWNfaHIzdDJ3dw?oc=5",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMickFVX3lxTFBUVmM0MWMzbXl3aTk3QjNRbTI2NV91dVlMczdhWlhCVkR0WVJXLXpaa3FueW9ndFJVVDlyRVdMdWdGVnc0eTNaRHVCb3pZOXRKdnVkSDVYdWhDSnF5U1VOOVVQeXladGw1TWNfaHIzdDJ3dw",
+      "summary": "【要約】\n東京ガスが男性育休取得率100％・平均68日間を実現した3つの改革事例が紹介されています。人事担当者は同社の具体的な取り組み施策を参考に、自社の男性育休推進策の検討材料とすることが有用です。\n\n（93字）",
+      "summarizedAt": "2026-09-23T00:09:22.137Z",
+      "isGuideline": false
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75762.html",
       "source": "mhlw_news",
       "title": "救急医療功労者及び産科医療功労者厚生労働大臣表彰式を開催します",
@@ -2439,6 +2467,20 @@
       "storyId": "nikkei:CBMiwgFBVV95cUxPQVdQeUxBdjJYTzVTNjFxUWRQa2ZyY0lJN3J4cy1HVVg2TC02aXQwdUEyMUVEdDlzQnQ5SmNibVZtU0ZkbW5pSE9NcGUydG9NS1JNcmQxWHEwMXJEV2Y3bmxqd0swOTEzcWp2SjJrMXZTNFg4TXhoYnRWY01XZ2JyOEZ4V0ZXTVY4Q28zeVZUQldrUjVLVmdGNkJVMkVWYmlpLWFYZUw2cW8zNkpCX0VZZzdQcWxmMjkzRUUtWnM5X3gzdw",
       "summary": "全国建設業労働災害防止大会が新潟で開催されることを伝える見出しですが、本文情報がないため、具体的な内容や労務担当者が対応すべき事項は確認できません。",
       "summarizedAt": "2026-09-16T22:13:53.596Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMi6AFBVV95cUxNT3RGUkZiMFBETmg2Z0FPNmdIdnR2dTl5bzJJSGQtVnpyOHdBclZWOVBZdEsxdm1rN25nNWRnU0luZFpQY01CSEFTd3NyWmxBTTF0anlUM09OOTJpOE5hOERJU2Nld3lFNWVBMkhuRy1uVm9maVNEcGhzTzRINHVHVXYtekRpSWxpT2FRRUxuR1c3dzhxZmYtVmU3X014WWZiWUh6dWM1Q3FxdkFfREdhbFVVTkhyWWhOSnN5SEk5RnR5UWdSQ0l4MjJadk0zb1BoUFRybG5WazlCQTIwY015ZmV3Uzl3Q1VD",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3RGUkZiMFBETmg2Z0FPNmdIdnR2dTl5bzJJSGQtVnpyOHdBclZWOVBZdEsxdm1rN25nNWRnU0luZFpQY01CSEFTd3NyWmxBTTF0anlUM09OOTJpOE5hOERJU2Nld3lFNWVBMkhuRy1uVm9maVNEcGhzTzRINHVHVXYtekRpSWxpT2FRRUxuR1c3dzhxZmYtVmU3X014WWZiWUh6dWM1Q3FxdkFfREdhbFVVTkhyWWhOSnN5SEk5RnR5UWdSQ0l4MjJadk0zb1BoUFRybG5WazlCQTIwY015ZmV3Uzl3Q1VD?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi6AFBVV95cUxNT3RGUkZiMFBETmg2Z0FPNmdIdnR2dTl5bzJJSGQtVnpyOHdBclZWOVBZdEsxdm1rN25nNWRnU0luZFpQY01CSEFTd3NyWmxBTTF0anlUM09OOTJpOE5hOERJU2Nld3lFNWVBMkhuRy1uVm9maVNEcGhzTzRINHVHVXYtekRpSWxpT2FRRUxuR1c3dzhxZmYtVmU3X014WWZiWUh6dWM1Q3FxdkFfREdhbFVVTkhyWWhOSnN5SEk5RnR5UWdSQ0l4MjJadk0zb1BoUFRybG5WazlCQTIwY015ZmV3Uzl3Q1VD",
+      "summary": "【要約】\n全国建設業労働災害防止大会が新潟で開催されます。建設業の労務・人事担当者は、労働災害防止に関する最新の取り組みや安全対策の情報収集の機会として活用できます。\n\n（77字）",
+      "summarizedAt": "2026-09-23T00:09:19.006Z",
       "isGuideline": false
     },
     {
@@ -6547,6 +6589,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiZ0FVX3lxTFAydU5WdEpqYlZGVzJKdmRtWkJxX2lWYi1tVWp0dm55NzRVZEotbG9SbVlTVWJIaktuaWtjRENaZElPLWNxTE9QYWU0SkxiZ1BwRlZ2S3ZZaGsyNHpsS09SLURaa2dEZW8",
+      "source": "nikkei_news",
+      "title": "「合理的な賃上げ」実現へ、3つのデータを集計せよ 平均賃上げ率のわなも",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAydU5WdEpqYlZGVzJKdmRtWkJxX2lWYi1tVWp0dm55NzRVZEotbG9SbVlTVWJIaktuaWtjRENaZElPLWNxTE9QYWU0SkxiZ1BwRlZ2S3ZZaGsyNHpsS09SLURaa2dEZW8?oc=5",
+      "publishedAt": "2025-10-21T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFAydU5WdEpqYlZGVzJKdmRtWkJxX2lWYi1tVWp0dm55NzRVZEotbG9SbVlTVWJIaktuaWtjRENaZElPLWNxTE9QYWU0SkxiZ1BwRlZ2S3ZZaGsyNHpsS09SLURaa2dEZW8",
+      "summary": "【要約】\n合理的な賃上げを実現するには、平均賃上げ率だけでなく3種類のデータを集計・分析する必要があり、人事担当者は平均値に潜むわなに注意しながら多角的なデータ把握が求められます。",
+      "summarizedAt": "2026-09-23T00:09:28.624Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiTkFVX3lxTE5fNWJxbWgtYUZMTnFSaDR0R1hoTks2Wjl0T1dDNlNRZ1V2d0pjallWSEg2akNNa3NZbTBUcDZFMlpzek0tSkVkRlJ1LXc0dw",
       "source": "rosei_news",
       "title": "2026年版 賃金資料シリーズ全4冊セット",
@@ -6656,6 +6712,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE56eFZLWE5jYW5vN1QwUzNWR2VWZWZHMGR2TThncW5yQV9WN3ZubjlYcC1MTVA3aF9wYWJaTE5HRG1yRGlCcENHRF9PNkZDMm5FVFRYLQ",
       "summary": "有期労働契約では契約期間中の一方的な労働条件変更は原則不可能であり、雇止めについては契約更新の実態や期待の有無により解雇権濫用法理が類推適用される場合があるため、慎重な対応が求められます。",
       "summarizedAt": "2026-09-16T22:14:16.312Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBiRGozZnJGandCRXEzUW5lQkIxTUVGRGw3MUNvaHZLZm5ObW1LVUZXTDRwamJyTjBaaFlOOEpkMzRwRGdJcVpwZENzNG5OT2pPakV4TjFlMEd5R3pDdmVCOWtFSkZDMUJha2hQbg",
+      "source": "nikkei_news",
+      "title": "25年度は98％の設計事務所が賃上げ、待遇改善が加速 独自調査で判明",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiRGozZnJGandCRXEzUW5lQkIxTUVGRGw3MUNvaHZLZm5ObW1LVUZXTDRwamJyTjBaaFlOOEpkMzRwRGdJcVpwZENzNG5OT2pPakV4TjFlMEd5R3pDdmVCOWtFSkZDMUJha2hQbg?oc=5",
+      "publishedAt": "2025-09-16T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBiRGozZnJGandCRXEzUW5lQkIxTUVGRGw3MUNvaHZLZm5ObW1LVUZXTDRwamJyTjBaaFlOOEpkMzRwRGdJcVpwZENzNG5OT2pPakV4TjFlMEd5R3pDdmVCOWtFSkZDMUJha2hQbg",
+      "summary": "2025年度は設計事務所の98%が賃上げを実施する見通しで、業界全体で待遇改善の動きが加速していることが独自調査で明らかになりました。人材確保・定着のため、同業他社の動向を注視し自社の賃金水準を見直す必要があります。",
+      "summarizedAt": "2026-09-23T00:09:34.382Z",
       "isGuideline": false
     },
     {
@@ -8568,6 +8638,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE0xcjk2cEYxejlTYjJnRHljQ2JJd1RBa01QZzlUODlvN0xZd0p6YXlrTGtjLUExeDRNazh2N2ZWQzEtcHBfRUdlcGJXbmh4RXg0cVhXcg",
+      "source": "rosei_news",
+      "title": "長時間労働で脳出血と認定 ＮＥＣ支店長側、逆転勝訴",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xcjk2cEYxejlTYjJnRHljQ2JJd1RBa01QZzlUODlvN0xZd0p6YXlrTGtjLUExeDRNazh2N2ZWQzEtcHBfRUdlcGJXbmh4RXg0cVhXcg?oc=5",
+      "publishedAt": "2023-09-26T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-23T00:09:06.780Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE0xcjk2cEYxejlTYjJnRHljQ2JJd1RBa01QZzlUODlvN0xZd0p6YXlrTGtjLUExeDRNazh2N2ZWQzEtcHBfRUdlcGJXbmh4RXg0cVhXcg",
+      "summary": "NECの支店長が長時間労働により脳出血を発症した事案について、労災認定を求めた訴訟で支店長側が逆転勝訴しました。管理職の長時間労働と脳・心臓疾患の因果関係が司法判断で認められたため、企業は管理職を含む労働時間管理の徹底が必要です。",
+      "summarizedAt": "2026-09-23T00:09:38.088Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMia0FVX3lxTE44M2ZQRGZFb0MycHZjaE52eG90UWVIZUdRNTl0R0xScTM5VUF6ZEJSeThnYklHYThQZ0xTNks2dDlfcHctZHVoaFp6bnlhU2U4bmZmVVVGOGhHMGRpdURycjBTOTdfMU1fdGQ0",
       "source": "nikkei_news",
       "title": "入社後もカバーするOpenWork ジョブ型雇用は線のデータが重要 （2ページ目）",
@@ -9925,6 +10009,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBBNlNEaDJmVWw1ZjdYUjBkOU8wamxCemxXNFRtVHBZcEtvdGJGaENUZGhIQjZ4ZWF6UmxDZmR2S0g0amdxeC1oNTVCYlFFZFhTNV9wbA",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1ETU5sdXYwNFN2b3ktemwyWktZZUVQU1NFNm00V3FZVERUbWpmLWtUWWdPbDRwRHMtSWFZZ1V3VmNoUE1GWVNMcUZpck05LU9BNU9kMHhJMDI4Tk80SUkzT2VuMjZVNUxFTTJIRQ",
+      "source": "nikkei_news",
+      "title": "働き方改革、残業時間の上限規制だけでは不十分",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ETU5sdXYwNFN2b3ktemwyWktZZUVQU1NFNm00V3FZVERUbWpmLWtUWWdPbDRwRHMtSWFZZ1V3VmNoUE1GWVNMcUZpck05LU9BNU9kMHhJMDI4Tk80SUkzT2VuMjZVNUxFTTJIRQ?oc=5",
+      "publishedAt": "2017-03-23T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-23T00:09:06.778Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1ETU5sdXYwNFN2b3ktemwyWktZZUVQU1NFNm00V3FZVERUbWpmLWtUWWdPbDRwRHMtSWFZZ1V3VmNoUE1GWVNMcUZpck05LU9BNU9kMHhJMDI4Tk80SUkzT2VuMjZVNUxFTTJIRQ",
+      "summary": "【要約】\n働き方改革において残業時間の上限規制のみでは不十分との指摘があり、人事労務担当者は上限規制の遵守に加えて、業務効率化や労働環境の総合的な改善など、より包括的な施策の検討が求められる。\n\n(99字)",
+      "summarizedAt": "2026-09-23T00:09:31.481Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFBmWWFUd1J0RzRuaXFZRzdXcGh3OEZ0N0tlS0EwZEZnMno3MVlJekhncUFQOThpWUdwcnlQVFlsRF9GMXVOdHJLc1NYdHlmSWoxZl96MA",
