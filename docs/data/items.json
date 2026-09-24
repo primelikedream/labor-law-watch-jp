@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-23T00:09:38.090Z",
+  "updatedAt": "2026-09-24T00:18:50.719Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76296.html",
+      "source": "mhlw_news",
+      "title": "「第58回労働政策審議会」を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76296.html",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-24T00:18:26.724Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76296.html",
+      "summary": "厚生労働省が第58回労働政策審議会を開催します。労働政策全般に関する重要事項が審議される見込みのため、労務・人事担当者は今後公表される議事録や資料を確認し、法改正等の動向把握に努める必要があります。",
+      "summarizedAt": "2026-09-24T00:18:37.221Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5neENjV3QwT1JrRGlyckUwYWJ2WUt2Z2RFc3cteWJpU3FTN2xiTWNFRDRWcm1EQ3BYbGRwMURuTjFXWURGTFR6c2xkbWpVVV9xekRXY21OYUFMZGxYazRleTZ3cnRkZFNIZlRBWQ",
+      "source": "nikkei_news",
+      "title": "企業年金連合会の理事長「賃金･物価高､企業は年金増額を真剣に検討」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5neENjV3QwT1JrRGlyckUwYWJ2WUt2Z2RFc3cteWJpU3FTN2xiTWNFRDRWcm1EQ3BYbGRwMURuTjFXWURGTFR6c2xkbWpVVV9xekRXY21OYUFMZGxYazRleTZ3cnRkZFNIZlRBWQ?oc=5",
+      "publishedAt": "2026-09-23T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-24T00:18:26.157Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5neENjV3QwT1JrRGlyckUwYWJ2WUt2Z2RFc3cteWJpU3FTN2xiTWNFRDRWcm1EQ3BYbGRwMURuTjFXWURGTFR6c2xkbWpVVV9xekRXY21OYUFMZGxYazRleTZ3cnRkZFNIZlRBWQ",
+      "summary": "企業年金連合会の理事長が、賃金・物価上昇を踏まえ、企業に対して年金給付額の増額を真剣に検討するよう要請しました。人事・労務担当者は、自社の企業年金制度における給付水準の見直しの必要性を検討する必要があります。",
+      "summarizedAt": "2026-09-24T00:18:40.201Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiYkFVX3lxTE9fenE4cGNHcW05X1BwOTl4dExtdEJOV0tjZlhDOHRPUXdYcDR5dmhxOHBKUm83cElWOTkxeF8xNXdXSXhJYnJaSGJ6SUk0UWZTcVVraW9neG45anRnSENoODBn",
+      "source": "nikkei_news",
+      "title": "日本の労使、鈍い「分配」の議論 横並びと前例踏襲が競争力の足かせに",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fenE4cGNHcW05X1BwOTl4dExtdEJOV0tjZlhDOHRPUXdYcDR5dmhxOHBKUm83cElWOTkxeF8xNXdXSXhJYnJaSGJ6SUk0UWZTcVVraW9neG45anRnSENoODBn?oc=5",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-24T00:18:26.157Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiYkFVX3lxTE9fenE4cGNHcW05X1BwOTl4dExtdEJOV0tjZlhDOHRPUXdYcDR5dmhxOHBKUm83cElWOTkxeF8xNXdXSXhJYnJaSGJ6SUk0UWZTcVVraW9neG45anRnSENoODBn",
+      "summary": "日本企業の労使交渉において、賃上げなどの分配に関する議論が横並び意識や前例踏襲により停滞しており、企業競争力の阻害要因となっている可能性が指摘されています。人事・労務担当者は自社の実態に即した柔軟な労使対話の見直しが求められます。",
+      "summarizedAt": "2026-09-24T00:18:43.506Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9rZGVuWkVCUFBrU2NocFlMZUNyUm9ZQ254eU1nUWFSandRRjF3LTgwS1BhY0Rmb3p2X2NWeEdnak5sWUVOdXlhcFQ3Rk9qZHAweEdwVGVIVzIxMkx3SnNnS3h6WkMxU1ZCdE9uYQ",
       "source": "nikkei_news",
@@ -3034,6 +3076,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE5ZdW5BUTFpMDI0TEh4M2M5ZTBkeFVTeHFzWEZKdmYwSGZOOGtrZWdPTEFTQVlyc29DYTg4clRpTDFKaV9majQ1YWl0a1dOOUwxaWdKMThhM0lGdnpWZHk4eGtnV3Z6TjN2YUlxeA",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMivwFBVV95cUxNRzVFRk44dHI5Z0JhYV9KSFlMQS04OGFwaFJkanpyaE5fNkdFNFB1UXpsTlAxSnMzOFFySHQ4UzQ3Y292UjNUamk5LWRLaVM1NExfZEo3ODQ1N0c5U0s3Y053T2I0ZXRpVHEwV0d3WndFNEdEbWJMRWtzdW5hNzNLUW5RaXJOMDd0c3ZxbnJmc1Z6alphSlMtOXlwZGZLeFl5WGxtZ3N6QkFYNlF0dWVwRWNyZnFGYkhxY0wwVVNvNA",
+      "source": "nikkei_news",
+      "title": "官製賃上げ、建設業の実情",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRzVFRk44dHI5Z0JhYV9KSFlMQS04OGFwaFJkanpyaE5fNkdFNFB1UXpsTlAxSnMzOFFySHQ4UzQ3Y292UjNUamk5LWRLaVM1NExfZEo3ODQ1N0c5U0s3Y053T2I0ZXRpVHEwV0d3WndFNEdEbWJMRWtzdW5hNzNLUW5RaXJOMDd0c3ZxbnJmc1Z6alphSlMtOXlwZGZLeFl5WGxtZ3N6QkFYNlF0dWVwRWNyZnFGYkhxY0wwVVNvNA?oc=5",
+      "publishedAt": "2026-08-28T06:27:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-24T00:18:26.157Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMivwFBVV95cUxNRzVFRk44dHI5Z0JhYV9KSFlMQS04OGFwaFJkanpyaE5fNkdFNFB1UXpsTlAxSnMzOFFySHQ4UzQ3Y292UjNUamk5LWRLaVM1NExfZEo3ODQ1N0c5U0s3Y053T2I0ZXRpVHEwV0d3WndFNEdEbWJMRWtzdW5hNzNLUW5RaXJOMDd0c3ZxbnJmc1Z6alphSlMtOXlwZGZLeFl5WGxtZ3N6QkFYNlF0dWVwRWNyZnFGYkhxY0wwVVNvNA",
+      "summary": "# 要約\n\n建設業界における官製賃上げの実態が報じられています。人事・労務担当者は建設業特有の賃金構造や下請け構造における賃上げの課題を把握し、自社の対応状況を確認することが求められます。\n\n(80字)\n\n---\n\n※本文が入手できないため、見出しから読み取れる範囲での要約となります。具体的な変更点や施策内容は本文をご確認ください。",
+      "summarizedAt": "2026-09-24T00:18:50.716Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1id1h5bXBwVDBFMUFXRHpheWE1YTZoYXpDTEctekJqanRuVXBhTXVpa2JoOUtGdFFGdkU5aTFmaTUzd1c2aFkxT21pd0lpUG9xdVVqZksxODhTWTM3V1RMaC1Hazh5QkY5SnZ4Xw",
@@ -6994,6 +7050,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFAyR3FsU1RaYlZWMTAzUlhzOUJHeTJVZ3pEOVhVU0djTzEwSDFGejJyWldGNkVaR0p0Y2ZhSUs1SkRZT3JyQlVWV3I3WVpreUJ4RnZnUQ",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB2WVNtV1djczhlcWJIVUNwcjZfTy15eFlDMVFRRzFUSTBneWRReVVoN05qVTVOdlJhV3lyVHBXS1BPNzdqSDR4Q21KV2lnWVFRRDY1UnE5Sm9taHBsSXZsSmtqYi1VaDh0ck1ZRQ",
+      "source": "nikkei_news",
+      "title": "地方自治体をむしばむ深刻な人手不足 カネよりヒトが制約に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WVNtV1djczhlcWJIVUNwcjZfTy15eFlDMVFRRzFUSTBneWRReVVoN05qVTVOdlJhV3lyVHBXS1BPNzdqSDR4Q21KV2lnWVFRRDY1UnE5Sm9taHBsSXZsSmtqYi1VaDh0ck1ZRQ?oc=5",
+      "publishedAt": "2025-06-30T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-24T00:18:26.157Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFB2WVNtV1djczhlcWJIVUNwcjZfTy15eFlDMVFRRzFUSTBneWRReVVoN05qVTVOdlJhV3lyVHBXS1BPNzdqSDR4Q21KV2lnWVFRRDY1UnE5Sm9taHBsSXZsSmtqYi1VaDh0ck1ZRQ",
+      "summary": "この見出しのみからは労働関連法制の具体的な改正内容や企業の実務対応は読み取れません。地方自治体の人手不足が深刻化している現状を報じたものと思われますが、民間企業の労務・人事担当者への具体的な影響は不明です。",
+      "summarizedAt": "2026-09-24T00:18:46.406Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE9vUmtPdmZhaFlJOFhkS1pVUjgtcERiSEJ2UDJ4c0VaaHExZExETkI5X21fcXp1X0RmemF0bDcxeU9od1JmbnUyZm1sc0ZialVOV0staw",
