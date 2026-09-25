@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-24T00:18:50.719Z",
+  "updatedAt": "2026-09-25T00:21:55.346Z",
   "items": [
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9kUWQ3OEJXZ3ZRYjBNNTR1U3lsNEJ0bF8xVXJJZ1ZsT09rWUhNMzRSNXR1ejIyRS1TdU94TXk2ZjA2aG1rQkJsMHBSZGVnQlc4bnQ4RQ",
+      "source": "rosei_news",
+      "title": "同種の業務に従事する一般労働者の賃金水準（2027年度適用）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kUWQ3OEJXZ3ZRYjBNNTR1U3lsNEJ0bF8xVXJJZ1ZsT09rWUhNMzRSNXR1ejIyRS1TdU94TXk2ZjA2aG1rQkJsMHBSZGVnQlc4bnQ4RQ?oc=5",
+      "publishedAt": "2026-09-24T20:02:06.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-25T00:21:10.902Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9kUWQ3OEJXZ3ZRYjBNNTR1U3lsNEJ0bF8xVXJJZ1ZsT09rWUhNMzRSNXR1ejIyRS1TdU94TXk2ZjA2aG1rQkJsMHBSZGVnQlc4bnQ4RQ",
+      "summary": "2027年度から適用される同種業務の一般労働者賃金水準が公表されました。派遣労働者の待遇決定において労使協定方式を採用している企業は、この最新データに基づき協定内容や賃金設定の見直しが必要となります。",
+      "summarizedAt": "2026-09-25T00:21:48.950Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76364.html",
+      "source": "mhlw_news",
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76364.html",
+      "publishedAt": "2026-09-24T06:14:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-25T00:21:11.105Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76364.html",
+      "summary": "上野厚生労働大臣による閣議後の記者会見が実施される旨の告知です。労働関連施策に関する方針や最新動向が発表される可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
+      "summarizedAt": "2026-09-25T00:21:21.456Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76251.html",
+      "source": "mhlw_news",
+      "title": "「第94回 労働政策審議会勤労者生活分科会中小企業退職金共済部会」を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76251.html",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-25T00:21:11.105Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76251.html",
+      "summary": "厚生労働省が第94回労働政策審議会勤労者生活分科会中小企業退職金共済部会を開催します。中小企業退職金共済制度に関する審議が行われる見込みですが、具体的な議題は現時点で不明のため、今後の情報公開を注視する必要があります。",
+      "summarizedAt": "2026-09-25T00:21:24.198Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76296.html",
       "source": "mhlw_news",
@@ -30,6 +71,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiZ0FVX3lxTFA3ZEVmaWp2bHZZSTNDNk82cGlqX01XMHg2WnBsM2xBa3hrMGNOYllUanpqNVhKaDM0QmVMM2pDcl9maWhVUG9tajlSenluVW9PXzVWbV9NX3JGbGotb19ONkhXSkt1d3c",
+      "source": "nikkei_news",
+      "title": "難民やシングルマザーに門戸を開く 「インパクト雇用」を企業価値向上に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3ZEVmaWp2bHZZSTNDNk82cGlqX01XMHg2WnBsM2xBa3hrMGNOYllUanpqNVhKaDM0QmVMM2pDcl9maWhVUG9tajlSenluVW9PXzVWbV9NX3JGbGotb19ONkhXSkt1d3c?oc=5",
+      "publishedAt": "2026-09-23T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFA3ZEVmaWp2bHZZSTNDNk82cGlqX01XMHg2WnBsM2xBa3hrMGNOYllUanpqNVhKaDM0QmVMM2pDcl9maWhVUG9tajlSenluVW9PXzVWbV9NX3JGbGotb19ONkhXSkt1d3c",
+      "summary": "企業が難民やシングルマザーなど就労困難者を積極採用する「インパクト雇用」の取り組みが広がりつつあります。人事担当者は、ダイバーシティ推進と企業価値向上の観点から、こうした層への雇用機会拡大を検討する動きとして注目すべきでしょう。",
+      "summarizedAt": "2026-09-25T00:21:27.581Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMiYkFVX3lxTE9fenE4cGNHcW05X1BwOTl4dExtdEJOV0tjZlhDOHRPUXdYcDR5dmhxOHBKUm83cElWOTkxeF8xNXdXSXhJYnJaSGJ6SUk0UWZTcVVraW9neG45anRnSENoODBn",
       "source": "nikkei_news",
       "title": "日本の労使、鈍い「分配」の議論 横並びと前例踏襲が競争力の足かせに",
@@ -41,6 +96,20 @@
       "storyId": "nikkei:CBMiYkFVX3lxTE9fenE4cGNHcW05X1BwOTl4dExtdEJOV0tjZlhDOHRPUXdYcDR5dmhxOHBKUm83cElWOTkxeF8xNXdXSXhJYnJaSGJ6SUk0UWZTcVVraW9neG45anRnSENoODBn",
       "summary": "日本企業の労使交渉において、賃上げなどの分配に関する議論が横並び意識や前例踏襲により停滞しており、企業競争力の阻害要因となっている可能性が指摘されています。人事・労務担当者は自社の実態に即した柔軟な労使対話の見直しが求められます。",
       "summarizedAt": "2026-09-24T00:18:43.506Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBCTVU1R205QWhQVlU3RHdabDl2RmNtOGdOaHFvVW8tU2ZBcnltOGVta1RoZkFBamtYbEpuUVExZkJZOGxTb1R1RXpWSnZBVDRzWExnYTBsdW43UlI1cFFQaVdzVEVHZUE",
+      "source": "nikkei_news",
+      "title": "＜10/13新刊＞『まずはこれだけ！ カスタマーハラスメント対策スタートBOOK』",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCTVU1R205QWhQVlU3RHdabDl2RmNtOGdOaHFvVW8tU2ZBcnltOGVta1RoZkFBamtYbEpuUVExZkJZOGxTb1R1RXpWSnZBVDRzWExnYTBsdW43UlI1cFFQaVdzVEVHZUE?oc=5",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBCTVU1R205QWhQVlU3RHdabDl2RmNtOGdOaHFvVW8tU2ZBcnltOGVta1RoZkFBamtYbEpuUVExZkJZOGxTb1R1RXpWSnZBVDRzWExnYTBsdW43UlI1cFFQaVdzVEVHZUE",
+      "summary": "この情報は新刊書籍の発売告知のみであり、法制度の変更や企業が対応すべき具体的な実務内容は含まれていません。カスハラ対策に関心がある労務・人事担当者向けの参考書籍が発売されたという情報です。",
+      "summarizedAt": "2026-09-25T00:21:33.936Z",
       "isGuideline": false
     },
     {
@@ -428,6 +497,20 @@
       "summary": "労働政策審議会人材開発分科会の監理団体審査部会が第78回会合を開催します。技能実習制度における監理団体の許可等に関する審査が行われる見込みですが、現時点で人事労務担当者の対応事項はありません。",
       "summarizedAt": "2026-09-17T22:13:33.818Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFByZlFwZFg2TDFRLTV0eldJM2hiVUZWS3lhZm4yZlJ3Ml9QR0gwTEc2dVNqTzV6Wm1fcWxUV042VEVaQldWT19JRGhqaUgxYWFpdGlndE15RmRWMm1YM1NCaHlhanh0UF9oRlROLQ",
+      "source": "nikkei_news",
+      "title": "障害者雇用、企業にDEI疲れ？",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZlFwZFg2TDFRLTV0eldJM2hiVUZWS3lhZm4yZlJ3Ml9QR0gwTEc2dVNqTzV6Wm1fcWxUV042VEVaQldWT19JRGhqaUgxYWFpdGlndE15RmRWMm1YM1NCaHlhanh0UF9oRlROLQ?oc=5",
+      "publishedAt": "2026-09-17T04:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFByZlFwZFg2TDFRLTV0eldJM2hiVUZWS3lhZm4yZlJ3Ml9QR0gwTEc2dVNqTzV6Wm1fcWxUV042VEVaQldWT19JRGhqaUgxYWFpdGlndE15RmRWMm1YM1NCaHlhanh0UF9oRlROLQ",
+      "summary": "【要約】\n障害者雇用の推進において、DEI（多様性・公平性・包摂性）への取り組みに企業が負担感を感じている可能性が指摘されています。人事担当者は障害者雇用の実態と課題を再確認し、持続可能な推進体制の構築が求められます。\n\n（118字）",
+      "summarizedAt": "2026-09-25T00:21:30.710Z",
       "isGuideline": false
     },
     {
@@ -6827,6 +6910,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiYkFVX3lxTE1MY01XME00eWk2c1pMUE51WGthRXBWRGEwaFZJUHNoRzRSUmhjUjNJOHN5eWk1cTZ6enNSYXJDeHd3VFZzMFdsSGVtYWV1VEFRUU81VlJhaDhoNmdWOUlOeFF3",
+      "source": "nikkei_news",
+      "title": "村木厚子氏「外国人労働者の受け入れ、『隔離』は解ではない」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MY01XME00eWk2c1pMUE51WGthRXBWRGEwaFZJUHNoRzRSUmhjUjNJOHN5eWk1cTZ6enNSYXJDeHd3VFZzMFdsSGVtYWV1VEFRUU81VlJhaDhoNmdWOUlOeFF3?oc=5",
+      "publishedAt": "2025-09-12T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiYkFVX3lxTE1MY01XME00eWk2c1pMUE51WGthRXBWRGEwaFZJUHNoRzRSUmhjUjNJOHN5eWk1cTZ6enNSYXJDeHd3VFZzMFdsSGVtYWV1VEFRUU81VlJhaDhoNmdWOUlOeFF3",
+      "summary": "村木厚子氏が外国人労働者受け入れにおいて「隔離」政策は適切でないと指摘しています。外国人労働者の採用・雇用管理を行う人事担当者は、統合的な受け入れ態勢の構築が求められる方向性を認識する必要があります。",
+      "summarizedAt": "2026-09-25T00:21:42.785Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5sSGFLSnBTazgtN0FxdWVJMHZZVVZYdTdMc1RQYmlkb0RUZVdjNkdhRU1IbGpUY0Ztd1ZvUGxCUlo5SjJ5T1VvZjBQQXBPR01JUnlXTQ",
       "source": "rosei_news",
       "title": "ＣＡの賃金体系変更は無効 ジェットスター支払い命令",
@@ -7390,6 +7487,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMipwFBVV95cUxQc3N0c2drQ3N2UlQ1eTdwazVwVGFBYTJYRnRQbVRCeEVDT2FjbGdDMHlCRXkwakVOekdXeFk0UHlCd3p0XzBKdWcxRE9nOFJzeFhsV3pQMW9ZaXVjdC1yMGI2dUU5Q1g2QVd5cnVJQmRVMGEzeDA5V1BkeG1sdVh2LVlHME1MV2JncVRIbk5faGxVRXQwR3oydjRGNE1VYnFLcFFxbzdYdw",
+      "source": "nikkei_news",
+      "title": "各 位 「カスタマーハラスメント基本方針」の策定について",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3N0c2drQ3N2UlQ1eTdwazVwVGFBYTJYRnRQbVRCeEVDT2FjbGdDMHlCRXkwakVOekdXeFk0UHlCd3p0XzBKdWcxRE9nOFJzeFhsV3pQMW9ZaXVjdC1yMGI2dUU5Q1g2QVd5cnVJQmRVMGEzeDA5V1BkeG1sdVh2LVlHME1MV2JncVRIbk5faGxVRXQwR3oydjRGNE1VYnFLcFFxbzdYdw?oc=5",
+      "publishedAt": "2025-02-28T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMipwFBVV95cUxQc3N0c2drQ3N2UlQ1eTdwazVwVGFBYTJYRnRQbVRCeEVDT2FjbGdDMHlCRXkwakVOekdXeFk0UHlCd3p0XzBKdWcxRE9nOFJzeFhsV3pQMW9ZaXVjdC1yMGI2dUU5Q1g2QVd5cnVJQmRVMGEzeDA5V1BkeG1sdVh2LVlHME1MV2JncVRIbk5faGxVRXQwR3oydjRGNE1VYnFLcFFxbzdYdw",
+      "summary": "# 要約不可\n\n情報が企業発表のタイトルのみで、法令改正か企業事例か不明であり、何がどう変わるか・何をすべきかを判断できる内容が含まれていません。記事本文が必要です。",
+      "summarizedAt": "2026-09-25T00:21:39.997Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE96dndWUGcycDJEZHR0N0RsS0Jib3plRXlpWTlXbVNzMFNwamt5RnRsWXpqZTk5SXJLYXoyNjRXR1dPZ1ptTDdQQkJYNGZkOUU5dWJrRw",
       "source": "rosei_news",
       "title": "第23回 二つのデータから分かる外国人労働者の実態と、その戦力化に必要なこと",
@@ -7402,6 +7513,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE96dndWUGcycDJEZHR0N0RsS0Jib3plRXlpWTlXbVNzMFNwamt5RnRsWXpqZTk5SXJLYXoyNjRXR1dPZ1ptTDdQQkJYNGZkOUU5dWJrRw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMipwFBVV95cUxPc1pxTV9yS2RkVFBzSWdyN1ZScTY4UUJlbTUwNE81Sk9VM2tTeXd1Zi1rOTRodjk2YW5XNWxNVldNQXVKT3M5T0V5UUYtcDFzLXh1ek1qQU8zQTVtR2NPTHZwTmhGdEJFMDdScENXX3lIRV9pMTFVUFV3V3ZRSGNFUG5vMHVndTNiM0d0S0wyT19hYlpLQ0tKMHZ6TkVrOTBuRUJNSzNiMA",
+      "source": "nikkei_news",
+      "title": "「カスタマーハラスメントに対する方針」策定に関するお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1pxTV9yS2RkVFBzSWdyN1ZScTY4UUJlbTUwNE81Sk9VM2tTeXd1Zi1rOTRodjk2YW5XNWxNVldNQXVKT3M5T0V5UUYtcDFzLXh1ek1qQU8zQTVtR2NPTHZwTmhGdEJFMDdScENXX3lIRV9pMTFVUFV3V3ZRSGNFUG5vMHVndTNiM0d0S0wyT19hYlpLQ0tKMHZ6TkVrOTBuRUJNSzNiMA?oc=5",
+      "publishedAt": "2025-02-21T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMipwFBVV95cUxPc1pxTV9yS2RkVFBzSWdyN1ZScTY4UUJlbTUwNE81Sk9VM2tTeXd1Zi1rOTRodjk2YW5XNWxNVldNQXVKT3M5T0V5UUYtcDFzLXh1ek1qQU8zQTVtR2NPTHZwTmhGdEJFMDdScENXX3lIRV9pMTFVUFV3V3ZRSGNFUG5vMHVndTNiM0d0S0wyT19hYlpLQ0tKMHZ6TkVrOTBuRUJNSzNiMA",
+      "summary": "【要約】\n企業がカスタマーハラスメント対応方針を策定したことが公表されました。人事・労務担当者は自社での同様の方針策定状況を確認し、未整備の場合は従業員保護のための対応指針作りを検討すべきです。\n\n（99文字）",
+      "summarizedAt": "2026-09-25T00:21:37.111Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiWEFVX3lxTE41R1NKRF9HVmxuZl9YX29WUGMxUF8zdlhNejhaZTBZRDVyYkt3UDVodDVmNFREcURwNDRSRGVBdGZzMERLTmRVdXFDWGFmX2hraFRlRGxNYnk",
@@ -8876,6 +9001,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiYkFVX3lxTFB5ZHhkUDlGTkQ3NEtTM3JnMDJOTGM5NkRNa2NJQmU1blFQOE55djd1aEVVVS1kLTlySTNlbENHYzIyRDZXOHk4VlR3Vm1GcUdTdEw5ZmZkUWlGdUlSaHYwUW1n",
+      "source": "rosei_news",
+      "title": "ハラスメントを防ぐ！ 職場のコミュニケーション講座",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZHhkUDlGTkQ3NEtTM3JnMDJOTGM5NkRNa2NJQmU1blFQOE55djd1aEVVVS1kLTlySTNlbENHYzIyRDZXOHk4VlR3Vm1GcUdTdEw5ZmZkUWlGdUlSaHYwUW1n?oc=5",
+      "publishedAt": "2023-03-02T15:08:55.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-25T00:21:10.902Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiYkFVX3lxTFB5ZHhkUDlGTkQ3NEtTM3JnMDJOTGM5NkRNa2NJQmU1blFQOE55djd1aEVVVS1kLTlySTNlbENHYzIyRDZXOHk4VlR3Vm1GcUdTdEw5ZmZkUWlGdUlSaHYwUW1n",
+      "summary": "ハラスメント防止には職場のコミュニケーション改善が重要とする講座内容です。人事担当者は、単なる禁止事項の周知だけでなく、日常的な対話の質を高める取り組みを通じてハラスメント予防を図ることが求められます。",
+      "summarizedAt": "2026-09-25T00:21:51.938Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiWEFVX3lxTE0wMUpCcFF1QVlabExOVjljeGJVNkxHVHNtODlJWnU1bHo2SFJiVVVncjV0ME9aWHNKZE52SHpwWlB1NW44LXMzUlRuczM0TVpvNVl2Wm9UZFY",
       "source": "rosei_news",
       "title": "eラーニング ハラスメント対策｜ハラスメントを防ぐ！職場のコミュニケーション講座",
@@ -8930,6 +9069,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE05YTViRzFFQUlYZFBDSUxZZGdfNWlIcXl6d2piRjE3NFhTSi1NRk42aHdVSnRkZjZPRGQxZ2FqRWhIMGtvRjYwMGVlVnpULThCODNKRw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiU0FVX3lxTFBOMzlSMFMwcmgxaUJzdExFdDJUM0JNa25FSTNSQ25vdjAzNGgzU1RVUVVSUmhiUWtYMHloMjJkYjNwVVAyRjIzaUN3cE80cUtKYnNN",
+      "source": "nikkei_news",
+      "title": "本格的な賃上げに必要な外圧",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOMzlSMFMwcmgxaUJzdExFdDJUM0JNa25FSTNSQ25vdjAzNGgzU1RVUVVSUmhiUWtYMHloMjJkYjNwVVAyRjIzaUN3cE80cUtKYnNN?oc=5",
+      "publishedAt": "2023-02-11T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-25T00:21:10.901Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiU0FVX3lxTFBOMzlSMFMwcmgxaUJzdExFdDJUM0JNa25FSTNSQ25vdjAzNGgzU1RVUVVSUmhiUWtYMHloMjJkYjNwVVAyRjIzaUN3cE80cUtKYnNN",
+      "summary": "# 要約\n\n本格的な賃上げを実現するには外部からの圧力が必要との指摘がなされています。人事・労務担当者は、市場動向や労働市場の変化など外部環境を注視しながら、自社の賃金戦略を検討することが求められます。\n\n(94字)",
+      "summarizedAt": "2026-09-25T00:21:46.187Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE4zNEQwWkZpRF9TR0lCeUlRYmVpZGZLOXhrVHJGbWhBNHVyak5DTHpwVEZrSV9PQ2Fsak8zSnlaRE56XzlkbXhrSXA0cDZKTTBrelIweQ",
@@ -9882,6 +10035,20 @@
       "summary": "管理職を対象としたハラスメント予防と発生時の対応に関する実務ガイドです。人事労務担当者は、管理職研修の教材として活用し、予防策の徹底と適切な初動対応の体制整備に役立てることができます。",
       "summarizedAt": "2026-09-02T22:14:16.561Z",
       "storyId": "rosei:CBMiVEFVX3lxTE9KUDRRR2U4RzNCR1NMMEw4aFdCbzk1X21fQzlZb0lZQVZBcFU1MjgweUsydzl4V0NmUlQ1UmlVaHZZUlJfZjBacWZySklnRUNyZWxIOA",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ",
+      "source": "rosei_news",
+      "title": "第11回 平成28～30年（2016～2018年）――「働き方改革」の推進と外国人労働者政策の転換",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ?oc=5",
+      "publishedAt": "2019-11-12T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-25T00:21:10.902Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ",
+      "summary": "2016年から2018年にかけて、政府主導による「働き方改革」が本格的に推進されるとともに、外国人労働者の受入れに関する政策が大きく転換した時期であることを示しています。人事労務担当者はこの時期の法改正の経緯と政策転換の背景を理解し、現行制度の基礎となる考え方を把握することが重要です。",
+      "summarizedAt": "2026-09-25T00:21:55.344Z",
       "isGuideline": false
     },
     {
