@@ -1,6 +1,157 @@
 {
-  "updatedAt": "2026-09-25T00:21:55.346Z",
+  "updatedAt": "2026-09-26T00:27:28.923Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1jR2tDdWFQU2lGSE01VXlHazJmTE9CT0wtTDdaXzhDQ0haMVhrUkxfMXo3YkFjbEJ6YmFDUVFEUHp3LWJhVUo1cEwybmREMkNjdVptbFpOc1V5UUJiV3hHMVFOMm1WTFpyN09EdA",
+      "source": "nikkei_news",
+      "title": "非正規の意欲どう生かす 退職金・手当も格差是正、10月に指針改定",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jR2tDdWFQU2lGSE01VXlHazJmTE9CT0wtTDdaXzhDQ0haMVhrUkxfMXo3YkFjbEJ6YmFDUVFEUHp3LWJhVUo1cEwybmREMkNjdVptbFpOc1V5UUJiV3hHMVFOMm1WTFpyN09EdA?oc=5",
+      "publishedAt": "2026-09-25T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1jR2tDdWFQU2lGSE01VXlHazJmTE9CT0wtTDdaXzhDQ0haMVhrUkxfMXo3YkFjbEJ6YmFDUVFEUHp3LWJhVUo1cEwybmREMkNjdVptbFpOc1V5UUJiV3hHMVFOMm1WTFpyN09EdA",
+      "summary": "非正規社員と正規社員の待遇格差是正に向け、10月に指針が改定されます。退職金や諸手当における格差是正が求められるため、労務・人事担当者は自社の非正規社員の待遇を見直し、合理的な説明ができない格差の是正を検討する必要があります。",
+      "summarizedAt": "2026-09-26T00:26:58.631Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76393.html",
+      "source": "mhlw_news",
+      "title": "「医師法第16条の10第１項に基づく厚生労働大臣から一般社団法人日本専門医機構等への意見」について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76393.html",
+      "publishedAt": "2026-09-25T12:50:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76393.html",
+      "summary": "厚生労働大臣が医師法第16条の10第1項に基づき、日本専門医機構等に対して意見を表明しました。医療機関で医師の専門研修に関わる担当者は、専門医制度の運用や研修体制に影響する可能性があるため内容確認が推奨されます。",
+      "summarizedAt": "2026-09-26T00:26:36.811Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBaX0ZyVGJVVXUyVWhwWGtiV3llazRNa1M0N1FMU2dhS3duQ0h3d3h2WlJBVzBsR1BwUW1MS2YzdWs2VzVjVVRXbWZhdmcxNXdzb29oUEV5NU1hYjhtLVk0elZmTkpNMWF1QVRlXw",
+      "source": "nikkei_news",
+      "title": "伊予鉄グループ、傘下の鉄道・バス社員10%賃上げ 初任給も引き上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX0ZyVGJVVXUyVWhwWGtiV3llazRNa1M0N1FMU2dhS3duQ0h3d3h2WlJBVzBsR1BwUW1MS2YzdWs2VzVjVVRXbWZhdmcxNXdzb29oUEV5NU1hYjhtLVk0elZmTkpNMWF1QVRlXw?oc=5",
+      "publishedAt": "2026-09-25T10:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBaX0ZyVGJVVXUyVWhwWGtiV3llazRNa1M0N1FMU2dhS3duQ0h3d3h2WlJBVzBsR1BwUW1MS2YzdWs2VzVjVVRXbWZhdmcxNXdzb29oUEV5NU1hYjhtLVk0elZmTkpNMWF1QVRlXw",
+      "summary": "伊予鉄グループが傘下の鉄道・バス事業の社員を対象に10%の賃上げを実施し、初任給も引き上げます。人材確保が課題の運輸業界において、大幅な賃上げと初任給改定による採用力強化の動きとして注目されます。",
+      "summarizedAt": "2026-09-26T00:27:01.644Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9hb2EwTGhFYlFVOFRSS0RaOU9hVHJEYjlZRWNGZ3ZkNmpFenpVSDZjeE9qeHJtNGRWek9qWnlQSDZ6WFdKdVZpUXdyQjZQWW5BQUVBVkdlTlJuYnpPRnNSaVFEMFVaMUQ4R1B3dQ",
+      "source": "nikkei_news",
+      "title": "セメント販売量、4年減少続く 働き方改革や豪雨影響",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hb2EwTGhFYlFVOFRSS0RaOU9hVHJEYjlZRWNGZ3ZkNmpFenpVSDZjeE9qeHJtNGRWek9qWnlQSDZ6WFdKdVZpUXdyQjZQWW5BQUVBVkdlTlJuYnpPRnNSaVFEMFVaMUQ4R1B3dQ?oc=5",
+      "publishedAt": "2026-09-25T09:15:06.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9hb2EwTGhFYlFVOFRSS0RaOU9hVHJEYjlZRWNGZ3ZkNmpFenpVSDZjeE9qeHJtNGRWek9qWnlQSDZ6WFdKdVZpUXdyQjZQWW5BQUVBVkdlTlJuYnpPRnNSaVFEMFVaMUQ4R1B3dQ",
+      "summary": "セメント業界において、働き方改革による労働時間管理の厳格化が建設現場の稼働に影響し、セメント販売量の減少要因の一つとなっています。建設業の労務担当者は、工期管理と労働時間規制の両立が課題となることに留意が必要です。",
+      "summarizedAt": "2026-09-26T00:26:53.155Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "source": "mhlw_news",
+      "title": "令和７（2025）年「転職者実態調査」の結果を公表します",
+      "url": "https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "summary": "厚生労働省が2025年の転職者実態調査の結果を公表しました。人事・労務担当者は、最新の転職動向やトレンドを把握し、自社の採用戦略や人材定着施策の見直しに活用することが推奨されます。",
+      "summarizedAt": "2026-09-26T00:26:39.261Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75993.html",
+      "source": "mhlw_news",
+      "title": "第41回労働政策審議会労働政策基本部会を開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75993.html",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75993.html",
+      "summary": "労働政策審議会労働政策基本部会の第41回会合が開催されます。労働政策全般に関する重要事項が審議される見込みですが、具体的な議題は本情報からは不明のため、開催後の資料公開を待って内容を確認する必要があります。",
+      "summarizedAt": "2026-09-26T00:26:42.216Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75956.html",
+      "source": "mhlw_news",
+      "title": "労働者派遣事業及び有料の職業紹介事業の許可を取り消しました",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75956.html",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75956.html",
+      "summary": "厚生労働省が労働者派遣事業と有料職業紹介事業の許可を取り消す処分を実施しました。派遣労働者や求職者を受け入れている企業は、取引先事業者が許可取消を受けていないか確認することが推奨されます。",
+      "summarizedAt": "2026-09-26T00:26:45.161Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75794.html",
+      "source": "mhlw_news",
+      "title": "労働者派遣事業の許可を取り消しました（関係派遣先派遣割合報告書未提出）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75794.html",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75794.html",
+      "summary": "厚生労働省は、関係派遣先への派遣割合を報告する書類を提出しなかった派遣事業者の許可を取り消しました。派遣事業者は関係派遣先派遣割合報告書の提出義務を遵守し、期限内の提出を徹底する必要があります。",
+      "summarizedAt": "2026-09-26T00:26:47.763Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE12dWl5SXFOaWxXdDJXRnVYOVFKQ2puZFMzNDJaeThnMHp3TFhpT0tUaTM1WlhWd3UwM19GS1dPV1o3MGRRQXFtSllLVW1sUUw2cDlKeFUwNzhVU0U1Q0ZPZUhUQlUxY3dZUzlpWQ",
+      "source": "nikkei_news",
+      "title": "ソニー銀行、賃上げ実感と家計行動に関するアンケート調査結果を発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dWl5SXFOaWxXdDJXRnVYOVFKQ2puZFMzNDJaeThnMHp3TFhpT0tUaTM1WlhWd3UwM19GS1dPV1o3MGRRQXFtSllLVW1sUUw2cDlKeFUwNzhVU0U1Q0ZPZUhUQlUxY3dZUzlpWQ?oc=5",
+      "publishedAt": "2026-09-25T02:10:49.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE12dWl5SXFOaWxXdDJXRnVYOVFKQ2puZFMzNDJaeThnMHp3TFhpT0tUaTM1WlhWd3UwM19GS1dPV1o3MGRRQXFtSllLVW1sUUw2cDlKeFUwNzhVU0U1Q0ZPZUhUQlUxY3dZUzlpWQ",
+      "summary": "ソニー銀行が賃上げの実感と家計行動に関するアンケート調査結果を発表しました。労務・人事担当者は自社の賃上げ施策が従業員にどう受け止められているか、また家計への影響を把握する参考資料として活用できます。",
+      "summarizedAt": "2026-09-26T00:27:19.648Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9LRU5neUhfSXMxN3FoTURmZmU5R1dXcEdBbW96MUlQZm5obHNLWXdFem13YTU1aGU4UWNCSHBQNlBIY2dkSEJ5SS1mZXl1WFJvS2J2M2RBTjdSYjNKRE5hSWtOQTcySFZTdmZFTQ",
+      "source": "nikkei_news",
+      "title": "就活ハラスメント、「健康状態の詮索」がリスク最多 AIで動画解析",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LRU5neUhfSXMxN3FoTURmZmU5R1dXcEdBbW96MUlQZm5obHNLWXdFem13YTU1aGU4UWNCSHBQNlBIY2dkSEJ5SS1mZXl1WFJvS2J2M2RBTjdSYjNKRE5hSWtOQTcySFZTdmZFTQ?oc=5",
+      "publishedAt": "2026-09-25T02:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9LRU5neUhfSXMxN3FoTURmZmU5R1dXcEdBbW96MUlQZm5obHNLWXdFem13YTU1aGU4UWNCSHBQNlBIY2dkSEJ5SS1mZXl1WFJvS2J2M2RBTjdSYjNKRE5hSWtOQTcySFZTdmZFTQ",
+      "summary": "就活ハラスメントでは「健康状態の詮索」がリスク要因として最も多いことがAI動画解析で判明しました。採用面接では応募者の健康状態に関する不適切な質問を避け、面接官への事前教育を徹底する必要があります。",
+      "summarizedAt": "2026-09-26T00:27:04.537Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76341.html",
+      "source": "mhlw_news",
+      "title": "第92回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76341.html",
+      "publishedAt": "2026-09-25T01:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-26T00:26:25.818Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76341.html",
+      "summary": "厚生労働省が労働政策審議会雇用環境・均等分科会の第92回会合を開催します。雇用環境や均等処遇に関する政策議論が行われる見込みですが、現時点では具体的な議題は公表されていません。",
+      "summarizedAt": "2026-09-26T00:26:50.270Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "rosei:CBMiVEFVX3lxTE9kUWQ3OEJXZ3ZRYjBNNTR1U3lsNEJ0bF8xVXJJZ1ZsT09rWUhNMzRSNXR1ejIyRS1TdU94TXk2ZjA2aG1rQkJsMHBSZGVnQlc4bnQ4RQ",
       "source": "rosei_news",
@@ -4664,6 +4815,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw",
+      "source": "nikkei_news",
+      "title": "シンポジウム「10th Smart Work-X 2035年の人的資本経営 働き方改革の10年を未来につなぐ」...",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw?oc=5",
+      "publishedAt": "2026-08-19T16:45:05.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiTkFVX3lxTE9XNUlFUTBPbGVvSnUzR3FZQ3hUbklkVzBNLVhEdXR6dkgtdTktLU1xWTNKT0stYjJBaGhoRFBHLS1vU050LURaZFpLYV9iZw",
+      "summary": "この見出しのみでは法改正や具体的な制度変更に関する情報が読み取れないため、労務・人事実務上の対応事項を明示できません。働き方改革と人的資本経営をテーマとしたシンポジウムの開催告知と思われます。",
+      "summarizedAt": "2026-09-26T00:26:55.616Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMilgFBVV95cUxOSHdVYnluRkFfV1M4WEtBcGc3cWpMTG9tRmtVdzc4S1lzZkF6dGtudjh4ZURCejhJWWRtcWhpbm5zd1JLVFEzNEN0d3hpb3RRTUl0bFVuWVk5R2R0VkE5MTdOMDlNLTF0dWo4WWljSncyS2FSYVljQ1l0WnRBUVNuVm1WQnRObDVSUGhMNEd2X1hJYXZYMlE",
       "source": "nikkei_news",
       "title": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加",
@@ -5439,6 +5604,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFA3eDJUM2FwLW1LX0dKTWJCMjZyTXFOSjEyd2JxMkwxMUZXMEY2Q0VEWnhKNjAtcUpZZ0VJNnphMjh1ODlleDJPVl9EQkdMaFBuMVd5czdLWGphNE9qdjBLNjdNQ2o2V3Y4bm14VA",
+      "source": "nikkei_news",
+      "title": "瀬戸内海のフェリー、燃料高騰・人手不足の二重苦 減便や値上げも",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3eDJUM2FwLW1LX0dKTWJCMjZyTXFOSjEyd2JxMkwxMUZXMEY2Q0VEWnhKNjAtcUpZZ0VJNnphMjh1ODlleDJPVl9EQkdMaFBuMVd5czdLWGphNE9qdjBLNjdNQ2o2V3Y4bm14VA?oc=5",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFA3eDJUM2FwLW1LX0dKTWJCMjZyTXFOSjEyd2JxMkwxMUZXMEY2Q0VEWnhKNjAtcUpZZ0VJNnphMjh1ODlleDJPVl9EQkdMaFBuMVd5czdLWGphNE9qdjBLNjdNQ2o2V3Y4bm14VA",
+      "summary": "この見出しは労働関連法制の動向ではなく、瀬戸内海フェリー業界の経営課題に関する一般ニュースです。人事労務担当者向けの法制度変更や実務対応を示す内容は含まれていないため、要約作成の対象外となります。",
+      "summarizedAt": "2026-09-26T00:27:13.777Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE9PNTl3ZzBMa0k2Z3V0N1ZYUURiSkluNDZJTVhsb3p1UHlDbVN4VHZKTFYyR2VhNUJQODhQaEVPTDVYQmJfQWJCWDFkWnJ1bjZONmNicEtTSTZ5eWZHdi1tR0FJQ1pqVFBQV05IbA",
       "source": "nikkei_news",
       "title": "最低賃金の早期浸透促す 厚労省が新方針「発効遅れなら理由明示を」",
@@ -5731,6 +5910,20 @@
       "summary": "労働基準法の改正に関する最新動向と、それに伴い企業が実務上対応すべき事項について解説する半日研修プログラムです。人事労務担当者は法改正内容を把握し、自社の労務管理体制の見直しや必要な対応策の検討を進める必要があります。",
       "summarizedAt": "2026-09-04T22:15:20.571Z",
       "storyId": "rosei:CBMiW0FVX3lxTFBVYVhfZ1YzWExta0NZS2hDeGU0UmdQRmdzbTIxUW1JZnZvTFRiUGxodEE0RUZ3UGx6N1lZeGlUdFJIRU5sbjk3aVJyeDlFVGNZLVoxTmp6SzNvQ3c",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE8zMDdVUFBoN21VSW1qcW11Uy1BeHNXcFUwb29UZ1dUaUhtQXRLMkRKd3lUbEFPd0xTR3pSVUFQdndhWDZ2WUhnMTVucmE3c01ERUtWczNKQ2lqczA",
+      "source": "rosei_news",
+      "title": "『事例で学ぶ製造現場のハラスメント対応』【半日】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zMDdVUFBoN21VSW1qcW11Uy1BeHNXcFUwb29UZ1dUaUhtQXRLMkRKd3lUbEFPd0xTR3pSVUFQdndhWDZ2WUhnMTVucmE3c01ERUtWczNKQ2lqczA?oc=5",
+      "publishedAt": "2026-05-01T10:28:58.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-26T00:26:25.505Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE8zMDdVUFBoN21VSW1qcW11Uy1BeHNXcFUwb29UZ1dUaUhtQXRLMkRKd3lUbEFPd0xTR3pSVUFQdndhWDZ2WUhnMTVucmE3c01ERUtWczNKQ2lqczA",
+      "summary": "【要約】\n製造現場で発生するハラスメント事例を題材とした半日研修プログラムが提供されており、現場特有の状況に即した対応方法を学ぶことができます。\n\n(59文字)",
+      "summarizedAt": "2026-09-26T00:27:28.920Z",
       "isGuideline": false
     },
     {
@@ -7176,6 +7369,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9vUmtPdmZhaFlJOFhkS1pVUjgtcERiSEJ2UDJ4c0VaaHExZExETkI5X21fcXp1X0RmemF0bDcxeU9od1JmbnUyZm1sc0ZialVOV0staw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTFAta1ZHeVhXQzJDdkN6eFZITElxX0xSckstN25uMDE2Um95VUtYa212QmdXLTY1d3hjRU5XeGtCeVhEMGwzYlF3UkJIUWZSRERoQjNibkZ2Q3dKbEdZWWQ3eHNtZV9BNFhlZzFvWmFuYzk",
+      "source": "nikkei_news",
+      "title": "人手不足に直面した介護施設 コンサルに事業譲渡で存続",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAta1ZHeVhXQzJDdkN6eFZITElxX0xSckstN25uMDE2Um95VUtYa212QmdXLTY1d3hjRU5XeGtCeVhEMGwzYlF3UkJIUWZSRERoQjNibkZ2Q3dKbEdZWWQ3eHNtZV9BNFhlZzFvWmFuYzk?oc=5",
+      "publishedAt": "2025-06-04T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTFAta1ZHeVhXQzJDdkN6eFZITElxX0xSckstN25uMDE2Um95VUtYa212QmdXLTY1d3hjRU5XeGtCeVhEMGwzYlF3UkJIUWZSRERoQjNibkZ2Q3dKbEdZWWQ3eHNtZV9BNFhlZzFvWmFuYzk",
+      "summary": "【要約】\n人手不足により経営困難に陥った介護施設が、コンサルティング会社等への事業譲渡により存続を図った事例が報告されています。介護事業者は人材確保策の強化とともに、事業継続が困難な場合の選択肢として事業承継も検討する必要があります。\n\n(112字)",
+      "summarizedAt": "2026-09-26T00:27:17.147Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE9TVFRmZkJFQ29nZXNTV1NNQkk2M3pSUFZ1TVNBcFR1MzlBZmhXZ19ZUmJCVTNQNE82djdMR3VGbVR2d2lTa2FMd1dwSEx5VExfNzJWMQ",
@@ -8987,6 +9194,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiaEFVX3lxTE1qeEFad1otcHdqYXVBWkdLZy1LN2o1UEhQNFhEUkllQzI5WVBPdmhoUTUxV3ZuY0htbzNEbU03SDEtd2ZWMXpNdWhWVHBRbTdqRUpFY2FLaVBwVFAtNzB6V19iWjRidk5k",
+      "source": "nikkei_news",
+      "title": "人手不足と多品種少量生産の助っ人、効果の享受には現場の見直しが必須",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeEFad1otcHdqYXVBWkdLZy1LN2o1UEhQNFhEUkllQzI5WVBPdmhoUTUxV3ZuY0htbzNEbU03SDEtd2ZWMXpNdWhWVHBRbTdqRUpFY2FLaVBwVFAtNzB6V19iWjRidk5k?oc=5",
+      "publishedAt": "2023-04-28T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiaEFVX3lxTE1qeEFad1otcHdqYXVBWkdLZy1LN2o1UEhQNFhEUkllQzI5WVBPdmhoUTUxV3ZuY0htbzNEbU03SDEtd2ZWMXpNdWhWVHBRbTdqRUpFY2FLaVBwVFAtNzB6V19iWjRidk5k",
+      "summary": "# 要約\n\n人手不足と多品種少量生産への対応として新たな手段(自動化・システム等)の導入が進むが、その効果を十分に得るには、現場の業務フローや体制の見直しが不可欠となる。人事・労務担当者は現場と連携し、導入前に業務プロセスの再構築を検討すべきである。\n\n(120字)",
+      "summarizedAt": "2026-09-26T00:27:10.783Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFB3eWlvS1h5NmROTHgtUzF1R3lhSDNBX2JPQllRMTRGbWtWUGpjMTB1M3FIMkhRS3hyMm9XN3NrOWQtSzJVcDhSeGZEN1J1S1FsMy1BWA",
       "source": "rosei_news",
       "title": "障害者雇用、助成金新設へ 企業向け、既存分の拡充も 厚労省、相談や定着支援",
@@ -10038,6 +10259,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMickFVX3lxTE91UzJxMDkzZnB2V2xPREpkMjhnU0lUTUU4TGsyc3lBMEFmTC1McEJOWS16dVhTUGtsTHVxaWVPWXQ4ZjFScHFWdEk1X1Rqb2JJdW9jZXpYVFlFbTByZ0pTSE10QmRvRFNRMkQwZGZEVUxpZw",
+      "source": "nikkei_news",
+      "title": "外国人労働者が苦しむブラック職場 制度の看板と矛盾",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91UzJxMDkzZnB2V2xPREpkMjhnU0lUTUU4TGsyc3lBMEFmTC1McEJOWS16dVhTUGtsTHVxaWVPWXQ4ZjFScHFWdEk1X1Rqb2JJdW9jZXpYVFlFbTByZ0pTSE10QmRvRFNRMkQwZGZEVUxpZw?oc=5",
+      "publishedAt": "2020-02-13T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMickFVX3lxTE91UzJxMDkzZnB2V2xPREpkMjhnU0lUTUU4TGsyc3lBMEFmTC1McEJOWS16dVhTUGtsTHVxaWVPWXQ4ZjFScHFWdEk1X1Rqb2JJdW9jZXpYVFlFbTByZ0pTSE10QmRvRFNRMkQwZGZEVUxpZw",
+      "summary": "【要約】\n外国人労働者が劣悪な労働環境に置かれている実態が指摘されています。人事・労務担当者は、外国人雇用における法令遵守の徹底と、受入制度の趣旨に沿った適切な労働条件の整備が求められます。\n\n(94字)",
+      "summarizedAt": "2026-09-26T00:27:26.418Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ",
       "source": "rosei_news",
       "title": "第11回 平成28～30年（2016～2018年）――「働き方改革」の推進と外国人労働者政策の転換",
@@ -10049,6 +10284,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ",
       "summary": "2016年から2018年にかけて、政府主導による「働き方改革」が本格的に推進されるとともに、外国人労働者の受入れに関する政策が大きく転換した時期であることを示しています。人事労務担当者はこの時期の法改正の経緯と政策転換の背景を理解し、現行制度の基礎となる考え方を把握することが重要です。",
       "summarizedAt": "2026-09-25T00:21:55.344Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBEeThta0QxX3hTbFpoVFJFdHBwOUV3a0V3MkJnUWh4cnE2RFZ4bUtVT1diQjhfV3A1ZDFDaEZ2Y2ZJdjlwREVaai1MZVF6ZEhoNUo2LVNvQXlIYWdER002NG42b1I0eU0",
+      "source": "nikkei_news",
+      "title": "「人手不足を何とかして！」、中小企業の叫びにAIは応えられるか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEeThta0QxX3hTbFpoVFJFdHBwOUV3a0V3MkJnUWh4cnE2RFZ4bUtVT1diQjhfV3A1ZDFDaEZ2Y2ZJdjlwREVaai1MZVF6ZEhoNUo2LVNvQXlIYWdER002NG42b1I0eU0?oc=5",
+      "publishedAt": "2019-09-05T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBEeThta0QxX3hTbFpoVFJFdHBwOUV3a0V3MkJnUWh4cnE2RFZ4bUtVT1diQjhfV3A1ZDFDaEZ2Y2ZJdjlwREVaai1MZVF6ZEhoNUo2LVNvQXlIYWdER002NG42b1I0eU0",
+      "summary": "【要約】\n中小企業で深刻化する人手不足への対応として、AI活用による業務効率化や省力化が検討課題となっています。人事・労務担当者は、自社業務へのAI導入可能性を探り、生産性向上策を検討することが求められます。\n\n(107文字)",
+      "summarizedAt": "2026-09-26T00:27:07.140Z",
       "isGuideline": false
     },
     {
@@ -10133,6 +10382,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg",
       "summary": "# 要約\n\n36協定の特別条項は、通常の時間外労働の上限を超えて労働させる必要がある場合に、労使間で特別に定める協定であり、年720時間以内などの上限規制を遵守した上で、臨時的な特別の事情がある場合に限り締結できます。",
       "summarizedAt": "2026-09-16T22:14:22.442Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBCT1hwamNQUWlDWmxFckZveGxxamE3WmwyRHVPWDdMb2RlWi1xYUJDVnFUc0dRRC1ULU1HbVdtbWdWVVJfNGQtOEtHUkh5NUFSdGlVTHdHMG4wWDFNQ2VmcmFvR3dzZU1TOUNtbw",
+      "source": "nikkei_news",
+      "title": "首相、賃上げ要請「やんわり」のワケ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCT1hwamNQUWlDWmxFckZveGxxamE3WmwyRHVPWDdMb2RlWi1xYUJDVnFUc0dRRC1ULU1HbVdtbWdWVVJfNGQtOEtHUkh5NUFSdGlVTHdHMG4wWDFNQ2VmcmFvR3dzZU1TOUNtbw?oc=5",
+      "publishedAt": "2019-01-07T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-26T00:26:25.503Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBCT1hwamNQUWlDWmxFckZveGxxamE3WmwyRHVPWDdMb2RlWi1xYUJDVnFUc0dRRC1ULU1HbVdtbWdWVVJfNGQtOEtHUkh5NUFSdGlVTHdHMG4wWDFNQ2VmcmFvR3dzZU1TOUNtbw",
+      "summary": "# 要約\n\n本記事は見出しのみのため詳細は不明ですが、首相による企業への賃上げ要請が従来より柔軟な姿勢で行われている背景や理由について報じていると推測されます。\n\n(補足:本文未取得のため具体的な政策変更や実務対応は確認できません)",
+      "summarizedAt": "2026-09-26T00:27:23.381Z",
       "isGuideline": false
     },
     {
