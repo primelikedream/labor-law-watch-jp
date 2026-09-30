@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-09-29T01:37:17.074Z",
+  "updatedAt": "2026-09-30T01:10:46.243Z",
   "items": [
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE45TFhCQjFicWZoaDhjWkl4UzFRUzdZX2daVG9Xelo0eG9aTTVXcGNKYkF6RXh1RkJpVnYtbm1lZ3JWbHo3X3F6aW9rdlpVUzkwaGlQLU9FcHdvNzdLNFZuVFd2cEtGcDQ",
+      "source": "nikkei_news",
+      "title": "定年後再雇用を拒否されたエンジニア、配属先を自分で見つける必要がある？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45TFhCQjFicWZoaDhjWkl4UzFRUzdZX2daVG9Xelo0eG9aTTVXcGNKYkF6RXh1RkJpVnYtbm1lZ3JWbHo3X3F6aW9rdlpVUzkwaGlQLU9FcHdvNzdLNFZuVFd2cEtGcDQ?oc=5",
+      "publishedAt": "2026-09-29T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE45TFhCQjFicWZoaDhjWkl4UzFRUzdZX2daVG9Xelo0eG9aTTVXcGNKYkF6RXh1RkJpVnYtbm1lZ3JWbHo3X3F6aW9rdlpVUzkwaGlQLU9FcHdvNzdLNFZuVFd2cEtGcDQ",
+      "summary": "定年後再雇用を希望する従業員が拒否された場合の対応に関する事例が示されており、人事担当者は再雇用制度の運用基準や拒否要件を明確化するとともに、配属先選定における会社側の責任範囲を確認する必要があります。",
+      "summarizedAt": "2026-09-30T01:09:58.550Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBaTkV3UWljUHhoU3hWb1J1Y3RhcnZOcm5Yb2pNUWhXRk9jT2xHVnU3YUxLdXJ6NWhtOURublBVS3FjcEdSUk9CdEVvb1NzM3dSNm9SZjFWQUR1RUc0dDVLbkFJdWp3a2Z3MW44cw",
+      "source": "nikkei_news",
+      "title": "「年収の壁」で働き控えのパート、なお400万人超 人手不足の一因に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTkV3UWljUHhoU3hWb1J1Y3RhcnZOcm5Yb2pNUWhXRk9jT2xHVnU3YUxLdXJ6NWhtOURublBVS3FjcEdSUk9CdEVvb1NzM3dSNm9SZjFWQUR1RUc0dDVLbkFJdWp3a2Z3MW44cw?oc=5",
+      "publishedAt": "2026-09-29T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBaTkV3UWljUHhoU3hWb1J1Y3RhcnZOcm5Yb2pNUWhXRk9jT2xHVnU3YUxLdXJ6NWhtOURublBVS3FjcEdSUk9CdEVvb1NzM3dSNm9SZjFWQUR1RUc0dDVLbkFJdWp3a2Z3MW44cw",
+      "summary": "「年収の壁」により社会保険料負担増や配偶者控除の減額を避けるため、就業調整を行うパート労働者が依然として400万人を超えており、深刻な人手不足の要因となっています。労務担当者は従業員の就業調整の実態把握と、制度改正動向の注視が求められます。",
+      "summarizedAt": "2026-09-30T01:10:09.217Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5PNEZTd3pJcFYwaDVlSkRJSnJjSnFtMndqWldiLWdEakk5WUM5X2d6TUlSekU3aHZGM2xUbFhSa2FYWV83eFY0dUFiTVFaZGRaZWlCWUNSUWtKWVpmeE93NE9iLUxGUlowc0g1dw",
+      "source": "nikkei_news",
+      "title": "雇調金の不正受給回収、12労働局が104億円分手続き遅滞 検査院指摘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNEZTd3pJcFYwaDVlSkRJSnJjSnFtMndqWldiLWdEakk5WUM5X2d6TUlSekU3aHZGM2xUbFhSa2FYWV83eFY0dUFiTVFaZGRaZWlCWUNSUWtKWVpmeE93NE9iLUxGUlowc0g1dw?oc=5",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5PNEZTd3pJcFYwaDVlSkRJSnJjSnFtMndqWldiLWdEakk5WUM5X2d6TUlSekU3aHZGM2xUbFhSa2FYWV83eFY0dUFiTVFaZGRaZWlCWUNSUWtKWVpmeE93NE9iLUxGUlowc0g1dw",
+      "summary": "雇用調整助成金の不正受給について、12労働局で総額104億円分の返還請求手続きが遅れていることを会計検査院が指摘しました。不正受給への対応強化が求められており、企業は適正な申請・受給の記録保持を徹底すべきです。",
+      "summarizedAt": "2026-09-30T01:10:03.153Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keizai/2608/",
+      "source": "mhlw_news",
+      "title": "労働経済動向調査（令和８(2026)年８月）の概況",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keizai/2608/",
+      "publishedAt": "2026-09-29T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keizai/2608/",
+      "summary": "厚生労働省が令和8年8月の労働経済動向調査の結果を公表しました。労働者の過不足状況や雇用の見通しなど、労働市場の最新動向を把握し、自社の採用・人員計画の参考にすることが推奨されます。",
+      "summarizedAt": "2026-09-30T01:09:41.531Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBleVZMU3FKcmJnOHFZaGJEVFVGb2VwWkM3RnMxcHc3aml4elZ3VkVhb0FsSmRncWZKc05SQnB6REFBcFBobFpQM0pSN2huME56U0x2Ug",
+      "source": "rosei_news",
+      "title": "「１０６万円の壁」撤廃 １０月、厚生年金要件 パートら短時間労働者",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBleVZMU3FKcmJnOHFZaGJEVFVGb2VwWkM3RnMxcHc3aml4elZ3VkVhb0FsSmRncWZKc05SQnB6REFBcFBobFpQM0pSN2huME56U0x2Ug?oc=5",
+      "publishedAt": "2026-09-29T04:10:35.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBleVZMU3FKcmJnOHFZaGJEVFVGb2VwWkM3RnMxcHc3aml4elZ3VkVhb0FsSmRncWZKc05SQnB6REFBcFBobFpQM0pSN2huME56U0x2Ug",
+      "summary": "2025年10月から、パートなど短時間労働者の厚生年金加入要件である年収106万円基準が撤廃されます。人事・労務担当者は、対象となる短時間労働者の把握と加入手続き、社会保険料負担の増加に伴う労務管理体制の見直しが必要です。",
+      "summarizedAt": "2026-09-30T01:10:27.433Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBLODhVbXBjQ1hqYUFEY0FRdmdHUmt6ZHRGbm1iYW53d01EdkliY3FjM3N2bkxsMFIxTTRrekFpaUtvaVNfWTU4TnFBeElmbWdUUV9YZmtpME1BSWk4d2l3V28xU0MxeUlnVDZ2UA",
+      "source": "nikkei_news",
+      "title": "「特定技能」在留外国人、半年で14%増 6月末時点44万人",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLODhVbXBjQ1hqYUFEY0FRdmdHUmt6ZHRGbm1iYW53d01EdkliY3FjM3N2bkxsMFIxTTRrekFpaUtvaVNfWTU4TnFBeElmbWdUUV9YZmtpME1BSWk4d2l3V28xU0MxeUlnVDZ2UA?oc=5",
+      "publishedAt": "2026-09-29T04:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBLODhVbXBjQ1hqYUFEY0FRdmdHUmt6ZHRGbm1iYW53d01EdkliY3FjM3N2bkxsMFIxTTRrekFpaUtvaVNfWTU4TnFBeElmbWdUUV9YZmtpME1BSWk4d2l3V28xU0MxeUlnVDZ2UA",
+      "summary": "特定技能制度による在留外国人が2024年6月末時点で44万人に達し、半年間で14%増加しました。人材確保における外国人労働者の活用拡大が進んでおり、受入体制の整備や適切な労務管理の重要性が高まっています。",
+      "summarizedAt": "2026-09-30T01:10:22.757Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
+      "source": "mhlw_news",
+      "title": "「令和８年版厚生労働白書」を公表します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75936.html",
+      "publishedAt": "2026-09-29T03:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
+      "summary": "厚生労働省が令和8年版の厚生労働白書を公表しました。白書の具体的な内容は情報から読み取れませんが、労働・社会保障施策の動向を把握する参考資料として確認されることをお勧めします。",
+      "summarizedAt": "2026-09-30T01:09:43.824Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75700.html",
+      "source": "mhlw_news",
+      "title": "「令和８年版 労働経済の分析」を公表します ～分析テーマは「ＡＩ等技術革新が進む中での労働市場の現状と課題」～",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75700.html",
+      "publishedAt": "2026-09-29T02:45:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75700.html",
+      "summary": "厚生労働省が「令和8年版労働経済の分析」を公表し、AI等の技術革新が進む中での労働市場の現状と課題を分析しました。人事・労務担当者は、技術革新が雇用や働き方に与える影響について、本資料で最新の動向を確認することが推奨されます。",
+      "summarizedAt": "2026-09-30T01:09:46.239Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9BZnRlcU5wSHBrT0dWTkZmZ2NPYXl5WkhrYW5LeG1uMWt4b0ZyLXZDTlJqM0pOTXVONEJDVEVnTmcyZjNYUk1DTUU4c3Y1NGdGbHViczBBVEV4SVRkLUhWWjdPYjlJTHVYV2Y5bA",
+      "source": "nikkei_news",
+      "title": "転職活動者の7割「年収下がる転職受け入れられない」 マイナビ調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BZnRlcU5wSHBrT0dWTkZmZ2NPYXl5WkhrYW5LeG1uMWt4b0ZyLXZDTlJqM0pOTXVONEJDVEVnTmcyZjNYUk1DTUU4c3Y1NGdGbHViczBBVEV4SVRkLUhWWjdPYjlJTHVYV2Y5bA?oc=5",
+      "publishedAt": "2026-09-29T02:38:37.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9BZnRlcU5wSHBrT0dWTkZmZ2NPYXl5WkhrYW5LeG1uMWt4b0ZyLXZDTlJqM0pOTXVONEJDVEVnTmcyZjNYUk1DTUU4c3Y1NGdGbHViczBBVEV4SVRkLUhWWjdPYjlJTHVYV2Y5bA",
+      "summary": "マイナビの調査によると、転職活動者の7割が年収ダウンを受け入れられないと回答しており、採用活動では給与水準の競争力が重要な要素となっています。人材確保のため、自社の給与水準が市場相場と比較して適切か検証が求められます。",
+      "summarizedAt": "2026-09-30T01:10:12.602Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE16YnRCZXN1R3lRalBfTWktdzNtN25VanhtejVqczhrTzJSWThXWG42YlYyUU9RcUQ1VVI3Yk9wMXNfMmJtRVc3MzBWclJLNkpNQmdFVEtiNG1mM0FlS3FhMjR1RDFYcmJ1N20yeg",
+      "source": "nikkei_news",
+      "title": "日本企業の生成AI利用率、OECD平均の半分未満 労働経済白書",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16YnRCZXN1R3lRalBfTWktdzNtN25VanhtejVqczhrTzJSWThXWG42YlYyUU9RcUQ1VVI3Yk9wMXNfMmJtRVc3MzBWclJLNkpNQmdFVEtiNG1mM0FlS3FhMjR1RDFYcmJ1N20yeg?oc=5",
+      "publishedAt": "2026-09-29T02:28:20.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE16YnRCZXN1R3lRalBfTWktdzNtN25VanhtejVqczhrTzJSWThXWG42YlYyUU9RcUQ1VVI3Yk9wMXNfMmJtRVc3MzBWclJLNkpNQmdFVEtiNG1mM0FlS3FhMjR1RDFYcmJ1N20yeg",
+      "summary": "OECDのデータによると、日本企業における生成AI利用率はOECD平均の半分未満にとどまることが労働経済白書で明らかになりました。人事・労務担当者は、業務効率化に向けて生成AI活用の検討を進める必要があります。",
+      "summarizedAt": "2026-09-30T01:09:55.636Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76324.html",
+      "source": "mhlw_news",
+      "title": "厚生労働省関係の主な制度変更（令和８年10月）について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76324.html",
+      "publishedAt": "2026-09-29T01:13:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76324.html",
+      "summary": "令和8年10月に厚生労働省所管の複数の制度が改正されます。人事労務担当者は、具体的な変更内容を確認し、自社の就業規則や労務管理体制の見直しが必要か検討してください。",
+      "summarizedAt": "2026-09-30T01:09:48.538Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE5wdE9fbXJvZHJWM0lxSVJpT01DOE4tWEIyakNudnZHZG5ib3hPSUw1N0R1SWxlMWtIOTFHcmtwc3RHZWswNXgtdmtjSU5TdG8zRUtvd3RkanpqUl9PS2MxaUl5bVNPTzBQZmctVw",
       "source": "nikkei_news",
@@ -41,6 +191,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9PVEpaQk9HdEZTVXVJWmFXYWkxWUFVYVV3UkthM3JfNUNRYjdqWDg4bUZsYzU4amxKTmJqX3FrV0N5Umh1SXh6cXRub0x2N2NPd3hvNWtTNXp1WlZGSTIwTUVpMVhneHRwc3N2RQ",
       "summary": "ジョブ型雇用を導入した企業の約5割が明確な効果を実感できていないことが判明しました。導入を検討中の人事担当者は、期待と実態のギャップを認識し、効果測定の指標設定や運用体制の整備を慎重に行う必要があります。",
       "summarizedAt": "2026-09-29T01:37:04.890Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw",
+      "source": "nikkei_news",
+      "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw?oc=5",
+      "publishedAt": "2026-09-28T09:28:25.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw",
+      "summary": "この見出しのみからは労働法制の改正や人事労務管理上の義務変更に関する情報は読み取れません。オムロンの製品開発による業務効率化の事例であり、労務・人事担当者が対応すべき法令上の変更点はありません。",
+      "summarizedAt": "2026-09-30T01:10:19.415Z",
       "isGuideline": false
     },
     {
@@ -95,6 +259,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-koyoukankyou_kintougyouseijouhou.html",
       "summary": "厚生労働省が雇用環境・均等行政情報システムのデジタル推進専門官を募集しています。今後、雇用環境や均等行政に関する手続きや情報システムがデジタル化される可能性があるため、関連する動向に注意が必要です。",
       "summarizedAt": "2026-09-29T01:36:58.850Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1lcTVlbVYxcGljUUh0U0F6TUlPelk0SkpydHc4enJjLXhNMy12elUxWG8yeDlDNk1XQjJrUlNSVXhqLTl3eFJ3OE5xUzRCd1paOC1CZ1Jnb0hQbzNFd0wyVHJZSTc5NkJDbm51OQ",
+      "source": "nikkei_news",
+      "title": "人手不足の地方病院を守れ クラウド電子カルテのヘンリーが改革支援",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lcTVlbVYxcGljUUh0U0F6TUlPelk0SkpydHc4enJjLXhNMy12elUxWG8yeDlDNk1XQjJrUlNSVXhqLTl3eFJ3OE5xUzRCd1paOC1CZ1Jnb0hQbzNFd0wyVHJZSTc5NkJDbm51OQ?oc=5",
+      "publishedAt": "2026-09-27T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1lcTVlbVYxcGljUUh0U0F6TUlPelk0SkpydHc4enJjLXhNMy12elUxWG8yeDlDNk1XQjJrUlNSVXhqLTl3eFJ3OE5xUzRCd1paOC1CZ1Jnb0hQbzNFd0wyVHJZSTc5NkJDbm51OQ",
+      "summary": "【要約】\n医療機関向けクラウド電子カルテを提供するヘンリーが、人手不足に悩む地方病院の業務効率化を支援する取り組みを展開しています。(60字)\n\n※本見出しのみでは労働法制の改正や企業の具体的対応事項は読み取れないため、事実関係の記載に留めました。",
+      "summarizedAt": "2026-09-30T01:10:16.410Z",
       "isGuideline": false
     },
     {
@@ -692,6 +870,19 @@
       "isGuideline": false
     },
     {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/26-3.html",
+      "source": "mhlw_news",
+      "title": "令和８年版厚生労働白書を公表します",
+      "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/26-3.html",
+      "publishedAt": "2026-09-17T09:40:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
+      "summary": "厚生労働省が令和8年版厚生労働白書を公表しました。労務・人事担当者は、最新の労働行政の動向や統計データ、政策の方向性を把握するため、白書の内容を確認することが推奨されます。",
+      "summarizedAt": "2026-09-30T01:09:50.690Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
       "source": "nikkei_news",
       "title": "連合・芳野会長「労働時間の規制強化を」 上野厚労相の続投受け",
@@ -772,6 +963,19 @@
       "summary": "労働政策審議会人材開発分科会の監理団体審査部会が第78回会合を開催します。技能実習制度における監理団体の許可等に関する審査が行われる見込みですが、現時点で人事労務担当者の対応事項はありません。",
       "summarizedAt": "2026-09-17T22:13:33.818Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/index.html",
+      "source": "mhlw_news",
+      "title": "令和８年版厚生労働白書を公表します",
+      "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/index.html",
+      "publishedAt": "2026-09-17T04:43:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-09-30T01:09:30.661Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
+      "summary": "厚生労働省が令和8年版厚生労働白書を公表しました。労働・雇用施策や社会保障に関する最新動向が掲載されているため、人事労務担当者は自社の施策検討の参考資料として内容を確認することが推奨されます。",
+      "summarizedAt": "2026-09-30T01:09:53.219Z",
       "isGuideline": false
     },
     {
@@ -2895,6 +3099,20 @@
       "storyId": "nikkei:CBMiwwFBVV95cUxQeWhJQ3ZsTkczajNYVlI4b1dGTWhGQndqZnBzdGpKOHNpYUZPLS1DZF85bERHQTNFeWtLRnQxaFFKY2pLVERGaTVsTkpNaUxUWlNGbzdiWWc2TGRWX1dQM0JPRU9KOEVXcTc3QW43WXRzclVuZFlobnN3YW8za3dVSDlDbEtucjZ5VWxpUGtjVzRaTXFneTVTY19LM3dfV01IVll6cF96dkRHZTFVNTBjY1lWYm9RNXVlYWxfMnF5WHFsWG8",
       "summary": "# 要約\n\n全国建設業労働災害防止大会が新潟で開催されることが報じられています。建設業の労務・人事担当者は、大会で示される最新の安全対策や労災防止施策の動向を確認し、自社の安全管理体制の見直しに活用することが望まれます。\n\n(99字)",
       "summarizedAt": "2026-09-28T00:25:25.680Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMikwFBVV95cUxQMzJZZDJXOWQ3SmVRRG9XR1ExX0V4SFAyNi1FZUctQzNCcGxNanVRd2dzbTlYTUdJamloYnJXbWNqNTBDeUFJeWp6MTFPZ1QtdGZHb0FRallvdFhraGhpREZkMjJyVHM0bGZfdkM0bHZVU2JqbWJJaVNKQTJ4Ty16RndNTGZkNXQtMzVMN2JWTlFqOWs",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzJZZDJXOWQ3SmVRRG9XR1ExX0V4SFAyNi1FZUctQzNCcGxNanVRd2dzbTlYTUdJamloYnJXbWNqNTBDeUFJeWp6MTFPZ1QtdGZHb0FRallvdFhraGhpREZkMjJyVHM0bGZfdkM0bHZVU2JqbWJJaVNKQTJ4Ty16RndNTGZkNXQtMzVMN2JWTlFqOWs?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-09-30T01:09:30.210Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMikwFBVV95cUxQMzJZZDJXOWQ3SmVRRG9XR1ExX0V4SFAyNi1FZUctQzNCcGxNanVRd2dzbTlYTUdJamloYnJXbWNqNTBDeUFJeWp6MTFPZ1QtdGZHb0FRallvdFhraGhpREZkMjJyVHM0bGZfdkM0bHZVU2JqbWJJaVNKQTJ4Ty16RndNTGZkNXQtMzVMN2JWTlFqOWs",
+      "summary": "【要約】\n新潟で全国建設業労働災害防止大会が開催されます。建設業の労務・人事担当者は、業界全体の安全対策動向や災害防止の取り組み事例を把握する機会として注目すべきでしょう。\n\n（80字）",
+      "summarizedAt": "2026-09-30T01:10:06.160Z",
       "isGuideline": false
     },
     {
@@ -6667,6 +6885,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE9wMUhfTEJjVTcyVFBpWDY0ZzZOY2RienVDbUxqazRiV1lvc3JmeHoxX1gzRWZOTXlqOWI5MTJWSkxEUVpHaWptZjI2TkZqQjdkMUgwcg",
+      "source": "rosei_news",
+      "title": "今春闘「賃上げ正念場」 連合会長、年頭会見",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wMUhfTEJjVTcyVFBpWDY0ZzZOY2RienVDbUxqazRiV1lvc3JmeHoxX1gzRWZOTXlqOWI5MTJWSkxEUVpHaWptZjI2TkZqQjdkMUgwcg?oc=5",
+      "publishedAt": "2026-01-05T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9wMUhfTEJjVTcyVFBpWDY0ZzZOY2RienVDbUxqazRiV1lvc3JmeHoxX1gzRWZOTXlqOWI5MTJWSkxEUVpHaWptZjI2TkZqQjdkMUgwcg",
+      "summary": "連合会長が年頭会見で今春闘を「賃上げ正念場」と位置づけました。労務・人事担当者は労働組合のある企業では春季労使交渉において例年以上に強い賃上げ要求が予想されるため、経営側として適切な対応方針の準備が必要です。",
+      "summarizedAt": "2026-09-30T01:10:42.737Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1HVHhiLWxaejg3ekpFekoweUduZUJnMXdNdzNSRHBlWVNHTGVYaUNTd2ZjZXBla1NkX0Y0UnhQS2ZZdUE4YTVDNHRabTF5T3pTTk9jRQ",
       "source": "rosei_news",
       "title": "国内景気、拡大予想７０％ 賃金上昇、消費回復期待 物価高と米関税が重荷に 主要１１４社アンケート",
@@ -7196,6 +7428,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE56eFZLWE5jYW5vN1QwUzNWR2VWZWZHMGR2TThncW5yQV9WN3ZubjlYcC1MTVA3aF9wYWJaTE5HRG1yRGlCcENHRF9PNkZDMm5FVFRYLQ",
       "summary": "有期労働契約では契約期間中の一方的な労働条件変更は原則不可能であり、雇止めについては契約更新の実態や期待の有無により解雇権濫用法理が類推適用される場合があるため、慎重な対応が求められます。",
       "summarizedAt": "2026-09-16T22:14:16.312Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE8wb0tMZE1hSmZVcTFyUk1qY3FYMzc1WmZGYXNFcmJCMGVfN0laRkRzVFk3Tjg1Sk9SdVFzd2V5c29ZU2plYzlJVUJIOTBrdUtyb1g2dw",
+      "source": "rosei_news",
+      "title": "2025年度地域別最低賃金",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wb0tMZE1hSmZVcTFyUk1qY3FYMzc1WmZGYXNFcmJCMGVfN0laRkRzVFk3Tjg1Sk9SdVFzd2V5c29ZU2plYzlJVUJIOTBrdUtyb1g2dw?oc=5",
+      "publishedAt": "2025-09-26T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE8wb0tMZE1hSmZVcTFyUk1qY3FYMzc1WmZGYXNFcmJCMGVfN0laRkRzVFk3Tjg1Sk9SdVFzd2V5c29ZU2plYzlJVUJIOTBrdUtyb1g2dw",
+      "summary": "2025年度の地域別最低賃金の改定動向について情報提供する記事です。人事・労務担当者は、自社の所在地域における最低賃金額の変更を確認し、パート・アルバイト等の時給設定が改定後の最低賃金を下回らないよう賃金改定の準備を進める必要があります。",
+      "summarizedAt": "2026-09-30T01:10:34.256Z",
       "isGuideline": false
     },
     {
@@ -7916,6 +8162,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE5OaFFZXzd3QmFuaG1KMVRwcFY5X0FKNTNtZzBRREhleUdIUEtISXo2RGRXU1hDSnNSMnVUMzZZRTNxTFZVTnczazFzeTlhSWtIWGVsODl1QWxkZlk",
+      "source": "rosei_news",
+      "title": "【ZOOM】『人材を惹きつける戦略的賃上げの実践』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OaFFZXzd3QmFuaG1KMVRwcFY5X0FKNTNtZzBRREhleUdIUEtISXo2RGRXU1hDSnNSMnVUMzZZRTNxTFZVTnczazFzeTlhSWtIWGVsODl1QWxkZlk?oc=5",
+      "publishedAt": "2025-02-19T05:03:59.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE5OaFFZXzd3QmFuaG1KMVRwcFY5X0FKNTNtZzBRREhleUdIUEtISXo2RGRXU1hDSnNSMnVUMzZZRTNxTFZVTnczazFzeTlhSWtIWGVsODl1QWxkZlk",
+      "summary": "本見出しのみでは制度改正や法改正に関する具体的情報が含まれていないため、法制度上「何がどう変わるか」を示すことはできません。人材獲得競争における戦略的な賃上げ手法を扱う特集記事と推測されますが、実務上の対応要件は本文確認が必要です。",
+      "summarizedAt": "2026-09-30T01:10:46.241Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBrUjVTUVVrcVF0QW1jZXlfSkpXMTFDQjEtaUxWcGFKLVRMZmlnVnVuY0Z6YzYtUFZWdFJEV2cxVmdoRm03Nkd3MHdLVXFQZDY0Zi1ENA",
       "source": "rosei_news",
       "title": "『訴訟リスクを回避する “3大労使トラブル” 円満解決の実践的手法——ハラスメント・復職トラブル・残業代請求』",
@@ -8053,6 +8313,20 @@
       "summary": "法令で明文化されていないハラスメント類型についても、企業には職場環境配慮義務があり、一定の対応が求められます。相談窓口の設置や事実確認、必要に応じた措置など、既存のハラスメント防止体制を活用した対応を検討すべきです。",
       "summarizedAt": "2026-09-03T22:18:11.019Z",
       "storyId": "rosei:CBMiVEFVX3lxTE1MeEViTnNJWkUxRVJHQ3A5LUVsbEE2UU1lNTJ0OGxZcUZ0c3FUcDFzX1lQY2lBTHVvNU5teUU0VTBGc2huR015a1RpUHBHanlKR2FnTQ",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE42d2NXWG1ScEp0Vm1mUG85dEZkemp0bzFONHhxNWdOcm9iVWpkMjN3VldjNGRLaG1qQmNZdVNuR3doWVhWXzFQbXFLNm1YUG45elVjOQ",
+      "source": "rosei_news",
+      "title": "2024年度 部長・課長・係長クラス・一般社員のホワイトカラー職種別賃金調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d2NXWG1ScEp0Vm1mUG85dEZkemp0bzFONHhxNWdOcm9iVWpkMjN3VldjNGRLaG1qQmNZdVNuR3doWVhWXzFQbXFLNm1YUG45elVjOQ?oc=5",
+      "publishedAt": "2025-01-10T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE42d2NXWG1ScEp0Vm1mUG85dEZkemp0bzFONHhxNWdOcm9iVWpkMjN3VldjNGRLaG1qQmNZdVNuR3doWVhWXzFQbXFLNm1YUG45elVjOQ",
+      "summary": "2024年度における部長・課長・係長・一般社員のホワイトカラー職種別の賃金実態調査結果が公表されました。自社の賃金水準を役職別・職種別に見直す際のベンチマーク資料として活用できます。",
+      "summarizedAt": "2026-09-30T01:10:36.753Z",
       "isGuideline": false
     },
     {
@@ -8208,6 +8482,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE9hTl9MTHZXLWh3cDgxdHZwaHBBQ3gtd25rckhNS0dwNk1RejRySGVQbjVtM3E0MnU5a1BIRHF2LVlibWpUeElUSkVDTGkxZUczYzlrOA",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE4yQ3BHdUU3bjNfZnlLMFNmY3IzYlQ1WHRNdU5GR3FIVF9hb2s1d2VLMVk4QWNDWlJmMWNmVTNqbHZFYlNTZ3c5cHI2QnZtcUFfUnhLb0hyUUxYNFE",
+      "source": "rosei_news",
+      "title": "『カスタマーハラスメント対策と企業対応』【半日】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yQ3BHdUU3bjNfZnlLMFNmY3IzYlQ1WHRNdU5GR3FIVF9hb2s1d2VLMVk4QWNDWlJmMWNmVTNqbHZFYlNTZ3c5cHI2QnZtcUFfUnhLb0hyUUxYNFE?oc=5",
+      "publishedAt": "2024-11-02T20:03:54.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE4yQ3BHdUU3bjNfZnlLMFNmY3IzYlQ1WHRNdU5GR3FIVF9hb2s1d2VLMVk4QWNDWlJmMWNmVTNqbHZFYlNTZ3c5cHI2QnZtcUFfUnhLb0hyUUxYNFE",
+      "summary": "【要約】\nカスタマーハラスメント対策に関する半日研修・セミナーが開催されます。企業の人事労務担当者は、顧客等からのハラスメントへの対応方針や実務対応について学ぶ機会として活用できます。\n\n（79字）",
+      "summarizedAt": "2026-09-30T01:10:39.513Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiW0FVX3lxTE5oc0VqYmt6TENndWFiRnZIUGRjLTQ5QU16ZGFHR0pSaG95aE1tXzA2YjRabTR1TWlvT3NlR2lXcXU4T3RUQzlxclFoMmxoQmMteDgtOTVRcTZyVnM",
@@ -9623,6 +9911,20 @@
       "summary": "職場のハラスメントに関する適正な対応方法と実務上の取り扱いについて解説した記事です。人事労務担当者は、ハラスメント防止措置や発生時の対応手順など、実務に必要な知識を確認することが推奨されます。",
       "summarizedAt": "2026-09-08T22:15:11.206Z",
       "storyId": "rosei:CBMiWkFVX3lxTFBKYVBMT21CZUh6MFdQUnN6MGdMS21IbU01cTYtbHB3dVVKS1R3Z0xxRk1JS0kxbFdYaGo5SGFnQTVsdUItT2ZsdlMyTEJDSmU5OUNPMXNvLUpodw",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMia0FVX3lxTE15VUdzR1lodE54Z3dxRERuVEtuU1M4THJUeVJTNEFleEtncXRodFBvenFhME91ZUJNbVlIM0tRUkRfa0Uta0ZDT2g0RnRPbFNLcEtqckRCVDR5TFFtaHdfdGR6VEhkeGd4cG1z",
+      "source": "rosei_news",
+      "title": "同一労働同一賃金の 施行前総まとめ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15VUdzR1lodE54Z3dxRERuVEtuU1M4THJUeVJTNEFleEtncXRodFBvenFhME91ZUJNbVlIM0tRUkRfa0Uta0ZDT2g0RnRPbFNLcEtqckRCVDR5TFFtaHdfdGR6VEhkeGd4cG1z?oc=5",
+      "publishedAt": "2022-11-08T16:52:40.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-09-30T01:09:30.212Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMia0FVX3lxTE15VUdzR1lodE54Z3dxRERuVEtuU1M4THJUeVJTNEFleEtncXRodFBvenFhME91ZUJNbVlIM0tRUkRfa0Uta0ZDT2g0RnRPbFNLcEtqckRCVDR5TFFtaHdfdGR6VEhkeGd4cG1z",
+      "summary": "【要約】\n同一労働同一賃金の法施行を控え、正規・非正規労働者間の不合理な待遇差解消に向けた制度整備が必要です。施行前に賃金・手当等の待遇を点検し、必要な制度見直しと説明体制の準備を完了させましょう。\n\n（107字）",
+      "summarizedAt": "2026-09-30T01:10:31.167Z",
       "isGuideline": false
     },
     {
