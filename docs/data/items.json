@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-10-02T01:27:43.474Z",
+  "updatedAt": "2026-10-03T01:00:37.224Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg",
+      "source": "nikkei_news",
+      "title": "技能実習生の受け入れ認定取り消し、26年度は100社ペース",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg?oc=5",
+      "publishedAt": "2026-10-02T10:13:08.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg",
+      "summary": "技能実習生の受け入れ認定取り消しが2026年度は年間100社ペースで進む見通しです。実習生を受け入れている企業は、労働環境や処遇の適正化を徹底し、認定取り消しのリスクに備えた管理体制の見直しが必要です。",
+      "summarizedAt": "2026-10-03T01:00:11.019Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9CbVNsc2xRU2x3NVJzYXZRV3ViRGpkV3RtdVBxUGh6MGxWSlZuT1l2ZEJoS2ZhQ2x5MGlUM3J2V1R0MlVnSExlX3FtMk1meEJsSHM4SGRCbzJNSTI0Z2xDWi1ORTNEOHpnMWJubQ",
+      "source": "nikkei_news",
+      "title": "京都経営者協会、職員の労働時間管理の不備判明 是正措置も実施",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CbVNsc2xRU2x3NVJzYXZRV3ViRGpkV3RtdVBxUGh6MGxWSlZuT1l2ZEJoS2ZhQ2x5MGlUM3J2V1R0MlVnSExlX3FtMk1meEJsSHM4SGRCbzJNSTI0Z2xDWi1ORTNEOHpnMWJubQ?oc=5",
+      "publishedAt": "2026-10-02T10:08:52.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9CbVNsc2xRU2x3NVJzYXZRV3ViRGpkV3RtdVBxUGh6MGxWSlZuT1l2ZEJoS2ZhQ2x5MGlUM3J2V1R0MlVnSExlX3FtMk1meEJsSHM4SGRCbzJNSTI0Z2xDWi1ORTNEOHpnMWJubQ",
+      "summary": "京都経営者協会において職員の労働時間管理に不備があったことが判明し、是正措置が実施されました。労務管理を指導する立場の団体での事例として、自社の勤怠管理体制の再点検が推奨されます。",
+      "summarizedAt": "2026-10-03T01:00:27.805Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1xRGtBNHE4ZjhsYnQ2S2NQVk1pNndDWEZyX3ZFcXVPdy1EVktmZEgzbElWUUd0UFVsVEUzMUR0MTVFTUxZR2txdUVWS2lTTHhwTFhXQlhqZkg1Y0pmSlQwU21KV3RyV0N1eEpSeg",
+      "source": "nikkei_news",
+      "title": "就活ハラスメント、学生の2割超が経験",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xRGtBNHE4ZjhsYnQ2S2NQVk1pNndDWEZyX3ZFcXVPdy1EVktmZEgzbElWUUd0UFVsVEUzMUR0MTVFTUxZR2txdUVWS2lTTHhwTFhXQlhqZkg1Y0pmSlQwU21KV3RyV0N1eEpSeg?oc=5",
+      "publishedAt": "2026-10-02T05:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1xRGtBNHE4ZjhsYnQ2S2NQVk1pNndDWEZyX3ZFcXVPdy1EVktmZEgzbElWUUd0UFVsVEUzMUR0MTVFTUxZR2txdUVWS2lTTHhwTFhXQlhqZkg1Y0pmSlQwU21KV3RyV0N1eEpSeg",
+      "summary": "就職活動中の学生の2割以上が就活ハラスメントを経験しているという調査結果が明らかになりました。採用担当者は学生との面接や接触時の言動に十分配慮し、ハラスメント防止対策の徹底が求められます。",
+      "summarizedAt": "2026-10-03T01:00:19.791Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBZeVZhMERIRml1ODEzVDAwMzg3c09PM0dPZERnSzNhTUZPN3U2NkFTV2h3bnYyc1dHQUl5SzhzdUkwU0JKVTZ5ajJzZzZSbVQ0U3BzVg",
+      "source": "rosei_news",
+      "title": "2026年度労働時間総合調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZeVZhMERIRml1ODEzVDAwMzg3c09PM0dPZERnSzNhTUZPN3U2NkFTV2h3bnYyc1dHQUl5SzhzdUkwU0JKVTZ5ajJzZzZSbVQ0U3BzVg?oc=5",
+      "publishedAt": "2026-10-02T03:14:55.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-03T00:59:49.109Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBZeVZhMERIRml1ODEzVDAwMzg3c09PM0dPZERnSzNhTUZPN3U2NkFTV2h3bnYyc1dHQUl5SzhzdUkwU0JKVTZ5ajJzZzZSbVQ0U3BzVg",
+      "summary": "労政時報が2026年度の労働時間に関する総合的な実態調査を実施しており、企業の労働時間管理の現状や動向を把握するためのデータが提供される見込みです。自社の労働時間制度や管理方法を見直す際の参考資料として活用できます。",
+      "summarizedAt": "2026-10-03T01:00:30.611Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBxcFZjZzIwV2tuanZDZHJqVExrbnZaS3Y1ZGpIM2FqN28zaURfbkhOYWlGVktaQngxQU5ySzhRT2dEYUNYVEdPUjZLNnJJTkNfMmYzMQ",
+      "source": "rosei_news",
+      "title": "カスタマーハラスメント対策企業マニュアル（令和８年度改訂版）を公表／労災保険法等改正法の施行に伴う関係政省令の改正等について案を提示／いわゆる「障害者雇用ビジネス」への対応について議論 等",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxcFZjZzIwV2tuanZDZHJqVExrbnZaS3Y1ZGpIM2FqN28zaURfbkhOYWlGVktaQngxQU5ySzhRT2dEYUNYVEdPUjZLNnJJTkNfMmYzMQ?oc=5",
+      "publishedAt": "2026-10-02T03:14:52.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-03T00:59:49.109Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBxcFZjZzIwV2tuanZDZHJqVExrbnZaS3Y1ZGpIM2FqN28zaURfbkhOYWlGVktaQngxQU5ySzhRT2dEYUNYVEdPUjZLNnJJTkNfMmYzMQ",
+      "summary": "厚生労働省がカスタマーハラスメント対策の企業向けマニュアルの令和8年度改訂版を公表し、労災保険法等の改正法施行に伴う関係政省令の改正案が示されました。また障害者雇用ビジネスへの対応が議論されており、人事労務担当者は各制度改正の内容確認と自社への影響を把握する必要があります。",
+      "summarizedAt": "2026-10-03T01:00:37.222Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE10bm8wV2ZmV1NCTmxmbW9qUEpadHluZ19VNWc5VDc4ckdHbXo5OXRSUDloWlo1QkhvOXNBN0lqZG1WcmtKcVdkRVU2RHkyNmtUcHNGbW1wSUJmTGFISUlvYWc1QkFJdHpncUlKWA",
+      "source": "nikkei_news",
+      "title": "8月新規求人3.4%減 最低賃金引き上げ前、企業に採用控えの動き",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10bm8wV2ZmV1NCTmxmbW9qUEpadHluZ19VNWc5VDc4ckdHbXo5OXRSUDloWlo1QkhvOXNBN0lqZG1WcmtKcVdkRVU2RHkyNmtUcHNGbW1wSUJmTGFISUlvYWc1QkFJdHpncUlKWA?oc=5",
+      "publishedAt": "2026-10-02T02:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10bm8wV2ZmV1NCTmxmbW9qUEpadHluZ19VNWc5VDc4ckdHbXo5OXRSUDloWlo1QkhvOXNBN0lqZG1WcmtKcVdkRVU2RHkyNmtUcHNGbW1wSUJmTGFISUlvYWc1QkFJdHpncUlKWA",
+      "summary": "8月の新規求人数が前年同月比3.4%減少し、最低賃金引き上げ前に企業が採用を控える動きが見られました。人件費増加を見据えた採用抑制傾向に留意が必要です。",
+      "summarizedAt": "2026-10-03T01:00:02.863Z",
+      "isGuideline": false
+    },
     {
       "id": "egov:323AC0000000130:20261001",
       "source": "egov_law_update",
@@ -352,6 +436,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE03V0hoU1BYenpvek5sQ2lBYTZhcjdXR2Z0WFV2SWdtZUE5c1JVdGhvekFDWXV5dWpscGpIMnEzaXJFSWNSTG8xMEtfaHhEWDdwUlhqcw",
+      "source": "rosei_news",
+      "title": "会社が、労働組合専従者の昇進を他の社員より早める労使慣行は、不当労働行為に該当するか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03V0hoU1BYenpvek5sQ2lBYTZhcjdXR2Z0WFV2SWdtZUE5c1JVdGhvekFDWXV5dWpscGpIMnEzaXJFSWNSTG8xMEtfaHhEWDdwUlhqcw?oc=5",
+      "publishedAt": "2026-10-02T00:53:19.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-03T00:59:49.109Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE03V0hoU1BYenpvek5sQ2lBYTZhcjdXR2Z0WFV2SWdtZUE5c1JVdGhvekFDWXV5dWpscGpIMnEzaXJFSWNSTG8xMEtfaHhEWDdwUlhqcw",
+      "summary": "労働組合の専従者を一般社員より優遇して昇進させる労使慣行の存在が、使用者による組合活動への支配介入として不当労働行為に該当するかが争点となっている事案について解説しています。労組専従者の人事処遇において過度な優遇措置がないか、既存の労使慣行を確認する必要があります。",
+      "summarizedAt": "2026-10-03T01:00:34.297Z",
+      "isGuideline": false
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76543.html",
       "source": "mhlw_news",
       "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
@@ -390,6 +488,34 @@
       "storyId": "nikkei:CBMiZ0FVX3lxTFBuU1pVcW5KRlZyakNDZTlOSEJ6MUxNLXdGX1JOTEFjTmEyaVRVTzhuaG1tQXZwQ1JFNWFoaHY3dTN2WGJwY1FDOEplNExBbjRmTlhrMVpHZEF2YmdLN29jZXNjQ0YxRU0",
       "summary": "タクシー業界で賃金が急上昇しており、入社6年目49歳で年収1264万円の事例が報告されています。人手不足が深刻な運輸業界において、採用・定着強化のため自社の賃金水準を見直す必要性が高まっています。",
       "summarizedAt": "2026-10-02T01:27:25.468Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE92Z3ZnMWJmSkhoa05UZV8xZldPeVRaUUVzWEQ4MFRxYl9HekhFMXVKdnktRVBqakkxeFM4dnBtVFk4U0k3cGdQMk85X3FNd1NrTkVwZGhKZGpQeEthTUxTVG5SYi1IMEhIaWhHag",
+      "source": "nikkei_news",
+      "title": "日銀9月短観、信越の景況感 長野、8年ぶり高水準 人手不足は深刻に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Z3ZnMWJmSkhoa05UZV8xZldPeVRaUUVzWEQ4MFRxYl9HekhFMXVKdnktRVBqakkxeFM4dnBtVFk4U0k3cGdQMk85X3FNd1NrTkVwZGhKZGpQeEthTUxTVG5SYi1IMEhIaWhHag?oc=5",
+      "publishedAt": "2026-10-01T16:49:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE92Z3ZnMWJmSkhoa05UZV8xZldPeVRaUUVzWEQ4MFRxYl9HekhFMXVKdnktRVBqakkxeFM4dnBtVFk4U0k3cGdQMk85X3FNd1NrTkVwZGhKZGpQeEthTUxTVG5SYi1IMEhIaWhHag",
+      "summary": "日銀9月短観によると、長野県の企業景況感が8年ぶりの高水準となった一方、人手不足が深刻化しています。人事担当者は採用難の長期化を想定し、採用チャネルの多様化や処遇改善などの対策強化が求められます。",
+      "summarizedAt": "2026-10-03T01:00:13.818Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5uWU91djVSWDM1dGRuam1kei1PLXpHWXRMdlZNX01UUHc1M0hTaE5MRnVxbVQ0VmNOUkwyc0dlcVJmdWtza0ctWjdkekx0YXR4blVIN0g5SnJCeDgxWE9TOXN5OGtua1NJU2hzcw",
+      "source": "nikkei_news",
+      "title": "長野県景況感、35年ぶりの人手不足水準 日銀松本支店9月短観",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWU91djVSWDM1dGRuam1kei1PLXpHWXRMdlZNX01UUHc1M0hTaE5MRnVxbVQ0VmNOUkwyc0dlcVJmdWtza0ctWjdkekx0YXR4blVIN0g5SnJCeDgxWE9TOXN5OGtua1NJU2hzcw?oc=5",
+      "publishedAt": "2026-10-01T10:15:28.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5uWU91djVSWDM1dGRuam1kei1PLXpHWXRMdlZNX01UUHc1M0hTaE5MRnVxbVQ0VmNOUkwyc0dlcVJmdWtza0ctWjdkekx0YXR4blVIN0g5SnJCeDgxWE9TOXN5OGtua1NJU2hzcw",
+      "summary": "日銀松本支店の9月短観によると、長野県の雇用人員判断DIが35年ぶりの人手不足水準に達しました。採用競争の激化が予想されるため、労務・人事担当者は処遇改善や採用手法の見直しなど、人材確保策の強化が求められます。",
+      "summarizedAt": "2026-10-03T01:00:16.818Z",
       "isGuideline": false
     },
     {
@@ -581,6 +707,20 @@
       "storyId": "nikkei:CBMiU0FVX3lxTFBwYjB5dEU5SDNDcjd0U050Z080YVd6cXhYbVd2MWlLUUl1dGw2QkdsaG5iVFZvWUNaZEpOcXp3VWJtd0Q2bG1qWDJRZmpqOG4yOXYw",
       "summary": "この見出しのみからは、パート労働者の賃上げ率が正社員を上回る事例があり、人件費配分の最適化について問題提起している記事と推測されますが、具体的な法改正や実務上の対応事項は読み取れません。記事本文の確認が必要です。",
       "summarizedAt": "2026-10-02T01:27:31.856Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBXZk0zdEE2cExkbHBibU03NkVXczlQTU5QYUlIbFZkTXozQXRjN2ctal9DaFN5RmhQZGoxWFJQUEVabjhGVzE2eG8yVXc0eklROVJDaGVvYnM4bmxNWHhYNmUyUGVPUGZKU1ItcQ",
+      "source": "nikkei_news",
+      "title": "障害者雇用ビジネスで初の民間指針 適切な支援基準明示",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZk0zdEE2cExkbHBibU03NkVXczlQTU5QYUlIbFZkTXozQXRjN2ctal9DaFN5RmhQZGoxWFJQUEVabjhGVzE2eG8yVXc0eklROVJDaGVvYnM4bmxNWHhYNmUyUGVPUGZKU1ItcQ?oc=5",
+      "publishedAt": "2026-09-30T10:49:01.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBXZk0zdEE2cExkbHBibU03NkVXczlQTU5QYUlIbFZkTXozQXRjN2ctal9DaFN5RmhQZGoxWFJQUEVabjhGVzE2eG8yVXc0eklROVJDaGVvYnM4bmxNWHhYNmUyUGVPUGZKU1ItcQ",
+      "summary": "障害者雇用を支援するビジネスに関して、初めて民間事業者向けの指針が策定され、適切な支援のための基準が明示されました。障害者雇用を外部委託している企業は、委託先が新指針に準拠しているか確認が必要です。",
+      "summarizedAt": "2026-10-03T01:00:05.720Z",
       "isGuideline": false
     },
     {
@@ -1285,6 +1425,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE5tWHRmUTNVdTJZMzRnR0JFVjBCY2NDQlYxbDlxR2xSYkYzajZleVpfbEtlUHhQUDh5SUM0MUF6T1dGZjBRUk4yNGpZX3FZRG5vdHVHbEFqZ3hYVkQzYkRRMXI2Y2xxeXctTS1MeQ",
       "summary": "ANAの機長によるセクハラ事件で実刑判決が出たことを受け、企業には事件発生時の対応や再発防止策について、社会に対する説明責任が問われています。人事・労務担当者は、ハラスメント防止体制の実効性を検証し、透明性ある情報開示の準備が必要です。",
       "summarizedAt": "2026-09-18T22:13:59.341Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76345.html",
+      "source": "mhlw_news",
+      "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76345.html",
+      "publishedAt": "2026-09-18T10:38:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-03T00:59:49.391Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76345.html",
+      "summary": "労働政策審議会人材開発分科会の第60回会合が開催されます。人材育成や能力開発に関する政策の審議状況を把握するため、後日公表される議事録や資料を確認することが推奨されます。",
+      "summarizedAt": "2026-10-03T01:00:00.532Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -3779,6 +3933,20 @@
       "storyId": "nikkei:CBMikwFBVV95cUxQU3ZkSGN1eVNZTmI0SFhyMUNYZDdmOXFvOTBsY1FRLXd0V01rOTZvdHZyamtudy1NcDFacDI1T3Q1bVd3VGxBWXZPQ1N1SHQwbHA0MUdxQTdha050cWhCTTB1bHhXTkhpWTZqbHA2Vmh6NzFZUzlkS2tJd2ZxV1FkNjkzQ3BkS05tZlVxTnNiRUo3clU",
       "summary": "【要約】\n新潟で全国建設業労働災害防止大会が開催されます。建設業の労務・人事担当者は、業界全体の安全対策の最新動向や災害防止の取り組み事例を把握する機会として活用できます。\n\n(80字)",
       "summarizedAt": "2026-10-01T01:09:37.116Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMikwFBVV95cUxQYnZPcU9leTh4OVNERWc2OUpZUnVsbHlPTHBucW1kaXFvY0lCTXg0VjF4MkNaS2hjWjkwc21kUTZfZUZrWmgzREpzbldVTmtNc0o5OEY2Z3VoOFlETlQ3V0xZeThiVERCWHo0eWJnOUpDVmg0ZHYyVkx1VFF5N2NZbllqRk1jckNWRl8yek5qUHBxM3M",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnZPcU9leTh4OVNERWc2OUpZUnVsbHlPTHBucW1kaXFvY0lCTXg0VjF4MkNaS2hjWjkwc21kUTZfZUZrWmgzREpzbldVTmtNc0o5OEY2Z3VoOFlETlQ3V0xZeThiVERCWHo0eWJnOUpDVmg0ZHYyVkx1VFF5N2NZbllqRk1jckNWRl8yek5qUHBxM3M?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMikwFBVV95cUxQYnZPcU9leTh4OVNERWc2OUpZUnVsbHlPTHBucW1kaXFvY0lCTXg0VjF4MkNaS2hjWjkwc21kUTZfZUZrWmgzREpzbldVTmtNc0o5OEY2Z3VoOFlETlQ3V0xZeThiVERCWHo0eWJnOUpDVmg0ZHYyVkx1VFF5N2NZbllqRk1jckNWRl8yek5qUHBxM3M",
+      "summary": "# 要約\n\n全国建設業労働災害防止大会が新潟で開催されます。建設業の労務・人事担当者は、業界全体の安全対策や労災防止の最新動向を把握する機会として活用できます。\n\n(74文字)",
+      "summarizedAt": "2026-10-03T01:00:08.273Z",
       "isGuideline": false
     },
     {
@@ -8617,6 +8785,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMipwFBVV95cUxNdzE4YU5OVTc1UlFodDJ2c3pISDAyX1F6RUFXcjFlYXl1UDBFZjkwX3FNRko4QVhuXzVsYzBmU040UTV5SU9rLTRsMUpzZFV1VVlYdm9mSE8wSy1laUVkY2YwWW1NeW5lQ3BXS3E3QUJDckY3c3NjYnRvSmVBZkxCWGJ3aEg0OU1yeFJPa1YtZTJobS1HaHdxb18yY1pJR3hLaDl1TzM4OA",
+      "source": "nikkei_news",
+      "title": "「カスタマーハラスメントに対する基本方針」策定に関するお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzE4YU5OVTc1UlFodDJ2c3pISDAyX1F6RUFXcjFlYXl1UDBFZjkwX3FNRko4QVhuXzVsYzBmU040UTV5SU9rLTRsMUpzZFV1VVlYdm9mSE8wSy1laUVkY2YwWW1NeW5lQ3BXS3E3QUJDckY3c3NjYnRvSmVBZkxCWGJ3aEg0OU1yeFJPa1YtZTJobS1HaHdxb18yY1pJR3hLaDl1TzM4OA?oc=5",
+      "publishedAt": "2025-03-24T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMipwFBVV95cUxNdzE4YU5OVTc1UlFodDJ2c3pISDAyX1F6RUFXcjFlYXl1UDBFZjkwX3FNRko4QVhuXzVsYzBmU040UTV5SU9rLTRsMUpzZFV1VVlYdm9mSE8wSy1laUVkY2YwWW1NeW5lQ3BXS3E3QUJDckY3c3NjYnRvSmVBZkxCWGJ3aEg0OU1yeFJPa1YtZTJobS1HaHdxb18yY1pJR3hLaDl1TzM4OA",
+      "summary": "カスタマーハラスメント対策の基本方針が策定されました。自社でも顧客や取引先からの迷惑行為への対応指針を定め、従業員を守る体制整備が求められます。",
+      "summarizedAt": "2026-10-03T01:00:22.072Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1aY0ZwZFkzQjRoQzZpWHFEcEFhdzVKeExnMDJOVGJZdU5mdkVCdVR0NExINmlrQ3NySnRqUW1aeHN5WjVtek9sTlNFS291blgwMHkteQ",
       "source": "rosei_news",
       "title": "いったん取得した年次有給休暇を無給の介護休暇に振り替えることはできるか",
@@ -10746,6 +10928,20 @@
       "isGuideline": false,
       "storyId": "nikkei:CBMi0gFBVV95cUxPMjZJVzR6cjE5LVJ5eWh5Q2NJdDFhUm5pb2FHLW1kZzdYdzBTV0ZWcmV4LU0xdF82OVpLeWJNWEhsTVBidlJWekdIMzNMVEt4cks2djdSZEpjVDVfLWp1SVVjWVBFRWlGdVNRUjJpWmFmMUNNZ3dmc2lDS25iUXc5RWg4Yi1iVy1DZFBnbER5b2Z5VmIzbG1xX2I3ZnFpR1JqR2F6OHpLeXM3TUZzX3F5OWwzUVRCejFIZHM1R042SzRfMkhOVkpXRlF5aWZrM0xIUUE",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMi2gFBVV95cUxQdTFnWTBfZUJZejJWXzVIZi03ZlY1RTE0VGRlMWk2TlhaV0JqQ1U4N2ZGSG5rMGNJUHowREVBR0pmRk9vZW9ZWXRfNkw4QnBYVkU4WDlfTHVZRENHZl9RV2o2ZEtwZWhLVm12Ul9zNExpWXR3NkZjb2Q4dENkdEt5NXZTR3RKWHdfYTNnVkx4R0t3VWxJcXRKRmJXd0Jhb2phSU85M0RyYm5KajFnX3pXeExrZFZuR0pDMDd6c1dZVnFWdVJoalV2SlpwRVZZUVF2Rm5CU2ZBV28yQQ",
+      "source": "nikkei_news",
+      "title": "賃上げ包囲網",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTFnWTBfZUJZejJWXzVIZi03ZlY1RTE0VGRlMWk2TlhaV0JqQ1U4N2ZGSG5rMGNJUHowREVBR0pmRk9vZW9ZWXRfNkw4QnBYVkU4WDlfTHVZRENHZl9RV2o2ZEtwZWhLVm12Ul9zNExpWXR3NkZjb2Q4dENkdEt5NXZTR3RKWHdfYTNnVkx4R0t3VWxJcXRKRmJXd0Jhb2phSU85M0RyYm5KajFnX3pXeExrZFZuR0pDMDd6c1dZVnFWdVJoalV2SlpwRVZZUVF2Rm5CU2ZBV28yQQ?oc=5",
+      "publishedAt": "2022-07-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-03T00:59:49.108Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi2gFBVV95cUxQdTFnWTBfZUJZejJWXzVIZi03ZlY1RTE0VGRlMWk2TlhaV0JqQ1U4N2ZGSG5rMGNJUHowREVBR0pmRk9vZW9ZWXRfNkw4QnBYVkU4WDlfTHVZRENHZl9RV2o2ZEtwZWhLVm12Ul9zNExpWXR3NkZjb2Q4dENkdEt5NXZTR3RKWHdfYTNnVkx4R0t3VWxJcXRKRmJXd0Jhb2phSU85M0RyYm5KajFnX3pXeExrZFZuR0pDMDd6c1dZVnFWdVJoalV2SlpwRVZZUVF2Rm5CU2ZBV28yQQ",
+      "summary": "【要約】\n\n記事見出しのみでは具体的な法改正や制度変更の内容が不明なため、人事労務担当者が対応すべき具体的な事項を特定できません。賃上げに関する政策動向の可能性がありますが、詳細は本文の確認が必要です。\n\n(80字)",
+      "summarizedAt": "2026-10-03T01:00:25.244Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBTWHQ4bEpLNnlkLXZnTEFPX0xiaFA2ZHZicFEzOW5EWnhEanIxWXV5bG5PMGZuUko0eHRhNnQ0Y2RadGlCcFZRaENjNzZGeFNYVHFvWWdOY2o3dE4zNmtKZmdOSTNwaHlBY0d1aQ",
