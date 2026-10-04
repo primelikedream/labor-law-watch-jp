@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T01:00:37.224Z",
+  "updatedAt": "2026-10-04T00:24:16.750Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg",
@@ -3947,6 +3947,20 @@
       "storyId": "nikkei:CBMikwFBVV95cUxQYnZPcU9leTh4OVNERWc2OUpZUnVsbHlPTHBucW1kaXFvY0lCTXg0VjF4MkNaS2hjWjkwc21kUTZfZUZrWmgzREpzbldVTmtNc0o5OEY2Z3VoOFlETlQ3V0xZeThiVERCWHo0eWJnOUpDVmg0ZHYyVkx1VFF5N2NZbllqRk1jckNWRl8yek5qUHBxM3M",
       "summary": "# 要約\n\n全国建設業労働災害防止大会が新潟で開催されます。建設業の労務・人事担当者は、業界全体の安全対策や労災防止の最新動向を把握する機会として活用できます。\n\n(74文字)",
       "summarizedAt": "2026-10-03T01:00:08.273Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMi4gFBVV95cUxOM0RDZkRwOFkxalg4Qkw4aFUzdkMtbGV1THJKNy0xaVF4aGktemhfUWxmM1I2SEQtbmlFNHpWQzJQc0pRZnMzaTRENkVfZGhmdHpRY3hENVBkeWxUeG1SakdHWTJzZF9qMW9fNk1iZTdSNUNxa3h4Q2pqZjdSbnJRNTRPVnpmY1k1VktpcjFZckhBdzY2blo3QlFmTVc0eXpXZWhmYWFvNzFiM2MyVmdsQ2xEOFd1emJ0TkxXS2psSzdRNWlsQndEbVRoVWpZNzZsWG4ydzljZnRZTERxSEpKZWVB",
+      "source": "nikkei_news",
+      "title": "全国建設業労働災害防止大会 in 新潟",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0RDZkRwOFkxalg4Qkw4aFUzdkMtbGV1THJKNy0xaVF4aGktemhfUWxmM1I2SEQtbmlFNHpWQzJQc0pRZnMzaTRENkVfZGhmdHpRY3hENVBkeWxUeG1SakdHWTJzZF9qMW9fNk1iZTdSNUNxa3h4Q2pqZjdSbnJRNTRPVnpmY1k1VktpcjFZckhBdzY2blo3QlFmTVc0eXpXZWhmYWFvNzFiM2MyVmdsQ2xEOFd1emJ0TkxXS2psSzdRNWlsQndEbVRoVWpZNzZsWG4ydzljZnRZTERxSEpKZWVB?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-04T00:24:02.138Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi4gFBVV95cUxOM0RDZkRwOFkxalg4Qkw4aFUzdkMtbGV1THJKNy0xaVF4aGktemhfUWxmM1I2SEQtbmlFNHpWQzJQc0pRZnMzaTRENkVfZGhmdHpRY3hENVBkeWxUeG1SakdHWTJzZF9qMW9fNk1iZTdSNUNxa3h4Q2pqZjdSbnJRNTRPVnpmY1k1VktpcjFZckhBdzY2blo3QlFmTVc0eXpXZWhmYWFvNzFiM2MyVmdsQ2xEOFd1emJ0TkxXS2psSzdRNWlsQndEbVRoVWpZNzZsWG4ydzljZnRZTERxSEpKZWVB",
+      "summary": "【要約】\n全国規模の建設業における労働災害防止大会が新潟で開催されます。建設業の労務・人事担当者は、業界の安全衛生動向や災害防止の最新取組を把握する機会として参加を検討すべきです。\n\n(77字)",
+      "summarizedAt": "2026-10-04T00:24:14.170Z",
       "isGuideline": false
     },
     {
@@ -8741,6 +8755,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiW0FVX3lxTE9Rd3MxOWFvLTFJUlhEMDhwdl9SNmIyNE5ZSE9VYXV3RXczQlZVNF81S0lZamlKNUowMkEzc2dxQjk2bk5URjBmZWV6bnhYNXlZblczSnpCM1hHb3c",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBkd1FtSWF4ZWlTSkVBT3ZVdERGckF3akltT2lUZGl2Rzk3Y3JCb3k0dHhhY3B6SHZaTlRwaGU2cm4wRWtBVDhrbDQ0amMxZVcxXzh3R2pTYUNYNTEtRkhnZ1RuX0pnZEV3cUVPMg",
+      "source": "nikkei_news",
+      "title": "ふくおかFG、平均6%賃上げ 初任給1万円上げも",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkd1FtSWF4ZWlTSkVBT3ZVdERGckF3akltT2lUZGl2Rzk3Y3JCb3k0dHhhY3B6SHZaTlRwaGU2cm4wRWtBVDhrbDQ0amMxZVcxXzh3R2pTYUNYNTEtRkhnZ1RuX0pnZEV3cUVPMg?oc=5",
+      "publishedAt": "2025-04-01T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-04T00:24:02.138Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBkd1FtSWF4ZWlTSkVBT3ZVdERGckF3akltT2lUZGl2Rzk3Y3JCb3k0dHhhY3B6SHZaTlRwaGU2cm4wRWtBVDhrbDQ0amMxZVcxXzh3R2pTYUNYNTEtRkhnZ1RuX0pnZEV3cUVPMg",
+      "summary": "ふくおかフィナンシャルグループが平均6%の賃上げを実施し、初任給も1万円引き上げることを決定しました。金融業界における賃上げ動向の一例として、自社の賃金水準見直しの参考になる事例です。",
+      "summarizedAt": "2026-10-04T00:24:16.747Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZEFVX3lxTFB1bDlFaDdtWTAzZE5CdTRac0xrTWtIS3NqTlhHclozMmxLZDRBOVIwai0yaENjbURzSWJ6OXdJSjQtT1dobTE4TldFc3RPdEJlTXY2UXZrQ0o5Y01nSGRqM0FnRFc",
