@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-04T00:24:16.750Z",
+  "updatedAt": "2026-10-05T00:34:42.481Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBKdzJsMlJaS3Z0OHRyLUhLc2JMMXhJMVlBal9MZVdrZUV6dXMybGVSaDNSV2N2NHp1T1Rwd1FxMTJyM1JLYVNrUmd4OUtqa0hHNHdEN2NkRkdGakMtUTRJYkRHYVViT3Z4c0xscA",
+      "source": "nikkei_news",
+      "title": "人月商売のIT業界は活況、それなのにNECなどがSEの雇用対策に動く怖い理由",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdzJsMlJaS3Z0OHRyLUhLc2JMMXhJMVlBal9MZVdrZUV6dXMybGVSaDNSV2N2NHp1T1Rwd1FxMTJyM1JLYVNrUmd4OUtqa0hHNHdEN2NkRkdGakMtUTRJYkRHYVViT3Z4c0xscA?oc=5",
+      "publishedAt": "2026-10-04T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-05T00:34:17.454Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBKdzJsMlJaS3Z0OHRyLUhLc2JMMXhJMVlBal9MZVdrZUV6dXMybGVSaDNSV2N2NHp1T1Rwd1FxMTJyM1JLYVNrUmd4OUtqa0hHNHdEN2NkRkdGakMtUTRJYkRHYVViT3Z4c0xscA",
+      "summary": "この見出しのみからは、NECなどがシステムエンジニアの雇用対策に着手している事実は読み取れますが、具体的な対策内容や背景となる法制度の変更については不明です。詳細な情報がないため、労務担当者向けの具体的な対応指針を示すことはできません。",
+      "summarizedAt": "2026-10-05T00:34:34.201Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ",
+      "source": "nikkei_news",
+      "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
+      "publishedAt": "2026-10-04T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-05T00:34:17.454Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ",
+      "summary": "外国人労働者の受け入れ制度として、現行の技能実習制度に代わり「育成就労制度」が2027年に創設されます。外国人材の育成と確保を目的とした新制度のため、人事担当者は受け入れ体制の見直しや準備が必要です。",
+      "summarizedAt": "2026-10-05T00:34:36.934Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg",
       "source": "nikkei_news",
@@ -668,6 +696,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5xRDF0elpQUGF1UThMS2o4SXEyS0lCTk5sOGdGZFFBVTcxblZHU2JXNzhjNzBHYW0yTVgxMEU5Q196X3pEVHo1SkpVWkM0VHp3UFRiX3ktTDd6NzM2MHZXTUVGazA2OGduQzFGYg",
+      "source": "nikkei_news",
+      "title": "再雇用高齢者の給与減 企業、合理的説明が必要 「同一労働・同一賃金」指針改定",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xRDF0elpQUGF1UThMS2o4SXEyS0lCTk5sOGdGZFFBVTcxblZHU2JXNzhjNzBHYW0yTVgxMEU5Q196X3pEVHo1SkpVWkM0VHp3UFRiX3ktTDd6NzM2MHZXTUVGazA2OGduQzFGYg?oc=5",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-05T00:34:17.454Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5xRDF0elpQUGF1UThMS2o4SXEyS0lCTk5sOGdGZFFBVTcxblZHU2JXNzhjNzBHYW0yTVgxMEU5Q196X3pEVHo1SkpVWkM0VHp3UFRiX3ktTDd6NzM2MHZXTUVGazA2OGduQzFGYg",
+      "summary": "再雇用された高齢者の給与を減額する場合、企業は同一労働同一賃金の観点から合理的な説明が必要となる指針改定が行われます。人事担当者は再雇用時の賃金設定について、職務内容や責任範囲の変化など客観的な理由を明確に説明できる体制整備が求められます。",
+      "summarizedAt": "2026-10-05T00:34:31.433Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMid0FVX3lxTFB6OUlMcHU4MnlzclpVR1Fmb1JpRExqOG5rZk5DYjRuQmMwUWx1SDNHc1JuS1d3cU1lSmxZUlV2cVRCanZWVE5kV2N3N2ZBNXVGTFUyZFMwVzV2dGwzRVVDNWNwUlpOOUM3Rkd3QXRZQTZMSU16blBN",
       "source": "nikkei_news",
       "title": "ジョブ型を導入しても、なぜ会社は変わらないのか――人事制度改革に欠ける「補完性」の視点",
@@ -941,6 +983,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76324.html",
       "summary": "令和8年10月に厚生労働省所管の複数の制度が改正されます。人事労務担当者は、具体的な変更内容を確認し、自社の就業規則や労務管理体制の見直しが必要か検討してください。",
       "summarizedAt": "2026-09-30T01:09:48.538Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiW0FVX3lxTFBMbUZaZ2tEVjcxc1VMd1E2Z0hPTlRCc0F0aFA3QTY5VVRwcHlVem40RU41eEhWYndIeUJ1OXJ1RF9VSnV6SWZtdTdPMTBDV3VFNDVTSmJYbWprN3M",
+      "source": "nikkei_news",
+      "title": "ステーキのあさくま、「スキマ店長」採用 管理職の長時間労働を是正",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbUZaZ2tEVjcxc1VMd1E2Z0hPTlRCc0F0aFA3QTY5VVRwcHlVem40RU41eEhWYndIeUJ1OXJ1RF9VSnV6SWZtdTdPMTBDV3VFNDVTSmJYbWprN3M?oc=5",
+      "publishedAt": "2026-09-29T00:15:42.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-05T00:34:17.454Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiW0FVX3lxTFBMbUZaZ2tEVjcxc1VMd1E2Z0hPTlRCc0F0aFA3QTY5VVRwcHlVem40RU41eEhWYndIeUJ1OXJ1RF9VSnV6SWZtdTdPMTBDV3VFNDVTSmJYbWprN3M",
+      "summary": "ステーキチェーン「あさくま」が店長の長時間労働を是正するため、「スキマ店長」という新たな管理職採用形態を導入しました。人事担当者は、管理職の労働時間削減策として、複数の管理職で業務を分担する採用手法が参考になります。",
+      "summarizedAt": "2026-10-05T00:34:28.307Z",
       "isGuideline": false
     },
     {
@@ -2389,6 +2445,20 @@
       "storyId": "nikkei:CBMiW0FVX3lxTE0xdFNhR3JUbTktTTJPcGFSUlRtYk1jb09MUGw1WjgyazRqRXNwZjB3YTNtc1A3VnUtYXB6d2FoU0F0VGh6czY1Sl83d3VPOG5hQlJCY284eDVxQXc",
       "summary": "厚生労働省が時間外労働の上限規制について、月45時間超の残業に対する一律的な是正指導を緩和する方針を示したとみられます。労務担当者は今後の指導基準の変更内容を確認し、自社の残業管理方針への影響を検討する必要があります。",
       "summarizedAt": "2026-09-11T22:14:25.023Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiuAFBVV95cUxQM1F6Zk9hNF9tai02akw3NkdJM2VQaUJHMG05allSc29HSldiZW9hbzFBUGVDLW9MRnUxaU5pREJBTG9PTGFUQkdpYWk3SWZTTXlMV3BkZVl6UEZIV2VNOXNJVmgta2ItX1VVcjBpSnA5S2M1bWV5OERyR3FDMm81bDJwbkVlS3BIUzF5blJqRDdoMi04NWRyUnBLeXBIN0VSejhSX3M1RFpncloyamR6QlhMczN0eFlj",
+      "source": "nikkei_news",
+      "title": "官製賃上げ、建設業の実情",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1F6Zk9hNF9tai02akw3NkdJM2VQaUJHMG05allSc29HSldiZW9hbzFBUGVDLW9MRnUxaU5pREJBTG9PTGFUQkdpYWk3SWZTTXlMV3BkZVl6UEZIV2VNOXNJVmgta2ItX1VVcjBpSnA5S2M1bWV5OERyR3FDMm81bDJwbkVlS3BIUzF5blJqRDdoMi04NWRyUnBLeXBIN0VSejhSX3M1RFpncloyamR6QlhMczN0eFlj?oc=5",
+      "publishedAt": "2026-09-10T18:03:43.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-05T00:34:17.454Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiuAFBVV95cUxQM1F6Zk9hNF9tai02akw3NkdJM2VQaUJHMG05allSc29HSldiZW9hbzFBUGVDLW9MRnUxaU5pREJBTG9PTGFUQkdpYWk3SWZTTXlMV3BkZVl6UEZIV2VNOXNJVmgta2ItX1VVcjBpSnA5S2M1bWV5OERyR3FDMm81bDJwbkVlS3BIUzF5blJqRDdoMi04NWRyUnBLeXBIN0VSejhSX3M1RFpncloyamR6QlhMczN0eFlj",
+      "summary": "# 要約\n\n建設業における官製賃上げの実情に関する報道です。記事見出しのみで具体的な制度変更や対応事項は確認できませんが、建設業における賃上げ政策の実態や課題について論じられている可能性があります。\n\n(79字)",
+      "summarizedAt": "2026-10-05T00:34:39.775Z",
       "isGuideline": false
     },
     {
@@ -8642,6 +8712,20 @@
       "storyId": "nikkei:CBMicEFVX3lxTFAta1ZHeVhXQzJDdkN6eFZITElxX0xSckstN25uMDE2Um95VUtYa212QmdXLTY1d3hjRU5XeGtCeVhEMGwzYlF3UkJIUWZSRERoQjNibkZ2Q3dKbEdZWWQ3eHNtZV9BNFhlZzFvWmFuYzk",
       "summary": "【要約】\n人手不足により経営困難に陥った介護施設が、コンサルティング会社等への事業譲渡により存続を図った事例が報告されています。介護事業者は人材確保策の強化とともに、事業継続が困難な場合の選択肢として事業承継も検討する必要があります。\n\n(112字)",
       "summarizedAt": "2026-09-26T00:27:17.147Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE81X0dDd0VIRzRwcExOb0ZORnc1ejlUUWZQNC1uOGE1YlNFc2ZZQlNubm1FLWtpQnJoN2dpRU0tU0IyVkY1QWFVZ2p4czA1NzRwQXozbEZkMG44REE",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81X0dDd0VIRzRwcExOb0ZORnc1ejlUUWZQNC1uOGE1YlNFc2ZZQlNubm1FLWtpQnJoN2dpRU0tU0IyVkY1QWFVZ2p4czA1NzRwQXozbEZkMG44REE?oc=5",
+      "publishedAt": "2025-06-03T09:53:43.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-05T00:34:17.455Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE81X0dDd0VIRzRwcExOb0ZORnc1ejlUUWZQNC1uOGE1YlNFc2ZZQlNubm1FLWtpQnJoN2dpRU0tU0IyVkY1QWFVZ2p4czA1NzRwQXozbEZkMG44REE",
+      "summary": "労働基準法の基礎知識に関する記事ですが、見出しのみでは法改正や具体的な変更内容は読み取れません。人事労務担当者が押さえるべき労働基準法の基本的事項を解説した内容と思われます。",
+      "summarizedAt": "2026-10-05T00:34:42.478Z",
       "isGuideline": false
     },
     {
