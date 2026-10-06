@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-06T02:42:29.248Z",
+  "updatedAt": "2026-10-06T02:45:09.294Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76596.html",
+      "source": "mhlw_news",
+      "title": "第31回キャリアコンサルタント登録制度等に関する検討会（議事録）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76596.html",
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-06T02:44:50.569Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76596.html",
+      "summary": "厚生労働省が第31回キャリアコンサルタント登録制度等に関する検討会の議事録を公開しました。キャリアコンサルタント制度の運用や課題について議論された内容を確認できますが、具体的な制度変更の有無は議事録の内容次第となります。",
+      "summarizedAt": "2026-10-06T02:45:01.324Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "egov:351CO0000000252:20261001",
       "source": "egov_law_update",
@@ -13,20 +27,14 @@
       "summary": "2026年10月1日施行の日本学術会議法改正に伴い、高年齢者雇用安定法施行令が整備されます。学術会議法改正に関連した技術的な政令改正であり、実務上の対応が必要かは改正内容の詳細確認が必要です。",
       "summarizedAt": "2026-10-06T02:07:46.174Z",
       "stage": "施行",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/shinriryouhoushi.html",
-      "source": "mhlw_news",
-      "title": "厚生労働省　心理療法士（一般職員）採用案内",
-      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/shinriryouhoushi.html",
-      "publishedAt": "2026-10-06T01:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-10-06T02:07:26.204Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/shinriryouhoushi.html",
-      "summary": "厚生労働省が心理療法士（一般職員）の採用を実施します。民間企業の労務・人事担当者には直接的な対応は不要ですが、国の職場における心理職配置の動向として参考情報となります。",
-      "summarizedAt": "2026-10-06T02:07:37.485Z",
-      "isGuideline": false
+      "isGuideline": false,
+      "detail": {
+        "changes": "高年齢者等の雇用の安定等に関する法律施行令 — 日本学術会議法の施行に伴う関係政令の整備に関する政令(施行日: 20261001)。",
+        "actions": [
+          "改正後の条文を確認し、自社の就業規則・社内手続・届出書式への影響を確認する"
+        ],
+        "basis": "limited"
+      }
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE56UHdxZzJTR1FoZjVCNzZYV1RWSk5PV3NqZHRiMktjUjlqSE0wY0pKWkJidUpOR2hrWG1RdVZrWmVQeFZsWFhsbFRxTXhJTmRSUk80V2FuNlMyeC11QWprbnAycC1GaGtwWUw4eA",
@@ -85,19 +93,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76586.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76586.html",
-      "publishedAt": "2026-10-05T07:52:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-10-06T02:07:26.204Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76586.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が実施されます。労働関連施策に関する発表や質疑応答が行われる可能性があるため、人事労務担当者は会見内容を確認し、自社の労務管理に影響する新たな施策や方針がないか注視してください。",
-      "summarizedAt": "2026-10-06T02:07:40.558Z",
-      "isGuideline": false
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE1XeU9Vcm5JUXZ6YW05YXNYWVZzWXNWRkRjRU5GdmJjZ0M5V0JuQ21UM1lFY0ZCUE1aWGRvOExTTF9BRm5lU0o5Wk5sQXRhSmEtWmthWC1OcVBrUHl2cU1KTm5XVXpQd0w5NE5ycw",
       "source": "nikkei_news",
       "title": "パートや定年後の再雇用、「不合理」な待遇差は質問を",
@@ -109,19 +104,6 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1XeU9Vcm5JUXZ6YW05YXNYWVZzWXNWRkRjRU5GdmJjZ0M5V0JuQ21UM1lFY0ZCUE1aWGRvOExTTF9BRm5lU0o5Wk5sQXRhSmEtWmthWC1OcVBrUHl2cU1KTm5XVXpQd0w5NE5ycw",
       "summary": "パート労働者や定年後再雇用者は、正社員との待遇差について事業主に説明を求める権利があるため、労務・人事担当者は同一労働同一賃金の観点から待遇差の合理的な理由を説明できるよう準備する必要があります。",
       "summarizedAt": "2026-10-06T02:07:59.706Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76394.html",
-      "source": "mhlw_news",
-      "title": "令和８年度 薬事功労者厚生労働大臣表彰を行います",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76394.html",
-      "publishedAt": "2026-10-05T05:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-10-06T02:07:26.204Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76394.html",
-      "summary": "薬事功労者への表彰に関する情報であり、労働法制の改正や企業の労務管理上の実務対応を伴うものではありません。人事労務担当者が対応すべき事項はありません。",
-      "summarizedAt": "2026-10-06T02:07:43.358Z",
       "isGuideline": false
     },
     {
@@ -150,6 +132,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ",
       "summary": "外国人労働者の受け入れ制度として、現行の技能実習制度に代わり「育成就労制度」が2027年に創設されます。外国人材の育成と確保を目的とした新制度のため、人事担当者は受け入れ体制の見直しや準備が必要です。",
       "summarizedAt": "2026-10-05T00:34:36.934Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBOeDRhTEVaT1hYdVlpMGw4N1RxdV9iSDlseHhWTDRORVVlZXJwdG1EMXNta2FHY0FZbVdMQ0Vodk9PVVNaNkhHdm9xOVlJMXoxdF9lYzkzZmpSakdwLTdiNkpSSC16NDhoQjg4MA",
+      "source": "nikkei_news",
+      "title": "全国の生コン出荷量、48カ月連続マイナス 人手不足や天候不順が影響",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOeDRhTEVaT1hYdVlpMGw4N1RxdV9iSDlseHhWTDRORVVlZXJwdG1EMXNta2FHY0FZbVdMQ0Vodk9PVVNaNkhHdm9xOVlJMXoxdF9lYzkzZmpSakdwLTdiNkpSSC16NDhoQjg4MA?oc=5",
+      "publishedAt": "2026-10-02T10:36:06.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-06T02:44:50.065Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBOeDRhTEVaT1hYdVlpMGw4N1RxdV9iSDlseHhWTDRORVVlZXJwdG1EMXNta2FHY0FZbVdMQ0Vodk9PVVNaNkhHdm9xOVlJMXoxdF9lYzkzZmpSakdwLTdiNkpSSC16NDhoQjg4MA",
+      "summary": "この見出しのみからは労働法制の改正や人事労務上の具体的な対応事項は読み取れません。生コン業界の出荷量減少という業界動向であり、人手不足が一因として挙げられていますが、労務担当者が「何をすべきか」という実務的指針は含まれていません。",
+      "summarizedAt": "2026-10-06T02:45:08.460Z",
       "isGuideline": false
     },
     {
@@ -857,6 +853,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiVEFVX3lxTE1aY1VYSDUwZlprQUdmeEt3OGd4X01VNjlxNU1iQzM5Wkx4QUhtejRNa2Z5QzhHdGJWZ2kwY1hJNjU4UktPbEFUT1ZCYlRnMEcydnhBSQ",
+      "source": "nikkei_news",
+      "title": "DXを、実装レベルの「成果」へ。AI時代の真の労働生産性と日本経済の再興",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aY1VYSDUwZlprQUdmeEt3OGd4X01VNjlxNU1iQzM5Wkx4QUhtejRNa2Z5QzhHdGJWZ2kwY1hJNjU4UktPbEFUT1ZCYlRnMEcydnhBSQ?oc=5",
+      "publishedAt": "2026-10-01T09:04:40.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-06T02:44:50.065Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiVEFVX3lxTE1aY1VYSDUwZlprQUdmeEt3OGd4X01VNjlxNU1iQzM5Wkx4QUhtejRNa2Z5QzhHdGJWZ2kwY1hJNjU4UktPbEFUT1ZCYlRnMEcydnhBSQ",
+      "summary": "この見出しのみからは労働関連法制の具体的な改正内容や企業が対応すべき実務的な変更点を読み取ることができません。DXやAIによる生産性向上に関する論考や提言と推察されますが、人事労務管理上の法的義務や手続きの変更については情報が不足しています。",
+      "summarizedAt": "2026-10-06T02:45:04.934Z",
+      "isGuideline": false
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant01.html",
       "source": "mhlw_news",
       "title": "キャリアコンサルタントになりたい方へ（キャリアコンサルタント試験結果概要を更新しました）",
@@ -880,32 +890,6 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html",
       "summary": "キャリアコンサルタント養成講習または更新講習の実施機関として新規申請・継続申請を希望する事業者向けに、令和8年11月申請に関する説明会が開催されます。講習実施を検討している機関は説明会への参加が必要です。",
       "summarizedAt": "2026-10-02T01:25:50.127Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76538.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76538.html",
-      "publishedAt": "2026-10-01T07:53:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-10-02T01:25:31.741Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76538.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が開催されることが告知されました。労働関連施策に関する発表や質疑応答が行われる可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
-      "summarizedAt": "2026-10-02T01:25:52.684Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76387.html",
-      "source": "mhlw_news",
-      "title": "令和８年度栄養関係功労者に対する厚生労働大臣表彰について",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76387.html",
-      "publishedAt": "2026-10-01T05:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-10-02T01:25:31.741Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76387.html",
-      "summary": "令和8年度の栄養関係功労者への厚生労働大臣表彰が発表されましたが、労働法制や人事労務管理に直接関わる内容ではないため、人事・労務担当者が対応すべき事項は特にありません。",
-      "summarizedAt": "2026-10-02T01:25:55.521Z",
       "isGuideline": false
     },
     {
@@ -1229,19 +1213,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
-      "source": "mhlw_news",
-      "title": "「令和８年版厚生労働白書」を公表します",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75936.html",
-      "publishedAt": "2026-09-29T03:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-30T01:09:30.661Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
-      "summary": "厚生労働省が令和8年版の厚生労働白書を公表しました。白書の具体的な内容は情報から読み取れませんが、労働・社会保障施策の動向を把握する参考資料として確認されることをお勧めします。",
-      "summarizedAt": "2026-09-30T01:09:43.824Z",
-      "isGuideline": false
-    },
-    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75700.html",
       "source": "mhlw_news",
       "title": "「令和８年版 労働経済の分析」を公表します ～分析テーマは「ＡＩ等技術革新が進む中での労働市場の現状と課題」～",
@@ -1394,19 +1365,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76404.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76404.html",
-      "publishedAt": "2026-09-28T05:29:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-29T01:36:43.929Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76404.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が開催されることが告知されました。労働関連施策に関する発表や質疑応答が行われる可能性があるため、人事労務担当者は会見内容を確認することが推奨されます。",
-      "summarizedAt": "2026-09-29T01:36:56.518Z",
-      "isGuideline": false
-    },
-    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-koyoukankyou_kintougyouseijouhou.html",
       "source": "mhlw_news",
       "title": "雇用環境・均等行政情報システムデジタル推進専門官の募集について",
@@ -1473,19 +1431,6 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1jR2tDdWFQU2lGSE01VXlHazJmTE9CT0wtTDdaXzhDQ0haMVhrUkxfMXo3YkFjbEJ6YmFDUVFEUHp3LWJhVUo1cEwybmREMkNjdVptbFpOc1V5UUJiV3hHMVFOMm1WTFpyN09EdA",
       "summary": "非正規社員と正規社員の待遇格差是正に向け、10月に指針が改定されます。退職金や諸手当における格差是正が求められるため、労務・人事担当者は自社の非正規社員の待遇を見直し、合理的な説明ができない格差の是正を検討する必要があります。",
       "summarizedAt": "2026-09-26T00:26:58.631Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76393.html",
-      "source": "mhlw_news",
-      "title": "「医師法第16条の10第１項に基づく厚生労働大臣から一般社団法人日本専門医機構等への意見」について",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76393.html",
-      "publishedAt": "2026-09-25T12:50:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-26T00:26:25.818Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76393.html",
-      "summary": "厚生労働大臣が医師法第16条の10第1項に基づき、日本専門医機構等に対して意見を表明しました。医療機関で医師の専門研修に関わる担当者は、専門医制度の運用や研修体制に影響する可能性があるため内容確認が推奨されます。",
-      "summarizedAt": "2026-09-26T00:26:36.811Z",
       "isGuideline": false
     },
     {
@@ -1624,19 +1569,6 @@
       "storyId": "rosei:CBMiVEFVX3lxTE9kUWQ3OEJXZ3ZRYjBNNTR1U3lsNEJ0bF8xVXJJZ1ZsT09rWUhNMzRSNXR1ejIyRS1TdU94TXk2ZjA2aG1rQkJsMHBSZGVnQlc4bnQ4RQ",
       "summary": "2027年度から適用される同種業務の一般労働者賃金水準が公表されました。派遣労働者の待遇決定において労使協定方式を採用している企業は、この最新データに基づき協定内容や賃金設定の見直しが必要となります。",
       "summarizedAt": "2026-09-25T00:21:48.950Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76364.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76364.html",
-      "publishedAt": "2026-09-24T06:14:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-25T00:21:11.105Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76364.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が実施される旨の告知です。労働関連施策に関する方針や最新動向が発表される可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
-      "summarizedAt": "2026-09-25T00:21:21.456Z",
       "isGuideline": false
     },
     {
@@ -2028,19 +1960,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/26-3.html",
-      "source": "mhlw_news",
-      "title": "令和８年版厚生労働白書を公表します",
-      "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/26-3.html",
-      "publishedAt": "2026-09-17T09:40:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-30T01:09:30.661Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
-      "summary": "厚生労働省が令和8年版厚生労働白書を公表しました。労務・人事担当者は、最新の労働行政の動向や統計データ、政策の方向性を把握するため、白書の内容を確認することが推奨されます。",
-      "summarizedAt": "2026-09-30T01:09:50.690Z",
-      "isGuideline": false
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
       "source": "nikkei_news",
       "title": "連合・芳野会長「労働時間の規制強化を」 上野厚労相の続投受け",
@@ -2066,19 +1985,6 @@
       "storyId": "nikkei:CBMibEFVX3lxTE10UGRZQXI0cF9zWXR2bFc3bGw1WmZ2OGkyQVdTOXoySEVlNW5IejVQcDJvYTRHN1RwV0NIaTdRSjNXUUFYRGJIVTNjNEVRdkpGcjAxVWFRSDhDOUpEbXA1VVBIR2NETU9LUnQ4LQ",
       "summary": "上野厚労相の続投により、裁量労働制の対象拡大の可否判断が焦点となる一方、連合は労働時間規制の強化を求めており、今後の労働法制改正の動向に注視が必要です。人事・労務担当者は裁量労働制の適用範囲や労働時間管理の要件見直しに備えた準備が求められます。",
       "summarizedAt": "2026-09-17T22:14:05.688Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76306.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76306.html",
-      "publishedAt": "2026-09-17T08:29:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-17T22:13:20.444Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76306.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が行われることが発表されました。労働関連施策に関する発表や質疑応答が予定される可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
-      "summarizedAt": "2026-09-17T22:13:31.219Z",
       "isGuideline": false
     },
     {
@@ -2121,19 +2027,6 @@
       "summary": "労働政策審議会人材開発分科会の監理団体審査部会が第78回会合を開催します。技能実習制度における監理団体の許可等に関する審査が行われる見込みですが、現時点で人事労務担当者の対応事項はありません。",
       "summarizedAt": "2026-09-17T22:13:33.818Z",
       "stage": "審議会検討",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/index.html",
-      "source": "mhlw_news",
-      "title": "令和８年版厚生労働白書を公表します",
-      "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/26/index.html",
-      "publishedAt": "2026-09-17T04:43:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-30T01:09:30.661Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75936.html",
-      "summary": "厚生労働省が令和8年版厚生労働白書を公表しました。労働・雇用施策や社会保障に関する最新動向が掲載されているため、人事労務担当者は自社の施策検討の参考資料として内容を確認することが推奨されます。",
-      "summarizedAt": "2026-09-30T01:09:53.219Z",
       "isGuideline": false
     },
     {
@@ -2538,19 +2431,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76213.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76213.html",
-      "publishedAt": "2026-09-14T08:22:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-14T22:14:21.154Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76213.html",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が行われることが告知されました。労働関連施策の方針や新たな法制度の動向が発表される可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
-      "summarizedAt": "2026-09-14T22:14:31.407Z",
-      "isGuideline": false
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE05S3VSbm42cjhTeTdpeXF4X0hnWFFIakZFYm51VXVwQ2Q4UGNtZFBGT0pvRkhXYVVmRTNfVTgwTW00TFZHNzVFS2dQd0t4LUFWU21SZFpwSVUwcnA3djE3MDBXX1BJZ0hrM0FSSg",
       "source": "nikkei_news",
       "title": "徳島県内企業の賃上げ率4.5% 26年度、33年ぶりの高水準",
@@ -2589,19 +2469,6 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/houdou/newpage_75927.html",
       "summary": "勤務時間が短い正規型労働者として事業所に雇用される個人事業主等について、社会保険の被保険者資格の取扱いが整理されました。人事・労務担当者は、形式上は個人事業主でも実態として労働者性がある場合の資格判断基準を確認し、適切な被保険者資格の取得手続きを行う必要があります。",
       "summarizedAt": "2026-09-14T22:14:34.839Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/other-soumu_198922_00003.html",
-      "source": "mhlw_news",
-      "title": "厚生労働省改革実行チーム",
-      "url": "https://www.mhlw.go.jp/stf/shingi/other-soumu_198922_00003.html",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-14T22:14:21.154Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/other-soumu_198922_00003.html",
-      "summary": "厚生労働省が省内の改革を進める実行チームを設置しました。労働行政の運用や手続きに今後変更が生じる可能性があるため、同省からの続報や具体的な改革内容の公表に注意が必要です。",
-      "summarizedAt": "2026-09-14T22:14:37.430Z",
       "isGuideline": false
     },
     {
@@ -2700,19 +2567,6 @@
       "summary": "厚生労働省が第30回キャリアコンサルタント登録制度等に関する検討会を開催し、その議事録が公開されました。キャリアコンサルタント制度の運用や課題について議論された内容を確認できます。",
       "summarizedAt": "2026-09-11T22:13:51.119Z",
       "stage": "審議会検討",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76104.html",
-      "source": "mhlw_news",
-      "title": "厚生労働省及びPMDAはProject Orbisに参加します ～抗がん剤領域におけるドラッグラグ・ロスの解消を目指します～",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76104.html",
-      "publishedAt": "2026-09-11T05:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-11T22:13:41.313Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76104.html",
-      "summary": "この情報は抗がん剤の承認審査に関する国際連携の取組であり、労働関連法制や人事労務管理に直接影響する内容ではありません。労務・人事担当者が対応すべき事項は特にありません。",
-      "summarizedAt": "2026-09-11T22:13:53.756Z",
       "isGuideline": false
     },
     {
@@ -2922,19 +2776,6 @@
       "summary": "令和8年度における医師の働き方改革の推進策について、厚生労働省が検討会で議論を実施しています。医療機関の労務担当者は、医師の時間外労働上限規制への対応状況の確認や追加的な支援策の動向について、今後公表される資料内容を注視する必要があります。",
       "summarizedAt": "2026-09-09T22:13:05.806Z",
       "stage": "審議会検討",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
-      "source": "mhlw_news",
-      "title": "女性支援事業７０周年記念厚生労働大臣表彰について",
-      "url": "https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
-      "publishedAt": "2026-09-09T05:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-09T22:12:53.636Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_260903_00011.html",
-      "summary": "女性支援事業の70周年を記念して厚生労働大臣による表彰が実施されます。労務・人事担当者が直接対応すべき法改正や制度変更ではなく、功労者等への表彰事業の告知です。",
-      "summarizedAt": "2026-09-09T22:13:08.866Z",
       "isGuideline": false
     },
     {
@@ -3199,19 +3040,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76057.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76057.html",
-      "publishedAt": "2026-09-07T08:39:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-07T22:14:08.523Z",
-      "summary": "上野厚生労働大臣による閣議後の記者会見が行われることの告知です。具体的な議題は不明ですが、労働政策や社会保障に関する最新の方針が示される可能性があるため、人事労務担当者は会見内容の確認が推奨されます。",
-      "summarizedAt": "2026-09-07T22:14:18.146Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76057.html",
-      "isGuideline": false
-    },
-    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76056.html",
       "source": "mhlw_news",
       "title": "第131回労働政策審議会労働条件分科会労災保険部会資料",
@@ -3223,19 +3051,6 @@
       "summarizedAt": "2026-09-07T22:14:21.383Z",
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76056.html",
       "stage": "審議会検討",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
-      "source": "mhlw_news",
-      "title": "第２回厚生労働省ヘルスケアＡＸ・ＤＸ推進本部の開催案内",
-      "url": "https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
-      "publishedAt": "2026-09-07T06:14:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-07T22:14:08.523Z",
-      "summary": "厚生労働省が第2回ヘルスケアAX・DX推進本部を開催します。医療・健康分野のデジタル化や業務変革の推進方針が議論される見込みで、今後の労働環境や健康管理のデジタル対応に影響する可能性があるため、動向を注視する必要があります。",
-      "summarizedAt": "2026-09-07T22:14:24.837Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
       "isGuideline": false
     },
     {
@@ -3784,19 +3599,6 @@
       "isGuideline": false
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76000.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76000.html",
-      "publishedAt": "2026-09-03T08:36:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-03T22:16:32.356Z",
-      "summary": "上野厚生労働大臣の閣議後記者会見が開催されることのお知らせです。労働関連施策の最新方針や法改正の動向が発表される可能性があるため、人事労務担当者は会見内容を確認することが推奨されます。",
-      "summarizedAt": "2026-09-03T22:16:46.114Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76000.html",
-      "isGuideline": false
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE9nQWZfVlppcmF1akU2dk1JZFNEa2xXM2w0N21UMXUtZWsxQmxncm5fd2xfMzByelc5OVdPQV9PbjdZTlp2d0FFbmlpMVhpRVdpcGtTS2I5dWhBbkpYMlV1WXRhRTZoS0o2OUlYdw",
       "source": "nikkei_news",
       "title": "沖縄県の最低賃金、63円上げの1086円を答申 目安7円上回る",
@@ -4031,19 +3833,6 @@
       "storyId": "nikkei:CBMickFVX3lxTFBUVmM0MWMzbXl3aTk3QjNRbTI2NV91dVlMczdhWlhCVkR0WVJXLXpaa3FueW9ndFJVVDlyRVdMdWdGVnc0eTNaRHVCb3pZOXRKdnVkSDVYdWhDSnF5U1VOOVVQeXladGw1TWNfaHIzdDJ3dw",
       "summary": "【要約】\n東京ガスが男性育休取得率100％・平均68日間を実現した3つの改革事例が紹介されています。人事担当者は同社の具体的な取り組み施策を参考に、自社の男性育休推進策の検討材料とすることが有用です。\n\n（93字）",
       "summarizedAt": "2026-09-23T00:09:22.137Z",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75762.html",
-      "source": "mhlw_news",
-      "title": "救急医療功労者及び産科医療功労者厚生労働大臣表彰式を開催します",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75762.html",
-      "publishedAt": "2026-09-02T05:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-09-02T22:13:34.072Z",
-      "summary": "厚生労働省が救急医療および産科医療の分野で功労のあった個人・団体を対象とした大臣表彰式を開催します。労務・人事担当者が直接対応すべき法改正や制度変更はありません。",
-      "summarizedAt": "2026-09-02T22:13:45.672Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75762.html",
       "isGuideline": false
     },
     {
@@ -4605,19 +4394,6 @@
       "relevanceChecked": true
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
-      "source": "mhlw_news",
-      "title": "令和９年度厚生労働省所管予算概算要求関係",
-      "url": "https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
-      "publishedAt": "2026-08-31T08:30:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-31T22:07:28.756Z",
-      "summary": "厚生労働省が令和9年度(2027年度)の予算概算要求を公表しました。労働行政や社会保障制度に関する次年度の重点施策や予算配分の方向性が示されており、今後の法改正や助成金制度の動向を把握するための参考資料となります。",
-      "summarizedAt": "2026-08-31T22:07:36.525Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
-      "isGuideline": false
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE5SN3F2aEJrR1NIa3pDUVpuZDdLeGZaOHBDRmZxMnkxNmpXSENqUkRFQ3U4RzRoTy1vU1UtNi1iczlxSUVJRnJRbGQ3TjlQNk5PTTVNNmRxNmJIMGlyUVlDZkxNRGdBQ0liNjVfRg",
       "source": "nikkei_news",
       "title": "障害者雇用の代行ビジネス、届け出義務づけ検討 厚労省が規制強化",
@@ -4642,19 +4418,6 @@
       "summary": "令和8年度の障害者雇用優良事業所等に対する厚生労働大臣表彰の受賞者が決定されました。自社の障害者雇用推進の参考として、受賞事業所の取組事例を確認し、雇用環境整備や定着支援施策の改善に活用することが推奨されます。",
       "summarizedAt": "2026-08-31T22:07:39.933Z",
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75755.html",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75872.html",
-      "source": "mhlw_news",
-      "title": "令和9年度　厚生労働省機構・定員要求について",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75872.html",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-31T22:07:28.756Z",
-      "summary": "厚生労働省が令和9年度(2027年度)の組織体制と人員配置の要求内容を公表しました。省内の機構改革や定員増減の方向性が示されていますが、具体的な労働法制の改正内容や企業対応については、詳細資料の確認が必要です。",
-      "summarizedAt": "2026-08-31T22:07:43.456Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75872.html",
       "isGuideline": false
     },
     {
@@ -4735,19 +4498,6 @@
       "summary": "厚生労働省が令和7年に実施した外国人雇用実態調査の結果が公表されました。人事・労務担当者は自社の外国人雇用管理体制や処遇の見直しに向けて、最新の雇用動向や課題を確認することが推奨されます。",
       "summarizedAt": "2026-08-31T22:07:57.905Z",
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75722.html",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75898.html",
-      "source": "mhlw_news",
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75898.html",
-      "publishedAt": "2026-08-31T04:39:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-31T22:07:28.756Z",
-      "summary": "上野厚生労働大臣の閣議後記者会見が開催されることの告知です。労働関連施策について何らかの発表や質疑応答が行われる可能性があるため、人事労務担当者は会見内容の確認をお勧めします。",
-      "summarizedAt": "2026-08-31T22:08:00.612Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75898.html",
       "isGuideline": false
     },
     {
@@ -4998,19 +4748,6 @@
       "summarizedAt": "2026-08-28T22:07:15.798Z",
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75342.html",
       "stage": "審議会検討",
-      "isGuideline": false
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
-      "source": "mhlw_news",
-      "title": "採用情報（任期付職員（職員の育児休業期間の代替職員）政策統括官（総合政策、労使関係担当））募集情報）",
-      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-28T04:32:17.076Z",
-      "summary": "厚生労働省が政策統括官部門において、育児休業取得職員の代替として勤務する任期付職員の採用募集を開始しました。民間企業の育児休業代替要員確保の参考事例となる可能性があります。\n\n(89文字)",
-      "summarizedAt": "2026-08-28T04:32:24.887Z",
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
       "isGuideline": false
     },
     {
@@ -6389,19 +6126,6 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_021225156_00113.html"
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
-      "source": "mhlw_news",
-      "title": "労働基準監督官採用試験広報HP",
-      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
-      "publishedAt": "2026-08-19T09:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-21T00:37:18.890Z",
-      "summary": "労働基準監督官採用試験広報HP(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z",
-      "isGuideline": false,
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html"
-    },
-    {
       "id": "nikkei:CBMidEFVX3lxTE82ckRfS2FtOUNBZW9vZGthUkF2a001b2N0djVweXhVWTZKd213ck9JQ0FXMXpLczRxb2VxNTdtU3RDS2NiaWJxQW1ZNkZnMjY3U0Nva04ydmMwNVJpUVkxdTVDWXBOdGpESXpWRE5pSjFtNE9M",
       "source": "nikkei_news",
       "title": "賃上げ失敗3選 「初任給アップで原資枯渇」が増加",
@@ -6860,19 +6584,6 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75380.html"
     },
     {
-      "id": "mhlw:https://www.mhlw.go.jp/general/saiyo/eiyoukei/index.html",
-      "source": "mhlw_news",
-      "title": "厚生労働省栄養系技官採用サイト",
-      "url": "https://www.mhlw.go.jp/general/saiyo/eiyoukei/index.html",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-21T00:37:18.890Z",
-      "summary": "厚生労働省栄養系技官採用サイト(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z",
-      "isGuideline": false,
-      "storyId": "mhlw:https://www.mhlw.go.jp/general/saiyo/eiyoukei/index.html"
-    },
-    {
       "id": "nikkei:CBMibEFVX3lxTE1WT01PaXZZVVE2RW9veXhMdXFEdVdUY21qUzhkaUxmXzdRNkhxb0VfZXVreFJLeTVBZFZ5a0NnY1BNd0ZYaFhiUVVTb3dqdU9SNW16am44NkVEV3BBTGdTU1NRMWZTLXhlNzFCag",
       "source": "nikkei_news",
       "title": "パートの社会保険適用、賃金要件は撤廃 就労の壁は「週20時間」に",
@@ -6898,19 +6609,6 @@
       "summarizedAt": "2026-08-21T00:37:21.397Z",
       "isGuideline": false,
       "storyId": "mhlw:https://www.mhlw.go.jp/toukei/list/r07-46-50b.html"
-    },
-    {
-      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75086.html",
-      "source": "mhlw_news",
-      "title": "令和8年度　厚生労働科学研究費補助金公募要項（3次）",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75086.html",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "category": "厚労省 報道・新着情報",
-      "fetchedAt": "2026-08-21T00:37:18.890Z",
-      "summary": "令和8年度　厚生労働科学研究費補助金公募要項（3次）(詳細は元記事を参照)",
-      "summarizedAt": "2026-08-21T00:37:21.397Z",
-      "isGuideline": false,
-      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_75086.html"
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75319.html",
