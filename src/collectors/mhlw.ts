@@ -1,5 +1,5 @@
 import { XMLParser } from "fast-xml-parser";
-import { isLaborRelatedTitle } from "../keywords.js";
+import { isLaborRelatedTitle, isSelfRecruitmentTitle } from "../keywords.js";
 import type { CollectedItem } from "../types.js";
 
 const FEED_URL = "https://www.mhlw.go.jp/stf/news.rdf";
@@ -29,7 +29,7 @@ export async function collectMhlwNews(): Promise<CollectedItem[]> {
   for (const raw of items) {
     if (!raw?.title || !raw?.link) continue;
     const title = String(raw.title).trim();
-    if (!isLaborRelatedTitle(title)) continue;
+    if (!isLaborRelatedTitle(title) || isSelfRecruitmentTitle(title)) continue;
 
     const publishedAt = raw["dc:date"] ? new Date(raw["dc:date"]).toISOString() : fetchedAt;
     collected.push({

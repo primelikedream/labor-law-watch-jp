@@ -7,7 +7,12 @@ import { classifyItems } from "./classify.js";
 import { clusterNewItems } from "./dedupe.js";
 import { filterRelevantItems } from "./relevance.js";
 import { enrichLawAmendments } from "./amendment.js";
-import { isLaborRelatedLawName, isOrganizationalLawName } from "./keywords.js";
+import {
+  isLaborRelatedLawName,
+  isLaborRelatedTitle,
+  isOrganizationalLawName,
+  isSelfRecruitmentTitle,
+} from "./keywords.js";
 import { loadData, mergeItems, saveData } from "./store.js";
 
 async function main() {
@@ -45,12 +50,16 @@ async function main() {
 
   // 省庁の内部組織・独立行政法人の運営に関する法令や、労働と無関係な法令(旧データに含まれるもの)は対象外。
   const withoutOrgLaws = merged.filter((item) => {
+    if (item.source === "mhlw_news") {
+      // 「厚生労働大臣」等だけで拾われていた項目や、厚労省自身の職員採用案内を除く(旧データ対策)。
+      return isLaborRelatedTitle(item.title) && !isSelfRecruitmentTitle(item.title);
+    }
     if (item.source !== "egov_law_update") return true;
     const lawName = item.title.split(" — ")[0];
     return isLaborRelatedLawName(lawName) && !isOrganizationalLawName(lawName);
   });
   if (withoutOrgLaws.length !== merged.length) {
-    console.log(`組織・運営系の法令を除外: ${merged.length - withoutOrgLaws.length}件`);
+    console.log(`労働と無関係な法令・厚労省発表を除外: ${merged.length - withoutOrgLaws.length}件`);
   }
 
   const toCheck = withoutOrgLaws.filter(

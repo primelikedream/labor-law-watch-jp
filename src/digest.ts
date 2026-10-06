@@ -56,13 +56,27 @@ function link(url: string): string {
   return `<a href="${url}">${url}</a>`;
 }
 
-// 法令改正: 改正内容と必要な対応を本文に直接書く。
-function buildLawSection(laws: CollectedItem[]): Section | null {
-  if (laws.length === 0) return null;
-  const now = Date.now();
+// 条番号の整理などで事業主側の対応が不要と判定された改正か。
+function isNoActionNeeded(item: CollectedItem): boolean {
+  const actions = item.detail?.actions ?? [];
+  return actions.length === 1 && /^(特段の)?対応は不要|^特段の対応(は)?(不要|必要ありません)/.test(actions[0]);
+}
 
-  const text: string[] = [`■ 法令改正 (${laws.length}件)`];
-  const html: string[] = [`<h3 style="margin:1.2em 0 0.4em;border-bottom:2px solid #2c4a72;padding-bottom:0.2em;">法令改正 (${laws.length}件)</h3>`];
+// 法令改正: 改正内容と必要な対応を本文に直接書く。対応が不要な技術的改正は末尾に簡潔にまとめる。
+function buildLawSection(allLaws: CollectedItem[]): Section | null {
+  if (allLaws.length === 0) return null;
+  const now = Date.now();
+  const laws = allLaws.filter((item) => !isNoActionNeeded(item));
+  const noAction = allLaws.filter(isNoActionNeeded);
+
+  const text: string[] = [`■ 法令改正 (${allLaws.length}件)`];
+  const html: string[] = [`<h3 style="margin:1.2em 0 0.4em;border-bottom:2px solid #2c4a72;padding-bottom:0.2em;">法令改正 (${allLaws.length}件)</h3>`];
+
+  if (laws.length > 0) {
+    const lead = `対応が必要な改正: ${laws.length}件 / 条番号の整理など対応不要の改正: ${noAction.length}件`;
+    text.push(lead);
+    html.push(`<p style="margin:0.3em 0;color:#555;">${lead}</p>`);
+  }
 
   for (const item of laws) {
     const status = new Date(item.publishedAt).getTime() <= now ? "施行済み" : "施行予定";
@@ -95,6 +109,18 @@ function buildLawSection(laws: CollectedItem[]): Section | null {
     text.push(`原文: ${item.url}`);
     html.push(`<p style="margin:0.2em 0;font-size:0.85em;">原文: ${link(item.url)}</p></div>`);
   }
+
+  if (noAction.length > 0) {
+    text.push(`【対応不要の改正(条番号の整理など)】\n${noAction.map((i) => `・${i.title.split(" — ")[0]}`).join("\n")}`);
+    html.push(
+      `<p style="margin:0.8em 0 0.2em;"><strong>対応不要の改正(条番号の整理など)</strong></p>`,
+      `<ul style="margin:0;padding-left:1.2em;">${noAction.map((i) => `<li>${escapeHtml(i.title.split(" — ")[0])}</li>`).join("")}</ul>`,
+    );
+  }
+
+  const disclaimer = "※ 改正内容・必要な対応は、e-Gov法令データの改正前後の条文差分をもとにAIが作成したものです。実際の対応は原文・厚生労働省の資料等でご確認ください。";
+  text.push(disclaimer);
+  html.push(`<p style="margin:0.8em 0;font-size:0.85em;color:#666;">${disclaimer}</p>`);
   return { text: text.join("\n\n"), html: html.join("\n") };
 }
 

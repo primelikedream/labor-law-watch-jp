@@ -46,6 +46,9 @@ export const LABOR_KEYWORDS: string[] = [
   "退職金",
   "給料",
   "ジョブ型",
+  "制度変更",
+  "人材確保",
+  "高年齢者",
 ];
 
 // e-Gov の法令改正リストは法令名で判定する。労働関係の主要法令。
@@ -67,7 +70,16 @@ export const LABOR_LAW_NAME_PATTERNS: string[] = [
 ];
 
 export function isLaborRelatedTitle(title: string): boolean {
-  return LABOR_KEYWORDS.some((kw) => title.includes(kw));
+  // 「厚生労働大臣」「厚生労働省」に含まれる「労働」だけで労働関連と誤判定しないよう、これらを除いて判定する。
+  const text = title.replaceAll("厚生労働", "");
+  return LABOR_KEYWORDS.some((kw) => text.includes(kw));
+}
+
+// 厚労省自身の職員採用の案内は、労働関連の施策・法規ではないので対象外。
+const SELF_RECRUITMENT_PATTERNS = ["採用案内", "採用情報", "採用試験", "採用サイト", "職員募集", "任期付職員", "技官採用"];
+
+export function isSelfRecruitmentTitle(title: string): boolean {
+  return SELF_RECRUITMENT_PATTERNS.some((kw) => title.includes(kw));
 }
 
 // Googleニュース検索(site:nikkei.com)にかけるクエリ。1クエリあたりのOR語数を絞って分割する。

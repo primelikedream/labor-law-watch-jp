@@ -107,9 +107,15 @@ async function getJson<T>(url: string): Promise<T> {
   return (await res.json()) as T;
 }
 
+class NotFoundError extends Error {}
+
+// 条文が提供されていない改正(政令の経過措置のみ等)は404になる。再試行しても取得できないので区別する。
 async function getLawRoot(revisionId: string): Promise<LawNode> {
-  const data = await getJson<{ law_full_text: LawNode }>(`${API}/law_data/${revisionId}?response_format=json`);
-  return data.law_full_text;
+  const url = `${API}/law_data/${revisionId}?response_format=json`;
+  const res = await fetch(url, { headers: HEADERS });
+  if (res.status === 404) throw new NotFoundError(`条文なし: ${revisionId}`);
+  if (!res.ok) throw new Error(`e-Gov API ${res.status}: ${url}`);
+  return ((await res.json()) as { law_full_text: LawNode }).law_full_text;
 }
 
 function toCompactDate(iso: string | null): string {
@@ -119,6 +125,15 @@ function toCompactDate(iso: string | null): string {
 // 指定した施行日の改正(同日に複数ある場合はまとめて)前後の条文差分を返す。
 // 該当する改正履歴が見つからなければnull(呼び出し側でフォールバックする)。通信失敗時は例外を投げる。
 export async function fetchAmendmentDiff(lawId: string, enforcementDate: string): Promise<AmendmentDiff | null> {
+  try {
+    return await fetchAmendmentDiffUnsafe(lawId, enforcementDate);
+  } catch (err) {
+    if (err instanceof NotFoundError) return null;
+    throw err;
+  }
+}
+
+async function fetchAmendmentDiffUnsafe(lawId: string, enforcementDate: string): Promise<AmendmentDiff | null> {
   const history = await getJson<{ revisions: RevisionInfo[] }>(`${API}/law_revisions/${lawId}`);
   const revisions = history.revisions;
 
