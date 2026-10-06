@@ -1,5 +1,5 @@
 import { XMLParser } from "fast-xml-parser";
-import { isLaborRelatedLawName } from "../keywords.js";
+import { isLaborRelatedLawName, isOrganizationalLawName } from "../keywords.js";
 import type { CollectedItem } from "../types.js";
 
 interface RawLawInfo {
@@ -70,7 +70,7 @@ export async function collectEgovLawUpdates(
 
     for (const info of lawInfos) {
       const lawName = info.LawName?.trim();
-      if (!lawName || !isLaborRelatedLawName(lawName)) continue;
+      if (!lawName || !isLaborRelatedLawName(lawName) || isOrganizationalLawName(lawName)) continue;
 
       const enforcementDate = info.EnforcementDate ?? dateStr;
       const id = `egov:${info.LawId ?? lawName}:${enforcementDate}`;

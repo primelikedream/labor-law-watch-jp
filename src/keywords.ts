@@ -85,7 +85,17 @@ export const ROSEI_SEARCH_QUERIES: string[] = [
 ];
 
 export function isLaborRelatedLawName(lawName: string): boolean {
-  return LABOR_LAW_NAME_PATTERNS.some((kw) => lawName.includes(kw));
+  // 「厚生労働大臣」「厚生労働省」を含むだけで労働関連と誤判定しないよう、これらを除いて判定する。
+  const name = lawName.replaceAll("厚生労働", "");
+  return LABOR_LAW_NAME_PATTERNS.some((kw) => name.includes(kw));
+}
+
+// 省庁の内部組織や独立行政法人の運営ルールに関する法令は「労働」を名称に含んでいても
+// 事業主・労務担当者が対応すべき労働関連法規ではないため除外する。
+const ORGANIZATIONAL_LAW_PATTERNS = ["組織令", "組織規則", "設置法", "独立行政法人", "人事管理に関する省令"];
+
+export function isOrganizationalLawName(lawName: string): boolean {
+  return ORGANIZATIONAL_LAW_PATTERNS.some((kw) => lawName.includes(kw));
 }
 
 // 見出しの語から法制化の進捗を推定する(あくまで見出しベースの推定であり、正確性は保証しない)。

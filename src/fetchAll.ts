@@ -6,6 +6,8 @@ import { summarizeItems } from "./summarize.js";
 import { classifyItems } from "./classify.js";
 import { clusterNewItems } from "./dedupe.js";
 import { filterRelevantItems } from "./relevance.js";
+import { enrichLawAmendments } from "./amendment.js";
+import { isLaborRelatedLawName, isOrganizationalLawName } from "./keywords.js";
 import { loadData, mergeItems, saveData } from "./store.js";
 
 async function main() {
@@ -41,12 +43,22 @@ async function main() {
   ]);
   console.log(`新規追加: ${addedCount}件 (合計 ${merged.length}件)`);
 
-  const toCheck = merged.filter(
+  // 省庁の内部組織・独立行政法人の運営に関する法令や、労働と無関係な法令(旧データに含まれるもの)は対象外。
+  const withoutOrgLaws = merged.filter((item) => {
+    if (item.source !== "egov_law_update") return true;
+    const lawName = item.title.split(" — ")[0];
+    return isLaborRelatedLawName(lawName) && !isOrganizationalLawName(lawName);
+  });
+  if (withoutOrgLaws.length !== merged.length) {
+    console.log(`組織・運営系の法令を除外: ${merged.length - withoutOrgLaws.length}件`);
+  }
+
+  const toCheck = withoutOrgLaws.filter(
     (item) => (item.source === "nikkei_news" || item.source === "rosei_news") && !item.relevanceChecked,
   ).length;
   console.log(`関連性チェック対象: ${toCheck}件`);
-  const relevant = await filterRelevantItems(merged);
-  console.log(`対象外として除外: ${merged.length - relevant.length}件 (残り ${relevant.length}件)`);
+  const relevant = await filterRelevantItems(withoutOrgLaws);
+  console.log(`対象外として除外: ${withoutOrgLaws.length - relevant.length}件 (残り ${relevant.length}件)`);
 
   // 要約が同じ出来事の他ソース見出しを参照できるよう、クラスタリングを要約より先に行う。
   const unclustered = relevant.filter((item) => !item.storyId);
@@ -55,6 +67,10 @@ async function main() {
 
   console.log(`要約対象: ${relevant.filter((item) => !item.summary).length}件`);
   await summarizeItems(relevant);
+
+  // 改正内容・必要な対応の生成(条文差分に基づく)。法令改正のうち未生成のものだけが対象。
+  console.log(`改正内容の生成対象: ${relevant.filter((item) => item.source === "egov_law_update" && !item.detail).length}件`);
+  await enrichLawAmendments(relevant);
 
   const classified = classifyItems(relevant);
 

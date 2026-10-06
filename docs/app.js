@@ -49,6 +49,21 @@ function fmtDateLabel(dateKey) {
   return { d: `${Number(m)}/${Number(d)}`, y };
 }
 
+function renderAmendmentDetail(detail) {
+  if (!detail) return "";
+  const note =
+    detail.basis === "limited" ? '<p class="amend-note">※ 条文の差分を十分に取得できなかったため、概要のみの記載です。</p>' : "";
+  return `
+    <details class="amend">
+      <summary>改正内容と必要な対応</summary>
+      <p class="amend-label">改正内容</p>
+      <p>${escapeHtml(detail.changes)}</p>
+      <p class="amend-label action">必要な対応</p>
+      <ol>${detail.actions.map((a) => `<li>${escapeHtml(a)}</li>`).join("")}</ol>
+      ${note}
+    </details>`;
+}
+
 function renderStageTrack(stage) {
   if (!stage) return "";
   const idx = STAGES.indexOf(stage);
@@ -207,6 +222,7 @@ function render() {
               </div>
               <p class="item-title"><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></p>
               <p class="item-summary">${escapeHtml(item.summary ?? "")}</p>
+              ${renderAmendmentDetail(item.detail)}
               ${renderStageTrack(story.stage)}
               ${relatedRow}
             </article>`;
