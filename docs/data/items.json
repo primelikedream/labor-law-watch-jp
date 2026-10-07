@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-06T02:45:09.294Z",
+  "updatedAt": "2026-10-07T01:16:57.146Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5FOHBhQjhkU09PSUxxUmpJWjdqaEtQQTBJa3JELUZEendHb3h4RFB2WnEtbFlwTHpEV252dDhsOVhKNUNaamc1WWFmcmk2Y3FTZ0xMYVQ5TElvWVNXdm9LQ3FVcm1iSFc5QVpuUw",
+      "source": "nikkei_news",
+      "title": "8月の実質賃金1.5%増、8カ月連続プラス 賃上げが波及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FOHBhQjhkU09PSUxxUmpJWjdqaEtQQTBJa3JELUZEendHb3h4RFB2WnEtbFlwTHpEV252dDhsOVhKNUNaamc1WWFmcmk2Y3FTZ0xMYVQ5TElvWVNXdm9LQ3FVcm1iSFc5QVpuUw?oc=5",
+      "publishedAt": "2026-10-06T23:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-07T01:16:13.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5FOHBhQjhkU09PSUxxUmpJWjdqaEtQQTBJa3JELUZEendHb3h4RFB2WnEtbFlwTHpEV252dDhsOVhKNUNaamc1WWFmcmk2Y3FTZ0xMYVQ5TElvWVNXdm9LQ3FVcm1iSFc5QVpuUw",
+      "summary": "2024年8月の実質賃金は前年同月比1.5%増加し、8カ月連続でプラスとなりました。賃上げの動きが広がっていることを示しており、人事担当者は今後の賃金改定の参考データとして活用できます。",
+      "summarizedAt": "2026-10-07T01:16:26.628Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE45cWlMN2U3SmJuczRhbERYanpFN1UzRjlVSFgya05EX28xMkJOc1FwbWpQNXpjZXJOMUFNMkdQNXdGd2ZZeDIxd2RhSlJZZTU0dzB4Um0zMHU1cUdjcXNDMGtyNFZ2S3JmNkx6Uw",
+      "source": "nikkei_news",
+      "title": "将来のお金か今の給料か 変わる企業の退職金戦略",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45cWlMN2U3SmJuczRhbERYanpFN1UzRjlVSFgya05EX28xMkJOc1FwbWpQNXpjZXJOMUFNMkdQNXdGd2ZZeDIxd2RhSlJZZTU0dzB4Um0zMHU1cUdjcXNDMGtyNFZ2S3JmNkx6Uw?oc=5",
+      "publishedAt": "2026-10-06T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-07T01:16:13.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE45cWlMN2U3SmJuczRhbERYanpFN1UzRjlVSFgya05EX28xMkJOc1FwbWpQNXpjZXJOMUFNMkdQNXdGd2ZZeDIxd2RhSlJZZTU0dzB4Um0zMHU1cUdjcXNDMGtyNFZ2S3JmNkx6Uw",
+      "summary": "# 要約\n\n企業の退職金制度の見直しが進んでおり、将来の退職金と現在の給与のバランスについて戦略的な再検討が行われています。人事担当者は自社の退職金制度の在り方について、従業員のニーズや採用競争力を踏まえた見直しの検討が求められます。\n\n(114字)",
+      "summarizedAt": "2026-10-07T01:16:33.029Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76388.html",
+      "source": "mhlw_news",
+      "title": "第212回労働政策審議会労働条件分科会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76388.html",
+      "publishedAt": "2026-10-06T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-07T01:16:13.611Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76388.html",
+      "summary": "労働政策審議会労働条件分科会の第212回会合が開催されます。労働条件に関する制度改正等の審議状況を確認する機会となるため、人事労務担当者は今後公表される議事録や資料で審議内容を把握することが推奨されます。",
+      "summarizedAt": "2026-10-07T01:16:24.321Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76596.html",
       "source": "mhlw_news",
@@ -822,6 +864,20 @@
       "storyId": "nikkei:CBMiZ0FVX3lxTFBuU1pVcW5KRlZyakNDZTlOSEJ6MUxNLXdGX1JOTEFjTmEyaVRVTzhuaG1tQXZwQ1JFNWFoaHY3dTN2WGJwY1FDOEplNExBbjRmTlhrMVpHZEF2YmdLN29jZXNjQ0YxRU0",
       "summary": "タクシー業界で賃金が急上昇しており、入社6年目49歳で年収1264万円の事例が報告されています。人手不足が深刻な運輸業界において、採用・定着強化のため自社の賃金水準を見直す必要性が高まっています。",
       "summarizedAt": "2026-10-02T01:27:25.468Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5XMW9Ha0JxTmJLcWxHcWYwbjRjLXU0TUVvNVNzUkhLSFEtLXlzMXhsM0VmakZxNU9JeVpJTkxyekFmdlpPNkpvREY1bk85NEcxaVpJOFlYZklDa2w3b0Z1Nno1RDdUS3MzeWkxdw",
+      "source": "nikkei_news",
+      "title": "［2031年の技術］期待度2位「フィジカルAI」 ロボットで工場の人手不足を解消",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMW9Ha0JxTmJLcWxHcWYwbjRjLXU0TUVvNVNzUkhLSFEtLXlzMXhsM0VmakZxNU9JeVpJTkxyekFmdlpPNkpvREY1bk85NEcxaVpJOFlYZklDa2w3b0Z1Nno1RDdUS3MzeWkxdw?oc=5",
+      "publishedAt": "2026-10-01T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-07T01:16:13.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5XMW9Ha0JxTmJLcWxHcWYwbjRjLXU0TUVvNVNzUkhLSFEtLXlzMXhsM0VmakZxNU9JeVpJTkxyekFmdlpPNkpvREY1bk85NEcxaVpJOFlYZklDa2w3b0Z1Nno1RDdUS3MzeWkxdw",
+      "summary": "フィジカルAI(物理的作業が可能なAI搭載ロボット)が2031年までに実用化され、製造業の現場で人手不足解消に寄与すると期待されています。人事担当者は今後、ロボットとの協働を前提とした要員計画や従業員のスキル転換支援を検討する必要があります。",
+      "summarizedAt": "2026-10-07T01:16:29.827Z",
       "isGuideline": false
     },
     {
@@ -2624,6 +2680,20 @@
       "summary": "警察庁が人手不足に対応するため、外国人材の在留資格「特定技能」の対象業種に警備業を追加する方向で検討会を開始しました。警備業での外国人雇用が可能になる見込みのため、今後の制度整備の動向に注意が必要です。",
       "summarizedAt": "2026-09-10T22:13:14.908Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMi8gFBVV95cUxQOEFqbmpJZzhEazAxeDVYa3ZlVjR5TnpkNzVoQWZjUGR0eHhEVEhFdTFERHRpNEtCNXdwQkRRLTAyTzlROGJtaXliMTFneHNtbXZhVVA5UFREbmFheXNjMDhtWExTS0t6TUVzLVR2R2t4eG0yb25PSlFObFhZM1J2SWlRVmZyU0NnMHVINWR2Y3ROWlhRZ2pDcmlva3FPVVVmZTUzdXNEUmlBYURRVUlxTmJvYVpkblNFUnF6WnRhTjNIY0s2aEVMWGdtVHhGdGVvaE1iQnF3c21hLW9nREJmeE9YenRvUXJXSU9aV3RVMlJ5UQ",
+      "source": "nikkei_news",
+      "title": "人手不足時代 製造業で活躍する外国人就労者",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEFqbmpJZzhEazAxeDVYa3ZlVjR5TnpkNzVoQWZjUGR0eHhEVEhFdTFERHRpNEtCNXdwQkRRLTAyTzlROGJtaXliMTFneHNtbXZhVVA5UFREbmFheXNjMDhtWExTS0t6TUVzLVR2R2t4eG0yb25PSlFObFhZM1J2SWlRVmZyU0NnMHVINWR2Y3ROWlhRZ2pDcmlva3FPVVVmZTUzdXNEUmlBYURRVUlxTmJvYVpkblNFUnF6WnRhTjNIY0s2aEVMWGdtVHhGdGVvaE1iQnF3c21hLW9nREJmeE9YenRvUXJXSU9aV3RVMlJ5UQ?oc=5",
+      "publishedAt": "2026-09-10T15:30:58.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-07T01:16:13.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi8gFBVV95cUxQOEFqbmpJZzhEazAxeDVYa3ZlVjR5TnpkNzVoQWZjUGR0eHhEVEhFdTFERHRpNEtCNXdwQkRRLTAyTzlROGJtaXliMTFneHNtbXZhVVA5UFREbmFheXNjMDhtWExTS0t6TUVzLVR2R2t4eG0yb25PSlFObFhZM1J2SWlRVmZyU0NnMHVINWR2Y3ROWlhRZ2pDcmlva3FPVVVmZTUzdXNEUmlBYURRVUlxTmJvYVpkblNFUnF6WnRhTjNIY0s2aEVMWGdtVHhGdGVvaE1iQnF3c21hLW9nREJmeE9YenRvUXJXSU9aV3RVMlJ5UQ",
+      "summary": "【要約】\n製造業における外国人就労者の活用が進んでいます。人手不足対策として外国人材の受け入れ体制整備や、就労環境の改善など、雇用管理の見直しが求められる可能性があります。\n\n(96字)",
+      "summarizedAt": "2026-10-07T01:16:35.666Z",
       "isGuideline": false
     },
     {
@@ -6946,6 +7016,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE5aY3dQZDMwbndtMmxyUWZpT2RZODNLUC1KcTdLbnVLWnlacjFIN29ZdVgtUzl5b1hBMUhFLXM2OGZ6ZDhfdEJqeEJUeHdlcm9BVkxGU3M1elhmX3M",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aY3dQZDMwbndtMmxyUWZpT2RZODNLUC1KcTdLbnVLWnlacjFIN29ZdVgtUzl5b1hBMUhFLXM2OGZ6ZDhfdEJqeEJUeHdlcm9BVkxGU3M1elhmX3M?oc=5",
+      "publishedAt": "2026-06-01T00:59:23.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE5aY3dQZDMwbndtMmxyUWZpT2RZODNLUC1KcTdLbnVLWnlacjFIN29ZdVgtUzl5b1hBMUhFLXM2OGZ6ZDhfdEJqeEJUeHdlcm9BVkxGU3M1elhmX3M",
+      "summary": "申し訳ございませんが、提供されたのは「労働基準法の基礎知識」という一般的なタイトルのみで、法改正や新しい制度変更に関する具体的な情報が含まれていません。このタイトルからは「何がどう変わるか/何をすべきか」を読み取ることができないため、要約を作成することができません。",
+      "summarizedAt": "2026-10-07T01:16:43.819Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE4xaGxrZEhnbTNLNHZxTDVvTTdPVEd4MnlIRE1VRF9XOGttTmpPZHl3U01aelNSSkxqdUVFMDk2TkJMRUtPcXBsR28wbVNnQ0YzeW9yNw",
       "source": "rosei_news",
       "title": "第300回 中島美鈴 ― ハラスメントにならない「時間管理指導」 ～実行機能の視点から",
@@ -8555,6 +8639,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiTkFVX3lxTE5ScXpfbmYxdTRpeWNjT21CaFBlT1RFYUo2aEN1dmFxcXB2Z21zRE9DTUtkVUVCU204YXNjOGVBVG9haFBidnRxX3k4bDlZdw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE01SmFhaTN3RlJxZEEtM3h0VVZ2enA4c01jNWRad0w5UHZUMXBxaE1ITGN5RzVoblRyMDZBRS1fVDQ3T1Ztd0JPV3hPcE9TcEJaeVFOdg",
+      "source": "rosei_news",
+      "title": "テレワーク時のみフレックスタイム制の適用を解除した上で、残業を許可制とすることは問題か",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SmFhaTN3RlJxZEEtM3h0VVZ2enA4c01jNWRad0w5UHZUMXBxaE1ITGN5RzVoblRyMDZBRS1fVDQ3T1Ztd0JPV3hPcE9TcEJaeVFOdg?oc=5",
+      "publishedAt": "2025-07-25T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE01SmFhaTN3RlJxZEEtM3h0VVZ2enA4c01jNWRad0w5UHZUMXBxaE1ITGN5RzVoblRyMDZBRS1fVDQ3T1Ztd0JPV3hPcE9TcEJaeVFOdg",
+      "summary": "テレワーク時に限定してフレックスタイム制の適用を解除し、残業を許可制とする運用について、労働時間制度の整合性や就業規則の規定等の観点から法的な問題点を検討する必要があります。",
+      "summarizedAt": "2026-10-07T01:16:57.141Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5UNUw5NHNIUGlzWlZVcmVwUmtaU2RKV1pEVnBoQ1V0cTNqbGd4MVdyMmFnRGJRWEZncFgzM181bnk0bFJxbmJBTFJyU0VjVVVaU1JzVw",
@@ -10984,6 +11082,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMia0FVX3lxTE5hRHY2MTlCNXVRWlBadm9iOUpTbXlhVmpsNGNSXzFXZmhQaWJLY3VCdjY3dGhrbnRhM3ZJZUd1V0V3a2dkOXhpbUV1YVlPYTNiM2l3M21rM1Y0YmcyUFU3aFF5SGxwaHhWMUxZ",
+      "source": "rosei_news",
+      "title": "2019年賃上げの見通し",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRHY2MTlCNXVRWlBadm9iOUpTbXlhVmpsNGNSXzFXZmhQaWJLY3VCdjY3dGhrbnRhM3ZJZUd1V0V3a2dkOXhpbUV1YVlPYTNiM2l3M21rM1Y0YmcyUFU3aFF5SGxwaHhWMUxZ?oc=5",
+      "publishedAt": "2022-10-02T22:32:59.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMia0FVX3lxTE5hRHY2MTlCNXVRWlBadm9iOUpTbXlhVmpsNGNSXzFXZmhQaWJLY3VCdjY3dGhrbnRhM3ZJZUd1V0V3a2dkOXhpbUV1YVlPYTNiM2l3M21rM1Y0YmcyUFU3aFF5SGxwaHhWMUxZ",
+      "summary": "【要約】\n2019年の賃上げ動向について、企業の賃上げ率や傾向の見通しが示されています。人事・労務担当者は自社の賃金改定方針を検討する際の参考情報として確認することが推奨されます。\n\n(80字)",
+      "summarizedAt": "2026-10-07T01:16:51.978Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1nT2prZGhjX2p0c1hFcHB4Z0YzajBuR2VZdUxPZ19rd2drTnFtT3lIQS00aUZPQU1RUV9uLXdoRTdnc0w5M3ktNDJOUE5zc0lhVUJuUw",
       "source": "rosei_news",
       "title": "改正育児・介護休業法への対応アンケート",
@@ -11009,6 +11121,20 @@
       "summary": "【要約】\nカスタマーハラスメント対策に関する半日研修またはセミナーの開催案内。顧客からの迷惑行為への企業としての対応方法を学ぶ内容で、人事労務担当者が従業員保護のための実務的な対策を習得できる機会となる。\n\n(95字)",
       "summarizedAt": "2026-09-06T22:13:16.269Z",
       "storyId": "rosei:CBMiWkFVX3lxTE5zRUNGeW5wMUpsUUpCQnJCMGwxRmhncGtGMzhtTDRoN0NfcHBmakRUSWxtN1puRUl6Qm9FeDVHM0JvZzJtcnNGUDg3ZElBSWI2QTlUT3ZnTXBuZw",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9lQkVvMG1DS2xxWldkZEFiclVsTk5YLTBRZzREN1VSUzVqNURwczZPMTNzTlQwOERoRFMtRzBTdnVGWGlXNkwtX28tb1lEeXF4c0xURQ",
+      "source": "rosei_news",
+      "title": "調査対象の３４％、違法残業 厚労省、働き方改革で減少",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lQkVvMG1DS2xxWldkZEFiclVsTk5YLTBRZzREN1VSUzVqNURwczZPMTNzTlQwOERoRFMtRzBTdnVGWGlXNkwtX28tb1lEeXF4c0xURQ?oc=5",
+      "publishedAt": "2022-07-29T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9lQkVvMG1DS2xxWldkZEFiclVsTk5YLTBRZzREN1VSUzVqNURwczZPMTNzTlQwOERoRFMtRzBTdnVGWGlXNkwtX28tb1lEeXF4c0xURQ",
+      "summary": "厚生労働省の調査により、調査対象事業場の34％で違法残業が確認されたものの、働き方改革の推進により違法残業の割合は減少傾向にあることが明らかになりました。引き続き労働時間管理の適正化と法令遵守の徹底が求められます。",
+      "summarizedAt": "2026-10-07T01:16:48.970Z",
       "isGuideline": false
     },
     {
@@ -11051,6 +11177,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBTWHQ4bEpLNnlkLXZnTEFPX0xiaFA2ZHZicFEzOW5EWnhEanIxWXV5bG5PMGZuUko0eHRhNnQ0Y2RadGlCcFZRaENjNzZGeFNYVHFvWWdOY2o3dE4zNmtKZmdOSTNwaHlBY0d1aQ",
       "summary": "【要約】\n職場でのサイバーハラスメント(インターネット上での誹謗中傷)が問題化しており、企業は相談窓口の設置やSNS利用ルールの策定など、オンライン上のハラスメント対策を講じる必要があります。\n\n(79字)",
       "summarizedAt": "2026-09-18T22:14:13.100Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9GQ2lFRGg5b2ozaWRLVVYtT1ZQQV9neFl4Q1dSNjF6VE9SZ3ZXZHpTSy02LUFycy16QUlYZGY5aTdZcUM4aElJeTc5a2QwUkRSRlRlSA",
+      "source": "rosei_news",
+      "title": "非労働力人口",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQ2lFRGg5b2ozaWRLVVYtT1ZQQV9neFl4Q1dSNjF6VE9SZ3ZXZHpTSy02LUFycy16QUlYZGY5aTdZcUM4aElJeTc5a2QwUkRSRlRlSA?oc=5",
+      "publishedAt": "2022-07-02T02:20:39.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9GQ2lFRGg5b2ozaWRLVVYtT1ZQQV9neFl4Q1dSNjF6VE9SZ3ZXZHpTSy02LUFycy16QUlYZGY5aTdZcUM4aElJeTc5a2QwUkRSRlRlSA",
+      "summary": "【要約】\n「非労働力人口」という見出しのみでは、法改正や具体的な施策内容が不明なため、企業の労務・人事担当者が対応すべき事項は判断できません。記事本文の確認が必要です。\n\n(59字)",
+      "summarizedAt": "2026-10-07T01:16:41.169Z",
       "isGuideline": false
     },
     {
@@ -11432,6 +11572,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1tMVZ1NzZ1TktjcEJqek90R1cyR3VET293aEtvUTE0anFfaFJkZlNBekVKWXZGMnFhMXJNSjcyUFJjUzhqOEdCY1JZdThUNnBZd3BxRg",
+      "source": "rosei_news",
+      "title": "就業規則と労働協約、労働契約との関係",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tMVZ1NzZ1TktjcEJqek90R1cyR3VET293aEtvUTE0anFfaFJkZlNBekVKWXZGMnFhMXJNSjcyUFJjUzhqOEdCY1JZdThUNnBZd3BxRg?oc=5",
+      "publishedAt": "2022-02-01T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1tMVZ1NzZ1TktjcEJqek90R1cyR3VET293aEtvUTE0anFfaFJkZlNBekVKWXZGMnFhMXJNSjcyUFJjUzhqOEdCY1JZdThUNnBZd3BxRg",
+      "summary": "労働条件を定める就業規則・労働協約・労働契約の三者について、それぞれの効力関係や優先順位、適用場面における違いを理解し、自社の規程類が法的に適切な体系となっているか確認する必要があります。",
+      "summarizedAt": "2026-10-07T01:16:54.855Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBQMWlXRGJONUh1MW42azFXMkpYdGVBOEpKdHg3REF0Y0c2dDB1WlA3SGpGamdvdjNuVk9EWkNuUnNCeml6aFY0c2p5T05qbldmVVpIaw",
       "source": "rosei_news",
       "title": "経団連、賃上げ目標見送り 好業績企業にはベア促す ２２年春闘、経営側指針",
@@ -11499,6 +11653,20 @@
       "summary": "# 要約(96文字)\n\n出生時育児休業(産後パパ育休)は、子の出生後8週間以内に4週間まで取得可能な、男性の育児参加を促進する新たな休業制度です。人事担当者は制度周知、申出手続き、就業規則改定、社内体制整備を進める必要があります。",
       "summarizedAt": "2026-09-03T22:18:27.230Z",
       "storyId": "rosei:CBMiVEFVX3lxTFBDdEYwNWZrVzlFaGZYQ0ZFTFlOWWV0R0l5ekxpdHFqV3dKdUVST25xTkxqN0g4NWN6TlY5R1NDcC1DZVRXM2doaVdKT3R4ZU1helUyaw",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9PVlB4RlItajhmdHFFenFMeHg2QlZ2T2pYSTVHeUJlNjVaTW9mNVBLbWg3b1pFYmFrQ1lfTmtlTHhQYVJWTDBEWkRWMzFlbkpEQkpGYg",
+      "source": "rosei_news",
+      "title": "就労支援施設に支払い命令 元職員賃金、福岡地裁支部",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PVlB4RlItajhmdHFFenFMeHg2QlZ2T2pYSTVHeUJlNjVaTW9mNVBLbWg3b1pFYmFrQ1lfTmtlTHhQYVJWTDBEWkRWMzFlbkpEQkpGYg?oc=5",
+      "publishedAt": "2021-08-25T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9PVlB4RlItajhmdHFFenFMeHg2QlZ2T2pYSTVHeUJlNjVaTW9mNVBLbWg3b1pFYmFrQ1lfTmtlTHhQYVJWTDBEWkRWMzFlbkpEQkpGYg",
+      "summary": "福岡地裁支部が就労支援施設に対し元職員への賃金支払いを命じる判決を出しました。賃金未払いトラブルは法的リスクを伴うため、退職者を含む賃金支払い状況の適切な管理と記録保持が求められます。",
+      "summarizedAt": "2026-10-07T01:16:38.274Z",
       "isGuideline": false
     },
     {
@@ -11990,6 +12158,20 @@
       "storyId": "nikkei:CBMickFVX3lxTFA3MTlOVS1OWXJINkEzYmlhTElPYW9lRXVzZnFUMHlSZ3VTbHowZTFCN0wwT0FGNUJkNEVkQ1Z5YjVuRlZ4SkIySURoZ3F0a0NWWVV1eV9QS0VfUGo0U3NieHlDRThfN1dmYV80NHczNWJhUQ",
       "summary": "サイバーエージェントが高い回答率(99%)を達成する社員調査を実施し、その結果をハラスメント防止に活用している事例が紹介されています。人事担当者は、効果的な社員調査の設計・運用方法の参考として注目すべき取り組みです。",
       "summarizedAt": "2026-09-19T22:13:23.796Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5uTWg2clM3WkFtRG1JbVNXZ090ZzlaWnhVN2haQTF4Z3dmeDVwNjdkNHBoNlE4NzVoaEJPcnhLaGgzZG9Mb3J2d0thcHkwdlRwc2dsRw",
+      "source": "rosei_news",
+      "title": "［147］『残業の9割はいらない―ヤフーが実践する幸せな働き方』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uTWg2clM3WkFtRG1JbVNXZ090ZzlaWnhVN2haQTF4Z3dmeDVwNjdkNHBoNlE4NzVoaEJPcnhLaGgzZG9Mb3J2d0thcHkwdlRwc2dsRw?oc=5",
+      "publishedAt": "2018-11-21T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-07T01:16:13.137Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5uTWg2clM3WkFtRG1JbVNXZ090ZzlaWnhVN2haQTF4Z3dmeDVwNjdkNHBoNlE4NzVoaEJPcnhLaGgzZG9Mb3J2d0thcHkwdlRwc2dsRw",
+      "summary": "【要約】\nヤフーにおける残業削減の実践事例を紹介する書籍の刊行情報で、労働時間削減と従業員の幸福度向上を両立させる具体的な取り組み手法が参考資料として示されています。",
+      "summarizedAt": "2026-10-07T01:16:46.582Z",
       "isGuideline": false
     },
     {
