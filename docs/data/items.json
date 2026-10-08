@@ -1,6 +1,117 @@
 {
-  "updatedAt": "2026-10-07T01:16:57.146Z",
+  "updatedAt": "2026-10-08T01:38:30.374Z",
   "items": [
+    {
+      "id": "egov:335CO0000000292:20270401",
+      "source": "egov_law_update",
+      "title": "障害者の雇用の促進等に関する法律施行令 — 出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令(施行日: 20270401)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=335CO0000000292_20270401_507CO0000000341",
+      "publishedAt": "2026-10-08T01:37:38.593Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-08T01:37:37.608Z",
+      "storyId": "egov:335CO0000000292:20270401",
+      "summary": "「外国人の技能実習の適正な実施及び技能実習生の保護に関する法律」が「外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律」に名称変更され、これに伴い障害者雇用促進法施行令第25条において引用する条文番号が技術的に整理されました。",
+      "summarizedAt": "2026-10-08T01:37:51.786Z",
+      "detail": {
+        "changes": "「外国人の技能実習の適正な実施及び技能実習生の保護に関する法律」が「外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律」に名称変更され、これに伴い障害者雇用促進法施行令第25条において引用する条文番号が技術的に整理されました。具体的には、技能実習制度が育成就労制度に移行することを受けて、障害者雇用納付金制度における除外率設定に係る労働関係法令違反の対象規定(同施行令第25条第1項第11号および第2項第11号)の引用条文が変更されます。令和9年4月1日から施行されます。",
+        "actions": [
+          "特段の対応は不要です。本改正は、技能実習制度から育成就労制度への移行に伴う法律名称の変更と、それに伴う障害者雇用促進法施行令における引用条文の技術的整理(条番号の変更)であり、障害者雇用納付金制度の実質的な運用や、事業主に求められる義務の内容自体に変更はありません。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:335CO0000000292:20261001",
+      "source": "egov_law_update",
+      "title": "障害者の雇用の促進等に関する法律施行令 — 日本学術会議法の施行に伴う関係政令の整備に関する政令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=335CO0000000292_20261001_508CO0000000286",
+      "publishedAt": "2026-10-08T01:37:38.593Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-08T01:37:37.608Z",
+      "storyId": "egov:335CO0000000292:20261001",
+      "summary": "障害者の雇用の促進等に関する法律施行令の別表第二(障害者雇用率制度の対象となる事業主の範囲を定める表)において、第七号に「日本学術会議」が追加されます。",
+      "summarizedAt": "2026-10-08T01:37:54.827Z",
+      "detail": {
+        "changes": "障害者の雇用の促進等に関する法律施行令の別表第二(障害者雇用率制度の対象となる事業主の範囲を定める表)において、第七号に「日本学術会議」が追加されます。これにより、日本学術会議が障害者雇用率制度の適用対象事業主として明記されることになります。施行日は令和8年(2026年)10月1日です。",
+        "actions": [
+          "特段の対応は不要です。本改正は、日本学術会議法の施行に伴い、日本学術会議を障害者雇用率制度の対象事業主として別表第二に追加するものです。一般の民間事業主や既存の特殊法人等には影響がなく、日本学術会議のみが新たに障害者雇用率制度の適用を受けることになります。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBmX0xUbENVR0YwZ0F1WG9VeUd4Sm5jZDFYaUZmTG4tU0NZODlKM0RzS2ljem5SSmRSc3NjUEpnMXRpSXh3cXQzYm1MdUJZdzhibkNEWG1KNFAwVDZ2WE8ycEdIYW40WnoxMkk0Vg",
+      "source": "nikkei_news",
+      "title": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmX0xUbENVR0YwZ0F1WG9VeUd4Sm5jZDFYaUZmTG4tU0NZODlKM0RzS2ljem5SSmRSc3NjUEpnMXRpSXh3cXQzYm1MdUJZdzhibkNEWG1KNFAwVDZ2WE8ycEdIYW40WnoxMkk0Vg?oc=5",
+      "publishedAt": "2026-10-07T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-08T01:37:37.609Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBmX0xUbENVR0YwZ0F1WG9VeUd4Sm5jZDFYaUZmTG4tU0NZODlKM0RzS2ljem5SSmRSc3NjUEpnMXRpSXh3cXQzYm1MdUJZdzhibkNEWG1KNFAwVDZ2WE8ycEdIYW40WnoxMkk0Vg",
+      "summary": "三菱商事が男性育休取得率171%（複数回取得含む）で首位を獲得し、部長職を育休推進アンバサダーに指名する施策を実施しています。管理職層を巻き込んだ取得促進策が効果を上げた事例として、自社の育休推進体制を検討する際の参考になります。",
+      "summarizedAt": "2026-10-08T01:38:03.689Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB0Uy1FeWYwbGdqMFRMY2o2Tm8yQ2N6TW9pY2pUTWtDMHN4cl9RaGk4V0E4SXlpQ2lLblNDS082SS11RzgyZHpwaHNhWlBpX2tOdHBsU21RdkUtQmc2b1RLWlhnajNyWjFLSnhjVg",
+      "source": "nikkei_news",
+      "title": "原子力人材確保へ官民コンソーシアム設立 推進・規制の両組織が参加",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Uy1FeWYwbGdqMFRMY2o2Tm8yQ2N6TW9pY2pUTWtDMHN4cl9RaGk4V0E4SXlpQ2lLblNDS082SS11RzgyZHpwaHNhWlBpX2tOdHBsU21RdkUtQmc2b1RLWlhnajNyWjFLSnhjVg?oc=5",
+      "publishedAt": "2026-10-07T10:08:44.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-08T01:37:37.609Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFB0Uy1FeWYwbGdqMFRMY2o2Tm8yQ2N6TW9pY2pUTWtDMHN4cl9RaGk4V0E4SXlpQ2lLblNDS082SS11RzgyZHpwaHNhWlBpX2tOdHBsU21RdkUtQmc2b1RLWlhnajNyWjFLSnhjVg",
+      "summary": "原子力分野の人材確保に向け、推進側と規制側の両組織が参加する官民コンソーシアムが設立されます。原子力業界での採用・育成を検討中の企業は、同コンソーシアムの動向や人材育成施策の情報収集が必要です。",
+      "summarizedAt": "2026-10-08T01:38:06.403Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76524.html",
+      "source": "mhlw_news",
+      "title": "第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76524.html",
+      "publishedAt": "2026-10-07T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-08T01:37:38.157Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76524.html",
+      "summary": "特定石綿被害建設業務労働者等認定審査会の第38回専門委員会が開催されます。石綿被害を受けた建設労働者等の認定に関する審査が行われる見込みですが、一般企業の労務担当者が直ちに対応すべき事項はありません。",
+      "summarizedAt": "2026-10-08T01:37:48.156Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1ib204WUstZVBDMnpDT2o0TjJmWEdYOWdWd3l1bU41cWRWbzBKcWlVcUNaTjNaaDJ3TjNWXzJfSV9aQ2JlS0s3cDlXeUd3UTJwMkd1bg",
+      "source": "rosei_news",
+      "title": "実質賃金８カ月連続プラス １０年ぶり、８月１・５％ 物価上昇鈍化、春闘寄与 値上げ懸念も、厚労省調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ib204WUstZVBDMnpDT2o0TjJmWEdYOWdWd3l1bU41cWRWbzBKcWlVcUNaTjNaaDJ3TjNWXzJfSV9aQ2JlS0s3cDlXeUd3UTJwMkd1bg?oc=5",
+      "publishedAt": "2026-10-07T04:22:06.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-08T01:37:37.610Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9QeDhkc0RLTzFVVEFGRy1WQ1JzcFJvQndMbThhcHpmQ1YwWkFOSnhRdkNpTmZpUmxaeTFlNUNLS2JXeUV4bkNJUFlhUlhzQkR6UTdfeXNkQjRtTDQxbjVfNDE0Y3k1OTN2SVpibg",
+      "summary": "2024年8月の実質賃金は前年同月比1.5%増となり、8カ月連続のプラスを記録しました。春闘による賃上げと物価上昇の鈍化が要因ですが、今後の値上げ動向には注意が必要です。",
+      "summarizedAt": "2026-10-08T01:38:08.523Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9QeDhkc0RLTzFVVEFGRy1WQ1JzcFJvQndMbThhcHpmQ1YwWkFOSnhRdkNpTmZpUmxaeTFlNUNLS2JXeUV4bkNJUFlhUlhzQkR6UTdfeXNkQjRtTDQxbjVfNDE0Y3k1OTN2SVpibg",
+      "source": "nikkei_news",
+      "title": "実質賃金、9年半ぶり8カ月連続増 政府の物価抑制策が寄与",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QeDhkc0RLTzFVVEFGRy1WQ1JzcFJvQndMbThhcHpmQ1YwWkFOSnhRdkNpTmZpUmxaeTFlNUNLS2JXeUV4bkNJUFlhUlhzQkR6UTdfeXNkQjRtTDQxbjVfNDE0Y3k1OTN2SVpibg?oc=5",
+      "publishedAt": "2026-10-07T02:47:56.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-08T01:37:37.609Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9QeDhkc0RLTzFVVEFGRy1WQ1JzcFJvQndMbThhcHpmQ1YwWkFOSnhRdkNpTmZpUmxaeTFlNUNLS2JXeUV4bkNJUFlhUlhzQkR6UTdfeXNkQjRtTDQxbjVfNDE0Y3k1OTN2SVpibg",
+      "summary": "2024年8月の実質賃金が前年同月比1.5%増となり、9年半ぶり（約10年ぶり）に8カ月連続のプラスを記録しました。春闘による賃上げと政府の物価抑制策による物価上昇鈍化が要因ですが、今後の値上げ動向には注意が必要です。",
+      "summarizedAt": "2026-10-08T01:37:57.494Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE5FOHBhQjhkU09PSUxxUmpJWjdqaEtQQTBJa3JELUZEendHb3h4RFB2WnEtbFlwTHpEV252dDhsOVhKNUNaamc1WWFmcmk2Y3FTZ0xMYVQ5TElvWVNXdm9LQ3FVcm1iSFc5QVpuUw",
       "source": "nikkei_news",
@@ -11909,6 +12020,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMi6gFBVV95cUxPSUNzNHNKazVBS2VISG1ZcWxmRnZ4MWtaS2FLSFZBMW8yTHU4Vk83OFpoTzRvektOa2JFcFZnM0xUc3NqbzVyc0dVc1poUDhOWk85Y0QzQUdNT0lRNXNOT1R6eTdRUEpSMVVmSHRzNk9DcWpDUTlCWndFR1o5bF80SS16bWpaVU0yOG9nSmQzWW1LMmVPREFZcXU2MFhnYXlTN3dSeTlCRmRLdVBMSmZkSDJfMmx4RUttcnlrOUI0VVV0bTJoVHZWQmhjN3VPcUZmcnNGM3l4M29YTHdqNUJSMHZVelBIQnBlQkE",
+      "source": "nikkei_news",
+      "title": "NECがジョブ型雇用拡大へ SEのリモート環境を整備 ほか",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSUNzNHNKazVBS2VISG1ZcWxmRnZ4MWtaS2FLSFZBMW8yTHU4Vk83OFpoTzRvektOa2JFcFZnM0xUc3NqbzVyc0dVc1poUDhOWk85Y0QzQUdNT0lRNXNOT1R6eTdRUEpSMVVmSHRzNk9DcWpDUTlCWndFR1o5bF80SS16bWpaVU0yOG9nSmQzWW1LMmVPREFZcXU2MFhnYXlTN3dSeTlCRmRLdVBMSmZkSDJfMmx4RUttcnlrOUI0VVV0bTJoVHZWQmhjN3VPcUZmcnNGM3l4M29YTHdqNUJSMHZVelBIQnBlQkE?oc=5",
+      "publishedAt": "2020-07-17T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-08T01:37:37.609Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi6gFBVV95cUxPSUNzNHNKazVBS2VISG1ZcWxmRnZ4MWtaS2FLSFZBMW8yTHU4Vk83OFpoTzRvektOa2JFcFZnM0xUc3NqbzVyc0dVc1poUDhOWk85Y0QzQUdNT0lRNXNOT1R6eTdRUEpSMVVmSHRzNk9DcWpDUTlCWndFR1o5bF80SS16bWpaVU0yOG9nSmQzWW1LMmVPREFZcXU2MFhnYXlTN3dSeTlCRmRLdVBMSmZkSDJfMmx4RUttcnlrOUI0VVV0bTJoVHZWQmhjN3VPcUZmcnNGM3l4M29YTHdqNUJSMHZVelBIQnBlQkE",
+      "summary": "NEC社がジョブ型雇用を拡大する方針を示し、システムエンジニア向けのリモートワーク環境整備を進めています。ジョブ型人事制度の導入や拡大を検討する企業は、職種特性に応じた勤務環境の整備も併せて計画する必要があります。",
+      "summarizedAt": "2026-10-08T01:38:00.199Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBoV2xpdEZqY1QzeVVTVHVSQXVQQXhwR0kyMTBtWHhSRnktTFpDVEVNRnh6MjgxbkhrdmhNZ0ZwX2xmQUNmVnJ5M0U3ZkRZWUhQYXVPZQ",
       "source": "rosei_news",
       "title": "【2020年6月施行】企業に求められる「職場のハラスメント防止対策」とは？",
@@ -12329,6 +12454,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE0tbTZ3dm5IWndzNFYzS0tkcTVKUzJla0RqZDR5aHY2Y2F3X1JhMVVsNGpMdzVxUlZSTmxiQ053ZFRIQlJBNzVtd2Z6cXplWTd1N0hRZw",
+      "source": "rosei_news",
+      "title": "事業主が行う特定有期雇用労働者の特性に応じた雇用管理に関する措置に関する基本的な指針",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbTZ3dm5IWndzNFYzS0tkcTVKUzJla0RqZDR5aHY2Y2F3X1JhMVVsNGpMdzVxUlZSTmxiQ053ZFRIQlJBNzVtd2Z6cXplWTd1N0hRZw?oc=5",
+      "publishedAt": "2015-04-10T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-08T01:37:37.610Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE0tbTZ3dm5IWndzNFYzS0tkcTVKUzJla0RqZDR5aHY2Y2F3X1JhMVVsNGpMdzVxUlZSTmxiQ053ZFRIQlJBNzVtd2Z6cXplWTd1N0hRZw",
+      "summary": "特定有期雇用労働者（高度専門職や定年後継続雇用者等）について、その特性に応じた雇用管理措置を事業主が講じる際の基本的な考え方や望ましい対応を示した指針が定められました。該当する有期雇用労働者を雇用する企業は指針の内容を確認し、適切な雇用管理措置の実施が求められます。",
+      "summarizedAt": "2026-10-08T01:38:11.843Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE42N2swelFwZ1ZDT09hckxkYW13RnhXbndiY1JUZEVnaFpKT1RlYVY3ekU4bHpxdlg2dWZOTkpWMlF2eFJjUHE0MlhfTkVmOE1TWU9LVg",
       "source": "rosei_news",
       "title": "［61］『高齢社員の人事管理―戦力化のための仕事・評価・賃金』",
@@ -12565,6 +12704,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBaSk56MGFsYVhXTGJOOWpPUVpCakUyQkhEYk9aYWRZSUNuZXdrdzZteHV2Y2JNejJHc00xV18xcTVnSmd0Y1A4dmpCcUFDMldiMjczNQ",
       "summary": "# 要約\n\n年次有給休暇は、雇入れ日から6か月間継続勤務し、全労働日の8割以上出勤した労働者に対して10日間付与されることが法定されており、人事担当者はこの要件充足を適切に管理する必要があります。",
       "summarizedAt": "2026-09-12T22:13:15.740Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5rcUxTcDFYSG8tcGZkMEJZaUdwZmN4SEMwZmFTTTI4TDNIRGJqQWd5SF9oelF2WnN2OENkQzRmZDBSRUhqRERGNWctSFlpUi05N3Y2OA",
+      "source": "rosei_news",
+      "title": "高年齢者等の雇用の安定等に関する法律（高齢者法）－高年齢者雇用確保措置",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rcUxTcDFYSG8tcGZkMEJZaUdwZmN4SEMwZmFTTTI4TDNIRGJqQWd5SF9oelF2WnN2OENkQzRmZDBSRUhqRERGNWctSFlpUi05N3Y2OA?oc=5",
+      "publishedAt": "2009-04-28T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-08T01:37:37.610Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5rcUxTcDFYSG8tcGZkMEJZaUdwZmN4SEMwZmFTTTI4TDNIRGJqQWd5SF9oelF2WnN2OENkQzRmZDBSRUhqRERGNWctSFlpUi05N3Y2OA",
+      "summary": "【要約】\n高年齢者雇用安定法により、企業は65歳までの雇用確保措置（定年引上げ・継続雇用制度・定年廃止のいずれか）の実施が義務付けられており、70歳までの就業機会確保措置についても努力義務として対応が求められています。（98字）",
+      "summarizedAt": "2026-10-08T01:38:14.830Z",
       "isGuideline": false
     },
     {
