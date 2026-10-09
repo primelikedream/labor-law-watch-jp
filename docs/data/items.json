@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-10-08T01:38:30.374Z",
+  "updatedAt": "2026-10-09T01:51:34.186Z",
   "items": [
+    {
+      "id": "egov:427CO0000000318:20261102",
+      "source": "egov_law_update",
+      "title": "女性の職業生活における活躍の推進に関する法律施行令 — 防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令(施行日: 20261102)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=427CO0000000318_20261102_508CO0000000305",
+      "publishedAt": "2026-10-09T01:50:35.189Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-09T01:50:34.198Z",
+      "storyId": "egov:427CO0000000318:20261102",
+      "summary": "防災庁設置法の施行(令和8年11月2日)に伴い、女性活躍推進法施行令第1条における「内閣総理大臣」の所管職員の範囲が変更されます。",
+      "summarizedAt": "2026-10-09T01:50:50.739Z",
+      "detail": {
+        "changes": "防災庁設置法の施行(令和8年11月2日)に伴い、女性活躍推進法施行令第1条における「内閣総理大臣」の所管職員の範囲が変更されます。従来「内閣官房、内閣府本府及びデジタル庁の職員」とされていたところ、「内閣官房、内閣府本府、デジタル庁及び防災庁の職員」に改正され、新設される防災庁の職員が追加されます。令和8年11月2日から施行されます(附則第1条)。",
+        "actions": [
+          "特段の対応は不要。本改正は防災庁の新設に伴う組織名称の追加であり、民間事業主における女性活躍推進法上の義務(一般事業主行動計画の策定・届出、情報公表等)には影響しません。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8zY2cxdU95MmtRNE1paE04a3RsSkRCRUIzU3pidTA3eHJXclNVbl9OdjM5UUJDMzg3Zmo0ZlE2V2ptZmVvRUFUMS0yODhFcl9hOTlyTUM3WWRDUkF5YUVWNEVzVGhnUGwtZE9YZA",
+      "source": "nikkei_news",
+      "title": "精神障害の労災請求件数、医療・福祉が26% 対人関係に起因",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zY2cxdU95MmtRNE1paE04a3RsSkRCRUIzU3pidTA3eHJXclNVbl9OdjM5UUJDMzg3Zmo0ZlE2V2ptZmVvRUFUMS0yODhFcl9hOTlyTUM3WWRDUkF5YUVWNEVzVGhnUGwtZE9YZA?oc=5",
+      "publishedAt": "2026-10-09T01:00:27.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8zY2cxdU95MmtRNE1paE04a3RsSkRCRUIzU3pidTA3eHJXclNVbl9OdjM5UUJDMzg3Zmo0ZlE2V2ptZmVvRUFUMS0yODhFcl9hOTlyTUM3WWRDUkF5YUVWNEVzVGhnUGwtZE9YZA",
+      "summary": "精神障害による労災請求のうち医療・福祉業が26%を占め、対人関係が主な原因となっています。人事担当者は医療・福祉現場での対人ストレス軽減策や相談体制の整備を優先的に検討すべきです。",
+      "summarizedAt": "2026-10-09T01:51:04.349Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBXZVRWZFI4ZzQzYlU2dm1JVEhyQnVNcUZnVGFzNFAta0hTMDBrekxQa0VxOWpWVEk2SHdNS2F6TTdHREE2c0kyaEdyWTdaYWFCa2tpLXE1alpWWWRpY3A1UEwycnhmMDByWTZiaA",
+      "source": "nikkei_news",
+      "title": "はじめに：『まずはこれだけ！ カスタマーハラスメント対策スタートBOOK』",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZVRWZFI4ZzQzYlU2dm1JVEhyQnVNcUZnVGFzNFAta0hTMDBrekxQa0VxOWpWVEk2SHdNS2F6TTdHREE2c0kyaEdyWTdaYWFCa2tpLXE1alpWWWRpY3A1UEwycnhmMDByWTZiaA?oc=5",
+      "publishedAt": "2026-10-08T20:05:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBXZVRWZFI4ZzQzYlU2dm1JVEhyQnVNcUZnVGFzNFAta0hTMDBrekxQa0VxOWpWVEk2SHdNS2F6TTdHREE2c0kyaEdyWTdaYWFCa2tpLXE1alpWWWRpY3A1UEwycnhmMDByWTZiaA",
+      "summary": "この見出しのみから具体的な法改正内容や実務上の変更点は読み取れませんが、カスタマーハラスメント対策の基本的な取り組みを紹介する資料またはガイドブックの存在が示されています。人事・労務担当者は、顧客等からのハラスメントへの対応体制整備の参考資料として活用できる可能性があります。",
+      "summarizedAt": "2026-10-09T01:50:59.709Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBWa281YlN5OVNEcVVib1lKdUFlazhVMmV2V3d1U1dhODVIcXBadXVraGJGY2xWLUdtSEZpd3QxN200d0NJak1IV2FNWXVBZURIUVV4UDNTc1Y4TVFtUDNiVy1qakRlRlA5QlgwZA",
+      "source": "nikkei_news",
+      "title": "入社6年目49歳が年収1264万円 賃金急上昇のタクシー業界の内側",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWa281YlN5OVNEcVVib1lKdUFlazhVMmV2V3d1U1dhODVIcXBadXVraGJGY2xWLUdtSEZpd3QxN200d0NJak1IV2FNWXVBZURIUVV4UDNTc1Y4TVFtUDNiVy1qakRlRlA5QlgwZA?oc=5",
+      "publishedAt": "2026-10-08T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBWa281YlN5OVNEcVVib1lKdUFlazhVMmV2V3d1U1dhODVIcXBadXVraGJGY2xWLUdtSEZpd3QxN200d0NJak1IV2FNWXVBZURIUVV4UDNTc1Y4TVFtUDNiVy1qakRlRlA5QlgwZA",
+      "summary": "タクシー業界で賃金が急上昇しており、入社6年目49歳で年収1264万円に達する事例が出ています。人材確保が課題の運輸業界において、賃金水準の見直しが進んでいる状況を示す動向として注目されます。",
+      "summarizedAt": "2026-10-09T01:50:53.280Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76665.html",
+      "source": "mhlw_news",
+      "title": "第133回労働政策審議会労働条件分科会労災保険部会資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76665.html",
+      "publishedAt": "2026-10-08T10:05:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-09T01:50:34.743Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76665.html",
+      "summary": "労働政策審議会の労災保険部会(第133回)が開催され、労災保険制度に関する審議資料が公表されました。労災保険の給付内容や制度改正等に関する検討状況を確認することが推奨されます。",
+      "summarizedAt": "2026-10-09T01:50:45.399Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76663.html",
+      "source": "mhlw_news",
+      "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76663.html",
+      "publishedAt": "2026-10-08T09:39:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-09T01:50:34.743Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76663.html",
+      "summary": "労働政策審議会人材開発分科会の第60回会合が開催されます。人材開発に関する制度や施策の審議が行われる見込みですが、具体的な議題は本情報からは不明です。",
+      "summarizedAt": "2026-10-09T01:50:47.969Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1ZZDNVOUFRTHdhWjJXdy0yOXVYUTlpbEV5aWxXb0JXZVM4NDdNTjJQSmJ1VF9JT1pHYUZRSmU5bEZ5VDdmX1BubkJjS00xYkR0cUtiZW5ZcVdSVnJiVHZKUjhpaVhGWkEwdXJxUQ",
+      "source": "nikkei_news",
+      "title": "新名神6人死亡事故、運転手の会社を書類送検 違法な時間外労働疑い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZDNVOUFRTHdhWjJXdy0yOXVYUTlpbEV5aWxXb0JXZVM4NDdNTjJQSmJ1VF9JT1pHYUZRSmU5bEZ5VDdmX1BubkJjS00xYkR0cUtiZW5ZcVdSVnJiVHZKUjhpaVhGWkEwdXJxUQ?oc=5",
+      "publishedAt": "2026-10-08T05:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1ZZDNVOUFRTHdhWjJXdy0yOXVYUTlpbEV5aWxXb0JXZVM4NDdNTjJQSmJ1VF9JT1pHYUZRSmU5bEZ5VDdmX1BubkJjS00xYkR0cUtiZW5ZcVdSVnJiVHZKUjhpaVhGWkEwdXJxUQ",
+      "summary": "新名神高速道路で発生した6人死亡事故に関連し、運転手が所属する会社が労働基準法違反（違法な時間外労働）の疑いで書類送検されました。長時間労働管理の徹底と適切な労働時間把握が改めて求められます。",
+      "summarizedAt": "2026-10-09T01:51:07.043Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9kSFd2aUtqTE5FX0J2ZmtxbEt4dE8xRFpvOUpaNWd5clBfTDhMQlh2WUhCM3plajNzQmtzRGFUWktwSzhJc1FkX2Z0UWlJS0g4MmYzVEp2UXRpWnNQd0ZQNTNQcmhrRmpPWDBYUQ",
+      "source": "nikkei_news",
+      "title": "4〜9月の企業倒産4%増、13年ぶり高水準 人手不足理由が過去最多",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSFd2aUtqTE5FX0J2ZmtxbEt4dE8xRFpvOUpaNWd5clBfTDhMQlh2WUhCM3plajNzQmtzRGFUWktwSzhJc1FkX2Z0UWlJS0g4MmYzVEp2UXRpWnNQd0ZQNTNQcmhrRmpPWDBYUQ?oc=5",
+      "publishedAt": "2026-10-08T04:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9kSFd2aUtqTE5FX0J2ZmtxbEt4dE8xRFpvOUpaNWd5clBfTDhMQlh2WUhCM3plajNzQmtzRGFUWktwSzhJc1FkX2Z0UWlJS0g4MmYzVEp2UXRpWnNQd0ZQNTNQcmhrRmpPWDBYUQ",
+      "summary": "2024年4〜9月の企業倒産が13年ぶりの高水準となり、人手不足を理由とする倒産が過去最多を記録しました。人材確保策の強化や労働環境の改善が、事業継続のためにより重要性を増しています。",
+      "summarizedAt": "2026-10-09T01:51:01.958Z",
+      "isGuideline": false
+    },
     {
       "id": "egov:335CO0000000292:20270401",
       "source": "egov_law_update",
@@ -1084,6 +1203,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/toukei/oshirase/261001.html",
       "summary": "厚生労働省が令和8年11月調査として労働経済動向調査を実施します。調査対象事業所に選定された場合は、労働力需給の実態把握のため調査票への回答協力が求められます。",
       "summarizedAt": "2026-10-02T01:25:58.318Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMijgFBVV95cUxQdTFLTGI0LXVVMV9MU1B0QVJwYklHZHFqYmFwd0xfVmthdS1PNXRMLWdsbk84UnhRUVE3bC1ueXNyWFlmWUFuOW90Y2RlVkpUNEktd1EyQUJHd01ROUpUbklJN3BUWmNZQk1LTm9uaEhpSnRWWlllWTZEejFQRllVWjNMUnVycGZYYlZlWGV3",
+      "source": "nikkei_news",
+      "title": "画像：「ハラスメントは、いい人もする」カスハラへの切り返し方や構造が分かる本",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTFLTGI0LXVVMV9MU1B0QVJwYklHZHFqYmFwd0xfVmthdS1PNXRMLWdsbk84UnhRUVE3bC1ueXNyWFlmWUFuOW90Y2RlVkpUNEktd1EyQUJHd01ROUpUbklJN3BUWmNZQk1LTm9uaEhpSnRWWlllWTZEejFQRllVWjNMUnVycGZYYlZlWGV3?oc=5",
+      "publishedAt": "2026-09-30T20:27:56.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMijgFBVV95cUxQdTFLTGI0LXVVMV9MU1B0QVJwYklHZHFqYmFwd0xfVmthdS1PNXRMLWdsbk84UnhRUVE3bC1ueXNyWFlmWUFuOW90Y2RlVkpUNEktd1EyQUJHd01ROUpUbklJN3BUWmNZQk1LTm9uaEhpSnRWWlllWTZEejFQRllVWjNMUnVycGZYYlZlWGV3",
+      "summary": "【要約】\nハラスメント問題に関する書籍が出版され、カスタマーハラスメントへの対応方法やハラスメントが起こる構造について解説されています。人事労務担当者は、加害者が必ずしも悪意ある人物とは限らない点を理解し、実践的な対応策の習得が求められます。\n\n(112字)",
+      "summarizedAt": "2026-10-09T01:51:10.751Z",
       "isGuideline": false
     },
     {
@@ -7604,6 +7737,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMia0FVX3lxTE1oU1NtQnZOazI4UHY0Qm9jNkZxbEVSMXRtdHZvZmFTeE82UDRCTFpKUzIzazhyVl83eFp6N3VRWWtJMzQwWUtwdm9BOVY0cEY4TVlIOGp2SDNFbXRJMlRGa1JQT1hRTjVUUWtZ",
+      "source": "rosei_news",
+      "title": "賃金改定と 報酬制度の見直しに 関するアンケート",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oU1NtQnZOazI4UHY0Qm9jNkZxbEVSMXRtdHZvZmFTeE82UDRCTFpKUzIzazhyVl83eFp6N3VRWWtJMzQwWUtwdm9BOVY0cEY4TVlIOGp2SDNFbXRJMlRGa1JQT1hRTjVUUWtZ?oc=5",
+      "publishedAt": "2026-03-06T04:04:18.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-09T01:50:34.200Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMia0FVX3lxTE1oU1NtQnZOazI4UHY0Qm9jNkZxbEVSMXRtdHZvZmFTeE82UDRCTFpKUzIzazhyVl83eFp6N3VRWWtJMzQwWUtwdm9BOVY0cEY4TVlIOGp2SDNFbXRJMlRGa1JQT1hRTjVUUWtZ",
+      "summary": "【要約】\n賃金改定の実施状況や報酬制度の見直し動向について、企業の人事担当者を対象としたアンケート調査が実施されました。自社の賃金施策や制度改定の検討にあたり、他社動向を把握する参考資料として活用できます。\n\n（98字）",
+      "summarizedAt": "2026-10-09T01:51:14.027Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBaVnhSaU4wQTJxVWJPNVFYZGlDNkVmMWhIZC1aazZDbmpoU3kzdHpIdndkdTVJQ25kTElWZHBMU3N4Q3QxR0xoYkN6cnZVa05PSGtuYg",
       "source": "rosei_news",
       "title": "労働時間「このまま」６割 働き方改革の総点検調査",
@@ -7657,6 +7804,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE0tajFlUXVxa3Ewb21peGpmWDFpUXA0LV8wU2lWclpfTGN6eWxHd3JBZXd3VnBMSlVVYnJPUU1uNEJBbUF4V284SThDaURSYWVRaklCNVNPZWhucmQySXZsNTNEcm1aZVgyd1J3Sg",
       "summary": "佐賀銀行が3年連続で賃上げを実施し、今回は6%の引き上げで特に中堅層への配分を手厚くしました。地方金融機関における継続的な賃上げと中堅社員重視の配分方針の参考事例となります。",
       "summarizedAt": "2026-09-19T22:13:54.787Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiiwFBVV95cUxOMy1kb2FTeUE0dHVNV3gwVnVGaTZOS21naWdUYmtjbUlVdC1UZkFxX0UxOHN2bzI2WVpXLXA4TDhRTGk4emFUVVNBd29mS0xjcEdJU0c4bko1Y05yWGdodjdpUkRCcDNBanhvSDFuZ3V3Z2ZzZ0Rhc21XY1pjWU96YmFlV2g1ekF6ZTRn",
+      "source": "rosei_news",
+      "title": "2026年版 賃金・人事データ総覧",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMy1kb2FTeUE0dHVNV3gwVnVGaTZOS21naWdUYmtjbUlVdC1UZkFxX0UxOHN2bzI2WVpXLXA4TDhRTGk4emFUVVNBd29mS0xjcEdJU0c4bko1Y05yWGdodjdpUkRCcDNBanhvSDFuZ3V3Z2ZzZ0Rhc21XY1pjWU96YmFlV2g1ekF6ZTRn?oc=5",
+      "publishedAt": "2026-02-16T02:01:38.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-09T01:50:34.200Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiiwFBVV95cUxOMy1kb2FTeUE0dHVNV3gwVnVGaTZOS21naWdUYmtjbUlVdC1UZkFxX0UxOHN2bzI2WVpXLXA4TDhRTGk4emFUVVNBd29mS0xjcEdJU0c4bko1Y05yWGdodjdpUkRCcDNBanhvSDFuZ3V3Z2ZzZ0Rhc21XY1pjWU96YmFlV2g1ekF6ZTRn",
+      "summary": "2026年版の賃金・人事に関する各種データ集が発行されます。最新の賃金水準や人事制度の動向を把握し、自社の処遇水準の見直しや労働条件の市場比較に活用することが推奨されます。",
+      "summarizedAt": "2026-10-09T01:51:20.032Z",
       "isGuideline": false
     },
     {
@@ -9427,6 +9588,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE83Z2N5YnQ3WC1SemI2c2oyY2dFRW5kQllvZ2dwYlFGUGpiZmlFYkVMd2pQUy1Yc1RWZHZFUlptVU1CczFHcU1JeU00T0trT0dHODFBWQ",
+      "source": "rosei_news",
+      "title": "労使旗振り、期待と息切れ 「賃上げ格差」是正なるか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Z2N5YnQ3WC1SemI2c2oyY2dFRW5kQllvZ2dwYlFGUGpiZmlFYkVMd2pQUy1Yc1RWZHZFUlptVU1CczFHcU1JeU00T0trT0dHODFBWQ?oc=5",
+      "publishedAt": "2025-01-24T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-09T01:50:34.200Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE83Z2N5YnQ3WC1SemI2c2oyY2dFRW5kQllvZ2dwYlFGUGpiZmlFYkVMd2pQUy1Yc1RWZHZFUlptVU1CczFHcU1JeU00T0trT0dHODFBWQ",
+      "summary": "労使双方が賃上げを推進する中、企業規模や業種による「賃上げ格差」の拡大が課題となっており、中小企業等への波及が進むか注目される。人事担当者は自社の賃上げ動向を労働市場全体と比較し、人材確保の観点から処遇改善の検討が求められる。",
+      "summarizedAt": "2026-10-09T01:51:26.802Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBvU0tXamd2NVlUTTR1VUZick5UY1RrRzFoT2Zmckt4VkFJLTY2b2k4dVhhVkdNcDY3YkgxXzY1S2I0YXdQNWhqZHZJalRNREd4eUcwMQ",
       "source": "rosei_news",
       "title": "冬のボーナス、過去最高額 主要企業、賃上げ反映か",
@@ -10226,6 +10401,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMicEFVX3lxTFB6WWkycXVYRTA4NGdacVllQ3JERmdIb3RvVU0xUTBFSUxEWnd2cGNsZkE5aU8wdnFZUThsdjZKZFdRdnVoR0Ytd1pfaUE3UThKVGhzSUZYN0lzSjFtdW9mRXFhN1l0YkZuR2lMS19teUM",
+      "source": "nikkei_news",
+      "title": "医師の働き方改革の切り札?患者も医療従事者もハッピーにするNP",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6WWkycXVYRTA4NGdacVllQ3JERmdIb3RvVU0xUTBFSUxEWnd2cGNsZkE5aU8wdnFZUThsdjZKZFdRdnVoR0Ytd1pfaUE3UThKVGhzSUZYN0lzSjFtdW9mRXFhN1l0YkZuR2lMS19teUM?oc=5",
+      "publishedAt": "2024-05-07T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-09T01:50:34.199Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTFB6WWkycXVYRTA4NGdacVllQ3JERmdIb3RvVU0xUTBFSUxEWnd2cGNsZkE5aU8wdnFZUThsdjZKZFdRdnVoR0Ytd1pfaUE3UThKVGhzSUZYN0lzSjFtdW9mRXFhN1l0YkZuR2lMS19teUM",
+      "summary": "【要約】\n医師の働き方改革において、診療の補助行為を担うNP(ナース・プラクティショナー)の活用が注目されており、医師の業務負担軽減と患者・医療従事者双方の満足度向上が期待されています。\n\n(79文字)",
+      "summarizedAt": "2026-10-09T01:50:56.164Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiW0FVX3lxTE9CVFdfRjUzU2NybzRRbGV0VFhpTzhWTmxWZDFCWGRmZHJhNlFWZzJCSlFaTlNDNVJ1bXNMY0dTVXhlWmpRMFJkbVRjeFhjRllHN2lKaF82amZaclE",
       "source": "rosei_news",
       "title": "『自覚無きハラスメントを防ぐ！チェックリスト等を用いたパワハラ・セクハラ等予防・対応実務』",
@@ -10393,6 +10582,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE4tenVlTWJtOE8tcGhudEFQelNrZWUzazBjbXBDZ1dZaGxPanZPbVZ4VTlFZkpoSWdVY1RuZS1xaHR3NnJtR183VzdiMm12Y3lUeVdEYg",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1PUXo4X1N0aTFNOEIxMzhYV1JETGhvcTFkRGJUUG1LY3NqSmJHa2l5NHBlNC0xMEpXamp2ZlhCU3E3Ql9wYWZYYng3UXRMTUl1RXJHaA",
+      "source": "rosei_news",
+      "title": "退職金制度を廃止し、メリハリのある賃金・賞与制度を導入する際の手順と留意点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PUXo4X1N0aTFNOEIxMzhYV1JETGhvcTFkRGJUUG1LY3NqSmJHa2l5NHBlNC0xMEpXamp2ZlhCU3E3Ql9wYWZYYng3UXRMTUl1RXJHaA?oc=5",
+      "publishedAt": "2024-02-23T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-09T01:50:34.200Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1PUXo4X1N0aTFNOEIxMzhYV1JETGhvcTFkRGJUUG1LY3NqSmJHa2l5NHBlNC0xMEpXamp2ZlhCU3E3Ql9wYWZYYng3UXRMTUl1RXJHaA",
+      "summary": "退職金制度を廃止してその原資を賃金・賞与へ配分する制度改定を行う場合、労働条件の不利益変更に該当するため、従業員への十分な説明と同意取得、就業規則変更手続きが必要となり、慎重な移行プロセスの設計が求められます。",
+      "summarizedAt": "2026-10-09T01:51:17.410Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiWkFVX3lxTE04bFI2ZnhtQ1ZXMm9YTW03SktYZTBaUnY0ajNHWEtJcGFhOHhBRl84Q29mUFFLSmxWUHctVXpObnRMUzlkeEhjaDVYSGRUUTdoLUM3NnFrdGdnUQ",
@@ -12593,6 +12796,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBVLUdaOHNDb1A0UjduR2RTSE42R0lsVmJKUDlzR0g1MFN5b01Dd1ZtUGtaWnJ6ZXZBd3lyYl9CYk5VWFhvN3FsY25LN1ZhZFZxZGlLdw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5CNEY2eHI3c19SampoM2oxbVhpNklxOGpRZV93WktpcmtfZTVMWkpUT3oyZWJ6eTZObmdmc0h1RHdXM0NjWERXdUc0Ymh4MmVCc1o0ZA",
+      "source": "rosei_news",
+      "title": "パパママ育休プラス",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CNEY2eHI3c19SampoM2oxbVhpNklxOGpRZV93WktpcmtfZTVMWkpUT3oyZWJ6eTZObmdmc0h1RHdXM0NjWERXdUc0Ymh4MmVCc1o0ZA?oc=5",
+      "publishedAt": "2011-03-01T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-09T01:50:34.200Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5CNEY2eHI3c19SampoM2oxbVhpNklxOGpRZV93WktpcmtfZTVMWkpUT3oyZWJ6eTZObmdmc0h1RHdXM0NjWERXdUc0Ymh4MmVCc1o0ZA",
+      "summary": "「パパママ育休プラス」は、両親がともに育児休業を取得する場合、子が1歳2か月に達するまで育休期間を延長できる制度です。人事担当者は、両親の育休取得希望を確認し、該当する従業員に制度を周知するとともに、延長申請に対応できる体制を整備する必要があります。",
+      "summarizedAt": "2026-10-09T01:51:23.183Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFB6VGstSjIyMml2empuQVJWUlBwTFpDenNCMk1kZkM4SGRrbTcwUWZIUzBrb3FOcHlCMDhoMTF3dmdpWEZOZDJuWGhZZjZSN1dNVDJTdg",
