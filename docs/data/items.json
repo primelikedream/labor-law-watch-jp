@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-09T01:51:34.186Z",
+  "updatedAt": "2026-10-10T01:35:09.766Z",
   "items": [
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE5pWUJUR3RoUkc3RjVYc1NNSWNIOVBIVlFlNW5KSEZuTy1zYk1UNHhyMFlORTdhb3pYOWZ4NThncGhaNTRhbzN2XzV5Y2FYb0gwcGVpYUZPSUNnVWxzanJXYU1OOHJZb0U",
+      "source": "nikkei_news",
+      "title": "三州製菓、パートにも賞与「年3回」 同一労働同一賃金で離職率低下",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWUJUR3RoUkc3RjVYc1NNSWNIOVBIVlFlNW5KSEZuTy1zYk1UNHhyMFlORTdhb3pYOWZ4NThncGhaNTRhbzN2XzV5Y2FYb0gwcGVpYUZPSUNnVWxzanJXYU1OOHJZb0U?oc=5",
+      "publishedAt": "2026-10-09T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-10T01:34:44.309Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE5pWUJUR3RoUkc3RjVYc1NNSWNIOVBIVlFlNW5KSEZuTy1zYk1UNHhyMFlORTdhb3pYOWZ4NThncGhaNTRhbzN2XzV5Y2FYb0gwcGVpYUZPSUNnVWxzanJXYU1OOHJZb0U",
+      "summary": "三州製菓がパート従業員にも年3回の賞与を支給する同一労働同一賃金の取組を実施した結果、離職率の低下につながった事例です。正規・非正規間の待遇格差是正が人材定着に有効であることが示されています。",
+      "summarizedAt": "2026-10-10T01:34:57.388Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE03UUJ6d3dKc0M4akRxb0FwcUk0MDZZZ3FOM2U2MUdNRDNWNk9sS1FEdG56ZVRvXzdDNE8tRWdsc3FfUi14MWtjVGlCOVZPZTA3Y1lGc0NBYUlIZTlNS1NtdU5PYktxWTFVRW5DQQ",
+      "source": "nikkei_news",
+      "title": "秋田労働局、最低賃金引き上げを秋田駅で周知",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03UUJ6d3dKc0M4akRxb0FwcUk0MDZZZ3FOM2U2MUdNRDNWNk9sS1FEdG56ZVRvXzdDNE8tRWdsc3FfUi14MWtjVGlCOVZPZTA3Y1lGc0NBYUlIZTlNS1NtdU5PYktxWTFVRW5DQQ?oc=5",
+      "publishedAt": "2026-10-09T05:00:36.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-10T01:34:44.309Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE03UUJ6d3dKc0M4akRxb0FwcUk0MDZZZ3FOM2U2MUdNRDNWNk9sS1FEdG56ZVRvXzdDNE8tRWdsc3FfUi14MWtjVGlCOVZPZTA3Y1lGc0NBYUlIZTlNS1NtdU5PYktxWTFVRW5DQQ",
+      "summary": "秋田労働局が秋田駅で最低賃金の引き上げについて周知活動を実施しました。最低賃金改定の詳細については秋田労働局の公表資料を確認し、自社の賃金が新基準を下回らないよう点検が必要です。",
+      "summarizedAt": "2026-10-10T01:35:00.094Z",
+      "isGuideline": true
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76621.html",
+      "source": "mhlw_news",
+      "title": "第10回労働政策審議会職業安定分科会地方連携部会を開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76621.html",
+      "publishedAt": "2026-10-09T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-10T01:34:44.554Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76621.html",
+      "summary": "厚生労働省が労働政策審議会職業安定分科会の地方連携部会(第10回)を開催します。地方における雇用対策や職業安定行政に関する議論が行われる見込みですが、具体的な審議内容は現時点では不明です。",
+      "summarizedAt": "2026-10-10T01:34:54.653Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9PWEpsMG1xRWtKTWhoUUtiUWdEa2VQTFNBSE5IaDYteUxXWTFXdnd0ODdMQWhoZHpxaVpPTDVCRHk2bzBuSXpEd1o4LXRicVdnLXlFRmFQYk9keExDMDJERjlUbHNXXzJrSUR2bg",
+      "source": "nikkei_news",
+      "title": "奨学金の代理返還「人材確保に効果」、定着率76% 文科省調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWEpsMG1xRWtKTWhoUUtiUWdEa2VQTFNBSE5IaDYteUxXWTFXdnd0ODdMQWhoZHpxaVpPTDVCRHk2bzBuSXpEd1o4LXRicVdnLXlFRmFQYk9keExDMDJERjlUbHNXXzJrSUR2bg?oc=5",
+      "publishedAt": "2026-10-09T04:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-10T01:34:44.309Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9PWEpsMG1xRWtKTWhoUUtiUWdEa2VQTFNBSE5IaDYteUxXWTFXdnd0ODdMQWhoZHpxaVpPTDVCRHk2bzBuSXpEd1o4LXRicVdnLXlFRmFQYk9keExDMDJERjlUbHNXXzJrSUR2bg",
+      "summary": "文部科学省の調査により、企業が従業員の奨学金を代理返還する制度が人材確保に有効で、導入企業の定着率は76%に達することが明らかになりました。人材確保策として奨学金代理返還制度の導入検討が選択肢となります。",
+      "summarizedAt": "2026-10-10T01:35:06.289Z",
+      "isGuideline": false
+    },
     {
       "id": "egov:427CO0000000318:20261102",
       "source": "egov_law_update",
@@ -34,6 +90,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE8zY2cxdU95MmtRNE1paE04a3RsSkRCRUIzU3pidTA3eHJXclNVbl9OdjM5UUJDMzg3Zmo0ZlE2V2ptZmVvRUFUMS0yODhFcl9hOTlyTUM3WWRDUkF5YUVWNEVzVGhnUGwtZE9YZA",
       "summary": "精神障害による労災請求のうち医療・福祉業が26%を占め、対人関係が主な原因となっています。人事担当者は医療・福祉現場での対人ストレス軽減策や相談体制の整備を優先的に検討すべきです。",
       "summarizedAt": "2026-10-09T01:51:04.349Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMijgFBVV95cUxOUWxENFdPVGNnNjBDS0QzNVd3VDU4S1RVMWVKN3VIbDZPRFFRQUt1Vm93anA1MFlKVFhvNmdaOGlRUldBbHJqZ3Flc1NxVlBoalNZS1hSYzNYMFpjSjc2TGw5UU0wSVduc2lrVTkxRDRiMUtCTXltUHpwZ3dTQVp0RVN2cEY2R1BKVUFUUkVB",
+      "source": "nikkei_news",
+      "title": "画像：はじめに：『まずはこれだけ！ カスタマーハラスメント対策スタートBOOK』",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWxENFdPVGNnNjBDS0QzNVd3VDU4S1RVMWVKN3VIbDZPRFFRQUt1Vm93anA1MFlKVFhvNmdaOGlRUldBbHJqZ3Flc1NxVlBoalNZS1hSYzNYMFpjSjc2TGw5UU0wSVduc2lrVTkxRDRiMUtCTXltUHpwZ3dTQVp0RVN2cEY2R1BKVUFUUkVB?oc=5",
+      "publishedAt": "2026-10-09T00:46:26.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-10T01:34:44.309Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMijgFBVV95cUxOUWxENFdPVGNnNjBDS0QzNVd3VDU4S1RVMWVKN3VIbDZPRFFRQUt1Vm93anA1MFlKVFhvNmdaOGlRUldBbHJqZ3Flc1NxVlBoalNZS1hSYzNYMFpjSjc2TGw5UU0wSVduc2lrVTkxRDRiMUtCTXltUHpwZ3dTQVp0RVN2cEY2R1BKVUFUUkVB",
+      "summary": "申し訳ございませんが、この見出しのみからは法改正の内容や企業が取るべき具体的な対応を読み取ることができません。カスタマーハラスメント対策に関する資料・ガイドブックが公表された可能性がありますが、本文情報なしでは「何がどう変わるか」「何をすべきか」を正確にお伝えできないため、要約は控えさせていただきます。",
+      "summarizedAt": "2026-10-10T01:35:03.592Z",
       "isGuideline": false
     },
     {
@@ -7019,6 +7089,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9lbzFPTUpLNzhKZHYwMFMyeUY3SzU3cnJDb01LbEtvelZFaF9CeTFvbkcwY3pBSzFwR0FGYVF5cFdDOHBIbWZqVjQxNlBVREQxNVZBNnZEQWxnM1pBT0haZWZhZWkteWxwNTZUZw",
       "summary": "経財白書において、AI活用が進む職場ほど残業時間が多い傾向が指摘され、AIによる労働負荷軽減効果は現時点で限定的であることが明らかになりました。人事担当者はAI導入後も労働時間管理を継続的に行い、業務量の適正化を図る必要があります。",
       "summarizedAt": "2026-09-19T22:14:00.433Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9aLWh6aDhtRmpITmMxOGYtaXNFazFJUzNFOE04MWpNd1ZlSk9yZjVoUmRiWXA5NlVRbHFqaFhhX2YwSWVXRTBtS0plalhnV3NRS3R4Vg",
+      "source": "rosei_news",
+      "title": "「ハラスメントを恐れて指示もできない職場」を変える方法",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aLWh6aDhtRmpITmMxOGYtaXNFazFJUzNFOE04MWpNd1ZlSk9yZjVoUmRiWXA5NlVRbHFqaFhhX2YwSWVXRTBtS0plalhnV3NRS3R4Vg?oc=5",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-10T01:34:44.310Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9aLWh6aDhtRmpITmMxOGYtaXNFazFJUzNFOE04MWpNd1ZlSk9yZjVoUmRiWXA5NlVRbHFqaFhhX2YwSWVXRTBtS0plalhnV3NRS3R4Vg",
+      "summary": "【要約】\nハラスメント懸念により適切な業務指示を躊躇する職場環境の改善手法について解説。人事労務担当者は、指導とハラスメントの線引きを明確化し、管理職が萎縮せず適切にマネジメントできる環境整備の参考となる内容です。",
+      "summarizedAt": "2026-10-10T01:35:09.762Z",
       "isGuideline": false
     },
     {
