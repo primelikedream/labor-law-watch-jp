@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T01:35:09.766Z",
+  "updatedAt": "2026-10-11T00:44:40.115Z",
   "items": [
     {
       "id": "nikkei:CBMiZ0FVX3lxTE5pWUJUR3RoUkc3RjVYc1NNSWNIOVBIVlFlNW5KSEZuTy1zYk1UNHhyMFlORTdhb3pYOWZ4NThncGhaNTRhbzN2XzV5Y2FYb0gwcGVpYUZPSUNnVWxzanJXYU1OOHJZb0U",
@@ -90,6 +90,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE8zY2cxdU95MmtRNE1paE04a3RsSkRCRUIzU3pidTA3eHJXclNVbl9OdjM5UUJDMzg3Zmo0ZlE2V2ptZmVvRUFUMS0yODhFcl9hOTlyTUM3WWRDUkF5YUVWNEVzVGhnUGwtZE9YZA",
       "summary": "精神障害による労災請求のうち医療・福祉業が26%を占め、対人関係が主な原因となっています。人事担当者は医療・福祉現場での対人ストレス軽減策や相談体制の整備を優先的に検討すべきです。",
       "summarizedAt": "2026-10-09T01:51:04.349Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMijgFBVV95cUxNNG93OW9xQ2VWTHBDNlZsXzljSVlDMnFadmcxN29XSlBQX29SRUVjUG1Wb2M3aUtPQWJPR0ZmVGFpbDV0WXdHeVNTS0ZaWnZzcTRDVEdNeWVMamJsaGhGbWdlTjdZUzdmbVRYWWxsc3JCaFJHVk12b1dHQVh5RHhNRkM1RW5Cb0RWUy15OTBR",
+      "source": "nikkei_news",
+      "title": "画像：はじめに：『まずはこれだけ！ カスタマーハラスメント対策スタートBOOK』",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG93OW9xQ2VWTHBDNlZsXzljSVlDMnFadmcxN29XSlBQX29SRUVjUG1Wb2M3aUtPQWJPR0ZmVGFpbDV0WXdHeVNTS0ZaWnZzcTRDVEdNeWVMamJsaGhGbWdlTjdZUzdmbVRYWWxsc3JCaFJHVk12b1dHQVh5RHhNRkM1RW5Cb0RWUy15OTBR?oc=5",
+      "publishedAt": "2026-10-09T00:46:28.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-11T00:44:20.999Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMijgFBVV95cUxNNG93OW9xQ2VWTHBDNlZsXzljSVlDMnFadmcxN29XSlBQX29SRUVjUG1Wb2M3aUtPQWJPR0ZmVGFpbDV0WXdHeVNTS0ZaWnZzcTRDVEdNeWVMamJsaGhGbWdlTjdZUzdmbVRYWWxsc3JCaFJHVk12b1dHQVh5RHhNRkM1RW5Cb0RWUy15OTBR",
+      "summary": "この見出しのみからは、カスタマーハラスメント対策に関する入門的な資料が公開されたことは読み取れますが、法制度の具体的な変更内容や企業が取るべき対応の詳細は不明です。本文の確認が必要です。",
+      "summarizedAt": "2026-10-11T00:44:34.337Z",
       "isGuideline": false
     },
     {
@@ -2495,6 +2509,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFA5MnRTXzZXVDVkQ2tlbG85MXpnel84c29UVmVObW1fWFRGZHYwLVh0R3REanlhc2lzUDctcG5RLXlvdDBiYW1kdWtTUDNkTzFLcEtiQWdSdGIxaWdPZ0lIVlhON00tUXRtdlhYWg",
       "summary": "厚生労働省は、現行制度で最長48日間の連続勤務が可能となっている労働基準法の見直し議論を開始し、この連続勤務日数の上限短縮を検討します。裁量労働制の対象拡大も併せて議論される見通しで、人事担当者は今後の制度改正動向を注視し、勤務シフト管理の見直し準備が必要です。",
       "summarizedAt": "2026-09-16T22:13:44.987Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE45cUhUSDhzT0JiV3c5NmdpTWFjTUItTnlMZEkxTFh2NTZxdXh4WlpEQmVGbW1UdDZwaVFtUkgwWHFicEVzMW94SGlHdU4tYXJQdVhFN25xWk5mbGRaTkRTODI2aWxONWlQelRSTw",
+      "source": "nikkei_news",
+      "title": "関経連、ハラスメント防止策拡充",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45cUhUSDhzT0JiV3c5NmdpTWFjTUItTnlMZEkxTFh2NTZxdXh4WlpEQmVGbW1UdDZwaVFtUkgwWHFicEVzMW94SGlHdU4tYXJQdVhFN25xWk5mbGRaTkRTODI2aWxONWlQelRSTw?oc=5",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-11T00:44:20.999Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE45cUhUSDhzT0JiV3c5NmdpTWFjTUItTnlMZEkxTFh2NTZxdXh4WlpEQmVGbW1UdDZwaVFtUkgwWHFicEVzMW94SGlHdU4tYXJQdVhFN25xWk5mbGRaTkRTODI2aWxONWlQelRSTw",
+      "summary": "**要約:**\n\n関西経済連合会がハラスメント防止に関する取り組みを強化する方針を示しました。具体的な内容は不明ですが、今後関経連から新たな指針や支援策が公表される可能性があるため、続報に注目が必要です。\n\n(93文字)",
+      "summarizedAt": "2026-10-11T00:44:40.112Z",
       "isGuideline": false
     },
     {
@@ -10358,6 +10386,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMicEFVX3lxTFByVy1iSFVjZzBabEJSallUOVUxbFdicjlCeFhPSGNEZGpLMmtoVmliOHhadHBtOGJuVjdmblVOTkpnQ3NRYl90LUEyRkpTanNTRmE0bG9hRFZPNHJCYUJmZzJxY3Q0WnpsbS1HR1J5cWk",
+      "source": "nikkei_news",
+      "title": "医師の働き方改革もサポート、全国初、医学系大学院で「診療看護師」育成 名古屋市大",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByVy1iSFVjZzBabEJSallUOVUxbFdicjlCeFhPSGNEZGpLMmtoVmliOHhadHBtOGJuVjdmblVOTkpnQ3NRYl90LUEyRkpTanNTRmE0bG9hRFZPNHJCYUJmZzJxY3Q0WnpsbS1HR1J5cWk?oc=5",
+      "publishedAt": "2024-06-21T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-11T00:44:20.999Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTFByVy1iSFVjZzBabEJSallUOVUxbFdicjlCeFhPSGNEZGpLMmtoVmliOHhadHBtOGJuVjdmblVOTkpnQ3NRYl90LUEyRkpTanNTRmE0bG9hRFZPNHJCYUJmZzJxY3Q0WnpsbS1HR1J5cWk",
+      "summary": "名古屋市立大学が医学系大学院で「診療看護師」の育成を全国で初めて開始し、医師の業務を一部代行できる看護師を養成することで、医師の働き方改革における業務負担軽減を支援する取り組みを始めました。",
+      "summarizedAt": "2026-10-11T00:44:31.748Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE41UzFmTTUtNnQ4Rkd1N3JfZDRrQTN3XzloM3JYQTdTdFZrZTJidjlUY2R3UldQcEcwMGY5Sm9lVks2NUlqVDlnMHZmUEE5clRNUW5aQw",
       "source": "rosei_news",
       "title": "ハラスメント調査に時間を要する場合、調査実施期間中、当事者にどう対応すべきか",
@@ -12163,6 +12205,20 @@
       "storyId": "nikkei:CBMia0FVX3lxTE8zSEdGeFJwQ0k5OWNIajJCWGZiT2JuT1NiLWNJMzNXandha2xzWmQxSVZVd19FeU1XWENLUzhISjc4b2hPdC1tU1NzTWNpUU1PMEhuMHFzMkFXMHhTVGk2aE9tZFREajBhSm1R",
       "summary": "【要約】\n岐阜県庁では男性職員の育児休業取得率が50％を超える水準に達しています。人事・労務担当者は、高取得率を実現した同県の取り組み内容を参考に、自組織の男性育休促進施策の見直しを検討することが推奨されます。",
       "summarizedAt": "2026-09-19T22:13:20.633Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMipAFBVV95cUxNV19iVDRIRmpyLTZVSWlUeU5LZkJZd2l5NHVVbDN4WGowUEdVenVFck9BSzhEYW4zZi1ERDFpSXd0QmhTeHVOOVphb0lqcklRWkRyNzNaLTBITmExNzgzTDB2WFRsSnczcjFVUjNKV1pyYzRTOE9Ha2d5NGkyU25CS1RoamUybEMxd1hJcFcyMWJBVWszLW5EVHRMYlQ5SVBpXy1ucA",
+      "source": "nikkei_news",
+      "title": "コロナ下の育休復帰 新しい働き方どう対応？先輩親の声",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV19iVDRIRmpyLTZVSWlUeU5LZkJZd2l5NHVVbDN4WGowUEdVenVFck9BSzhEYW4zZi1ERDFpSXd0QmhTeHVOOVphb0lqcklRWkRyNzNaLTBITmExNzgzTDB2WFRsSnczcjFVUjNKV1pyYzRTOE9Ha2d5NGkyU25CS1RoamUybEMxd1hJcFcyMWJBVWszLW5EVHRMYlQ5SVBpXy1ucA?oc=5",
+      "publishedAt": "2021-03-08T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-11T00:44:20.999Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMipAFBVV95cUxNV19iVDRIRmpyLTZVSWlUeU5LZkJZd2l5NHVVbDN4WGowUEdVenVFck9BSzhEYW4zZi1ERDFpSXd0QmhTeHVOOVphb0lqcklRWkRyNzNaLTBITmExNzgzTDB2WFRsSnczcjFVUjNKV1pyYzRTOE9Ha2d5NGkyU25CS1RoamUybEMxd1hJcFcyMWJBVWszLW5EVHRMYlQ5SVBpXy1ucA",
+      "summary": "【要約】\nコロナ禍で育児休業から復帰する社員に対し、テレワークなど新しい働き方への対応が求められています。先輩社員の経験や声を参考に、復職者が円滑に業務復帰できる環境整備を検討する必要があります。\n\n(99字)",
+      "summarizedAt": "2026-10-11T00:44:37.103Z",
       "isGuideline": false
     },
     {
