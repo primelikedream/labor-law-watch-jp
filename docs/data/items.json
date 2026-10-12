@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-11T00:44:40.115Z",
+  "updatedAt": "2026-10-12T01:05:35.797Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB1Q3RDTXlkNkVjd21RSWoxRlpFVzE2SEJLSTE0WFJ4TFdlQ3NWOW1SbnVva0E0ZGhjeUc4LXN2bFFIUUxvRnpxeWpBNi1XVlBWVnp3QUlBeDQ3VkRudUh0SkJlQ2dBYUx5WkFqOQ",
+      "source": "nikkei_news",
+      "title": "起業家をハラスメントからどう守る 山口慎太郎氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Q3RDTXlkNkVjd21RSWoxRlpFVzE2SEJLSTE0WFJ4TFdlQ3NWOW1SbnVva0E0ZGhjeUc4LXN2bFFIUUxvRnpxeWpBNi1XVlBWVnp3QUlBeDQ3VkRudUh0SkJlQ2dBYUx5WkFqOQ?oc=5",
+      "publishedAt": "2026-10-11T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-12T01:05:10.799Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFB1Q3RDTXlkNkVjd21RSWoxRlpFVzE2SEJLSTE0WFJ4TFdlQ3NWOW1SbnVva0E0ZGhjeUc4LXN2bFFIUUxvRnpxeWpBNi1XVlBWVnp3QUlBeDQ3VkRudUh0SkJlQ2dBYUx5WkFqOQ",
+      "summary": "記事見出しのみでは法改正や具体的な制度変更は読み取れませんが、起業家がハラスメントの被害者となる事例への対策の必要性が議論されている可能性があります。詳細は本文の確認が必要です。",
+      "summarizedAt": "2026-10-12T01:05:29.599Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE5pWUJUR3RoUkc3RjVYc1NNSWNIOVBIVlFlNW5KSEZuTy1zYk1UNHhyMFlORTdhb3pYOWZ4NThncGhaNTRhbzN2XzV5Y2FYb0gwcGVpYUZPSUNnVWxzanJXYU1OOHJZb0U",
       "source": "nikkei_news",
@@ -2135,6 +2149,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE16V2VDa21LXzBQMFh3S2ZQbnlfR3FnZTIybVVnUDlKenl1NnVfbXJPLWxGNWIxdS1MbTJWMTdKTU0yTEtBN1RYOUpjdmhiWFBqcFUxRHBsVjR3QjZiazNCdlpLT1l0d0t2YU9zSQ",
       "summary": "介護報酬と障害福祉サービス等報酬の改定において、物価上昇や賃金上昇が反映される方針が示されました。事業者は報酬改定の詳細を確認し、従業員の処遇改善や事業運営計画の見直しを検討する必要があります。",
       "summarizedAt": "2026-09-18T22:13:53.200Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiekFVX3lxTE1uY2NoX24xSzM0VHNIWXA0TWdqT3pOcEV0RG9YWXN6LW1HMm9YNUFWTTFMUWtIM0lMM3dLamI4Q0g1YzN3cWI0SWRza2ctQW83aXZITmVJZ1hjYlBfYnlibTRaQzgxdTIwRUVQaV9IQzEyOHRmYnU0ckxB",
+      "source": "nikkei_news",
+      "title": "優秀な現場力が低賃金を長引かせた 日本企業が陥った逆説（2ペー…",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uY2NoX24xSzM0VHNIWXA0TWdqT3pOcEV0RG9YWXN6LW1HMm9YNUFWTTFMUWtIM0lMM3dLamI4Q0g1YzN3cWI0SWRza2ctQW83aXZITmVJZ1hjYlBfYnlibTRaQzgxdTIwRUVQaV9IQzEyOHRmYnU0ckxB?oc=5",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-12T01:05:10.799Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiekFVX3lxTE1uY2NoX24xSzM0VHNIWXA0TWdqT3pOcEV0RG9YWXN6LW1HMm9YNUFWTTFMUWtIM0lMM3dLamI4Q0g1YzN3cWI0SWRza2ctQW83aXZITmVJZ1hjYlBfYnlibTRaQzgxdTIwRUVQaV9IQzEyOHRmYnU0ckxB",
+      "summary": "【要約】\n日本企業の優れた現場改善力が生産性向上を実現してきた一方、それが賃金上昇の必要性を薄め、結果として低賃金構造を固定化させてきた可能性があります。人事担当者は賃金戦略の見直しが求められます。\n\n（99字）",
+      "summarizedAt": "2026-10-12T01:05:23.150Z",
       "isGuideline": false
     },
     {
@@ -9476,6 +9504,21 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE13bmluVGhGM2ZpTURBczNPcUF6cDJOT1VwMm54QnRkSGhsamRPS0duYXQwbk1LOFVsUmNzREFYS2RtdWlKV29LbnJvakQtUTk3VENGZXNnSmNBRlluR2FwcUdQWXdBd3R3ZlpPaA",
+      "source": "nikkei_news",
+      "title": "地方議会、ハラスメント防止条例相次ぐ 85議会が公布",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bmluVGhGM2ZpTURBczNPcUF6cDJOT1VwMm54QnRkSGhsamRPS0duYXQwbk1LOFVsUmNzREFYS2RtdWlKV29LbnJvakQtUTk3VENGZXNnSmNBRlluR2FwcUdQWXdBd3R3ZlpPaA?oc=5",
+      "publishedAt": "2025-03-02T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-12T01:05:10.799Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE13bmluVGhGM2ZpTURBczNPcUF6cDJOT1VwMm54QnRkSGhsamRPS0duYXQwbk1LOFVsUmNzREFYS2RtdWlKV29LbnJvakQtUTk3VENGZXNnSmNBRlluR2FwcUdQWXdBd3R3ZlpPaA",
+      "summary": "地方議会において議員によるハラスメント防止を目的とした条例制定の動きが広がっており、既に85議会で公布されています。自治体職員を雇用する使用者として、議会側でもハラスメント対策の明確化が進んでいる状況です。",
+      "summarizedAt": "2026-10-12T01:05:32.331Z",
+      "stage": "成立・公布",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1qM1RyQmRjU2NMWml4NzQ1SEVONFh2MUhoOVJSY1BycklPWVpkaFpaQ3B1cUJSa3NMNkhKSlpwWHZuSHhvWklZak5IYnVDX1hVREdhWQ",
       "source": "rosei_news",
       "title": "賃上げ「６％」１割届かず 中小企業、連合目標遠く",
@@ -11256,6 +11299,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMicEFVX3lxTFBUR2ZnT19PSmV2WHJwVnpUb0tvQWFjcTJFN1NpeS1ma3FqWWYzT0Frd3RyTkM2VXlXUHphMnFfUFV2aW1NWkdDRFZON0tKTDhfSUU4Ui0wZTM0cWVCRXVrUlo5ZDI1dUJqZzVEckVyeWk",
+      "source": "nikkei_news",
+      "title": "働き方改革、20代成長にマイナスも ぬるま湯は拒否",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUR2ZnT19PSmV2WHJwVnpUb0tvQWFjcTJFN1NpeS1ma3FqWWYzT0Frd3RyTkM2VXlXUHphMnFfUFV2aW1NWkdDRFZON0tKTDhfSUU4Ui0wZTM0cWVCRXVrUlo5ZDI1dUJqZzVEckVyeWk?oc=5",
+      "publishedAt": "2023-03-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-12T01:05:10.799Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTFBUR2ZnT19PSmV2WHJwVnpUb0tvQWFjcTJFN1NpeS1ma3FqWWYzT0Frd3RyTkM2VXlXUHphMnFfUFV2aW1NWkdDRFZON0tKTDhfSUU4Ui0wZTM0cWVCRXVrUlo5ZDI1dUJqZzVEckVyeWk",
+      "summary": "【要約】\n働き方改革により労働時間の適正化が進む一方、20代社員の成長機会が減少する懸念があるため、人事担当者は若手の育成機会確保と業務配分の工夫が必要です。\n\n(59字)\n\n---\n\n※見出しのみの情報のため、より詳細な対応策は本文確認が必要です。",
+      "summarizedAt": "2026-10-12T01:05:26.830Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiYkFVX3lxTFB5ZHhkUDlGTkQ3NEtTM3JnMDJOTGM5NkRNa2NJQmU1blFQOE55djd1aEVVVS1kLTlySTNlbENHYzIyRDZXOHk4VlR3Vm1GcUdTdEw5ZmZkUWlGdUlSaHYwUW1n",
       "source": "rosei_news",
       "title": "ハラスメントを防ぐ！ 職場のコミュニケーション講座",
@@ -11659,6 +11716,20 @@
       "summary": "変形労働時間制についての記事です。制度の概要や導入手続き、運用上の留意点などの基本的な情報が解説されていると考えられますが、見出しのみでは具体的な制度変更や実務対応の詳細は判断できません。",
       "summarizedAt": "2026-09-04T22:14:45.448Z",
       "storyId": "rosei:CBMiVEFVX3lxTFBfQWhuY1ZDd1BpVl8yV21lWVdHWEhlVzBsRDFVMDNPRDBfSkZhT3NLUkZuOWlxcURMNmY4dlJ1U1k4bWNhUWUtNVhRaUZhMjM5cGNxUA",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiWkFVX3lxTFA3RXg3QnF3MV9SS3ZnTjlQOEJTUEhZRkhVVU9TdXZNWTE5LVJ2UkVldUlaNWhlX1dTSkFaNkV6RDdHOThXNVhyclN1eG4yTThOcnE5ZGpvRG8xdw",
+      "source": "rosei_news",
+      "title": "『自覚無きハラスメントを防ぐ！チェックリスト等を用いたパワハラ・セクハラ等予防・対応実務』",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3RXg3QnF3MV9SS3ZnTjlQOEJTUEhZRkhVVU9TdXZNWTE5LVJ2UkVldUlaNWhlX1dTSkFaNkV6RDdHOThXNVhyclN1eG4yTThOcnE5ZGpvRG8xdw?oc=5",
+      "publishedAt": "2022-06-01T13:48:41.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-12T01:05:10.799Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiWkFVX3lxTFA3RXg3QnF3MV9SS3ZnTjlQOEJTUEhZRkhVVU9TdXZNWTE5LVJ2UkVldUlaNWhlX1dTSkFaNkV6RDdHOThXNVhyclN1eG4yTThOcnE5ZGpvRG8xdw",
+      "summary": "パワハラ・セクハラ等のハラスメントについて、行為者本人に自覚がないケースを防止するため、チェックリスト等の具体的ツールを活用した予防策と対応実務の手法が紹介されています。人事担当者は自己点検可能なチェックリストの導入を検討すべきでしょう。",
+      "summarizedAt": "2026-10-12T01:05:35.795Z",
       "isGuideline": false
     },
     {
