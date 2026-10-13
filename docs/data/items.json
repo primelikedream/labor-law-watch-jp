@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-10-12T01:05:35.797Z",
+  "updatedAt": "2026-10-13T02:55:14.724Z",
   "items": [
+    {
+      "id": "egov:350CO0000000025:20281001",
+      "source": "egov_law_update",
+      "title": "雇用保険法施行令 — 雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令(施行日: 20281001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=350CO0000000025_20281001_506CO0000000317",
+      "publishedAt": "2026-10-13T02:54:42.629Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-13T02:54:41.252Z",
+      "storyId": "egov:350CO0000000025:20281001",
+      "summary": "雇用保険法施行令が2028年10月1日に施行されます。雇用保険法等の改正に伴い関係政令の整備と経過措置が設けられるため、人事労務担当者は施行日までに改正内容を確認し、必要な社内規程の見直しや実務対応の準備を進める必要があります。",
+      "summarizedAt": "2026-10-13T02:54:52.411Z",
+      "detail": {
+        "changes": "雇用保険法施行令 — 雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令(施行日: 20281001)。",
+        "actions": [
+          "改正後の条文を確認し、自社の就業規則・社内手続・届出書式への影響を確認する"
+        ],
+        "basis": "limited"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:350CO0000000025:20260930",
+      "source": "egov_law_update",
+      "title": "雇用保険法施行令 — 雇用保険法施行令の一部を改正する政令(施行日: 20260930)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=350CO0000000025_20260930_508CO0000000318",
+      "publishedAt": "2026-10-13T02:54:42.629Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-13T02:54:41.252Z",
+      "storyId": "egov:350CO0000000025:20260930",
+      "summary": "雇用保険法施行令が2026年9月30日に改正施行されます。具体的な改正内容の詳細は不明ですが、施行日までに自社の雇用保険関連手続きや給付要件等への影響を確認し、必要な対応を準備する必要があります。",
+      "summarizedAt": "2026-10-13T02:54:55.170Z",
+      "detail": {
+        "changes": "雇用保険法施行令 — 雇用保険法施行令の一部を改正する政令(施行日: 20260930)。",
+        "actions": [
+          "改正後の条文を確認し、自社の就業規則・社内手続・届出書式への影響を確認する"
+        ],
+        "basis": "limited"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:348M50002000023:20260925",
+      "source": "egov_law_update",
+      "title": "労働保険事務組合に対する報奨金に関する省令 — 労働保険事務組合に対する報奨金に関する省令の一部を改正する省令(施行日: 20260925)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=348M50002000023_20260925_508M60000100141",
+      "publishedAt": "2026-10-13T02:54:42.629Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-13T02:54:41.252Z",
+      "storyId": "egov:348M50002000023:20260925",
+      "summary": "労働保険事務組合に対する報奨金に関する省令が2026年9月25日に改正施行されます。事務組合への報奨金の算定方法や支給要件等が変更される可能性があるため、該当組合は改正内容を確認し必要な対応を行ってください。",
+      "summarizedAt": "2026-10-13T02:54:57.565Z",
+      "detail": {
+        "changes": "労働保険事務組合に対する報奨金に関する省令 — 労働保険事務組合に対する報奨金に関する省令の一部を改正する省令(施行日: 20260925)。",
+        "actions": [
+          "改正後の条文を確認し、自社の就業規則・社内手続・届出書式への影響を確認する"
+        ],
+        "basis": "limited"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFAtT1Y2NXZKdm04XzRfWTNRWFdpdXJBRUxlVE52SEQ2ei10b29MU1NHZWdROEdNb3RwWVRPUUd5bUdKLVNCTlJicWdHc0FBekhJbmx5YWNkc1piYjNnTndSZFpqVnpEQzBDejltXw",
+      "source": "nikkei_news",
+      "title": "日東電工、社内「スタバ」で障害者雇用 働く場創出し課題解決探る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtT1Y2NXZKdm04XzRfWTNRWFdpdXJBRUxlVE52SEQ2ei10b29MU1NHZWdROEdNb3RwWVRPUUd5bUdKLVNCTlJicWdHc0FBekhJbmx5YWNkc1piYjNnTndSZFpqVnpEQzBDejltXw?oc=5",
+      "publishedAt": "2026-10-12T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-13T02:54:41.254Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFAtT1Y2NXZKdm04XzRfWTNRWFdpdXJBRUxlVE52SEQ2ei10b29MU1NHZWdROEdNb3RwWVRPUUd5bUdKLVNCTlJicWdHc0FBekhJbmx5YWNkc1piYjNnTndSZFpqVnpEQzBDejltXw",
+      "summary": "日東電工が社内にカフェを設置し、障害者の雇用の場として活用する取組を開始しました。人事担当者は、法定雇用率達成に向けた新たな雇用創出の事例として、社内資源を活用した障害者雇用の場づくりを参考にできます。",
+      "summarizedAt": "2026-10-13T02:55:00.682Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw",
+      "source": "nikkei_news",
+      "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
+      "publishedAt": "2026-10-12T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-13T02:54:41.254Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw",
+      "summary": "政府は特定技能制度において「給食」「介護」分野の区分変更案を検討しており、現行制度での受入れ継続に向けた対応を進めています。人事・労務担当者は今後の制度改正による採用要件や手続きの変更可能性に注意が必要です。",
+      "summarizedAt": "2026-10-13T02:55:03.890Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFB1Q3RDTXlkNkVjd21RSWoxRlpFVzE2SEJLSTE0WFJ4TFdlQ3NWOW1SbnVva0E0ZGhjeUc4LXN2bFFIUUxvRnpxeWpBNi1XVlBWVnp3QUlBeDQ3VkRudUh0SkJlQ2dBYUx5WkFqOQ",
       "source": "nikkei_news",
@@ -7709,6 +7800,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE1Bdy1fRm9QenFmd0tfSUJ6Zzh1X21tNFFoQmlQSG5RU09JVjJuYU5uNXk3S0k2V3pwam4waGkyN0dzS3VrWks2SVFvd2RoLXFBWTVneUdYNVRJeUNLUUZwSkdncFB4OGt6Ylktaw",
+      "source": "nikkei_news",
+      "title": "国内造船の倍増遠く 25年度受注15%減、人手不足救うロボットに活路",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bdy1fRm9QenFmd0tfSUJ6Zzh1X21tNFFoQmlQSG5RU09JVjJuYU5uNXk3S0k2V3pwam4waGkyN0dzS3VrWks2SVFvd2RoLXFBWTVneUdYNVRJeUNLUUZwSkdncFB4OGt6Ylktaw?oc=5",
+      "publishedAt": "2026-04-13T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-13T02:54:41.254Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1Bdy1fRm9QenFmd0tfSUJ6Zzh1X21tNFFoQmlQSG5RU09JVjJuYU5uNXk3S0k2V3pwam4waGkyN0dzS3VrWks2SVFvd2RoLXFBWTVneUdYNVRJeUNLUUZwSkdncFB4OGt6Ylktaw",
+      "summary": "この見出しのみからは労働法制の改正や企業の人事労務対応に関する具体的な情報が読み取れないため、労務担当者向けの要約作成は困難です。造船業界の受注動向と人手不足対策としてのロボット活用という業界トピックに留まります。",
+      "summarizedAt": "2026-10-13T02:55:06.873Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1KNGNhNWt2QkVSLXRpZ21iZHhwSGhmZGxyaC01ZUhKc1Z4R1ZtNDc0aW1sTHI5Q1N1UWpWbGtqU3plYUNyTEd3S3pMZUpHckRLQ1lHLQ",
       "source": "rosei_news",
       "title": "残業削減、運用見直しへ 労基署指導巡り自民提言 長時間労働助長に懸念も",
@@ -9009,6 +9114,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBFRWlWZnlxbnZkei1zdFg4cVI4WGpjQXFEb2sxVGFWY3VpcFVOclpkSTh6T1RuV095dFlLaTlKdWtfWWdRa2FrR1hST0xEM25aTXI0bA",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1VTkNyenBpODVfVDNCbnJfeFJjMEM0S2NkWEtYWWZtLWlzenBRcENRQjN6WTZjU1ZmUDZpXzZEQ0VBd0dxUkZhMXZYaldSR21WMm1zVA",
+      "source": "rosei_news",
+      "title": "大阪府商工労働部「中小企業における精神障がい者・発達障がい者の雇用・定着のポイントに関する調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTkNyenBpODVfVDNCbnJfeFJjMEM0S2NkWEtYWWZtLWlzenBRcENRQjN6WTZjU1ZmUDZpXzZEQ0VBd0dxUkZhMXZYaldSR21WMm1zVA?oc=5",
+      "publishedAt": "2025-08-01T10:50:55.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-13T02:54:41.255Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1VTkNyenBpODVfVDNCbnJfeFJjMEM0S2NkWEtYWWZtLWlzenBRcENRQjN6WTZjU1ZmUDZpXzZEQ0VBd0dxUkZhMXZYaldSR21WMm1zVA",
+      "summary": "大阪府が中小企業を対象に、精神障がい者・発達障がい者の雇用と職場定着を実現するための効果的な取り組みやノウハウについて調査を実施しました。中小企業の障がい者雇用推進の参考となる実践的なポイントがまとめられています。",
+      "summarizedAt": "2026-10-13T02:55:12.167Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFBMdDlxbXFfOEhBaEtUZjd6VG1kTmZGV1BrOWV2UXJCaXdrYmRhRHZLXzRSLVUtYW5abVpENHVkTVM4TFB5TVVXU3FOZFdZSVZUNlIzekx1N25kZ0JLX3I1MW55aWNUN0dUVXh6aw",
@@ -12094,6 +12213,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1tMVZ1NzZ1TktjcEJqek90R1cyR3VET293aEtvUTE0anFfaFJkZlNBekVKWXZGMnFhMXJNSjcyUFJjUzhqOEdCY1JZdThUNnBZd3BxRg",
       "summary": "労働条件を定める就業規則・労働協約・労働契約の三者について、それぞれの効力関係や優先順位、適用場面における違いを理解し、自社の規程類が法的に適切な体系となっているか確認する必要があります。",
       "summarizedAt": "2026-10-07T01:16:54.855Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE1aTEF1bWRBY0tKdGI2dE14RDVvQWFpc1V1dmNyLURtUnpITnA0MVY0bFNkVWZXOWhuUVRkRlFjb1Rzd0otSXNMQ01feWlJTHZxZW5oTVdqUlV2NlYtdE00bTZPcXNjMnc",
+      "source": "nikkei_news",
+      "title": "人手不足だから「段取り軽減」 中村留が複合加工機を使いやすく",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTEF1bWRBY0tKdGI2dE14RDVvQWFpc1V1dmNyLURtUnpITnA0MVY0bFNkVWZXOWhuUVRkRlFjb1Rzd0otSXNMQ01feWlJTHZxZW5oTVdqUlV2NlYtdE00bTZPcXNjMnc?oc=5",
+      "publishedAt": "2021-12-13T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-13T02:54:41.254Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE1aTEF1bWRBY0tKdGI2dE14RDVvQWFpc1V1dmNyLURtUnpITnA0MVY0bFNkVWZXOWhuUVRkRlFjb1Rzd0otSXNMQ01feWlJTHZxZW5oTVdqUlV2NlYtdE00bTZPcXNjMnc",
+      "summary": "【要約不可】\n\nこの見出しからは労働関連法制の改正や企業の人事労務上の義務変更に関する情報を読み取ることができません。機械メーカーの製品改良に関する事例記事と推察されます。",
+      "summarizedAt": "2026-10-13T02:55:09.565Z",
       "isGuideline": false
     },
     {
