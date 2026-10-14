@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-13T02:55:14.724Z",
+  "updatedAt": "2026-10-14T00:59:11.377Z",
   "items": [
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5MYWJOYkhlNFRiZ2pUSVQyc0lBTmQ0SDUwQVd6SThMNVJvRUozOTJWWnRyN2NpU0IxMUtsQlBTMllsZ2M3U0NzQ2VoZ3QwVjRxRzVZbA",
+      "source": "rosei_news",
+      "title": "労働時間等に関する実態調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MYWJOYkhlNFRiZ2pUSVQyc0lBTmQ0SDUwQVd6SThMNVJvRUozOTJWWnRyN2NpU0IxMUtsQlBTMllsZ2M3U0NzQ2VoZ3QwVjRxRzVZbA?oc=5",
+      "publishedAt": "2026-10-13T09:06:04.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-14T00:58:41.681Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5MYWJOYkhlNFRiZ2pUSVQyc0lBTmQ0SDUwQVd6SThMNVJvRUozOTJWWnRyN2NpU0IxMUtsQlBTMllsZ2M3U0NzQ2VoZ3QwVjRxRzVZbA",
+      "summary": "労働時間の管理実態や運用状況に関する調査結果が公表されました。自社の労働時間管理制度や実務運用を他社事例と比較検証し、必要に応じて見直しを検討することが推奨されます。",
+      "summarizedAt": "2026-10-14T00:59:03.352Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76698.html",
+      "source": "mhlw_news",
+      "title": "第133回労働政策審議会労働条件分科会労災保険部会資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76698.html",
+      "publishedAt": "2026-10-13T08:42:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-14T00:58:42.208Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76698.html",
+      "summary": "労働政策審議会の労災保険部会（第133回）が開催され、労災保険制度に関する審議資料が公表されました。人事労務担当者は、今後の制度改正の動向を把握するため資料内容の確認が推奨されます。",
+      "summarizedAt": "2026-10-14T00:58:52.203Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_021225156_00115.html",
+      "source": "mhlw_news",
+      "title": "第228回労働政策審議会職業安定分科会を開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_021225156_00115.html",
+      "publishedAt": "2026-10-13T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-14T00:58:42.208Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_021225156_00115.html",
+      "summary": "労働政策審議会職業安定分科会の第228回会合が開催されます。職業紹介や雇用対策など職業安定行政に関する審議が行われる見込みですが、具体的な議題は現時点で不明です。",
+      "summarizedAt": "2026-10-14T00:58:54.665Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "egov:350CO0000000025:20281001",
       "source": "egov_law_update",
@@ -63,6 +105,20 @@
       },
       "stage": "施行",
       "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiTkFVX3lxTE4zYW40ekM4Zm9RS3YwVkVodWlJczRVZHlONHZpY21mUTRXaXJ4R3IwQ3h5MTIzS1BwT2hhZ2dQOVFXQ2JNamo4Qzc5ZzhGUQ",
+      "source": "rosei_news",
+      "title": "逐条解説 建設労働者雇用改善法",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zYW40ekM4Zm9RS3YwVkVodWlJczRVZHlONHZpY21mUTRXaXJ4R3IwQ3h5MTIzS1BwT2hhZ2dQOVFXQ2JNamo4Qzc5ZzhGUQ?oc=5",
+      "publishedAt": "2026-10-13T02:12:27.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-14T00:58:41.681Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiTkFVX3lxTE4zYW40ekM4Zm9RS3YwVkVodWlJczRVZHlONHZpY21mUTRXaXJ4R3IwQ3h5MTIzS1BwT2hhZ2dQOVFXQ2JNamo4Qzc5ZzhGUQ",
+      "summary": "建設業における労働者の雇用管理改善等を定めた「建設労働者雇用改善法」について、条文ごとに内容を解説する記事です。建設業の人事担当者は、同法が求める雇用管理の責務や届出義務等を確認する必要があります。",
+      "summarizedAt": "2026-10-14T00:59:06.282Z",
+      "isGuideline": true
     },
     {
       "id": "nikkei:CBMibEFVX3lxTFAtT1Y2NXZKdm04XzRfWTNRWFdpdXJBRUxlVE52SEQ2ei10b29MU1NHZWdROEdNb3RwWVRPUUd5bUdKLVNCTlJicWdHc0FBekhJbmx5YWNkc1piYjNnTndSZFpqVnpEQzBDejltXw",
@@ -251,6 +307,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBWa281YlN5OVNEcVVib1lKdUFlazhVMmV2V3d1U1dhODVIcXBadXVraGJGY2xWLUdtSEZpd3QxN200d0NJak1IV2FNWXVBZURIUVV4UDNTc1Y4TVFtUDNiVy1qakRlRlA5QlgwZA",
       "summary": "タクシー業界で賃金が急上昇しており、入社6年目49歳で年収1264万円に達する事例が出ています。人材確保が課題の運輸業界において、賃金水準の見直しが進んでいる状況を示す動向として注目されます。",
       "summarizedAt": "2026-10-09T01:50:53.280Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE4wQUZ1YldlMm45YVgyWTQ2cXI2UU1LZU84TEFpTS1xanpjbGg1RXk0WHBRRmFXUWFLVjh0ajIxYS1CR0g2SmUzOEUtcThpZEVkYUZxTjJ4d1p2UDZUNUlLVTdyVGY",
+      "source": "nikkei_news",
+      "title": "江上剛氏が読む～『なぜ賃金は上がらないのか』物価高騰の日本の実情",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wQUZ1YldlMm45YVgyWTQ2cXI2UU1LZU84TEFpTS1xanpjbGg1RXk0WHBRRmFXUWFLVjh0ajIxYS1CR0g2SmUzOEUtcThpZEVkYUZxTjJ4d1p2UDZUNUlLVTdyVGY?oc=5",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-14T00:58:41.679Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZEFVX3lxTE4wQUZ1YldlMm45YVgyWTQ2cXI2UU1LZU84TEFpTS1xanpjbGg1RXk0WHBRRmFXUWFLVjh0ajIxYS1CR0g2SmUzOEUtcThpZEVkYUZxTjJ4d1p2UDZUNUlLVTdyVGY",
+      "summary": "この見出しのみからは労働法制の改正や具体的な実務対応を読み取ることができません。賃金が上がらない要因を分析した書籍の書評記事と推測されますが、人事労務担当者が「何をすべきか」という実務的な指針は含まれていないため、要約は控えさせていただきます。",
+      "summarizedAt": "2026-10-14T00:59:00.574Z",
       "isGuideline": false
     },
     {
@@ -2254,6 +2324,20 @@
       "storyId": "nikkei:CBMiekFVX3lxTE1uY2NoX24xSzM0VHNIWXA0TWdqT3pOcEV0RG9YWXN6LW1HMm9YNUFWTTFMUWtIM0lMM3dLamI4Q0g1YzN3cWI0SWRza2ctQW83aXZITmVJZ1hjYlBfYnlibTRaQzgxdTIwRUVQaV9IQzEyOHRmYnU0ckxB",
       "summary": "【要約】\n日本企業の優れた現場改善力が生産性向上を実現してきた一方、それが賃金上昇の必要性を薄め、結果として低賃金構造を固定化させてきた可能性があります。人事担当者は賃金戦略の見直しが求められます。\n\n（99字）",
       "summarizedAt": "2026-10-12T01:05:23.150Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiekFVX3lxTFA4b2VQWmlrdGFUYm9iYjY5c21RNGVjanNibzFpZ3gyd2JPY2NwQXUxRG5NX1A3Wmdxall1QUZzenRLV2w1TGcxS0lQU2ZELUtuNGFJNWUzWUZ6NDB2SjZQOGdzNllSRmVmc1NBZGVseTlCRzlKMjZJS3VB",
+      "source": "nikkei_news",
+      "title": "優秀な現場力が低賃金を長引かせた 日本企業が陥った逆説（3ペー…",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4b2VQWmlrdGFUYm9iYjY5c21RNGVjanNibzFpZ3gyd2JPY2NwQXUxRG5NX1A3Wmdxall1QUZzenRLV2w1TGcxS0lQU2ZELUtuNGFJNWUzWUZ6NDB2SjZQOGdzNllSRmVmc1NBZGVseTlCRzlKMjZJS3VB?oc=5",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-14T00:58:41.679Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiekFVX3lxTFA4b2VQWmlrdGFUYm9iYjY5c21RNGVjanNibzFpZ3gyd2JPY2NwQXUxRG5NX1A3Wmdxall1QUZzenRLV2w1TGcxS0lQU2ZELUtuNGFJNWUzWUZ6NDB2SjZQOGdzNllSRmVmc1NBZGVseTlCRzlKMjZJS3VB",
+      "summary": "この見出しのみからは労働法制の具体的な改正内容や企業の対応義務が読み取れないため、労務・人事担当者向けの実務的な要約を作成することができません。記事本文の確認が必要です。",
+      "summarizedAt": "2026-10-14T00:58:57.027Z",
       "isGuideline": false
     },
     {
@@ -4963,6 +5047,20 @@
       "storyId": "nikkei:CBMiU0FVX3lxTE16dTB2TGpoWkN5cS1IQzdsUlVWd3lMZ29YWElITjhKNjZ1WHp4LVNUT3BGT196OU05R21MeHRfY2I4ZnJEUFgtZ1pVVm5sYWtISlI4",
       "summary": "最低賃金が4.9%引き上げられることを受け、労務担当者は賃金改定の対応が必要ですが、一時的な賃上げではなく、継続的に適正賃金を支払える経営体制の構築が企業に求められています。",
       "summarizedAt": "2026-09-17T22:13:39.833Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE9jOUhqYXVyYUV6YXk1ekg2M0pEbjFFZENJU1JzU2VPQWE2QWNwX2djWW9EUS1lQnM4ZTJmRXUtbTlHejZmV2tUZUdHaUc2dDMtWlJLdjViT2F5WWs",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jOUhqYXVyYUV6YXk1ekg2M0pEbjFFZENJU1JzU2VPQWE2QWNwX2djWW9EUS1lQnM4ZTJmRXUtbTlHejZmV2tUZUdHaUc2dDMtWlJLdjViT2F5WWs?oc=5",
+      "publishedAt": "2026-08-31T06:37:49.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-14T00:58:41.681Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
+      "summary": "労働基準法の基本的な内容や制度について解説する記事です。人事労務担当者として押さえておくべき労働基準法の基礎的な知識を確認・習得する際の参考資料としてご活用ください。",
+      "summarizedAt": "2026-10-14T00:59:11.374Z",
       "isGuideline": false
     },
     {
@@ -8049,6 +8147,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE0tajFlUXVxa3Ewb21peGpmWDFpUXA0LV8wU2lWclpfTGN6eWxHd3JBZXd3VnBMSlVVYnJPUU1uNEJBbUF4V284SThDaURSYWVRaklCNVNPZWhucmQySXZsNTNEcm1aZVgyd1J3Sg",
       "summary": "佐賀銀行が3年連続で賃上げを実施し、今回は6%の引き上げで特に中堅層への配分を手厚くしました。地方金融機関における継続的な賃上げと中堅社員重視の配分方針の参考事例となります。",
       "summarizedAt": "2026-09-19T22:13:54.787Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
+      "source": "rosei_news",
+      "title": "労働基準法の基礎知識",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg?oc=5",
+      "publishedAt": "2026-02-21T18:56:18.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-14T00:58:41.681Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
+      "summary": "【要約】\nこの記事は労働基準法の基本的な知識を解説する内容です。人事労務担当者として、労働時間、賃金、休暇等の基準法の基礎的なルールを改めて確認し、日常の労務管理が法令に適合しているか点検することが推奨されます。\n\n(99字)",
+      "summarizedAt": "2026-10-14T00:59:09.275Z",
       "isGuideline": false
     },
     {
