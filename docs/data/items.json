@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-14T00:59:11.377Z",
+  "updatedAt": "2026-10-15T00:20:58.141Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE41aGtDaF9Bc2diTnFGR2d5Um9WMTI0TzdOaTFWb0RORzVmY0RiZ0dPNThoYUdVM2V6c2U0WnluWlBPYnVwcjJhdWZTeHhRSjVKTkh6Zjkzby10LUt0alV5bGdvaDB6cDVKYWFnUw",
+      "source": "nikkei_news",
+      "title": "広がる公契約条例 賃金の底上げを後押し",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41aGtDaF9Bc2diTnFGR2d5Um9WMTI0TzdOaTFWb0RORzVmY0RiZ0dPNThoYUdVM2V6c2U0WnluWlBPYnVwcjJhdWZTeHhRSjVKTkh6Zjkzby10LUt0alV5bGdvaDB6cDVKYWFnUw?oc=5",
+      "publishedAt": "2026-10-14T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-15T00:20:36.684Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE41aGtDaF9Bc2diTnFGR2d5Um9WMTI0TzdOaTFWb0RORzVmY0RiZ0dPNThoYUdVM2V6c2U0WnluWlBPYnVwcjJhdWZTeHhRSjVKTkh6Zjkzby10LUt0alV5bGdvaDB6cDVKYWFnUw",
+      "summary": "# 要約\n\n自治体が公共事業の受注企業に一定水準以上の賃金支払いを義務付ける「公契約条例」の制定が広がっており、公共調達に関わる企業は条例の有無や賃金基準の確認が必要になります。(80字)",
+      "summarizedAt": "2026-10-15T00:20:49.831Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMinAFBVV95cUxOeDJ3X28xdlZnOTNROU9BeVh0WmEzTUtQUjg5XzhoYXlheTB2ei15bUxxQlVFdExiNFg5RHRJNnU3U0ZGX0ZTNDFsMm9QQ3dvMmN1N3J4S09oYnAtS2dZcjlZM0dZbDRDZ2lfUDV4V0hxZWxmT1prQjNKQzFYTzA2ak5HRm1CYk5EZTNfQS1qYWMzU0l1OXFaeVNZNU8",
+      "source": "nikkei_news",
+      "title": "求職者等に対するセクシュアルハラスメントの防止に関する 基本方針の策定について",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDJ3X28xdlZnOTNROU9BeVh0WmEzTUtQUjg5XzhoYXlheTB2ei15bUxxQlVFdExiNFg5RHRJNnU3U0ZGX0ZTNDFsMm9QQ3dvMmN1N3J4S09oYnAtS2dZcjlZM0dZbDRDZ2lfUDV4V0hxZWxmT1prQjNKQzFYTzA2ak5HRm1CYk5EZTNfQS1qYWMzU0l1OXFaeVNZNU8?oc=5",
+      "publishedAt": "2026-10-14T09:20:22.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-15T00:20:36.684Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMinAFBVV95cUxOeDJ3X28xdlZnOTNROU9BeVh0WmEzTUtQUjg5XzhoYXlheTB2ei15bUxxQlVFdExiNFg5RHRJNnU3U0ZGX0ZTNDFsMm9QQ3dvMmN1N3J4S09oYnAtS2dZcjlZM0dZbDRDZ2lfUDV4V0hxZWxmT1prQjNKQzFYTzA2ak5HRm1CYk5EZTNfQS1qYWMzU0l1OXFaeVNZNU8",
+      "summary": "厚生労働省が求職者等に対するセクシュアルハラスメント防止に関する基本方針を策定しました。人事・労務担当者は、採用活動や職場紹介の場面におけるセクハラ防止対策について、この基本方針の内容を確認し対応を検討する必要があります。",
+      "summarizedAt": "2026-10-15T00:20:52.164Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76683.html",
+      "source": "mhlw_news",
+      "title": "第212回労働政策審議会労働条件分科会（資料）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76683.html",
+      "publishedAt": "2026-10-14T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-15T00:20:37.171Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76683.html",
+      "summary": "労働政策審議会労働条件分科会の第212回会議が開催され、労働条件に関する政策検討が行われました。具体的な議題や決定事項は資料を確認する必要があります。",
+      "summarizedAt": "2026-10-15T00:20:46.746Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMivwFBVV95cUxQcWV0YlRnM2ZXM054WURpUG5DOEQyekYzM0loenkyN1JscnNvOUVEYmo4YkxXV2tsNzA4aTh0UGhQN0plb3AzbmVFdHpjOVBJSUlFMTRfbzdzbWNINHJpV3JJRjR6UVFRSW50bEY0WUN2US1wZ0lLeGU0TmJXaEgtQWN0cmhyYjNGOV9lOFY2UldESEY2QzVvekQ3NnFvbjVKVEFyNUR5Q0RKR1FSYnpQTUpfZmFIWWE0RnU1bFI3aw",
+      "source": "nikkei_news",
+      "title": "賃上げ包囲網",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWV0YlRnM2ZXM054WURpUG5DOEQyekYzM0loenkyN1JscnNvOUVEYmo4YkxXV2tsNzA4aTh0UGhQN0plb3AzbmVFdHpjOVBJSUlFMTRfbzdzbWNINHJpV3JJRjR6UVFRSW50bEY0WUN2US1wZ0lLeGU0TmJXaEgtQWN0cmhyYjNGOV9lOFY2UldESEY2QzVvekQ3NnFvbjVKVEFyNUR5Q0RKR1FSYnpQTUpfZmFIWWE0RnU1bFI3aw?oc=5",
+      "publishedAt": "2026-10-13T12:38:46.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-15T00:20:36.684Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMivwFBVV95cUxQcWV0YlRnM2ZXM054WURpUG5DOEQyekYzM0loenkyN1JscnNvOUVEYmo4YkxXV2tsNzA4aTh0UGhQN0plb3AzbmVFdHpjOVBJSUlFMTRfbzdzbWNINHJpV3JJRjR6UVFRSW50bEY0WUN2US1wZ0lLeGU0TmJXaEgtQWN0cmhyYjNGOV9lOFY2UldESEY2QzVvekQ3NnFvbjVKVEFyNUR5Q0RKR1FSYnpQTUpfZmFIWWE0RnU1bFI3aw",
+      "summary": "# 要約\n\n見出しのみの情報のため詳細は不明ですが、企業に賃上げを促す複数の施策や圧力が強まっている状況と考えられます。人事・労務担当者は政府の賃上げ税制や最低賃金動向など関連制度の確認が必要です。\n\n(95字)",
+      "summarizedAt": "2026-10-15T00:20:58.137Z",
+      "isGuideline": false
+    },
     {
       "id": "rosei:CBMiVEFVX3lxTE5MYWJOYkhlNFRiZ2pUSVQyc0lBTmQ0SDUwQVd6SThMNVJvRUozOTJWWnRyN2NpU0IxMUtsQlBTMllsZ2M3U0NzQ2VoZ3QwVjRxRzVZbA",
       "source": "rosei_news",
@@ -12830,6 +12886,20 @@
       "storyId": "nikkei:CBMickFVX3lxTE5tSGVJV2NRWFcxNnB3THoxdFRMcDFKUVhtSV9yc181Ti0zOERhMFU2U3ZndVUxR3JiRjZOUDN0WWF0aUZSRHVmMlIwMzZacDhuNk9CLVBxcGNCekwzQmFPM01XQUF6SUR4MjFpNkZKU3VMQQ",
       "summary": "この見出しのみからは労働法制の具体的な変更点や企業の対応義務は読み取れませんが、男性育休取得者が座談会で「ママの輪」への参加や在宅での孤立感について語った事例として、男性育休者への支援体制や復帰後のフォロー施策を検討する際の参考情報となります。",
       "summarizedAt": "2026-09-19T22:13:39.017Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiqAFBVV95cUxOYWEwc0dXaHhSNlc1WV82RTNjLThXSTk0ejd2bjZvU2tyZTVIV2pROHMyQkpEWUdSV2N1Vzd0a1pQbkh0RlhETWVXNEdWNnZCZlFQNzlFeWZUTk5nMDB6UzBkZGhRN0YwUExCcWt6WGh4dzZINVRNOVpmNXlyVzM1S2ZpSUNiZ1lyWXBIWFhBVmVNS2pvQkJlbkFCUTE2QW9HQVBvclpnekw",
+      "source": "nikkei_news",
+      "title": "「男性育休」推進のために企業ができる3ステップ （2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWEwc0dXaHhSNlc1WV82RTNjLThXSTk0ejd2bjZvU2tyZTVIV2pROHMyQkpEWUdSV2N1Vzd0a1pQbkh0RlhETWVXNEdWNnZCZlFQNzlFeWZUTk5nMDB6UzBkZGhRN0YwUExCcWt6WGh4dzZINVRNOVpmNXlyVzM1S2ZpSUNiZ1lyWXBIWFhBVmVNS2pvQkJlbkFCUTE2QW9HQVBvclpnekw?oc=5",
+      "publishedAt": "2019-06-10T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-15T00:20:36.684Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiqAFBVV95cUxOYWEwc0dXaHhSNlc1WV82RTNjLThXSTk0ejd2bjZvU2tyZTVIV2pROHMyQkpEWUdSV2N1Vzd0a1pQbkh0RlhETWVXNEdWNnZCZlFQNzlFeWZUTk5nMDB6UzBkZGhRN0YwUExCcWt6WGh4dzZINVRNOVpmNXlyVzM1S2ZpSUNiZ1lyWXBIWFhBVmVNS2pvQkJlbkFCUTE2QW9HQVBvclpnekw",
+      "summary": "【要約】\n男性育休の推進には段階的な取り組みが必要とされており、企業は3つのステップを踏むことで効果的に推進できる可能性があります。具体的な手順は本文参照が必要です。\n\n（※見出しのみのため、3ステップの具体的内容は不明）",
+      "summarizedAt": "2026-10-15T00:20:54.911Z",
       "isGuideline": false
     },
     {
