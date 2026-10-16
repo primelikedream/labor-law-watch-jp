@@ -1,6 +1,153 @@
 {
-  "updatedAt": "2026-10-15T00:20:58.141Z",
+  "updatedAt": "2026-10-16T00:10:17.698Z",
   "items": [
+    {
+      "id": "egov:415CO0000000372:20261102",
+      "source": "egov_law_update",
+      "title": "次世代育成支援対策推進法施行令 — 防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令(施行日: 20261102)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=415CO0000000372_20261102_508CO0000000305",
+      "publishedAt": "2026-10-16T00:09:18.810Z",
+      "category": "法令改正 (政令)",
+      "fetchedAt": "2026-10-16T00:09:17.885Z",
+      "storyId": "egov:415CO0000000372:20261102",
+      "summary": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴い、次世代育成支援対策推進法施行令について形式的な整備が行われます。",
+      "summarizedAt": "2026-10-16T00:09:34.686Z",
+      "detail": {
+        "changes": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴い、次世代育成支援対策推進法施行令について形式的な整備が行われます。令和8年(2026年)11月2日から施行されます。提示された差分は附則(施行期日)のみであり、実質的な条文の改正内容は示されていません。",
+        "actions": [
+          "特段の対応は不要です。提示された条文差分には附則(令和8年9月30日政令第305号)の施行期日(第1条)のみが含まれており、次世代育成支援対策推進法施行令の実質的な改正内容(例:用語の置き換えや所管省庁の変更など)は記載されていません。防災庁設置に伴う形式的・技術的整備と推察されますが、具体的な条文変更が不明なため、現時点で事業主・人事労務担当者が取るべき対応を特定することはできません。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiakFVX3lxTE1yUkVEdE9xZDBJZEd5SG5TWmllS2VaNEI2aEp5X2tqWTh3cWdTWGpUZWI2eksxZ214NWNlbFk1UFpKcXhYdUtVVjZubGdyWkFFR1QzdUZQdDNabHNRNHFLWWU0YlVPaFlMSmc",
+      "source": "nikkei_news",
+      "title": "無形資産伸ばす三菱化工機／ゼンショー、サイゼリヤ攻勢／塩野義、シニア同一賃金（2026年10月16日版）",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUkVEdE9xZDBJZEd5SG5TWmllS2VaNEI2aEp5X2tqWTh3cWdTWGpUZWI2eksxZ214NWNlbFk1UFpKcXhYdUtVVjZubGdyWkFFR1QzdUZQdDNabHNRNHFLWWU0YlVPaFlMSmc?oc=5",
+      "publishedAt": "2026-10-15T20:00:39.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiakFVX3lxTE1yUkVEdE9xZDBJZEd5SG5TWmllS2VaNEI2aEp5X2tqWTh3cWdTWGpUZWI2eksxZ214NWNlbFk1UFpKcXhYdUtVVjZubGdyWkFFR1QzdUZQdDNabHNRNHFLWWU0YlVPaFlMSmc",
+      "summary": "【要約】塩野義製薬がシニア層に対して同一賃金の制度を導入する方針です。人事担当者は高齢者雇用における賃金体系の見直しや、年齢によらない公平な処遇制度の検討が求められます。",
+      "summarizedAt": "2026-10-16T00:09:43.065Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBLSzlyRF9GOV96RkpWWVF5Z1VNU1I1ZldRbkplZlZXbmpqWEhxZDdPbFpyNXpPV3JQbkhMRUlBU1FrZ2tZcjJXX0tmQWZOQVoxS05nV2t1TmtJUC05b1lDeXdpcUdmb1E",
+      "source": "nikkei_news",
+      "title": "塩野義、シニアでも同一労働同一賃金 全社員「ゼロベース」評価が出発点",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLSzlyRF9GOV96RkpWWVF5Z1VNU1I1ZldRbkplZlZXbmpqWEhxZDdPbFpyNXpPV3JQbkhMRUlBU1FrZ2tZcjJXX0tmQWZOQVoxS05nV2t1TmtJUC05b1lDeXdpcUdmb1E?oc=5",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBLSzlyRF9GOV96RkpWWVF5Z1VNU1I1ZldRbkplZlZXbmpqWEhxZDdPbFpyNXpPV3JQbkhMRUlBU1FrZ2tZcjJXX0tmQWZOQVoxS05nV2t1TmtJUC05b1lDeXdpcUdmb1E",
+      "summary": "塩野義製薬がシニア社員にも同一労働同一賃金の原則を適用し、年齢や勤続年数に関わらず全社員を「ゼロベース」で評価する人事制度を導入します。人事担当者は年齢による処遇差を見直し、職務内容に基づく評価体系への転換を検討すべきでしょう。",
+      "summarizedAt": "2026-10-16T00:09:37.492Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBwYkNxNEtkMmlNeFRqd2pjV0x5bkY3RVJkVDdvLXpXVVlSS1FIRnJhdXNTLU9VbEpYTzUxRjFHME5Jdm5velFwMVRoTXJwUy1ONEJuajFfbm8wUlNGQUgwS2d6OERHbHlLN0IteQ",
+      "source": "nikkei_news",
+      "title": "賃上げ率5%以上目標、連合が27年春季労使交渉で検討 中小は6%以上",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwYkNxNEtkMmlNeFRqd2pjV0x5bkY3RVJkVDdvLXpXVVlSS1FIRnJhdXNTLU9VbEpYTzUxRjFHME5Jdm5velFwMVRoTXJwUy1ONEJuajFfbm8wUlNGQUgwS2d6OERHbHlLN0IteQ?oc=5",
+      "publishedAt": "2026-10-15T13:30:33.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBwYkNxNEtkMmlNeFRqd2pjV0x5bkY3RVJkVDdvLXpXVVlSS1FIRnJhdXNTLU9VbEpYTzUxRjFHME5Jdm5velFwMVRoTXJwUy1ONEJuajFfbm8wUlNGQUgwS2d6OERHbHlLN0IteQ",
+      "summary": "連合が2027年春季労使交渉において、賃上げ率の目標を5%以上（中小企業は6%以上）とする方針を検討しています。人事・労務担当者は今後の賃金交渉や予算計画において、この目標水準を意識した準備が求められます。",
+      "summarizedAt": "2026-10-16T00:09:57.509Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBKaUpnZTRmWXI5UkFxZHQxWTM5QjBkRzBGWnBoWEpGb21MTlpJd01QSXBzUEdiTEFHZWJKWHJ2LW1KQXY3RmhHR00yaG9KVVJjZ2hDUzkxNTlhdG1Ea3k5alJsb0xYUjJZRXB2Uw",
+      "source": "nikkei_news",
+      "title": "熊本地震の被災企業、社員出向で助成金 雇用維持へ厚労省",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKaUpnZTRmWXI5UkFxZHQxWTM5QjBkRzBGWnBoWEpGb21MTlpJd01QSXBzUEdiTEFHZWJKWHJ2LW1KQXY3RmhHR00yaG9KVVJjZ2hDUzkxNTlhdG1Ea3k5alJsb0xYUjJZRXB2Uw?oc=5",
+      "publishedAt": "2026-10-15T09:24:44.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76532.html",
+      "summary": "熊本地震で被災した企業が雇用を維持するため、従業員を他社へ一時的に出向させた場合に産業雇用安定助成金の特例措置が実施されます。被災企業の人事担当者は、出向による雇用維持が可能か検討し、該当する場合は厚生労働省へ助成金を申請してください。",
+      "summarizedAt": "2026-10-16T00:09:40.320Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5DNTRXUkdvWktNaGFtbE9pY1cxQUY2b21xeXdzckc3Nk93bE9OOFlKXzVUY01MMVE3b0FKSXNLa09vQmJxeUhWSW8wc3U4REhCOVc3c0J5TGVRRXlHT3AyZnRXNDhPa0F1eHZQcw",
+      "source": "nikkei_news",
+      "title": "ルクレが上場、有馬弘進社長「建設業界の人手不足が追い風」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNTRXUkdvWktNaGFtbE9pY1cxQUY2b21xeXdzckc3Nk93bE9OOFlKXzVUY01MMVE3b0FKSXNLa09vQmJxeUhWSW8wc3U4REhCOVc3c0J5TGVRRXlHT3AyZnRXNDhPa0F1eHZQcw?oc=5",
+      "publishedAt": "2026-10-15T08:44:50.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5DNTRXUkdvWktNaGFtbE9pY1cxQUY2b21xeXdzckc3Nk93bE9OOFlKXzVUY01MMVE3b0FKSXNLa09vQmJxeUhWSW8wc3U4REhCOVc3c0J5TGVRRXlHT3AyZnRXNDhPa0F1eHZQcw",
+      "summary": "【要約】\n建設業界向けサービスを展開するルクレが株式上場を果たしました。建設業界の深刻な人手不足が同社ビジネスの成長を後押ししており、今後も人材確保や業務効率化ニーズの高まりが見込まれます。\n\n(95字)",
+      "summarizedAt": "2026-10-16T00:10:02.667Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9wUDhDNVNwS01PWWxnY0ZQbDBYdndzWHNWMDB1UFZqMUNTSVZ6UFhNYlpwNElJdDZVc1Q2LXJ6NmRCaW1uUFlYdzRPYUdnQTBaU2ViVTRkUTBITGUxS1FLcTd6MWl4NjF6YUZIdA",
+      "source": "nikkei_news",
+      "title": "介護報酬「しっかりとした改定幅に」、上野厚労相 人材確保に意欲",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUDhDNVNwS01PWWxnY0ZQbDBYdndzWHNWMDB1UFZqMUNTSVZ6UFhNYlpwNElJdDZVc1Q2LXJ6NmRCaW1uUFlYdzRPYUdnQTBaU2ViVTRkUTBITGUxS1FLcTd6MWl4NjF6YUZIdA?oc=5",
+      "publishedAt": "2026-10-15T08:33:12.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9wUDhDNVNwS01PWWxnY0ZQbDBYdndzWHNWMDB1UFZqMUNTSVZ6UFhNYlpwNElJdDZVc1Q2LXJ6NmRCaW1uUFlYdzRPYUdnQTBaU2ViVTRkUTBITGUxS1FLcTd6MWl4NjF6YUZIdA",
+      "summary": "上野厚生労働大臣が介護報酬について「しっかりとした改定幅」を目指す方針を示し、介護人材確保への意欲を表明しました。次期改定では報酬引き上げによる処遇改善が期待されます。",
+      "summarizedAt": "2026-10-16T00:09:59.886Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76532.html",
+      "source": "mhlw_news",
+      "title": "令和８年熊本地震に伴う産業雇用安定助成金の特例を実施します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76532.html",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-16T00:09:18.170Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76532.html",
+      "summary": "熊本地震の被災企業を支援するため、産業雇用安定助成金に特例が設けられます。雇用維持を目的に従業員を他社へ出向させる場合、助成金を活用できるため、被災地域の企業は制度利用を検討してください。",
+      "summarizedAt": "2026-10-16T00:09:28.532Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE44YWM1ZFg4VDNnd1BtZzBFZjFqd3lkSEhHMnBldC1kMEk5NHJtajNlbkg2MENIbXpoVHBnS0xGZTZMZU9Jb3cxQ3ZCS3Zfd205QUh5Xw",
+      "source": "rosei_news",
+      "title": "勤務間休息、義務化求める 労政審分科会、労働側",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44YWM1ZFg4VDNnd1BtZzBFZjFqd3lkSEhHMnBldC1kMEk5NHJtajNlbkg2MENIbXpoVHBnS0xGZTZMZU9Jb3cxQ3ZCS3Zfd205QUh5Xw?oc=5",
+      "publishedAt": "2026-10-15T04:26:13.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-16T00:09:17.887Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE44YWM1ZFg4VDNnd1BtZzBFZjFqd3lkSEhHMnBldC1kMEk5NHJtajNlbkg2MENIbXpoVHBnS0xGZTZMZU9Jb3cxQ3ZCS3Zfd205QUh5Xw",
+      "summary": "労働政策審議会の分科会において、労働側委員が勤務間インターバル制度の義務化を求めました。現在は努力義務にとどまっている制度が今後義務化される可能性があるため、審議の動向を注視し、制度導入の検討を進めておく必要があります。",
+      "summarizedAt": "2026-10-16T00:10:05.349Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1MYmVXcWUyU2hGZ3JodHNjYUljQVFoR3c5VktmdHFFZWJwUjQyWG53c2RqcndlQ1Z1TWdSNEhSWFkyS3BhdXJHNTMyTjl0dmhQVTk0dDY1ZXdfNDRsMERGM0lJS2syYTZIUUI1aA",
+      "source": "nikkei_news",
+      "title": "外食で外国人材5万人争奪戦 新規の「特定技能」停止、半年で求人3倍",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MYmVXcWUyU2hGZ3JodHNjYUljQVFoR3c5VktmdHFFZWJwUjQyWG53c2RqcndlQ1Z1TWdSNEhSWFkyS3BhdXJHNTMyTjl0dmhQVTk0dDY1ZXdfNDRsMERGM0lJS2syYTZIUUI1aA?oc=5",
+      "publishedAt": "2026-10-15T02:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1MYmVXcWUyU2hGZ3JodHNjYUljQVFoR3c5VktmdHFFZWJwUjQyWG53c2RqcndlQ1Z1TWdSNEhSWFkyS3BhdXJHNTMyTjl0dmhQVTk0dDY1ZXdfNDRsMERGM0lJS2syYTZIUUI1aA",
+      "summary": "外食業における新規の特定技能外国人材の受け入れが停止されたことで、人材獲得競争が激化し、半年間で求人数が3倍に増加しています。外食業の人事担当者は既存の特定技能人材の確保・定着に注力するとともに、代替的な採用ルートの検討が必要です。",
+      "summarizedAt": "2026-10-16T00:09:54.868Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE41aGtDaF9Bc2diTnFGR2d5Um9WMTI0TzdOaTFWb0RORzVmY0RiZ0dPNThoYUdVM2V6c2U0WnluWlBPYnVwcjJhdWZTeHhRSjVKTkh6Zjkzby10LUt0alV5bGdvaDB6cDVKYWFnUw",
       "source": "nikkei_news",
@@ -13,6 +160,34 @@
       "storyId": "nikkei:CBMibEFVX3lxTE41aGtDaF9Bc2diTnFGR2d5Um9WMTI0TzdOaTFWb0RORzVmY0RiZ0dPNThoYUdVM2V6c2U0WnluWlBPYnVwcjJhdWZTeHhRSjVKTkh6Zjkzby10LUt0alV5bGdvaDB6cDVKYWFnUw",
       "summary": "# 要約\n\n自治体が公共事業の受注企業に一定水準以上の賃金支払いを義務付ける「公契約条例」の制定が広がっており、公共調達に関わる企業は条例の有無や賃金基準の確認が必要になります。(80字)",
       "summarizedAt": "2026-10-15T00:20:49.831Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE9vcWtZbER0aERWck9sOFMwV040enhaZUR5ampncmowOEpHZ3hQOTg1VEVTMWZSbmg1emlUYWhpTVpwdjBoMWJEdW9lcnhNSUxjWVg0aWN1SnRjMG1Ub3pPS0FBZ2E1UEk",
+      "source": "nikkei_news",
+      "title": "まやかしの人手不足 シニアの気高き「最後の仕事」が企業を救う",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vcWtZbER0aERWck9sOFMwV040enhaZUR5ampncmowOEpHZ3hQOTg1VEVTMWZSbmg1emlUYWhpTVpwdjBoMWJEdW9lcnhNSUxjWVg0aWN1SnRjMG1Ub3pPS0FBZ2E1UEk?oc=5",
+      "publishedAt": "2026-10-14T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE9vcWtZbER0aERWck9sOFMwV040enhaZUR5ampncmowOEpHZ3hQOTg1VEVTMWZSbmg1emlUYWhpTVpwdjBoMWJEdW9lcnhNSUxjWVg0aWN1SnRjMG1Ub3pPS0FBZ2E1UEk",
+      "summary": "【要約】\nシニア人材の活用が人手不足解消の鍵となる可能性があります。高齢者雇用の促進や、経験豊富なシニア層が意欲を持って働ける環境整備が求められます。\n\n（※見出しのみのため、具体的な制度変更や実務対応は本文確認が必要です）",
+      "summarizedAt": "2026-10-16T00:09:48.926Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBMeXJmcDZhYW1oa1pzM0lnQTdMMWdpOGRTdDZvUy04OVFzY3dRQllVRm1zX2pReDE1c1JNTHhqYWVpVDBob3ZYVms0NjV4N0JMVnl4NjVUX0V3VF92T0t4NUZXemxFelhZM2phZg",
+      "source": "nikkei_news",
+      "title": "女性1393人の声から見えた課題 子育て、介護、働き方に求める改革とは",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMeXJmcDZhYW1oa1pzM0lnQTdMMWdpOGRTdDZvUy04OVFzY3dRQllVRm1zX2pReDE1c1JNTHhqYWVpVDBob3ZYVms0NjV4N0JMVnl4NjVUX0V3VF92T0t4NUZXemxFelhZM2phZg?oc=5",
+      "publishedAt": "2026-10-14T15:01:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBMeXJmcDZhYW1oa1pzM0lnQTdMMWdpOGRTdDZvUy04OVFzY3dRQllVRm1zX2pReDE1c1JNTHhqYWVpVDBob3ZYVms0NjV4N0JMVnl4NjVUX0V3VF92T0t4NUZXemxFelhZM2phZg",
+      "summary": "【要約】\n女性1393人を対象とした調査により、子育て支援、介護支援、柔軟な働き方に関する制度改革への要望が明らかになりました。人事担当者は女性従業員のニーズを踏まえた両立支援制度の見直しを検討すべきです。\n\n(99字)",
+      "summarizedAt": "2026-10-16T00:09:51.476Z",
       "isGuideline": false
     },
     {
@@ -572,6 +747,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE45cWlMN2U3SmJuczRhbERYanpFN1UzRjlVSFgya05EX28xMkJOc1FwbWpQNXpjZXJOMUFNMkdQNXdGd2ZZeDIxd2RhSlJZZTU0dzB4Um0zMHU1cUdjcXNDMGtyNFZ2S3JmNkx6Uw",
       "summary": "# 要約\n\n企業の退職金制度の見直しが進んでおり、将来の退職金と現在の給与のバランスについて戦略的な再検討が行われています。人事担当者は自社の退職金制度の在り方について、従業員のニーズや採用競争力を踏まえた見直しの検討が求められます。\n\n(114字)",
       "summarizedAt": "2026-10-07T01:16:33.029Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76622.html",
+      "source": "mhlw_news",
+      "title": "第10回労働政策審議会職業安定分科会地方連携部会　資料",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76622.html",
+      "publishedAt": "2026-10-06T13:21:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-16T00:09:18.170Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76622.html",
+      "summary": "労働政策審議会職業安定分科会の地方連携部会が第10回会合を開催しました。地方における雇用対策や職業安定行政の連携に関する議論が行われたと考えられますが、具体的な審議内容や方針変更については資料の確認が必要です。",
+      "summarizedAt": "2026-10-16T00:09:31.515Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -2394,6 +2583,20 @@
       "storyId": "nikkei:CBMiekFVX3lxTFA4b2VQWmlrdGFUYm9iYjY5c21RNGVjanNibzFpZ3gyd2JPY2NwQXUxRG5NX1A3Wmdxall1QUZzenRLV2w1TGcxS0lQU2ZELUtuNGFJNWUzWUZ6NDB2SjZQOGdzNllSRmVmc1NBZGVseTlCRzlKMjZJS3VB",
       "summary": "この見出しのみからは労働法制の具体的な改正内容や企業の対応義務が読み取れないため、労務・人事担当者向けの実務的な要約を作成することができません。記事本文の確認が必要です。",
       "summarizedAt": "2026-10-14T00:58:57.027Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiekFVX3lxTE9vZXZlakVMZXcwUy1JdUpRY0l6TGVVODRLS2ZMNUg1TkU4a2Zvd0ZDWlZfclhnWnhQZWhKLWljQ3VQNndKZ0YzakxYaTRmVDJ1VHUwcDJnNi1pczJkWGZSc1JobmlzY3RrVmQ3YnV4VmpTV2twX29HYzl3",
+      "source": "nikkei_news",
+      "title": "優秀な現場力が低賃金を長引かせた 日本企業が陥った逆説（3ペー…",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vZXZlakVMZXcwUy1JdUpRY0l6TGVVODRLS2ZMNUg1TkU4a2Zvd0ZDWlZfclhnWnhQZWhKLWljQ3VQNndKZ0YzakxYaTRmVDJ1VHUwcDJnNi1pczJkWGZSc1JobmlzY3RrVmQ3YnV4VmpTV2twX29HYzl3?oc=5",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-16T00:09:17.886Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiekFVX3lxTE9vZXZlakVMZXcwUy1JdUpRY0l6TGVVODRLS2ZMNUg1TkU4a2Zvd0ZDWlZfclhnWnhQZWhKLWljQ3VQNndKZ0YzakxYaTRmVDJ1VHUwcDJnNi1pczJkWGZSc1JobmlzY3RrVmQ3YnV4VmpTV2twX29HYzl3",
+      "summary": "本記事は見出しのみで本文が取得できていないため、法改正や具体的な実務対応について確認できません。労務・人事担当者向けの具体的な制度変更や対応事項を確認するには、記事本文の参照が必要です。",
+      "summarizedAt": "2026-10-16T00:09:45.634Z",
       "isGuideline": false
     },
     {
@@ -8302,6 +8505,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFAxZElCVTE0SVozckIwaWkyUFlyZVhrODdpeVJzNTcxYll2WnZRYXpmTWpkSGpGemhqb2dZTUVBZEZNVzJ1a25ESnByTFl4ZklKeUZRNw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiUkFVX3lxTE5icU0xelNxS3RRQk1xb05LR09MMF83Z1ZfdjExUnlUX2RsenJ2VGtrY282Wm41LU43Z3k2WDBxWGhQWjhWSFkyUjhhNXZaNXhLcEE",
+      "source": "rosei_news",
+      "title": "厚生労働省「高年齢者の労働災害防止のための指針」について （公示）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icU0xelNxS3RRQk1xb05LR09MMF83Z1ZfdjExUnlUX2RsenJ2VGtrY282Wm41LU43Z3k2WDBxWGhQWjhWSFkyUjhhNXZaNXhLcEE?oc=5",
+      "publishedAt": "2026-02-10T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-16T00:09:17.887Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiUkFVX3lxTE5icU0xelNxS3RRQk1xb05LR09MMF83Z1ZfdjExUnlUX2RsenJ2VGtrY282Wm41LU43Z3k2WDBxWGhQWjhWSFkyUjhhNXZaNXhLcEE",
+      "summary": "厚生労働省が高年齢労働者の労災防止に関する指針を公示しました。事業主は高齢従業員の身体機能低下等を踏まえた職場環境の改善や安全衛生教育の実施など、指針に沿った労災防止対策の見直しが求められます。",
+      "summarizedAt": "2026-10-16T00:10:08.427Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5wcmMtMXdEOEJHb3gwUU1CbU84a2pyaEUyeTA0R3ljTl94aC0tcGNVSlF4LUNsWjhiX1hkQjJOZEN1Q1dEUXlIbzdMU0lMYTd2QWozSg",
