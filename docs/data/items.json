@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-16T00:10:17.698Z",
+  "updatedAt": "2026-10-17T00:13:44.804Z",
   "items": [
+    {
+      "id": "rosei:CBMiW0FVX3lxTE4xVm1EeERZSUtNbGQ4SjRqVUZsaFRyTEhPQllHNUwwc3pzbDE3OTBqSzNQZkQ5M2M5cUo5TkROcFBsT2V5MnBTN19zdkJWMjg1UWFDUUgxcjdRdXM",
+      "source": "rosei_news",
+      "title": "『賃上げ交渉に向けた業績・賃金データの徹底検証』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVm1EeERZSUtNbGQ4SjRqVUZsaFRyTEhPQllHNUwwc3pzbDE3OTBqSzNQZkQ5M2M5cUo5TkROcFBsT2V5MnBTN19zdkJWMjg1UWFDUUgxcjdRdXM?oc=5",
+      "publishedAt": "2026-10-16T06:56:38.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE4xVm1EeERZSUtNbGQ4SjRqVUZsaFRyTEhPQllHNUwwc3pzbDE3OTBqSzNQZkQ5M2M5cUo5TkROcFBsT2V5MnBTN19zdkJWMjg1UWFDUUgxcjdRdXM",
+      "summary": "労使交渉の準備として、自社の業績動向と現行賃金水準を他社データと比較検証し、賃上げ原資の有無や適正な賃金水準を客観的に把握することが求められます。交渉前に説得力のある根拠資料を整備しておくことが重要です。",
+      "summarizedAt": "2026-10-17T00:13:36.591Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76433.html",
+      "source": "mhlw_news",
+      "title": "第213回労働政策審議会労働条件分科会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76433.html",
+      "publishedAt": "2026-10-16T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-17T00:13:00.597Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76433.html",
+      "summary": "労働政策審議会労働条件分科会の第213回会合が開催されます。労働条件に関する制度改正等の審議動向を把握するため、後日公表される議事録や配布資料を確認し、自社の労務管理への影響を検討してください。",
+      "summarizedAt": "2026-10-17T00:13:11.150Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+      "source": "mhlw_news",
+      "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+      "publishedAt": "2026-10-16T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-17T00:13:00.597Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+      "summary": "最低賃金の目安額を示す現行の目安制度について、中央最低賃金審議会で見直しの議論が行われています。今後の制度変更により地域別最低賃金の決定プロセスが変わる可能性があるため、動向を注視する必要があります。",
+      "summarizedAt": "2026-10-17T00:13:13.709Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "source": "mhlw_news",
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "publishedAt": "2026-10-16T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-17T00:13:00.597Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "summary": "中央最低賃金審議会が開催されます。最低賃金の改定方針等が議論される可能性があるため、人事・労務担当者は今後の審議動向と地域別最低賃金の見直し時期に注意が必要です。",
+      "summarizedAt": "2026-10-17T00:13:16.132Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "egov:415CO0000000372:20261102",
       "source": "egov_law_update",
@@ -20,6 +76,21 @@
         "basis": "law-diff"
       },
       "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5rbzJXaHpPT2llc0kxbXJ6UWxwWGNNVUE2dmxwY0VPUmprX2I5ZmpkSmpEeW5IbnNwQnhJQVRmUkYwQ3JwSXhRWks2a1dnNDdNdWxvQg",
+      "source": "rosei_news",
+      "title": "労働基準関係法制の改正に向けて、労働政策審議会での議論を再開／労災保険における暫定任意適用事業の廃止の施行期日は、令和13年４月１日／「令和８年版 労働経済の分析」を公表 等",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rbzJXaHpPT2llc0kxbXJ6UWxwWGNNVUE2dmxwY0VPUmprX2I5ZmpkSmpEeW5IbnNwQnhJQVRmUkYwQ3JwSXhRWks2a1dnNDdNdWxvQg?oc=5",
+      "publishedAt": "2026-10-15T23:13:08.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5rbzJXaHpPT2llc0kxbXJ6UWxwWGNNVUE2dmxwY0VPUmprX2I5ZmpkSmpEeW5IbnNwQnhJQVRmUkYwQ3JwSXhRWks2a1dnNDdNdWxvQg",
+      "summary": "労働政策審議会が労働基準関係法制の改正に向けた議論を再開しました。また、労災保険における暫定任意適用事業が令和13年4月1日に廃止されることが決定し、現在任意加入となっている一部事業も強制適用に移行するため、該当事業者は準備が必要です。",
+      "summarizedAt": "2026-10-17T00:13:27.505Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -510,6 +581,20 @@
       "storyId": "nikkei:CBMijgFBVV95cUxOUWxENFdPVGNnNjBDS0QzNVd3VDU4S1RVMWVKN3VIbDZPRFFRQUt1Vm93anA1MFlKVFhvNmdaOGlRUldBbHJqZ3Flc1NxVlBoalNZS1hSYzNYMFpjSjc2TGw5UU0wSVduc2lrVTkxRDRiMUtCTXltUHpwZ3dTQVp0RVN2cEY2R1BKVUFUUkVB",
       "summary": "申し訳ございませんが、この見出しのみからは法改正の内容や企業が取るべき具体的な対応を読み取ることができません。カスタマーハラスメント対策に関する資料・ガイドブックが公表された可能性がありますが、本文情報なしでは「何がどう変わるか」「何をすべきか」を正確にお伝えできないため、要約は控えさせていただきます。",
       "summarizedAt": "2026-10-10T01:35:03.592Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMijgFBVV95cUxNaDZpMGRnR1A0M1VSWmZ5SmVjY2Fib3M2N1Zwdl9pWnF3aTNVaEhVVktDN0dDeFRJeHBJLW0wRWFKQmROdS1JaFlNSUxlVW5LbVlMamJyTm5QZER5NHZHeExiUmFoeEhlcVhweUN3U05Qam94XzlRUVB4ZGh3Q3VQR1k5WkQtOU1FU3BzWFp3",
+      "source": "nikkei_news",
+      "title": "画像：はじめに：『まずはこれだけ！ カスタマーハラスメント対策スタートBOOK』",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDZpMGRnR1A0M1VSWmZ5SmVjY2Fib3M2N1Zwdl9pWnF3aTNVaEhVVktDN0dDeFRJeHBJLW0wRWFKQmROdS1JaFlNSUxlVW5LbVlMamJyTm5QZER5NHZHeExiUmFoeEhlcVhweUN3U05Qam94XzlRUVB4ZGh3Q3VQR1k5WkQtOU1FU3BzWFp3?oc=5",
+      "publishedAt": "2026-10-09T00:41:12.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-17T00:13:00.273Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMijgFBVV95cUxNaDZpMGRnR1A0M1VSWmZ5SmVjY2Fib3M2N1Zwdl9pWnF3aTNVaEhVVktDN0dDeFRJeHBJLW0wRWFKQmROdS1JaFlNSUxlVW5LbVlMamJyTm5QZER5NHZHeExiUmFoeEhlcVhweUN3U05Qam94XzlRUVB4ZGh3Q3VQR1k5WkQtOU1FU3BzWFp3",
+      "summary": "この見出しのみからは、カスタマーハラスメント対策の入門的資料が公表されたことは読み取れますが、法改正の有無、対策の具体的内容、企業に求められる対応等の詳細は不明です。実務対応を判断するには本文の確認が必要です。",
+      "summarizedAt": "2026-10-17T00:13:18.940Z",
       "isGuideline": false
     },
     {
@@ -3166,6 +3251,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE02ZkxXRzVvaVhKZlFELUVJNmEwZkxQaEJpYllkcG1PMFZYMmlwN0NjcnNFQUx2MnpyR0xaVm9EMlFIamhXY29HVGdHNlBVV2p0S2JXUFoweGZPUlJKZUxtNW9URGNQejFkbDFTZw",
       "summary": "山梨県が9月補正予算案135億円を編成し、中小企業向けの賃上げ支援金を盛り込みました。自社が山梨県内の中小企業である場合は、支援金の対象要件や申請手続きについて県の公表情報を確認することが推奨されます。",
       "summarizedAt": "2026-09-15T22:14:35.089Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiWEFVX3lxTE9HVEpiYnk0UlVzdEFkWlJINGlGOGNJMmNBQUIxWDNPSDlYYmdrd3RNU25VQi1nNmlQVXNfRTNYM1FDY1pmYWhWTzFSX3RqcE9mZ0FFa2Jqb3E",
+      "source": "rosei_news",
+      "title": "eラーニング ハラスメント対策｜30分でしっかり学ぶ！カスタマーハラスメント",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HVEpiYnk0UlVzdEFkWlJINGlGOGNJMmNBQUIxWDNPSDlYYmdrd3RNU25VQi1nNmlQVXNfRTNYM1FDY1pmYWhWTzFSX3RqcE9mZ0FFa2Jqb3E?oc=5",
+      "publishedAt": "2026-09-15T06:39:56.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiWEFVX3lxTE9HVEpiYnk0UlVzdEFkWlJINGlGOGNJMmNBQUIxWDNPSDlYYmdrd3RNU25VQi1nNmlQVXNfRTNYM1FDY1pmYWhWTzFSX3RqcE9mZ0FFa2Jqb3E",
+      "summary": "カスタマーハラスメント対策に特化したeラーニングコンテンツが提供されており、30分で体系的に学習できる教材として活用可能です。人事担当者は、顧客対応部門の従業員保護策として本教材の導入を検討すべきでしょう。",
+      "summarizedAt": "2026-10-17T00:13:33.506Z",
       "isGuideline": false
     },
     {
@@ -8157,6 +8256,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE42UElaR0tIUmxQdnFiaVI3SzdZd3pOOVVQbGYzUGZQYWRVdXJVY0NQTGd4TkhkclVYckw4dUpya05Dc3k4VkViUEx5WWRiVjd2bjVJeA",
+      "source": "rosei_news",
+      "title": "残業指導の運用見直し提言 首相に自民、労働力確保で",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UElaR0tIUmxQdnFiaVI3SzdZd3pOOVVQbGYzUGZQYWRVdXJVY0NQTGd4TkhkclVYckw4dUpya05Dc3k4VkViUEx5WWRiVjd2bjVJeA?oc=5",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE42UElaR0tIUmxQdnFiaVI3SzdZd3pOOVVQbGYzUGZQYWRVdXJVY0NQTGd4TkhkclVYckw4dUpya05Dc3k4VkViUEx5WWRiVjd2bjVJeA",
+      "summary": "自民党が首相に対し、労働力確保の観点から残業指導の運用見直しを提言しました。人事担当者は今後、時間外労働に関する行政指導や規制の運用方針が変更される可能性があるため、関連する政府発表や通達に注意が必要です。",
+      "summarizedAt": "2026-10-17T00:13:42.100Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE1Bdy1fRm9QenFmd0tfSUJ6Zzh1X21tNFFoQmlQSG5RU09JVjJuYU5uNXk3S0k2V3pwam4waGkyN0dzS3VrWks2SVFvd2RoLXFBWTVneUdYNVRJeUNLUUZwSkdncFB4OGt6Ylktaw",
       "source": "nikkei_news",
       "title": "国内造船の倍増遠く 25年度受注15%減、人手不足救うロボットに活路",
@@ -10331,6 +10444,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiWkFVX3lxTE1mS2FCaGtZWW5qclBpQ3dQYjZld09ZNk1tVnoxMzl1MWRIZW1tY3hyYklKY2Z6LWp1OE83R29DOTVHWjhUMi1KTEtpNk1wTXZaOE1lbG9MYl83dw",
+      "source": "nikkei_news",
+      "title": "賃上げ・春闘2026 企業や業界の最新動向",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS2FCaGtZWW5qclBpQ3dQYjZld09ZNk1tVnoxMzl1MWRIZW1tY3hyYklKY2Z6LWp1OE83R29DOTVHWjhUMi1KTEtpNk1wTXZaOE1lbG9MYl83dw?oc=5",
+      "publishedAt": "2025-01-04T01:01:15.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-17T00:13:00.273Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWkFVX3lxTE1mS2FCaGtZWW5qclBpQ3dQYjZld09ZNk1tVnoxMzl1MWRIZW1tY3hyYklKY2Z6LWp1OE83R29DOTVHWjhUMi1KTEtpNk1wTXZaOE1lbG9MYl83dw",
+      "summary": "本文情報がないため具体的な変更内容は不明ですが、2026年春闘における各企業・業界の賃上げ動向を把握し、自社の賃金改定方針の検討材料として活用することが求められます。(80字)",
+      "summarizedAt": "2026-10-17T00:13:24.801Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBFc0tCeno4V1ZOWnlsVnFHbUktMXhMendhZ3BuYkk2YU9fV1JvTTlfcXdGelJ2S0gtZzhheXo0OGQ5MEVGTjdFY1BRbFZoaGwySGpjMw",
       "source": "rosei_news",
       "title": "「労働力不足」が６４％ 外国人の雇用理由、初調査",
@@ -10539,6 +10666,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBJX2xhUzhScmVNTS00eEFSY29ETUZORmRIWDJ6SXk2cERTYUdBNHB5Y0ViQTVDNC0wTUlJeU1NQVMwU2NwRG96SjBWdmt5Sktid0lWZA",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMijgFBVV95cUxPNW5XclBCc3FZSHVvaEY3eXBBLUZxQzQ4Z1NnNlZISVZ2cm1EX0c5dS1aVFpDYktPRE5FSFpOOV9IN0dnMVBwbkdCbm82a1ZFUHd1QnFxUXQyaG5zWHdzVlY0SElHcHpsaHluT0l6U2lrSi0xeEc5MjF5d0JSRzNZeUw5N29uRE80VlFrVVhB",
+      "source": "nikkei_news",
+      "title": "画像：はじめに：『賃上げ成長論の落とし穴』",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNW5XclBCc3FZSHVvaEY3eXBBLUZxQzQ4Z1NnNlZISVZ2cm1EX0c5dS1aVFpDYktPRE5FSFpOOV9IN0dnMVBwbkdCbm82a1ZFUHd1QnFxUXQyaG5zWHdzVlY0SElHcHpsaHluT0l6U2lrSi0xeEc5MjF5d0JSRzNZeUw5N29uRE80VlFrVVhB?oc=5",
+      "publishedAt": "2024-10-17T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-17T00:13:00.273Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMijgFBVV95cUxPNW5XclBCc3FZSHVvaEY3eXBBLUZxQzQ4Z1NnNlZISVZ2cm1EX0c5dS1aVFpDYktPRE5FSFpOOV9IN0dnMVBwbkdCbm82a1ZFUHd1QnFxUXQyaG5zWHdzVlY0SElHcHpsaHluT0l6U2lrSi0xeEc5MjF5d0JSRzNZeUw5N29uRE80VlFrVVhB",
+      "summary": "本記事は見出しのみで本文情報がないため、具体的な法改正内容や実務対応を要約することができません。賃上げ政策に関する論考と推測されますが、労務・人事担当者への実務的な指針を示すには本文の確認が必要です。",
+      "summarizedAt": "2026-10-17T00:13:22.020Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE43VVhoeThvdmdPMm04bGNhYU9KeUhyaXhsaDNPZDA4WXJLVVFCRXJnaWI0QUZYTDdSNlhrTnp1T2Y4dUhuQ0ozNXZWdFNXbW12S1B5Rg",
@@ -10986,6 +11127,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBZdUFUWkhGMmh4ZEtEMUdYRVhHWWNZN3hxRkdkMlJvNHFuOW1QS2IzN2kwNzM3UjVRSm5DXy1mMVZZRmItbGxfZ2kwOXlQWVZlUWZJYQ",
       "summary": "【要約】\n東京都内の中小企業における2023年の年齢別・学歴別・役職別などのモデル賃金水準が示されており、自社の賃金水準が地域相場と比較して適正かどうかを検証する際の参考指標として活用できます。",
       "summarizedAt": "2026-10-02T01:27:37.163Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFB3YUJjX2JlVnJoZ2xoMmVNWjRtekF4aHlGVjItYW5mdUJtOHpHZXVWNVBlcldwTWtiM1NMbDlrVGZWbGZrbzhTQ0tjdlNfN0duTC12Xw",
+      "source": "rosei_news",
+      "title": "実質賃金２５カ月連続減 最長更新、４月０・７％ 賃上げで前月からは改善",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3YUJjX2JlVnJoZ2xoMmVNWjRtekF4aHlGVjItYW5mdUJtOHpHZXVWNVBlcldwTWtiM1NMbDlrVGZWbGZrbzhTQ0tjdlNfN0duTC12Xw?oc=5",
+      "publishedAt": "2024-06-05T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFB3YUJjX2JlVnJoZ2xoMmVNWjRtekF4aHlGVjItYW5mdUJtOHpHZXVWNVBlcldwTWtiM1NMbDlrVGZWbGZrbzhTQ0tjdlNfN0duTC12Xw",
+      "summary": "2024年4月の実質賃金は前年同月比0.7%減となり、25カ月連続のマイナスで過去最長を更新しました。賃上げの影響で前月からは改善傾向にあるものの、物価上昇が賃金上昇を上回る状況が継続しており、従業員の実質的な購買力低下への対応が引き続き課題となります。",
+      "summarizedAt": "2026-10-17T00:13:30.744Z",
       "isGuideline": false
     },
     {
@@ -12840,6 +12995,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE00N08weGhPZFkzSjh6Qml2UDBmVVl4bmlBVTBVeHkwU3k0VUdSWTkxVFVxN25ucU9DaGI3UEVGcDZaQkpMSW5uel9pSER2SHdGeV9QXw",
+      "source": "rosei_news",
+      "title": "外国人労働者１７２万人 過去最多、２０年１０月末 コロナ影響、増加率鈍る",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00N08weGhPZFkzSjh6Qml2UDBmVVl4bmlBVTBVeHkwU3k0VUdSWTkxVFVxN25ucU9DaGI3UEVGcDZaQkpMSW5uel9pSER2SHdGeV9QXw?oc=5",
+      "publishedAt": "2021-01-29T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE00N08weGhPZFkzSjh6Qml2UDBmVVl4bmlBVTBVeHkwU3k0VUdSWTkxVFVxN25ucU9DaGI3UEVGcDZaQkpMSW5uel9pSER2SHdGeV9QXw",
+      "summary": "2020年10月末時点で外国人労働者数が172万人と過去最多を更新しましたが、コロナ禍の影響により前年比の増加率は鈍化しています。人事担当者は外国人採用の市場動向が変化していることを認識し、採用計画の見直しが必要です。",
+      "summarizedAt": "2026-10-17T00:13:44.801Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1wWnFwczZ5cTI0VXpXbHpacHJVYzhtY2hKdjZwZzZIN19XbzZja0QxLTZDcVlOVEY1dm1mRXRSX0NOYnJzSXhySzFTaU01aEFlaXlTYg",
       "source": "rosei_news",
       "title": "第173回 佐々木 勝 ―マネジメントとリーダーシップ：ハラスメント発生メカニズムを踏まえた新しい組織づくり",
@@ -13539,6 +13708,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBVLUdaOHNDb1A0UjduR2RTSE42R0lsVmJKUDlzR0g1MFN5b01Dd1ZtUGtaWnJ6ZXZBd3lyYl9CYk5VWFhvN3FsY25LN1ZhZFZxZGlLdw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFB1dnpGVW9fZFFnX0VlUkYtNFQwQnduR2hlXzBXbnVZQ2s2VS1BTlI0bmhhcHVrRDRlZ1dPNThRMEtjRTlwLVYzbWVoNFQ3YWhERzM5aw",
+      "source": "rosei_news",
+      "title": "第29回 労働組合の活動状況を調べる ～厚生労働省「労働組合基礎調査」等～：使える！ 統計講座",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dnpGVW9fZFFnX0VlUkYtNFQwQnduR2hlXzBXbnVZQ2s2VS1BTlI0bmhhcHVrRDRlZ1dPNThRMEtjRTlwLVYzbWVoNFQ3YWhERzM5aw?oc=5",
+      "publishedAt": "2011-12-15T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T00:13:00.274Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFB1dnpGVW9fZFFnX0VlUkYtNFQwQnduR2hlXzBXbnVZQ2s2VS1BTlI0bmhhcHVrRDRlZ1dPNThRMEtjRTlwLVYzbWVoNFQ3YWhERzM5aw",
+      "summary": "厚生労働省の「労働組合基礎調査」により、労働組合の組織率や活動状況などの動向を把握できることを紹介する統計活用講座です。自社の労使関係を検討する際の参考データとして活用可能です。",
+      "summarizedAt": "2026-10-17T00:13:39.108Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5CNEY2eHI3c19SampoM2oxbVhpNklxOGpRZV93WktpcmtfZTVMWkpUT3oyZWJ6eTZObmdmc0h1RHdXM0NjWERXdUc0Ymh4MmVCc1o0ZA",
