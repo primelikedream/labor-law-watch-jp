@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T00:13:44.804Z",
+  "updatedAt": "2026-10-17T23:52:09.996Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9pSHFIZjJ3VzNOQUNLU1dNcjFUWnYyaGxueGVBa3RaYmhvMlQtekVUVURFQ3hCcDFEZDMxMkM3dUI3dVdLLUp3UzBoNEFJUFcyNFJuLUZUbWNFZzVReGZCbjVHbHBkSVN1VHdyRQ",
+      "source": "nikkei_news",
+      "title": "勤務弁護士は「労働者」ではない 西村あさひ巡る判決確定",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pSHFIZjJ3VzNOQUNLU1dNcjFUWnYyaGxueGVBa3RaYmhvMlQtekVUVURFQ3hCcDFEZDMxMkM3dUI3dVdLLUp3UzBoNEFJUFcyNFJuLUZUbWNFZzVReGZCbjVHbHBkSVN1VHdyRQ?oc=5",
+      "publishedAt": "2026-10-17T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-17T23:51:53.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9pSHFIZjJ3VzNOQUNLU1dNcjFUWnYyaGxueGVBa3RaYmhvMlQtekVUVURFQ3hCcDFEZDMxMkM3dUI3dVdLLUp3UzBoNEFJUFcyNFJuLUZUbWNFZzVReGZCbjVHbHBkSVN1VHdyRQ",
+      "summary": "最高裁が西村あさひ法律事務所の勤務弁護士を「労働者」と認めない判決を確定しました。法律事務所で雇用する弁護士について、労働基準法上の労働者性が否定されたため、労務管理上の取扱いに注意が必要です。",
+      "summarizedAt": "2026-10-17T23:52:03.643Z",
+      "isGuideline": false
+    },
     {
       "id": "rosei:CBMiW0FVX3lxTE4xVm1EeERZSUtNbGQ4SjRqVUZsaFRyTEhPQllHNUwwc3pzbDE3OTBqSzNQZkQ5M2M5cUo5TkROcFBsT2V5MnBTN19zdkJWMjg1UWFDUUgxcjdRdXM",
       "source": "rosei_news",
@@ -188,6 +202,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76532.html",
       "summary": "熊本地震の被災企業を支援するため、産業雇用安定助成金に特例が設けられます。雇用維持を目的に従業員を他社へ出向させる場合、助成金を活用できるため、被災地域の企業は制度利用を検討してください。",
       "summarizedAt": "2026-10-16T00:09:28.532Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMi3AFBVV95cUxQRmNqWW0xbmc4N1Z5MW9FM1p5Z05jZnpNNEhRU2VwaHRHX0UzOGVaZW5KVldLd3pEcVZYZFAxZ3BCYTBVQjRBZWZhNnZXQk9ONmc2YjQ4Qzk4MGprMlNMVDZoUU01cE5fOFVpWjQ2UGtfTnVIVkl5MTRlU1lxLU13SmlxcGhOMWVsMFJXaXRGX19iazJhbGhjM2VCdllqeWluMS1ENHZDSV96ZlNsWUlQcXNtZGlpbzNHUWNsc0FfUXlLaE1tTzVvNl9ndkh0bzBOVGlsUXlvd2Vub3lP",
+      "source": "nikkei_news",
+      "title": "建設版 働き方改革",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRmNqWW0xbmc4N1Z5MW9FM1p5Z05jZnpNNEhRU2VwaHRHX0UzOGVaZW5KVldLd3pEcVZYZFAxZ3BCYTBVQjRBZWZhNnZXQk9ONmc2YjQ4Qzk4MGprMlNMVDZoUU01cE5fOFVpWjQ2UGtfTnVIVkl5MTRlU1lxLU13SmlxcGhOMWVsMFJXaXRGX19iazJhbGhjM2VCdllqeWluMS1ENHZDSV96ZlNsWUlQcXNtZGlpbzNHUWNsc0FfUXlLaE1tTzVvNl9ndkh0bzBOVGlsUXlvd2Vub3lP?oc=5",
+      "publishedAt": "2026-10-15T05:00:55.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-17T23:51:53.136Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi3AFBVV95cUxQRmNqWW0xbmc4N1Z5MW9FM1p5Z05jZnpNNEhRU2VwaHRHX0UzOGVaZW5KVldLd3pEcVZYZFAxZ3BCYTBVQjRBZWZhNnZXQk9ONmc2YjQ4Qzk4MGprMlNMVDZoUU01cE5fOFVpWjQ2UGtfTnVIVkl5MTRlU1lxLU13SmlxcGhOMWVsMFJXaXRGX19iazJhbGhjM2VCdllqeWluMS1ENHZDSV96ZlNsWUlQcXNtZGlpbzNHUWNsc0FfUXlLaE1tTzVvNl9ndkh0bzBOVGlsUXlvd2Vub3lP",
+      "summary": "# 要約\n\n建設業において働き方改革関連の制度変更や規制強化が進行している可能性があります。人事・労務担当者は建設業特有の労働時間管理や処遇改善に関する最新動向を確認し、対応準備を進めることが推奨されます。\n\n(92字)",
+      "summarizedAt": "2026-10-17T23:52:06.522Z",
       "isGuideline": false
     },
     {
@@ -8631,6 +8659,20 @@
       "storyId": "rosei:CBMiUkFVX3lxTE5icU0xelNxS3RRQk1xb05LR09MMF83Z1ZfdjExUnlUX2RsenJ2VGtrY282Wm41LU43Z3k2WDBxWGhQWjhWSFkyUjhhNXZaNXhLcEE",
       "summary": "厚生労働省が高年齢労働者の労災防止に関する指針を公示しました。事業主は高齢従業員の身体機能低下等を踏まえた職場環境の改善や安全衛生教育の実施など、指針に沿った労災防止対策の見直しが求められます。",
       "summarizedAt": "2026-10-16T00:10:08.427Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTE5BbzBhNkhHUzI0SmtrSFQzSEx5THZGV0tIdXltdTBCRGlhZlJEU2J6UHJnejJpQlpGOF9ybHdEQ0xGVlJIeFVVY1pib29QNnJ0UWJ0bjJJOEl5UXc",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BbzBhNkhHUzI0SmtrSFQzSEx5THZGV0tIdXltdTBCRGlhZlJEU2J6UHJnejJpQlpGOF9ybHdEQ0xGVlJIeFVVY1pib29QNnJ0UWJ0bjJJOEl5UXc?oc=5",
+      "publishedAt": "2026-02-10T01:26:24.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-17T23:51:53.136Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE5BbzBhNkhHUzI0SmtrSFQzSEx5THZGV0tIdXltdTBCRGlhZlJEU2J6UHJnejJpQlpGOF9ybHdEQ0xGVlJIeFVVY1pib29QNnJ0UWJ0bjJJOEl5UXc",
+      "summary": "申し訳ございませんが、ご提示いただいた情報は「労働基準法の基礎知識」という一般的な見出しのみであり、法改正や新たな施策など、「何がどう変わるか/何をすべきか」を示す具体的な内容が含まれていません。そのため、労務担当者向けの変更点や対応事項を要約することができません。記事本文や追加情報があればご提供ください。",
+      "summarizedAt": "2026-10-17T23:52:09.994Z",
       "isGuideline": false
     },
     {
