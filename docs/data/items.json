@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-17T23:52:09.996Z",
+  "updatedAt": "2026-10-19T00:00:20.503Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE94Y3hHbkl2eEdZSXIwNGpMaGNVMWdQMHZfM2F2Q253X3BfRTRYR0V6QUFrWDF4bUhPb3RWSUVCWnBSNzlfS2VDN01JUHFjZV9vNkx5THlEY092WGw2bE5QVkZkMEpWQzAyMGx0Zw",
+      "source": "nikkei_news",
+      "title": "就活セクハラ、全企業に対応義務付け 勇気を持って窓口に相談を",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94Y3hHbkl2eEdZSXIwNGpMaGNVMWdQMHZfM2F2Q253X3BfRTRYR0V6QUFrWDF4bUhPb3RWSUVCWnBSNzlfS2VDN01JUHFjZV9vNkx5THlEY092WGw2bE5QVkZkMEpWQzAyMGx0Zw?oc=5",
+      "publishedAt": "2026-10-18T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-19T00:00:00.732Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE94Y3hHbkl2eEdZSXIwNGpMaGNVMWdQMHZfM2F2Q253X3BfRTRYR0V6QUFrWDF4bUhPb3RWSUVCWnBSNzlfS2VDN01JUHFjZV9vNkx5THlEY092WGw2bE5QVkZkMEpWQzAyMGx0Zw",
+      "summary": "就活中の学生に対するセクハラについて、企業規模を問わず全企業に対応窓口の設置など防止措置が義務付けられました。学生が被害に遭った際は企業の相談窓口への報告を推奨し、企業側は適切な対応体制の整備が必要です。",
+      "summarizedAt": "2026-10-19T00:00:17.651Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE54TURLdE5Fb0dNUS0zanZVdnpXaUlKMHBHTHhoYmd0c3ZLTnBha1NoS2d1aGdiQ0hPSGhCUVNjSHRtN09xSHM2NGJ1NTYtR096VlhDT0dES2pJZkczNVpqNnpIakJCUGVGajhZTw",
+      "source": "nikkei_news",
+      "title": "労働条件明示の違反、25年は3割増 明示義務項目追加に対応遅れ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54TURLdE5Fb0dNUS0zanZVdnpXaUlKMHBHTHhoYmd0c3ZLTnBha1NoS2d1aGdiQ0hPSGhCUVNjSHRtN09xSHM2NGJ1NTYtR096VlhDT0dES2pJZkczNVpqNnpIakJCUGVGajhZTw?oc=5",
+      "publishedAt": "2026-10-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-19T00:00:00.732Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE54TURLdE5Fb0dNUS0zanZVdnpXaUlKMHBHTHhoYmd0c3ZLTnBha1NoS2d1aGdiQ0hPSGhCUVNjSHRtN09xSHM2NGJ1NTYtR096VlhDT0dES2pJZkczNVpqNnpIakJCUGVGajhZTw",
+      "summary": "2025年は労働条件明示義務の違反が3割増加しており、明示すべき項目が追加されたことへの対応が遅れています。人事・労務担当者は追加された明示義務項目を確認し、雇用契約書や労働条件通知書を速やかに見直して法令遵守を徹底する必要があります。",
+      "summarizedAt": "2026-10-19T00:00:11.575Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBqV1pUc2U5QUMyaS1IRFRaN0d6SzhfMUVtLWJ2aEE0T280X0tXTUhqR1FkTXJFRGNnOUpzNnIzWW1xenE1TWNNNnJSQU9TTi16S0pERzI2and5LXRRNjVSSUh6bEpFUWRyMmtMZw",
+      "source": "nikkei_news",
+      "title": "高市政権1年、家計のゆとり「官製」段階 補助金で実質賃金1%増",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqV1pUc2U5QUMyaS1IRFRaN0d6SzhfMUVtLWJ2aEE0T280X0tXTUhqR1FkTXJFRGNnOUpzNnIzWW1xenE1TWNNNnJSQU9TTi16S0pERzI2and5LXRRNjVSSUh6bEpFUWRyMmtMZw?oc=5",
+      "publishedAt": "2026-10-18T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-19T00:00:00.732Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBqV1pUc2U5QUMyaS1IRFRaN0d6SzhfMUVtLWJ2aEE0T280X0tXTUhqR1FkTXJFRGNnOUpzNnIzWW1xenE1TWNNNnJSQU9TTi16S0pERzI2and5LXRRNjVSSUh6bEpFUWRyMmtMZw",
+      "summary": "この見出しのみからは労働法制の具体的な変更内容は読み取れません。補助金政策により実質賃金が1%増加したという経済指標に関する記事と推測されますが、人事労務担当者が対応すべき法改正や制度変更の情報は含まれていません。",
+      "summarizedAt": "2026-10-19T00:00:14.305Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9pSHFIZjJ3VzNOQUNLU1dNcjFUWnYyaGxueGVBa3RaYmhvMlQtekVUVURFQ3hCcDFEZDMxMkM3dUI3dVdLLUp3UzBoNEFJUFcyNFJuLUZUbWNFZzVReGZCbjVHbHBkSVN1VHdyRQ",
       "source": "nikkei_news",
@@ -12655,6 +12697,20 @@
       "summary": "ハラスメント防止とメンタルヘルス対策において、管理職が習得すべき基礎知識をeラーニング形式で学習できる教材です。人事担当者は、管理職研修の選択肢として本教材の活用を検討することが推奨されます。",
       "summarizedAt": "2026-09-04T22:15:11.397Z",
       "storyId": "rosei:CBMiWEFVX3lxTE1jSXlvdDZnQXBWLVpIMHlTR25WYVVQVlFBUFJMay1KUlpyaW5wNFhobmZqZ2pBVHhVcnp1SDdDUTVzc194WlZGZ25ZMUxIMHlGX0JqSmZ4QzQ",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiWkFVX3lxTE9ZSDFPTTRpVjdibS1YdEZ0Um40Qm9KNHNWeEhrNlptaHlmd3NEdEhoX3YxQjVzVHlyZmRqOWw0aEpwY1hUSGhGMWk1Y2RSaGJVa2ozQW5PbWZHQQ",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZSDFPTTRpVjdibS1YdEZ0Um40Qm9KNHNWeEhrNlptaHlmd3NEdEhoX3YxQjVzVHlyZmRqOWw0aEpwY1hUSGhGMWk1Y2RSaGJVa2ozQW5PbWZHQQ?oc=5",
+      "publishedAt": "2022-04-04T06:44:59.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-19T00:00:00.734Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiWkFVX3lxTE9ZSDFPTTRpVjdibS1YdEZ0Um40Qm9KNHNWeEhrNlptaHlmd3NEdEhoX3YxQjVzVHlyZmRqOWw0aEpwY1hUSGhGMWk1Y2RSaGJVa2ozQW5PbWZHQQ",
+      "summary": "申し訳ございませんが、与えられた情報は「労働基準法の基礎知識」という一般的なタイトルのみで、法改正や制度変更など具体的な内容が含まれていません。このタイトルからは「何がどう変わるか/何をすべきか」を読み取ることができないため、推測で事実を捏造せずに要約することはできません。",
+      "summarizedAt": "2026-10-19T00:00:20.498Z",
       "isGuideline": false
     },
     {
