@@ -1,6 +1,259 @@
 {
-  "updatedAt": "2026-10-19T00:00:20.503Z",
+  "updatedAt": "2026-10-20T01:00:15.064Z",
   "items": [
+    {
+      "id": "egov:431M60000010005:20270401",
+      "source": "egov_law_update",
+      "title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令 — 出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う法務省令の整備及び経過措置に関する省令(施行日: 20270401)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=431M60000010005_20270401_507M60000010045",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:431M60000010005:20270401",
+      "summary": "「技能実習法」から「育成就労法」への制度移行に伴い、特定技能制度の基準省令が改正されます。",
+      "summarizedAt": "2026-10-20T00:58:30.553Z",
+      "detail": {
+        "changes": "「技能実習法」から「育成就労法」への制度移行に伴い、特定技能制度の基準省令が改正されます。令和9年4月1日施行。特定技能所属機関が欠格事由に該当するかの判断基準が「技能実習法違反」から「育成就労法違反」に変更されます(第2条第1項第4号の(15)ト・チ)。また、1号特定技能外国人への支援計画に「2号特定技能への変更を希望する場合の技能・日本語能力修得支援」が新たに追加され(第3条第1項第1号ル)、この支援は外国人が十分理解できる言語で実施し(第4条第2項第3号)、登録支援機関に委託する場合は全部委託が必要となります(第4条第2項第5号)。さらに、支援の委託先が「他の者」から「登録支援機関」に限定されます(第3条第1項第2号、第4条第1項・第2項第4号)。",
+        "actions": [
+          "特定技能外国人を雇用する事業主は、1号特定技能外国人支援計画に「2号特定技能への変更を希望する場合の技能・日本語能力修得支援」を追加し、外国人が理解できる言語で実施できる体制を整備する必要があります(第3条第1項第1号ル、第4条第2項第3号)。",
+          "この新たな支援を登録支援機関に委託する場合は、支援計画の全部を委託する契約形態とする必要があります。一部委託では対応できません(第4条第2項第5号)。",
+          "支援の委託は登録支援機関のみに限定されるため、登録支援機関以外の「他の者」に委託している場合は、令和9年4月1日までに委託先を登録支援機関に変更するか、自社で支援を実施する体制に切り替える必要があります(第3条第1項第2号、第4条第1項・第2項第4号)。",
+          "特定技能所属機関の欠格事由の確認において、「技能実習認定取消し」の有無に代えて「育成就労認定取消し」の有無を確認します。経過措置により、技能実習認定を取り消された者は育成就労認定を取り消されたものとみなされます(第2条第1項第4号ト・チ、附則第7条)。",
+          "施行日は令和9年(2027年)4月1日です。施行日前に申請された在留資格認定証明書交付申請等については経過措置が適用されます(附則第1条、第9条)。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:357M50002040001:20270401",
+      "source": "egov_law_update",
+      "title": "労働金庫法施行規則 — 労働金庫法施行規則の一部を改正する命令(施行日: 20270401)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=357M50002040001_20270401_508M60000102008",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:357M50002040001:20270401",
+      "summary": "労働金庫法施行規則第45条第12号における、他の国内会社等への事業資金貸付に関する業務要件の規定が改正されます。",
+      "summarizedAt": "2026-10-20T00:58:32.906Z",
+      "detail": {
+        "changes": "労働金庫法施行規則第45条第12号における、他の国内会社等への事業資金貸付に関する業務要件の規定が改正されます。改正前は「金融庁長官及び厚生労働大臣が定める基準により主として当該業務が行われる場合に限る」という限定条件でしたが、改正後は「当該業務が行われない場合を除く」という除外規定に変更されます。2027年4月1日から施行されます。",
+        "actions": [
+          "特段の対応は不要。本改正は労働金庫が行う業務の範囲に関する規定(労働金庫法施行規則第45条第12号)の変更であり、一般の事業主や人事労務担当者が対応すべき事項はありません。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:357M50002040001:20261211",
+      "source": "egov_law_update",
+      "title": "労働金庫法施行規則 — 労働金庫法施行規則の一部を改正する命令(施行日: 20261211)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=357M50002040001_20261211_508M60000102011",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:357M50002040001:20261211",
+      "summary": "労働金庫法施行規則第45条第5項の改正により、労働金庫またはその子会社が議決権を取得できる「経営の改善等が必要な会社」の類型に、新たな号が追加されました。",
+      "summarizedAt": "2026-10-20T00:58:35.858Z",
+      "detail": {
+        "changes": "労働金庫法施行規則第45条第5項の改正により、労働金庫またはその子会社が議決権を取得できる「経営の改善等が必要な会社」の類型に、新たな号が追加されました。具体的には、「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律(令和7年法律第67号)」に基づく権利変更決議の認可を受けた会社、または権利変更議案につき議決権者全員の同意を得た会社が追加されます(新第8号)。これに伴い、従来の第8号以降が繰り下がり、第9号・第10号・第11号となります。第50条の2も号番号のずれに対応して「第九号」から「第十号」へ改正されます。施行日は令和8年(2026年)12月11日です。",
+        "actions": [
+          "特段の対応は不要。本改正は労働金庫が議決権取得できる会社の類型を追加するものであり、一般事業主の人事労務管理には直接影響しません。労働金庫から事業再生支援を受けている企業で、当該金庫による議決権取得が想定される場合のみ、新制度の活用可能性を確認することが考えられます。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:357M50002040001:20260930",
+      "source": "egov_law_update",
+      "title": "労働金庫法施行規則 — 労働金庫法施行規則の一部を改正する命令(施行日: 20260930)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=357M50002040001_20260930_508M60000102017",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:357M50002040001:20260930",
+      "summary": "労働金庫法施行規則の別紙様式第十三号および第十四号(労働金庫代理業に関する報告書)が改正され、この命令は公布の日(令和8年9月30日)から施行される。",
+      "summarizedAt": "2026-10-20T00:58:38.389Z",
+      "detail": {
+        "changes": "労働金庫法施行規則の別紙様式第十三号および第十四号(労働金庫代理業に関する報告書)が改正され、この命令は公布の日(令和8年9月30日)から施行される。改正後の新様式は、施行日以後に終了する事業年度に係る労働金庫代理業に関する報告書について適用される。施行日前に終了した事業年度の報告書については、従来の様式で提出できる経過措置が設けられている(附則第2項)。",
+        "actions": [
+          "労働金庫代理業を行っている事業者のみが対象となる改正であり、一般の事業主・人事労務担当者には特段の対応は不要。",
+          "労働金庫代理業を行っている場合は、令和8年9月30日以後に終了する事業年度から、改正後の別紙様式第十三号・第十四号により労働金庫代理業に関する報告書を作成・提出する必要がある(附則第2項)。",
+          "令和8年9月30日より前に終了した事業年度分の報告書は、従来の様式で提出することができる(附則第2項)。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:431M60000010005:20261001",
+      "source": "egov_law_update",
+      "title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令 — 特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令の一部を改正する省令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=431M60000010005_20261001_508M60000010050",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:431M60000010005:20261001",
+      "summary": "「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律」の改正に伴い、同法の条番号が変更されたため、特定技能省令第二条において引用する条文番号を「第四十条」から「第五十条」に変更する。",
+      "summarizedAt": "2026-10-20T00:58:41.502Z",
+      "detail": {
+        "changes": "「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律」の改正に伴い、同法の条番号が変更されたため、特定技能省令第二条において引用する条文番号を「第四十条」から「第五十条」に変更する。令和8年(2026年)10月1日から施行される。",
+        "actions": [
+          "特段の対応は不要。これは親法である雇用対策法(現:雇用安定法)の条文番号の繰り下げに伴う単純な引用条文の修正であり、特定技能雇用契約の実質的な基準内容に変更はない。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:350M50002000003:20260930",
+      "source": "egov_law_update",
+      "title": "雇用保険法施行規則 — 雇用保険法施行規則の一部を改正する省令(施行日: 20260930)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=350M50002000003_20260930_508M60000100145",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:350M50002000003:20260930",
+      "summary": "令和8年熊本地震の被災地域における認定訓練助成事業費補助金について、災害復旧に要する経費に対する補助率を引き上げる暫定措置を新設。",
+      "summarizedAt": "2026-10-20T00:58:43.986Z",
+      "detail": {
+        "changes": "令和8年熊本地震の被災地域における認定訓練助成事業費補助金について、災害復旧に要する経費に対する補助率を引き上げる暫定措置を新設。通常「2分の1」の補助率を「3分の2」に、「3分の1」を「2分の1」に引き上げる。附則第17条の5の4として追加され、令和8年度に適用される。施行日は令和8年9月30日(公布日)。",
+        "actions": [
+          "特段の対応は不要。本改正は、令和8年熊本地震により災害救助法が適用された市町村の区域内で認定訓練を行う事業主等が、被災した施設・設備の災害復旧費用について認定訓練助成事業費補助金を申請する際の補助率引き上げを定めた暫定措置であり、一般の事業主・人事労務担当者が直ちに対応すべき事項はない。",
+          "該当地域で認定訓練を実施しており、地震により施設・設備が被災した事業主等は、補助金申請時に引き上げ後の補助率(2分の1→3分の2、3分の1→2分の1)が適用されることを確認する。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "egov:350M50002000003:20261001",
+      "source": "egov_law_update",
+      "title": "雇用保険法施行規則 — 雇用保険法施行規則の一部を改正する省令(施行日: 20261001)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=350M50002000003_20261001_508M60000100147",
+      "publishedAt": "2026-10-20T00:58:03.640Z",
+      "category": "法令改正 (府省令)",
+      "fetchedAt": "2026-10-20T00:58:02.505Z",
+      "storyId": "egov:350M50002000003:20261001",
+      "summary": "雇用保険法施行規則第118条の人材確保等支援助成コース(外国人労働者就労環境整備関係)の要件が、2026年10月1日施行で簡素化されます。",
+      "summarizedAt": "2026-10-20T00:58:46.906Z",
+      "detail": {
+        "changes": "雇用保険法施行規則第118条の人材確保等支援助成コース(外国人労働者就労環境整備関係)の要件が、2026年10月1日施行で簡素化されます。改正前は必須措置2つ(雇用労務責任者選任+文書の多言語化)と選択措置3つのうち1つ(苦情・相談体制/一時帰国休暇/手引書の多言語化)の実施が必要でしたが、改正後は2つのコースに整理されます。基本コース(必須措置2つのみ)と拡充コース(必須措置2つ+一時帰国休暇制度)のいずれかを選択する形となり、苦情・相談体制の整備は雇用労務責任者の役割として明確化、手引書の多言語化は要件から削除されます。また、離職率の測定期間が「就労環境整備の実施日」基準から「就労環境整備計画の期間の末日」基準に変更されます。さらに、新たに情報通信技術を活用した勤務(テレワーク等)に関する助成コース(第118条第2項ニ)が追加されます。施行日前に旧様式の就労環境整備計画を提出した事業主には経過措置が適用されます。",
+        "actions": [
+          "外国人労働者の就労環境整備について人材確保等支援助成金を申請予定または申請中の事業主は、2026年10月1日以降の申請については新要件(基本コースまたは拡充コース)に基づく就労環境整備計画の作成が必要です。特に、雇用労務責任者の役割に「外国人労働者からの苦情・相談対応」が明記されたため、選任時の周知内容の見直しが必要です。",
+          "2026年9月30日までに旧様式の就労環境整備計画を都道府県労働局長に提出済みの事業主は、経過措置により従前の要件で助成金支給を受けられます。",
+          "新たに追加されたテレワーク等(情報通信技術を活用した勤務)の助成コースの利用を検討する中小企業事業主は、労働協約または就業規則へのテレワーク制度の規定、対象労働者の指定、離職状況の記録整備などの準備が必要です。",
+          "助成金を申請しない事業主、または外国人労働者を雇用していない事業主には、この改正による直接的な対応は不要です。"
+        ],
+        "basis": "law-diff"
+      },
+      "stage": "施行",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBvRF8yWnFzMTdFYXRwX3pXSmZVMzZ6dUxLSVdZWm10WGJ4R2R1Q3VUODVucEJORHdmbERDV0NSUVg1ZXZDQktjWktPTlBNTkFMV2kxMHZERFpxQjNad2xjN1o3S2tYN1dpQTl6eA",
+      "source": "nikkei_news",
+      "title": "高市首相「大胆な投資と賃上げに期待」 経団連会合で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRF8yWnFzMTdFYXRwX3pXSmZVMzZ6dUxLSVdZWm10WGJ4R2R1Q3VUODVucEJORHdmbERDV0NSUVg1ZXZDQktjWktPTlBNTkFMV2kxMHZERFpxQjNad2xjN1o3S2tYN1dpQTl6eA?oc=5",
+      "publishedAt": "2026-10-19T10:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-20T00:58:02.506Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBvRF8yWnFzMTdFYXRwX3pXSmZVMzZ6dUxLSVdZWm10WGJ4R2R1Q3VUODVucEJORHdmbERDV0NSUVg1ZXZDQktjWktPTlBNTkFMV2kxMHZERFpxQjNad2xjN1o3S2tYN1dpQTl6eA",
+      "summary": "高市首相が経団連の会合において、企業に対して積極的な設備投資の実施と従業員の賃上げを要請しました。今後、政府による賃上げ促進策や投資減税などの施策が展開される可能性があるため、自社の賃金施策の検討が必要です。",
+      "summarizedAt": "2026-10-20T00:58:56.460Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76807.html",
+      "source": "mhlw_news",
+      "title": "「事業場における労働者の健康保持増進のための指針」について（公示）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76807.html",
+      "publishedAt": "2026-10-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76807.html",
+      "summary": "厚生労働省が「事業場における労働者の健康保持増進のための指針」を公示しました。人事・労務担当者は、本指針の内容を確認し、自社の健康保持増進対策（THP：トータル・ヘルスプロモーション・プラン等）の見直しや実施体制の整備を検討する必要があります。",
+      "summarizedAt": "2026-10-20T00:58:14.124Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76708.html",
+      "source": "mhlw_news",
+      "title": "「第37回 労働政策審議会勤労者生活分科会」を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76708.html",
+      "publishedAt": "2026-10-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76708.html",
+      "summary": "労働政策審議会勤労者生活分科会の第37回会合が開催されます。勤労者の生活に関する施策について議論される予定ですが、具体的な審議内容は開催案内の時点では明示されていません。",
+      "summarizedAt": "2026-10-20T00:58:16.472Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76690.html",
+      "source": "mhlw_news",
+      "title": "第33回キャリアコンサルタント登録制度等に関する検討会を10月26日に開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76690.html",
+      "publishedAt": "2026-10-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76690.html",
+      "summary": "厚生労働省が10月26日に第33回キャリアコンサルタント登録制度等に関する検討会を開催します。キャリアコンサルタント制度の見直しや運用に関心がある場合は、検討会の議論内容や公表資料を確認することが推奨されます。",
+      "summarizedAt": "2026-10-20T00:58:19.033Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shinngi_00022.html",
+      "source": "mhlw_news",
+      "title": "第９回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)",
+      "url": "https://www.mhlw.go.jp/stf/shinngi_00022.html",
+      "publishedAt": "2026-10-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shinngi_00022.html",
+      "summary": "組織再編時の労働関係の調整ルールについて、労働政策審議会の専門部会で第9回の検討が行われます。企業の合併・分割等における労働契約承継や労働条件の取扱いに関する制度見直しの議論が進められる見通しです。",
+      "summarizedAt": "2026-10-20T00:58:22.298Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE51Y0tUeFBuaDUzY2tYVlRWdUtsTkxkTDB0aFJ0NWVKNmZyWk9KRnBqYlRDNndldmwxRTM5eXMydTNsMFB0YkJSV0ZicGNOd1B0M0kzd3FUWV9hSkhxNG9aTm9VbUduYm9lS3J6bA",
+      "source": "nikkei_news",
+      "title": "日銀・植田総裁、賃金と物価の緩やかな上昇「メカニズムが復活」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51Y0tUeFBuaDUzY2tYVlRWdUtsTkxkTDB0aFJ0NWVKNmZyWk9KRnBqYlRDNndldmwxRTM5eXMydTNsMFB0YkJSV0ZicGNOd1B0M0kzd3FUWV9hSkhxNG9aTm9VbUduYm9lS3J6bA?oc=5",
+      "publishedAt": "2026-10-19T01:59:06.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-20T00:58:02.506Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE51Y0tUeFBuaDUzY2tYVlRWdUtsTkxkTDB0aFJ0NWVKNmZyWk9KRnBqYlRDNndldmwxRTM5eXMydTNsMFB0YkJSV0ZicGNOd1B0M0kzd3FUWV9hSkhxNG9aTm9VbUduYm9lS3J6bA",
+      "summary": "日銀の植田総裁が賃金と物価の緩やかな上昇メカニズムが復活したとの認識を示しました。人事・労務担当者は、今後も継続的な賃上げ圧力が想定されるため、中長期的な人件費計画の見直しや採用・処遇戦略の再検討が必要です。",
+      "summarizedAt": "2026-10-20T00:58:49.899Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/toukei/oshirase/261014.html",
+      "source": "mhlw_news",
+      "title": "令和８年労働安全衛生調査（実態調査）にご協力をお願いします",
+      "url": "https://www.mhlw.go.jp/toukei/oshirase/261014.html",
+      "publishedAt": "2026-10-19T01:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/toukei/oshirase/261014.html",
+      "summary": "厚生労働省が令和8年労働安全衛生調査（実態調査）を実施するため、調査対象に選ばれた事業所や労働者は回答への協力が求められます。調査票が届いた場合は、期限内に正確な情報を提供してください。",
+      "summarizedAt": "2026-10-20T00:58:25.021Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE94Y3hHbkl2eEdZSXIwNGpMaGNVMWdQMHZfM2F2Q253X3BfRTRYR0V6QUFrWDF4bUhPb3RWSUVCWnBSNzlfS2VDN01JUHFjZV9vNkx5THlEY092WGw2bE5QVkZkMEpWQzAyMGx0Zw",
       "source": "nikkei_news",
@@ -41,6 +294,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBqV1pUc2U5QUMyaS1IRFRaN0d6SzhfMUVtLWJ2aEE0T280X0tXTUhqR1FkTXJFRGNnOUpzNnIzWW1xenE1TWNNNnJSQU9TTi16S0pERzI2and5LXRRNjVSSUh6bEpFUWRyMmtMZw",
       "summary": "この見出しのみからは労働法制の具体的な変更内容は読み取れません。補助金政策により実質賃金が1%増加したという経済指標に関する記事と推測されますが、人事労務担当者が対応すべき法改正や制度変更の情報は含まれていません。",
       "summarizedAt": "2026-10-19T00:00:14.305Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76686.html",
+      "source": "mhlw_news",
+      "title": "第93回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76686.html",
+      "publishedAt": "2026-10-18T15:50:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-20T00:58:02.878Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76686.html",
+      "summary": "第93回労働政策審議会雇用環境・均等分科会がペーパーレス形式で開催されます。具体的な議題は未公表のため、雇用環境や均等待遇に関する施策の審議動向を注視する必要があります。",
+      "summarizedAt": "2026-10-20T00:58:27.254Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -11860,6 +12127,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMi9wFBVV95cUxOUU9ubGVZT3VHNTI3eGVvRVZWWkJ0bExiaWhjY2JicmpLTVpvUEJjc19WOGhaWUJfZmYycEk2bmF6MDJzSlFCQmJtckhVMGJRb1BGWEpNZFpfcVhBVXVFVW84c2RTblJzUWtOczZqTkZtMnRMMDBzTmxJczZ6X0oyMWlPb1lwaFhINVV6YnQ4cHZ6azlZbTFOV3dQRDFUd284bVlxUEFXRFVSSjdIV0JTUXVSdk15cU1aaXZoNGZUd1VXRU04YndmQW1pZE9QSXROUU9jM0pkWXZLWEhYSzd3cnV0eTRldXJWZ3ZEM2NJbUJUTkMyQ3k0",
+      "source": "nikkei_news",
+      "title": "働き方改革に黄信号",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUU9ubGVZT3VHNTI3eGVvRVZWWkJ0bExiaWhjY2JicmpLTVpvUEJjc19WOGhaWUJfZmYycEk2bmF6MDJzSlFCQmJtckhVMGJRb1BGWEpNZFpfcVhBVXVFVW84c2RTblJzUWtOczZqTkZtMnRMMDBzTmxJczZ6X0oyMWlPb1lwaFhINVV6YnQ4cHZ6azlZbTFOV3dQRDFUd284bVlxUEFXRFVSSjdIV0JTUXVSdk15cU1aaXZoNGZUd1VXRU04YndmQW1pZE9QSXROUU9jM0pkWXZLWEhYSzd3cnV0eTRldXJWZ3ZEM2NJbUJUTkMyQ3k0?oc=5",
+      "publishedAt": "2023-09-28T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-20T00:58:02.506Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi9wFBVV95cUxOUU9ubGVZT3VHNTI3eGVvRVZWWkJ0bExiaWhjY2JicmpLTVpvUEJjc19WOGhaWUJfZmYycEk2bmF6MDJzSlFCQmJtckhVMGJRb1BGWEpNZFpfcVhBVXVFVW84c2RTblJzUWtOczZqTkZtMnRMMDBzTmxJczZ6X0oyMWlPb1lwaFhINVV6YnQ4cHZ6azlZbTFOV3dQRDFUd284bVlxUEFXRFVSSjdIV0JTUXVSdk15cU1aaXZoNGZUd1VXRU04YndmQW1pZE9QSXROUU9jM0pkWXZLWEhYSzd3cnV0eTRldXJWZ3ZEM2NJbUJUTkMyQ3k0",
+      "summary": "# 要約(93字)\n\n「働き方改革に黄信号」という見出しのみでは、具体的にどの制度や施策に問題が生じているか、企業が何に対応すべきかは判断できません。記事本文で言及されている課題や影響を確認し、自社の労務管理への影響を精査する必要があります。",
+      "summarizedAt": "2026-10-20T00:58:53.438Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE0xcjk2cEYxejlTYjJnRHljQ2JJd1RBa01QZzlUODlvN0xZd0p6YXlrTGtjLUExeDRNazh2N2ZWQzEtcHBfRUdlcGJXbmh4RXg0cVhXcg",
       "source": "rosei_news",
       "title": "長時間労働で脳出血と認定 ＮＥＣ支店長側、逆転勝訴",
@@ -13230,6 +13511,20 @@
       "storyId": "nikkei:CBMi6gFBVV95cUxPSUNzNHNKazVBS2VISG1ZcWxmRnZ4MWtaS2FLSFZBMW8yTHU4Vk83OFpoTzRvektOa2JFcFZnM0xUc3NqbzVyc0dVc1poUDhOWk85Y0QzQUdNT0lRNXNOT1R6eTdRUEpSMVVmSHRzNk9DcWpDUTlCWndFR1o5bF80SS16bWpaVU0yOG9nSmQzWW1LMmVPREFZcXU2MFhnYXlTN3dSeTlCRmRLdVBMSmZkSDJfMmx4RUttcnlrOUI0VVV0bTJoVHZWQmhjN3VPcUZmcnNGM3l4M29YTHdqNUJSMHZVelBIQnBlQkE",
       "summary": "NEC社がジョブ型雇用を拡大する方針を示し、システムエンジニア向けのリモートワーク環境整備を進めています。ジョブ型人事制度の導入や拡大を検討する企業は、職種特性に応じた勤務環境の整備も併せて計画する必要があります。",
       "summarizedAt": "2026-10-08T01:38:00.199Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9iWC13cWJFMERvc2ExaWRhdW5fam9id3VXZDVvSUdDdG0zS2FOWjA3N29TUlZCNlNSMVllRUloT3A1LXNHNnpaeWtKRWx0dHd5akJtaw",
+      "source": "rosei_news",
+      "title": "『発達障害の人の雇用と合理的配慮がわかる本』",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iWC13cWJFMERvc2ExaWRhdW5fam9id3VXZDVvSUdDdG0zS2FOWjA3N29TUlZCNlNSMVllRUloT3A1LXNHNnpaeWtKRWx0dHd5akJtaw?oc=5",
+      "publishedAt": "2020-06-12T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-20T00:58:02.506Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9iWC13cWJFMERvc2ExaWRhdW5fam9id3VXZDVvSUdDdG0zS2FOWjA3N29TUlZCNlNSMVllRUloT3A1LXNHNnpaeWtKRWx0dHd5akJtaw",
+      "summary": "【要約】\n発達障害者の雇用における合理的配慮の提供義務化を踏まえ、実務担当者は障害特性に応じた職場環境の調整や業務指示の工夫など、具体的な配慮方法について理解を深める必要があります。",
+      "summarizedAt": "2026-10-20T00:58:59.239Z",
       "isGuideline": false
     },
     {
