@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-22T00:30:30.597Z",
+  "updatedAt": "2026-10-23T00:28:08.073Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76895.html",
+      "source": "mhlw_news",
+      "title": "第213回労働政策審議会労働条件分科会（資料）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76895.html",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-23T00:27:35.282Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76895.html",
+      "summary": "労働政策審議会労働条件分科会の第213回会合が開催され、資料が公表されました。労働条件に関する制度改正等の審議内容を確認するため、公表資料の確認が必要です。",
+      "summarizedAt": "2026-10-23T00:27:46.797Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9YWUZZNjNrVVpTQlJKOG5zaVFZTzh3YW1NYWZ3allSbW5BX0hINC1wRS1fdEJNYjB1eER2Z3NHLUdFMjM5SjdRREhMWjZwS1JnMnkxaW1Pa1pNZDJoYlU5eFdnNl9HRzJmNmRYZA",
+      "source": "nikkei_news",
+      "title": "連合27年賃上げ｢6%中心、5%以上｣要求、目標上げ 併記に配慮にじむ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YWUZZNjNrVVpTQlJKOG5zaVFZTzh3YW1NYWZ3allSbW5BX0hINC1wRS1fdEJNYjB1eER2Z3NHLUdFMjM5SjdRREhMWjZwS1JnMnkxaW1Pa1pNZDJoYlU5eFdnNl9HRzJmNmRYZA?oc=5",
+      "publishedAt": "2026-10-22T08:51:26.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-23T00:27:35.066Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9YWUZZNjNrVVpTQlJKOG5zaVFZTzh3YW1NYWZ3allSbW5BX0hINC1wRS1fdEJNYjB1eER2Z3NHLUdFMjM5SjdRREhMWjZwS1JnMnkxaW1Pa1pNZDJoYlU5eFdnNl9HRzJmNmRYZA",
+      "summary": "連合が2027年の春闘において、賃上げ要求目標を前年から引き上げ「6%を中心に5%以上」とする方針を決定しました。人事・労務担当者は今後の労使交渉において、より高い賃上げ率を求められる可能性に備えた準備が必要です。",
+      "summarizedAt": "2026-10-23T00:27:59.427Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTE0wS09VaVBTalB5N3Z3N3NPQXJoNlFCdGNIQXNKd3Rhd3RnYk95ck5kZHNXanJDYlZRT3NJV0xZRngyMjFheEhlcTRBWENVZFJuTzA3bWlMamFEXzBXaWNGU2pzZUUwMXM",
+      "source": "nikkei_news",
+      "title": "人月商売のIT業界は活況 それなのにNECなどがSEの雇用対策に動く怖い理由",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wS09VaVBTalB5N3Z3N3NPQXJoNlFCdGNIQXNKd3Rhd3RnYk95ck5kZHNXanJDYlZRT3NJV0xZRngyMjFheEhlcTRBWENVZFJuTzA3bWlMamFEXzBXaWNGU2pzZUUwMXM?oc=5",
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-23T00:27:35.066Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE0wS09VaVBTalB5N3Z3N3NPQXJoNlFCdGNIQXNKd3Rhd3RnYk95ck5kZHNXanJDYlZRT3NJV0xZRngyMjFheEhlcTRBWENVZFJuTzA3bWlMamFEXzBXaWNGU2pzZUUwMXM",
+      "summary": "この見出しのみからは、NECなどがSE(システムエンジニア)の雇用対策を講じている事実は読み取れますが、具体的な施策内容や人事労務上の対応事項は不明です。IT業界の人事担当者は、自社における技術者の雇用・配置戦略の見直しが必要になる可能性があります。",
+      "summarizedAt": "2026-10-23T00:27:50.028Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE5GdzIwRlpSWFc4eGF0MEFNNkNwcG5wVEdlODJONGJXS3JwZmlLOVktcHNYMllIaVJ5YWFrT09mYm51ZG5MMC1TSC1nSnlzeGdNcGwweg",
+      "source": "rosei_news",
+      "title": "賃上げ最高１万３９２６円 月額平均、５年連続上昇 生活実感と隔たりも",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GdzIwRlpSWFc4eGF0MEFNNkNwcG5wVEdlODJONGJXS3JwZmlLOVktcHNYMllIaVJ5YWFrT09mYm51ZG5MMC1TSC1nSnlzeGdNcGwweg?oc=5",
+      "publishedAt": "2026-10-22T04:08:50.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-23T00:27:35.068Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5GdzIwRlpSWFc4eGF0MEFNNkNwcG5wVEdlODJONGJXS3JwZmlLOVktcHNYMllIaVJ5YWFrT09mYm51ZG5MMC1TSC1nSnlzeGdNcGwweg",
+      "summary": "賃上げ額は月額平均1万3926円となり5年連続で上昇し過去最高を記録しましたが、生活実感との間には隔たりがある状況です。人事担当者は自社の賃上げ水準が相場と比較して適切か確認し、従業員の生活実感に配慮した処遇改善の検討が求められます。",
+      "summarizedAt": "2026-10-23T00:28:08.065Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiZ0FVX3lxTFBLVllkWExKMi1INHFiQnhkSVRGZVRhMVRKRXVLSDJLOEl4c3p5UDcyOHZ4QmI3SG9ySl82cHh6S0hPQlc2VnFYbnRhZHFadWM1bFJSY3I5RXVYSjAxR0xKbkZXTVU5c1E",
       "source": "nikkei_news",
@@ -41,6 +97,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9wRm8xVFpJRk9RODBBNzEyNmRReEJCbmhvemF4UnhOempUek9PS3hxZV9TZHRRb2hCclpvaURUNzBOejlSQ3dxQlNNRDBCTHh6UzVnWWxzbmF5MF9iT3BZMHZBajZTYW9TOFFwWg",
       "summary": "政府が建設業と介護業の人手不足対策としてAI活用を推進する連絡会議を開催しました。両業界の労務担当者は、今後示されるAI導入支援策や業務効率化の指針に注目し、自社への適用可能性を検討する必要があります。",
       "summarizedAt": "2026-10-22T00:30:05.073Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZEFVX3lxTE1VMmlBWTExeXNUN2o3S2xSM3RHS09nb2JhbnJMaFE1TnVUTjUzZ3FIbTVET3VKSjliRlpjRG1jb0ZXbExBbnFqV3dEUDlIdDNRVnJqLVBHSGVVSFU2ZF9ycTk2Q04",
+      "source": "nikkei_news",
+      "title": "パワハラ恐れて黙る上司へ 部下の価値観は尊重し、原則は貫く 仏教の「中道」に学ぶ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMmlBWTExeXNUN2o3S2xSM3RHS09nb2JhbnJMaFE1TnVUTjUzZ3FIbTVET3VKSjliRlpjRG1jb0ZXbExBbnFqV3dEUDlIdDNRVnJqLVBHSGVVSFU2ZF9ycTk2Q04?oc=5",
+      "publishedAt": "2026-10-21T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-23T00:27:35.066Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZEFVX3lxTE1VMmlBWTExeXNUN2o3S2xSM3RHS09nb2JhbnJMaFE1TnVUTjUzZ3FIbTVET3VKSjliRlpjRG1jb0ZXbExBbnFqV3dEUDlIdDNRVnJqLVBHSGVVSFU2ZF9ycTk2Q04",
+      "summary": "パワハラを恐れる上司に対し、部下の個別の価値観は尊重しつつも、業務上必要な指導における原則や基準は明確に示し続けることが重要であり、仏教の「中道」の考え方がその両立のヒントになるという指摘です。",
+      "summarizedAt": "2026-10-23T00:27:56.208Z",
       "isGuideline": false
     },
     {
@@ -12979,6 +13049,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiyAFBVV95cUxOblZJYWduVUVjLVBuS3BtajJjOE9ON1Zya0I2Uy1oV3cyQ0hCNHVramtZNmpkZURPM21wejZ5ZDU1NzhkekNza0RqRkc0SV8ySTA2WUxoUk5OemF3cnF4b0ozWW1HZmRCSXR1TGxkTTZyWGpjSVItWEtiY1VvT09GTjJlVFRibVRXVGVGcjlzZjU4NXRGbFBLaFR6MS1DcjZIVVo5RklpaUcwRUM5YmJZQ3FqQ3RZUTR0SlVRTFRPZDMzVl81ZG1fUg",
+      "source": "nikkei_news",
+      "title": "賃上げ包囲網",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblZJYWduVUVjLVBuS3BtajJjOE9ON1Zya0I2Uy1oV3cyQ0hCNHVramtZNmpkZURPM21wejZ5ZDU1NzhkekNza0RqRkc0SV8ySTA2WUxoUk5OemF3cnF4b0ozWW1HZmRCSXR1TGxkTTZyWGpjSVItWEtiY1VvT09GTjJlVFRibVRXVGVGcjlzZjU4NXRGbFBLaFR6MS1DcjZIVVo5RklpaUcwRUM5YmJZQ3FqQ3RZUTR0SlVRTFRPZDMzVl81ZG1fUg?oc=5",
+      "publishedAt": "2022-07-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-23T00:27:35.066Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiyAFBVV95cUxOblZJYWduVUVjLVBuS3BtajJjOE9ON1Zya0I2Uy1oV3cyQ0hCNHVramtZNmpkZURPM21wejZ5ZDU1NzhkekNza0RqRkc0SV8ySTA2WUxoUk5OemF3cnF4b0ozWW1HZmRCSXR1TGxkTTZyWGpjSVItWEtiY1VvT09GTjJlVFRibVRXVGVGcjlzZjU4NXRGbFBLaFR6MS1DcjZIVVo5RklpaUcwRUM5YmJZQ3FqQ3RZUTR0SlVRTFRPZDMzVl81ZG1fUg",
+      "summary": "# 要約\n\n見出しのみでは具体的な法改正や制度変更の内容が不明なため、確実な要約は困難です。「賃上げ包囲網」という表現から、政府や社会が企業に賃上げを促す複数の施策を展開している状況が推測されますが、詳細は本文の確認が必要です。",
+      "summarizedAt": "2026-10-23T00:28:02.643Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBTWHQ4bEpLNnlkLXZnTEFPX0xiaFA2ZHZicFEzOW5EWnhEanIxWXV5bG5PMGZuUko0eHRhNnQ0Y2RadGlCcFZRaENjNzZGeFNYVHFvWWdOY2o3dE4zNmtKZmdOSTNwaHlBY0d1aQ",
       "source": "nikkei_news",
       "title": "ネットで中傷されるサイバーハラスメント 職場の対策は",
@@ -13424,6 +13508,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1tMVZ1NzZ1TktjcEJqek90R1cyR3VET293aEtvUTE0anFfaFJkZlNBekVKWXZGMnFhMXJNSjcyUFJjUzhqOEdCY1JZdThUNnBZd3BxRg",
       "summary": "労働条件を定める就業規則・労働協約・労働契約の三者について、それぞれの効力関係や優先順位、適用場面における違いを理解し、自社の規程類が法的に適切な体系となっているか確認する必要があります。",
       "summarizedAt": "2026-10-07T01:16:54.855Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1sT2Z0WGF1dk41ZWI5QUVnSWJudFgwcUhKb25ZSVRiLUxkMFVmSVc0Z21HYUEtTzY3Z2tfLUtYTGx4M19fcXZFWWxHaHA5R2JoUDRYNw",
+      "source": "rosei_news",
+      "title": "就活ハラスメント対策８７％ 社内啓発、面会ルールも 主要企業１０６社調査",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sT2Z0WGF1dk41ZWI5QUVnSWJudFgwcUhKb25ZSVRiLUxkMFVmSVc0Z21HYUEtTzY3Z2tfLUtYTGx4M19fcXZFWWxHaHA5R2JoUDRYNw?oc=5",
+      "publishedAt": "2022-01-20T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-23T00:27:35.068Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1sT2Z0WGF1dk41ZWI5QUVnSWJudFgwcUhKb25ZSVRiLUxkMFVmSVc0Z21HYUEtTzY3Z2tfLUtYTGx4M19fcXZFWWxHaHA5R2JoUDRYNw",
+      "summary": "主要企業106社を対象とした調査で、87％が就活ハラスメント対策を実施していることが判明しました。具体的な対策として社内啓発の実施や学生との面会ルールの策定などが行われています。",
+      "summarizedAt": "2026-10-23T00:28:04.664Z",
       "isGuideline": false
     },
     {
@@ -14055,6 +14153,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1OdlNDX3FYZl9TSndNNi0zbzNXdWtLc2JWRUlIdTBEVkh2Y19rdXpES2dpUm85WDlWV05FQi1pMjlreWhVczVfMzNHbnNJLVR1UGxrTg",
       "summary": "# 要約\n\n36協定の特別条項は、通常の時間外労働の上限を超えて労働させる必要がある場合に、労使間で特別に定める協定であり、年720時間以内などの上限規制を遵守した上で、臨時的な特別の事情がある場合に限り締結できます。",
       "summarizedAt": "2026-09-16T22:14:22.442Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMirwFBVV95cUxOSnBWSWRUS3pFYy0zSmRoTllZSGVZc3RLWDU1amEtM3ZHS25LODFUSW1MaGViWWswMEhvanNQRHYwQ3BGZEd0bmNSXzdNa0RURDYzV2l3OTN4Qmd0bVFBOXBhZnBfaWQxUlBWX09wNU1sckN1QWo2UFE4ZGRVd3BiNmp1bWtlMDNwa1JLdjhIQTZoVGpPaTlWMlFzTTJvcGhFenlNdHJDVXdKY3lkWGhv",
+      "source": "nikkei_news",
+      "title": "定年再雇用の60代がAWS導入主導、琉球銀行の新システム（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnBWSWRUS3pFYy0zSmRoTllZSGVZc3RLWDU1amEtM3ZHS25LODFUSW1MaGViWWswMEhvanNQRHYwQ3BGZEd0bmNSXzdNa0RURDYzV2l3OTN4Qmd0bVFBOXBhZnBfaWQxUlBWX09wNU1sckN1QWo2UFE4ZGRVd3BiNmp1bWtlMDNwa1JLdjhIQTZoVGpPaTlWMlFzTTJvcGhFenlNdHJDVXdKY3lkWGhv?oc=5",
+      "publishedAt": "2019-02-07T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-23T00:27:35.066Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMirwFBVV95cUxOSnBWSWRUS3pFYy0zSmRoTllZSGVZc3RLWDU1amEtM3ZHS25LODFUSW1MaGViWWswMEhvanNQRHYwQ3BGZEd0bmNSXzdNa0RURDYzV2l3OTN4Qmd0bVFBOXBhZnBfaWQxUlBWX09wNU1sckN1QWo2UFE4ZGRVd3BiNmp1bWtlMDNwa1JLdjhIQTZoVGpPaTlWMlFzTTJvcGhFenlNdHJDVXdKY3lkWGhv",
+      "summary": "【要約】\n琉球銀行では定年再雇用された60代の従業員がAWS導入を主導し新システム構築に貢献した事例が紹介されています。シニア人材の活用において、専門性を生かした重要業務への配置が可能であることを示唆する事例です。\n\n（94字）",
+      "summarizedAt": "2026-10-23T00:27:53.085Z",
       "isGuideline": false
     },
     {
