@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-25T00:06:19.939Z",
+  "updatedAt": "2026-10-25T23:57:31.288Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1aQXR6WFhrZ0ROQmxsSmE2b0g2RzNIUHpiZUZmdi1fQ0NQUE5URk5QRUFYeXAwa05oN1B0eTNzZDNHVjQ2cE5RR0FBa2J2akhPOHRCSm5YU2lfQjdIMkpsNHVHeEJndHFXVjVNcQ",
+      "source": "nikkei_news",
+      "title": "多重下請けや役職定年…日本の生産性そぐ「民民規制」 世界では異形",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aQXR6WFhrZ0ROQmxsSmE2b0g2RzNIUHpiZUZmdi1fQ0NQUE5URk5QRUFYeXAwa05oN1B0eTNzZDNHVjQ2cE5RR0FBa2J2akhPOHRCSm5YU2lfQjdIMkpsNHVHeEJndHFXVjVNcQ?oc=5",
+      "publishedAt": "2026-10-25T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-25T23:57:13.868Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1aQXR6WFhrZ0ROQmxsSmE2b0g2RzNIUHpiZUZmdi1fQ0NQUE5URk5QRUFYeXAwa05oN1B0eTNzZDNHVjQ2cE5RR0FBa2J2akhPOHRCSm5YU2lfQjdIMkpsNHVHeEJndHFXVjVNcQ",
+      "summary": "【要約】\n日本では多重下請け構造や役職定年制度など、企業間・企業内の慣行が生産性向上を阻害する「民民規制」として問題視されています。人事担当者は自社の慣行を見直し、国際標準と比較して非効率な制度の改善を検討すべきです。\n\n(111文字)",
+      "summarizedAt": "2026-10-25T23:57:27.924Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE10c1hkSDltcldFeVlTSXczcU1mUE0xUm5STndYVkkwVmJWeWpURk1rQ3cxN2tVOWVqcHJSblZsaUx3V09KeVYzSGRZV2lzM2Q4Z3cxRXBVTko1OC1NTXVLZXp1bEFnYVZldkU2Rg",
+      "source": "nikkei_news",
+      "title": "人口戦略会議、労働力の将来推計提示へ 28日初会合で政府調整",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10c1hkSDltcldFeVlTSXczcU1mUE0xUm5STndYVkkwVmJWeWpURk1rQ3cxN2tVOWVqcHJSblZsaUx3V09KeVYzSGRZV2lzM2Q4Z3cxRXBVTko1OC1NTXVLZXp1bEFnYVZldkU2Rg?oc=5",
+      "publishedAt": "2026-10-25T08:50:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-25T23:57:13.868Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE10c1hkSDltcldFeVlTSXczcU1mUE0xUm5STndYVkkwVmJWeWpURk1rQ3cxN2tVOWVqcHJSblZsaUx3V09KeVYzSGRZV2lzM2Q4Z3cxRXBVTko1OC1NTXVLZXp1bEFnYVZldkU2Rg",
+      "summary": "政府は28日に開催する人口戦略会議の初会合で、将来的な労働力人口に関する推計データを提示する方向で調整を進めています。人事・労務担当者は今後の採用計画や人員配置の見直しに向けて、会議で示される推計内容を注視する必要があります。",
+      "summarizedAt": "2026-10-25T23:57:24.512Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMivgFBVV95cUxQWVBpNDIxMzExUWRpeGI0RERkT0h1cXJFSWR2ZHNBbDlYTWtjVkRoV19sektZOU5GV1NaaTBJS3FZYlItY1JORzIyYnJFOU5iS0Zzek5mcFI3T19DVkhiYk1qUHJnRkEwUHlER0s3WmNJODB1VGlMc3JtQ0pPQ2txVDZzeFpZZ3FqeEN4LUNWOHNEb1NfM3N3LWkyOE03Y0F5SVFwOFdoYjVBSmZBUWlBLU1WMXRMay0ybDdRRmpB",
+      "source": "nikkei_news",
+      "title": "官製賃上げ、建設業の実情",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVBpNDIxMzExUWRpeGI0RERkT0h1cXJFSWR2ZHNBbDlYTWtjVkRoV19sektZOU5GV1NaaTBJS3FZYlItY1JORzIyYnJFOU5iS0Zzek5mcFI3T19DVkhiYk1qUHJnRkEwUHlER0s3WmNJODB1VGlMc3JtQ0pPQ2txVDZzeFpZZ3FqeEN4LUNWOHNEb1NfM3N3LWkyOE03Y0F5SVFwOFdoYjVBSmZBUWlBLU1WMXRMay0ybDdRRmpB?oc=5",
+      "publishedAt": "2026-10-25T07:59:09.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-25T23:57:13.868Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMivgFBVV95cUxQWVBpNDIxMzExUWRpeGI0RERkT0h1cXJFSWR2ZHNBbDlYTWtjVkRoV19sektZOU5GV1NaaTBJS3FZYlItY1JORzIyYnJFOU5iS0Zzek5mcFI3T19DVkhiYk1qUHJnRkEwUHlER0s3WmNJODB1VGlMc3JtQ0pPQ2txVDZzeFpZZ3FqeEN4LUNWOHNEb1NfM3N3LWkyOE03Y0F5SVFwOFdoYjVBSmZBUWlBLU1WMXRMay0ybDdRRmpB",
+      "summary": "# 要約\n\n建設業における官製賃上げの実態や課題について報じられていますが、見出しのみでは具体的な制度変更や対応事項は不明です。建設業の労務担当者は賃金動向に関する続報を確認することが推奨されます。\n\n(80字)",
+      "summarizedAt": "2026-10-25T23:57:31.285Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ",
       "source": "nikkei_news",
