@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-10-27T01:19:13.882Z",
+  "updatedAt": "2026-10-28T01:04:22.223Z",
   "items": [
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1oZi1DWW9HSDVYcmlvX2FQY01PVldIY2hOOWhDWU1mWVdERVhXS3FmMmx6ck9fb29jQ3VybktJQ0xrT0k0V1RDNlBJTG1jbGNhYnFLcQ",
+      "source": "rosei_news",
+      "title": "障害者雇用代行で初指針 業界団体、信頼性向上へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZi1DWW9HSDVYcmlvX2FQY01PVldIY2hOOWhDWU1mWVdERVhXS3FmMmx6ck9fb29jQ3VybktJQ0xrT0k0V1RDNlBJTG1jbGNhYnFLcQ?oc=5",
+      "publishedAt": "2026-10-28T00:21:39.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1oZi1DWW9HSDVYcmlvX2FQY01PVldIY2hOOWhDWU1mWVdERVhXS3FmMmx6ck9fb29jQ3VybktJQ0xrT0k0V1RDNlBJTG1jbGNhYnFLcQ",
+      "summary": "障害者雇用の代行ビジネスを行う業界団体が、信頼性向上を目的とした初のガイドラインを策定しました。障害者雇用代行サービスの利用を検討する企業は、今後この指針への準拠状況を確認することが望ましいでしょう。",
+      "summarizedAt": "2026-10-28T01:04:19.414Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1YMUFPTWZqZUdSRXpuYkRKWjAzVXhpTmtjbzJnRnJ0a2ZyQVdVbFJldzZjdzAtdUFRMHZnbVVqVlZJNmgybzJGblJqUXN6SGI2Qnk0WGlwM3dOOHBMMGhUTlZYcW0xNHpFQm9fcw",
+      "source": "nikkei_news",
+      "title": "資さんうどん、従業員2万人の個人情報流出か 退職理由や賃金など",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YMUFPTWZqZUdSRXpuYkRKWjAzVXhpTmtjbzJnRnJ0a2ZyQVdVbFJldzZjdzAtdUFRMHZnbVVqVlZJNmgybzJGblJqUXN6SGI2Qnk0WGlwM3dOOHBMMGhUTlZYcW0xNHpFQm9fcw?oc=5",
+      "publishedAt": "2026-10-27T11:01:03.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1YMUFPTWZqZUdSRXpuYkRKWjAzVXhpTmtjbzJnRnJ0a2ZyQVdVbFJldzZjdzAtdUFRMHZnbVVqVlZJNmgybzJGblJqUXN6SGI2Qnk0WGlwM3dOOHBMMGhUTlZYcW0xNHpFQm9fcw",
+      "summary": "資さんうどんで現職・退職者を含む約2万人分の個人情報が流出した可能性があり、賃金情報や退職理由などの機密性の高い労務情報が含まれています。自社でも同様の事案に備え、人事データの管理体制やアクセス権限の見直し、流出時の対応手順の確認が必要です。",
+      "summarizedAt": "2026-10-28T01:03:02.605Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5NeldJbnhwRnlNc25KNlhkN1lMUTZRaFJ4SS1rNXVETlh3ekR0aEhyalFxS1Y4Y18yUEF0ZnY5a0FDc2IzUHhGaE94Nks2NElKZzhfSWZGcTd4U1JiSXFtamM2U2pZNnBWOGRpOA",
+      "source": "nikkei_news",
+      "title": "三井住友信託銀行、退職金・年金の年功廃止 長く勤めても増額なし",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeldJbnhwRnlNc25KNlhkN1lMUTZRaFJ4SS1rNXVETlh3ekR0aEhyalFxS1Y4Y18yUEF0ZnY5a0FDc2IzUHhGaE94Nks2NElKZzhfSWZGcTd4U1JiSXFtamM2U2pZNnBWOGRpOA?oc=5",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5NeldJbnhwRnlNc25KNlhkN1lMUTZRaFJ4SS1rNXVETlh3ekR0aEhyalFxS1Y4Y18yUEF0ZnY5a0FDc2IzUHhGaE94Nks2NElKZzhfSWZGcTd4U1JiSXFtamM2U2pZNnBWOGRpOA",
+      "summary": "三井住友信託銀行が退職金・年金制度から年功要素を廃止し、勤続年数による自動増額を取りやめます。金融機関での成果重視型の人事制度改革の動きとして、他社の退職金制度見直しの参考事例となる可能性があります。",
+      "summarizedAt": "2026-10-28T01:03:05.528Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1zVFVvOU5WT1VTOFFoNUV0cElvWThOcVFMNjJ2WThST2xpSDVRdkFrd2xSeklTVmQ3d3FVTzQtN1NmWnFiaGQxVjR2SmFtWTluX0tlcWRCcnM2ZGptOUpLbmVtRmtRQlJiNy1Ceg",
+      "source": "nikkei_news",
+      "title": "サービス業、賃上げ予定5割どまり 価格転嫁進まず原資確保難しく",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVFVvOU5WT1VTOFFoNUV0cElvWThOcVFMNjJ2WThST2xpSDVRdkFrd2xSeklTVmQ3d3FVTzQtN1NmWnFiaGQxVjR2SmFtWTluX0tlcWRCcnM2ZGptOUpLbmVtRmtRQlJiNy1Ceg?oc=5",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1zVFVvOU5WT1VTOFFoNUV0cElvWThOcVFMNjJ2WThST2xpSDVRdkFrd2xSeklTVmQ3d3FVTzQtN1NmWnFiaGQxVjR2SmFtWTluX0tlcWRCcnM2ZGptOUpLbmVtRmtRQlJiNy1Ceg",
+      "summary": "サービス業では賃上げを予定している企業が5割程度にとどまっており、価格転嫁が進まず賃上げ原資の確保が困難な状況となっています。人事担当者は業界動向を注視し、自社の賃上げ実施の可否を慎重に検討する必要があります。",
+      "summarizedAt": "2026-10-28T01:03:08.456Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9FUjlaYXZJMTRFbnlxaVo3TWE5SGJPSXBhcnBtUndBTlhsRkVyY2xkcEhYNmpSYi1zaldWeEFxM1BpQlo2LXV6bm42akFTb2RfeVRCTkw3Z2NzV1VULVlhc1h6d3lNZjZGcWl6RA",
+      "source": "nikkei_news",
+      "title": "違法な長時間労働、25年度335カ所 長野労働局発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FUjlaYXZJMTRFbnlxaVo3TWE5SGJPSXBhcnBtUndBTlhsRkVyY2xkcEhYNmpSYi1zaldWeEFxM1BpQlo2LXV6bm42akFTb2RfeVRCTkw3Z2NzV1VULVlhc1h6d3lNZjZGcWl6RA?oc=5",
+      "publishedAt": "2026-10-27T06:44:39.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9FUjlaYXZJMTRFbnlxaVo3TWE5SGJPSXBhcnBtUndBTlhsRkVyY2xkcEhYNmpSYi1zaldWeEFxM1BpQlo2LXV6bm42akFTb2RfeVRCTkw3Z2NzV1VULVlhc1h6d3lNZjZGcWl6RA",
+      "summary": "長野労働局が2025年度に違法な長時間労働を335カ所で確認したと発表しました。労務担当者は自社の労働時間管理体制を再点検し、法定労働時間の遵守と適切な勤怠管理の徹底が求められます。",
+      "summarizedAt": "2026-10-28T01:03:19.872Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9DckRlbVhxTndqQlV5MVRhblFONmJocC1rZWpkd2lBaG1jUHZ0eTEwbXE5QzdyWk9CWmliVllhckIzUDM4MGNVUHR3M3F2cHpob3R2MHBsLWFhNlRPSWNOZWQ0MkdhNW43S05UOQ",
       "source": "nikkei_news",
@@ -433,6 +503,20 @@
       "storyId": "nikkei:CBMiZ0FVX3lxTE0wS09VaVBTalB5N3Z3N3NPQXJoNlFCdGNIQXNKd3Rhd3RnYk95ck5kZHNXanJDYlZRT3NJV0xZRngyMjFheEhlcTRBWENVZFJuTzA3bWlMamFEXzBXaWNGU2pzZUUwMXM",
       "summary": "この見出しのみからは、NECなどがSE(システムエンジニア)の雇用対策を講じている事実は読み取れますが、具体的な施策内容や人事労務上の対応事項は不明です。IT業界の人事担当者は、自社における技術者の雇用・配置戦略の見直しが必要になる可能性があります。",
       "summarizedAt": "2026-10-23T00:27:50.028Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76906.html",
+      "source": "mhlw_news",
+      "title": "第61回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76906.html",
+      "publishedAt": "2026-10-22T04:47:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-28T01:02:48.052Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76906.html",
+      "summary": "厚生労働省が第61回労働政策審議会人材開発分科会を開催します。人材育成や職業能力開発に関する施策の審議が行われる見込みですが、具体的な議題は本情報からは確認できません。",
+      "summarizedAt": "2026-10-28T01:02:59.106Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
@@ -8758,6 +8842,34 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE54QVdFM1BxZUNyNXVoLVR6ZFZzc0l1UUo0TjJJaXJ3VXhYLU44MEo2VWxadENvY1BreUVrWktSck1TM2U5UlA3ajhrSE5jVDJVV2QwV1FFNFlqaTZrS0Q2UVJJTWw0bE5sazZBaQ",
+      "source": "nikkei_news",
+      "title": "大企業賃上げ率は5.37% 26年春季交渉、経団連最終集計",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QVdFM1BxZUNyNXVoLVR6ZFZzc0l1UUo0TjJJaXJ3VXhYLU44MEo2VWxadENvY1BreUVrWktSck1TM2U5UlA3ajhrSE5jVDJVV2QwV1FFNFlqaTZrS0Q2UVJJTWw0bE5sazZBaQ?oc=5",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE54QVdFM1BxZUNyNXVoLVR6ZFZzc0l1UUo0TjJJaXJ3VXhYLU44MEo2VWxadENvY1BreUVrWktSck1TM2U5UlA3ajhrSE5jVDJVV2QwV1FFNFlqaTZrS0Q2UVJJTWw0bE5sazZBaQ",
+      "summary": "2026年春季労使交渉において、経団連の最終集計による大企業の賃上げ率は5.37%となりました。自社の賃金改定や来年度の人件費予算を検討する際の市場水準として参考にすることが推奨されます。",
+      "summarizedAt": "2026-10-28T01:04:16.726Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5BRVc4MFhHUlZiSlV0MU1FaVFFM3AxNEFzUWdRaEFqY2x5R0JKXzBhdnNJbWIxLWU2WUdraHFZdGZYNDJYa2hxa3dyUXR1aHZtT0Y1OGpsOWZTaF9rREYzak93SDRXb0VKY0tDQw",
+      "source": "nikkei_news",
+      "title": "賃上げ率が3年連続の5%超に インフレ長期化・人手不足が後押し",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BRVc4MFhHUlZiSlV0MU1FaVFFM3AxNEFzUWdRaEFqY2x5R0JKXzBhdnNJbWIxLWU2WUdraHFZdGZYNDJYa2hxa3dyUXR1aHZtT0Y1OGpsOWZTaF9rREYzak93SDRXb0VKY0tDQw?oc=5",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5BRVc4MFhHUlZiSlV0MU1FaVFFM3AxNEFzUWdRaEFqY2x5R0JKXzBhdnNJbWIxLWU2WUdraHFZdGZYNDJYa2hxa3dyUXR1aHZtT0Y1OGpsOWZTaF9rREYzak93SDRXb0VKY0tDQw",
+      "summary": "2025年の賃上げ率が3年連続で5%超となる見通しです。人事担当者は、インフレの長期化と人手不足を背景としたこの賃上げトレンドを踏まえ、自社の賃金水準の競争力確保と優秀な人材の確保・定着に向けた対応が求められます。",
+      "summarizedAt": "2026-10-28T01:03:34.937Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiW0FVX3lxTE1tc1lkNzFfa2R5UnBac09meWVIZDRrWjBmRW1yVl9ITDRZTWRzX1pyYTNsNlJQM0JHQkpDazlpc2stX2VBSV9CZEJ1bVdDWUZPTjRVZTNhb0Zrd3M",
       "source": "rosei_news",
       "title": "『超実践：ハラスメント相談・調査対応の実務』【半日】",
@@ -8856,6 +8968,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE1mWldiWG5uQ0E4eGRXRE5JUkhIU1VRU3NwN2wzLXgyalY1SlNKX0R1QUhqSVktTVQ3LUdlMmJCZlJfT1BuX2NWMFhrSXRlQWV3MWJMQU53Q28xVXhqTGpvMHF3OGV0T1NpUjd6Wg",
+      "source": "nikkei_news",
+      "title": "［社説］企業はハラスメント対策急げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mWldiWG5uQ0E4eGRXRE5JUkhIU1VRU3NwN2wzLXgyalY1SlNKX0R1QUhqSVktTVQ3LUdlMmJCZlJfT1BuX2NWMFhrSXRlQWV3MWJMQU53Q28xVXhqTGpvMHF3OGV0T1NpUjd6Wg?oc=5",
+      "publishedAt": "2026-07-11T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1mWldiWG5uQ0E4eGRXRE5JUkhIU1VRU3NwN2wzLXgyalY1SlNKX0R1QUhqSVktTVQ3LUdlMmJCZlJfT1BuX2NWMFhrSXRlQWV3MWJMQU53Q28xVXhqTGpvMHF3OGV0T1NpUjd6Wg",
+      "summary": "本文情報がないため具体的な法改正内容や期限は不明ですが、企業はハラスメント防止措置の強化・徹底が求められています。社内相談窓口の整備、研修実施、就業規則の見直しなど、実効性ある対策の早急な実施が必要です。",
+      "summarizedAt": "2026-10-28T01:03:14.771Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1TY28taVU1UXpjVHlZUTUzakd2MkJ4SUZMWEpTaEg3WndHQ21oT01WaDNfbDB4ME1ZWDRlSnd1bTBjMG5hSFhnQ2tuNHBpalR3X3NlTg",
       "source": "rosei_news",
       "title": "春闘賃上げ率５・０１％ ３年連続大台、連合集計 下回る中小、格差懸念も",
@@ -8868,6 +8994,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE1TY28taVU1UXpjVHlZUTUzakd2MkJ4SUZMWEpTaEg3WndHQ21oT01WaDNfbDB4ME1ZWDRlSnd1bTBjMG5hSFhnQ2tuNHBpalR3X3NlTg",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBHRERVWE1OczBzRlRqZi02WFV0eXI1c0RzeHJidndLZFA3c0x1TUZqTDVmRnh1b1VHRVhEZVhiMkVHdXhURVVNcEJ4dFktMEM3Y1JuU3pjanhtcjBwNk9BVGtrTmFmaFozTVg3LQ",
+      "source": "nikkei_news",
+      "title": "介護・福祉の27年度賃上げ｢他職種と遜色ない処遇を｣ 骨太方針に明記",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRERVWE1OczBzRlRqZi02WFV0eXI1c0RzeHJidndLZFA3c0x1TUZqTDVmRnh1b1VHRVhEZVhiMkVHdXhURVVNcEJ4dFktMEM3Y1JuU3pjanhtcjBwNk9BVGtrTmFmaFozTVg3LQ?oc=5",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBHRERVWE1OczBzRlRqZi02WFV0eXI1c0RzeHJidndLZFA3c0x1TUZqTDVmRnh1b1VHRVhEZVhiMkVHdXhURVVNcEJ4dFktMEM3Y1JuU3pjanhtcjBwNk9BVGtrTmFmaFozTVg3LQ",
+      "summary": "2027年度の介護・福祉職について、政府の骨太方針で「他職種と遜色ない処遇」を目指す賃上げ方針が明記されました。介護・福祉事業者は今後の報酬改定等を踏まえた賃金水準の引き上げ対応が必要になります。",
+      "summarizedAt": "2026-10-28T01:04:05.114Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5kX0JxeWxCMmY5cGgxQ0lQWmRybEJicXVtcnUxS2RTMjUyLWs2RlRCaFpFdUJxczA5UW1oYVNtcnZaeGVKemY4ZGRvWUVyY3R5TzlXMw",
@@ -8965,6 +9105,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE02TGRzLW5BNXVldjZCejZUVzVJZ04xbmlmVnB0QWZfSHZJemVnVmM1ci1kdzVrOFdQVnpZaXBBOXhBZENPcTBwb0phUTlxLXZGZEZRcEZxYndlNmxVaWo5eUJXcGJpa0xMWjQ0WQ",
       "summary": "日本商工会議所の調査によると、中小企業の賃上げ率が4.29%となり前年を0.26ポイント上回りました。中小企業でも賃上げの動きが継続しており、人事担当者は自社の賃金水準の見直しや優秀な人材確保に向けた対応が求められます。",
       "summarizedAt": "2026-09-19T22:14:28.481Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5aTkFhSENBaGFQUVVtZmJvLVQyTVppeFR3MHVERXlhLVdic3NQUUF0a2ZKSDlKcWxtX3p6YzYwcWthV0RsNHRjQ3dVaVpIV2stRFNock52ZkJIbEFUUUZjMlU3ZUFmRUZYcHNTVw",
+      "source": "nikkei_news",
+      "title": "裁量労働制、「残業代減らせる」は企業の誤解 裁判所は乱用に厳しく",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aTkFhSENBaGFQUVVtZmJvLVQyTVppeFR3MHVERXlhLVdic3NQUUF0a2ZKSDlKcWxtX3p6YzYwcWthV0RsNHRjQ3dVaVpIV2stRFNock52ZkJIbEFUUUZjMlU3ZUFmRUZYcHNTVw?oc=5",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5aTkFhSENBaGFQUVVtZmJvLVQyTVppeFR3MHVERXlhLVdic3NQUUF0a2ZKSDlKcWxtX3p6YzYwcWthV0RsNHRjQ3dVaVpIV2stRFNock52ZkJIbEFUUUZjMlU3ZUFmRUZYcHNTVw",
+      "summary": "裁量労働制は残業代削減の手段ではなく、制度の趣旨を逸脱した運用には裁判所が厳しい判断を示しています。人事担当者は対象業務の適格性を再確認し、労働時間管理の実態が制度趣旨に合致しているか点検すべきです。",
+      "summarizedAt": "2026-10-28T01:03:31.724Z",
       "isGuideline": false
     },
     {
@@ -9361,6 +9515,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5NVGxZQjVReTFsMHVWa0ZSOFVYTFgyMDFkRld6aERjb3JGbjBzSE9BaEtXaVdzN3h5ZVE3Rm53SzkzQ0xPeG8tUnduQ19vbmYzYV9lSFFpa1lUbnNFWWd1SFpmMmhPYVJOYU1WQQ",
+      "source": "nikkei_news",
+      "title": "ふくおかFG、平均9.1%賃上げ 傘下4行で4年連続",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NVGxZQjVReTFsMHVWa0ZSOFVYTFgyMDFkRld6aERjb3JGbjBzSE9BaEtXaVdzN3h5ZVE3Rm53SzkzQ0xPeG8tUnduQ19vbmYzYV9lSFFpa1lUbnNFWWd1SFpmMmhPYVJOYU1WQQ?oc=5",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5NVGxZQjVReTFsMHVWa0ZSOFVYTFgyMDFkRld6aERjb3JGbjBzSE9BaEtXaVdzN3h5ZVE3Rm53SzkzQ0xPeG8tUnduQ19vbmYzYV9lSFFpa1lUbnNFWWd1SFpmMmhPYVJOYU1WQQ",
+      "summary": "ふくおかフィナンシャルグループが傘下4行で平均9.1%の賃上げを4年連続で実施しました。金融業界における賃上げ動向の参考事例として、自社の賃金水準や昇給率の見直し検討時に活用できます。",
+      "summarizedAt": "2026-10-28T01:04:13.998Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE1Bdy1fRm9QenFmd0tfSUJ6Zzh1X21tNFFoQmlQSG5RU09JVjJuYU5uNXk3S0k2V3pwam4waGkyN0dzS3VrWks2SVFvd2RoLXFBWTVneUdYNVRJeUNLUUZwSkdncFB4OGt6Ylktaw",
       "source": "nikkei_news",
       "title": "国内造船の倍増遠く 25年度受注15%減、人手不足救うロボットに活路",
@@ -9445,6 +9613,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5IUnd0YXhwb2dyenFJdHBtRHYzZ1VvUEF2OHpTRDlTcDY1dnFuVHpRX3hMUTcyZGlTU09FaUxyZnlpUy1WLW5wUXVWaGc5b3ZGWmZLaUZVUlZGX1phRUxQSVJfMjJ3alU0VFpZNw",
+      "source": "nikkei_news",
+      "title": "賃上げ率5.12%、中小も5.03%で高水準維持 連合2次集計",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IUnd0YXhwb2dyenFJdHBtRHYzZ1VvUEF2OHpTRDlTcDY1dnFuVHpRX3hMUTcyZGlTU09FaUxyZnlpUy1WLW5wUXVWaGc5b3ZGWmZLaUZVUlZGX1phRUxQSVJfMjJ3alU0VFpZNw?oc=5",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5IUnd0YXhwb2dyenFJdHBtRHYzZ1VvUEF2OHpTRDlTcDY1dnFuVHpRX3hMUTcyZGlTU09FaUxyZnlpUy1WLW5wUXVWaGc5b3ZGWmZLaUZVUlZGX1phRUxQSVJfMjJ3alU0VFpZNw",
+      "summary": "連合の2次集計によると、2025年春闘の賃上げ率は全体で5.12%、中小企業も5.03%と高水準を維持しました。人事担当者は自社の賃上げ状況を業界水準と比較し、人材確保に向けた処遇改善の検討が必要です。",
+      "summarizedAt": "2026-10-28T01:03:22.387Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA",
       "source": "nikkei_news",
       "title": "竹中工務店、平均10%超賃上げ 4年連続ベア",
@@ -9501,6 +9683,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBUUExmUzNUcUhuSTJ2QkYxYTVKT1JLYzJ6MjE4VU8weGp2cVVaQmhMLUN1OVA0NFdXeGs4eUhWNW80TVNDMFRac1p6anVnbE5CMzgwalNhQ0NiR2J0NV9mRHNJOGxLWksxRl96NQ",
+      "source": "nikkei_news",
+      "title": "クラフティア、平均2万5000円の賃上げ 勤務地の選択制度も導入",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUExmUzNUcUhuSTJ2QkYxYTVKT1JLYzJ6MjE4VU8weGp2cVVaQmhMLUN1OVA0NFdXeGs4eUhWNW80TVNDMFRac1p6anVnbE5CMzgwalNhQ0NiR2J0NV9mRHNJOGxLWksxRl96NQ?oc=5",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBUUExmUzNUcUhuSTJ2QkYxYTVKT1JLYzJ6MjE4VU8weGp2cVVaQmhMLUN1OVA0NFdXeGs4eUhWNW80TVNDMFRac1p6anVnbE5CMzgwalNhQ0NiR2J0NV9mRHNJOGxLWksxRl96NQ",
+      "summary": "クラフティア社が平均2万5000円の賃上げを実施し、併せて勤務地選択制度を新たに導入します。人材確保と従業員の働き方の柔軟性向上を図る動きとして、同業他社の処遇改善の参考事例となります。",
+      "summarizedAt": "2026-10-28T01:03:45.130Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg",
       "source": "nikkei_news",
       "title": "育休の意外な効用、三井住友銀の女性行員が発見 不確実性の耐性磨く",
@@ -9512,6 +9708,34 @@
       "summary": "三井住友銀行の女性行員が育休取得を通じて不確実性への耐性を高める効果を発見した事例です。人事担当者は育休を単なる休暇制度ではなく、予測困難な状況に対応する能力を育む機会として位置づけ直すことが期待されます。",
       "summarizedAt": "2026-09-07T22:14:43.479Z",
       "storyId": "nikkei:CBMibEFVX3lxTFBvR3YxZEJfN3FHT1kyVlI0ZS1JNlVTYlg3WDJQMmFpeWZGcmxjM3R5Z1hYMGw0VHhjTWxFYVZDQ2RHTkxPNHliUVBYdnExNHV3aHRua0FLU1JrVXJSYW9xZXFkQ0h0SHpHd3dpeg",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBJaHNDMjdhN09RQVd2Z0Rhc0Z4aFpRYnpySkpmalRlTGVlaTFKbW9Xb0tNbW5xTWgyaWpDaVYyTHFPV1NIMzhHdjc5MmJzN0VhWmVSN2lMVmNrRjlUa1JzSlYzTjNzNkdDSXRhYw",
+      "source": "nikkei_news",
+      "title": "トヨタ、6年連続の満額回答 賃上げ最大2万1580円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJaHNDMjdhN09RQVd2Z0Rhc0Z4aFpRYnpySkpmalRlTGVlaTFKbW9Xb0tNbW5xTWgyaWpDaVYyTHFPV1NIMzhHdjc5MmJzN0VhWmVSN2lMVmNrRjlUa1JzSlYzTjNzNkdDSXRhYw?oc=5",
+      "publishedAt": "2026-03-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBJaHNDMjdhN09RQVd2Z0Rhc0Z4aFpRYnpySkpmalRlTGVlaTFKbW9Xb0tNbW5xTWgyaWpDaVYyTHFPV1NIMzhHdjc5MmJzN0VhWmVSN2lMVmNrRjlUa1JzSlYzTjNzNkdDSXRhYw",
+      "summary": "トヨタ自動車が2024年春闘で6年連続の満額回答を実施し、賃上げ額は最大2万1580円となりました。大手企業の賃上げ動向は中小企業の労使交渉や業界全体の賃金水準に影響を与えるため、自社の賃上げ対応の参考情報として注視する必要があります。",
+      "summarizedAt": "2026-10-28T01:03:25.581Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9hcFU0VzlaQ3FMbTQtdzI2dmxfQmJqRkxrc2pnMXVEbXpuWDRZTHNPanFjcEVhMGdtamtfcUtvN3ZmTDB1UXc5RU1nYmxCLUFBSGxkUmpMbTdldEF2djhobjdsOVFoSlpWWDhMVA",
+      "source": "nikkei_news",
+      "title": "サントリーHD、ベア1万1000円で回答 賃上げ率は6%",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcFU0VzlaQ3FMbTQtdzI2dmxfQmJqRkxrc2pnMXVEbXpuWDRZTHNPanFjcEVhMGdtamtfcUtvN3ZmTDB1UXc5RU1nYmxCLUFBSGxkUmpMbTdldEF2djhobjdsOVFoSlpWWDhMVA?oc=5",
+      "publishedAt": "2026-03-18T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9hcFU0VzlaQ3FMbTQtdzI2dmxfQmJqRkxrc2pnMXVEbXpuWDRZTHNPanFjcEVhMGdtamtfcUtvN3ZmTDB1UXc5RU1nYmxCLUFBSGxkUmpMbTdldEF2djhobjdsOVFoSlpWWDhMVA",
+      "summary": "サントリーホールディングスが2025年春闘でベースアップ1万1000円、賃上げ率6%の回答を示しました。大手企業の賃上げ動向として、自社の賃金改定や労使交渉における参考指標になります。",
+      "summarizedAt": "2026-10-28T01:03:42.503Z",
       "isGuideline": false
     },
     {
@@ -9557,6 +9781,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBZMGJ4bm9zR3M2VHN1ck1hNUJMSnNxUVVVd29Cc2RvUFFLYmpqeHg3cUlwYjFBcWwzcEk2c0ltX3h2a3NqY2lvYUZ6dW5jN09qYkN5QjdMX05ELTEyVXdfd3Z5QlR2a2xPSjEtbg",
+      "source": "nikkei_news",
+      "title": "ゼンショーが6.7%賃上げ ベア14年連続、初任給32.2万円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMGJ4bm9zR3M2VHN1ck1hNUJMSnNxUVVVd29Cc2RvUFFLYmpqeHg3cUlwYjFBcWwzcEk2c0ltX3h2a3NqY2lvYUZ6dW5jN09qYkN5QjdMX05ELTEyVXdfd3Z5QlR2a2xPSjEtbg?oc=5",
+      "publishedAt": "2026-03-09T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBZMGJ4bm9zR3M2VHN1ck1hNUJMSnNxUVVVd29Cc2RvUFFLYmpqeHg3cUlwYjFBcWwzcEk2c0ltX3h2a3NqY2lvYUZ6dW5jN09qYkN5QjdMX05ELTEyVXdfd3Z5QlR2a2xPSjEtbg",
+      "summary": "ゼンショーホールディングスは2025年春闘で6.7%の賃上げを実施し、14年連続でベースアップを行います。大卒初任給は32.2万円となり、外食業界における人材確保競争の激化が見込まれます。",
+      "summarizedAt": "2026-10-28T01:03:47.544Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMia0FVX3lxTE1oU1NtQnZOazI4UHY0Qm9jNkZxbEVSMXRtdHZvZmFTeE82UDRCTFpKUzIzazhyVl83eFp6N3VRWWtJMzQwWUtwdm9BOVY0cEY4TVlIOGp2SDNFbXRJMlRGa1JQT1hRTjVUUWtZ",
       "source": "rosei_news",
       "title": "賃金改定と 報酬制度の見直しに 関するアンケート",
@@ -9597,6 +9835,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE11V2pMcmhWb1Iyc0NlUjNoRUpLcU9EbEpNNDlTVHMzZXB6ZVZaYXZTc0ZQbXNLNEdMWWcydVJyMWE2Nk4wS2lQYUFCek1sM09XRHYwVw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBoN2V2ZmtKVHNHRmktYl9qa2N1bkpDd3J1WVFWcmtldVQzb09EVy1uRWl4a0VnV2VWOUpOT2N3Sk5sck5VVXhDaFVqci1OdlVOSDJWb3NERnhmNVJBbG1HdDdBUlVVcGlWVHNmWQ",
+      "source": "nikkei_news",
+      "title": "サッポロビール、ベア過去最高の1万6000円 賃上げ率6.1%",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoN2V2ZmtKVHNHRmktYl9qa2N1bkpDd3J1WVFWcmtldVQzb09EVy1uRWl4a0VnV2VWOUpOT2N3Sk5sck5VVXhDaFVqci1OdlVOSDJWb3NERnhmNVJBbG1HdDdBUlVVcGlWVHNmWQ?oc=5",
+      "publishedAt": "2026-03-04T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBoN2V2ZmtKVHNHRmktYl9qa2N1bkpDd3J1WVFWcmtldVQzb09EVy1uRWl4a0VnV2VWOUpOT2N3Sk5sck5VVXhDaFVqci1OdlVOSDJWb3NERnhmNVJBbG1HdDdBUlVVcGlWVHNmWQ",
+      "summary": "サッポロビールが2025年春闘でベースアップ1万6000円(賃上げ率6.1%)を実施し、同社として過去最高の水準となりました。大手企業の高水準賃上げ動向として、自社の賃金改定の参考情報となります。",
+      "summarizedAt": "2026-10-28T01:03:56.023Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE1ibTh0THhRaFVLbjBhbWhoUHVRWklUWTU2OVRZUW5mVGE0NHlkMlpvVi1DWWJ5ekNKNWpBd0JuaGx3SktXZzhIUUZlbmJJM09BWWg1WA",
@@ -9641,6 +9893,34 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBjVFNuOHpGZVk4Sk96WTRJbGxMWC04ZllCeHJiZzVlWHhaY0ZrZDZWcjJXVkpjaWJ2OUJ3cHl5QzBxVU1zU3V4VnVWVjNBZUFic3Z0U3BHYkNFWW5kSW5adkh1QkdWOGR1TWEwWA",
+      "source": "nikkei_news",
+      "title": "コロワイド、3年連続で平均6%賃上げ 約4700人対象",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjVFNuOHpGZVk4Sk96WTRJbGxMWC04ZllCeHJiZzVlWHhaY0ZrZDZWcjJXVkpjaWJ2OUJ3cHl5QzBxVU1zU3V4VnVWVjNBZUFic3Z0U3BHYkNFWW5kSW5adkh1QkdWOGR1TWEwWA?oc=5",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBjVFNuOHpGZVk4Sk96WTRJbGxMWC04ZllCeHJiZzVlWHhaY0ZrZDZWcjJXVkpjaWJ2OUJ3cHl5QzBxVU1zU3V4VnVWVjNBZUFic3Z0U3BHYkNFWW5kSW5adkh1QkdWOGR1TWEwWA",
+      "summary": "コロワイドが約4700人を対象に3年連続で平均6%の賃上げを実施します。人材確保が課題の外食業界において、継続的な賃上げによる処遇改善が競争力確保の鍵となることを示す事例です。",
+      "summarizedAt": "2026-10-28T01:03:28.248Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9KNXpSNEI1UWU4Qi13VGI1YXF3cGdoMHpoanZ1em1QU0x1MzlnS0FYcjhGWXF6WFBuVlZjRnA1dWl3YmJaY3gzNGZBeVNUUzRVSDB6T2l2YWVaaXk4Nk9TckIteTVPaU5YV3V0Zg",
+      "source": "nikkei_news",
+      "title": "三菱自動車、早期満額回答の賃上げ1万8000円 春季労使交渉",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNXpSNEI1UWU4Qi13VGI1YXF3cGdoMHpoanZ1em1QU0x1MzlnS0FYcjhGWXF6WFBuVlZjRnA1dWl3YmJaY3gzNGZBeVNUUzRVSDB6T2l2YWVaaXk4Nk9TckIteTVPaU5YV3V0Zg?oc=5",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9KNXpSNEI1UWU4Qi13VGI1YXF3cGdoMHpoanZ1em1QU0x1MzlnS0FYcjhGWXF6WFBuVlZjRnA1dWl3YmJaY3gzNGZBeVNUUzRVSDB6T2l2YWVaaXk4Nk9TckIteTVPaU5YV3V0Zg",
+      "summary": "三菱自動車が2025年春季労使交渉において、基本給を月額1万8000円引き上げる満額回答を早期に提示しました。大手製造業の賃上げ動向は中小企業の交渉にも影響するため、自社の賃金水準の見直しや交渉準備の参考となります。",
+      "summarizedAt": "2026-10-28T01:04:02.169Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
       "source": "rosei_news",
       "title": "労働基準法の基礎知識",
@@ -9652,6 +9932,20 @@
       "storyId": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
       "summary": "【要約】\nこの記事は労働基準法の基本的な知識を解説する内容です。人事労務担当者として、労働時間、賃金、休暇等の基準法の基礎的なルールを改めて確認し、日常の労務管理が法令に適合しているか点検することが推奨されます。\n\n(99字)",
       "summarizedAt": "2026-10-14T00:59:09.275Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1ncDVrRVl5WjFtR1FWWDNCWkFJWHU4Qm9mNkh5ME5NVVU5Y0t3Z1hKRzhfTXNkdURMXzFTWG9tYkJDcXd0QjhidUxuRmpiYVZ3ZFRzUExyaFJjQmVKSUZiQ2dJMXZhclRuU2R6cg",
+      "source": "nikkei_news",
+      "title": "トヨタ系労組、賃上げ要求5年ぶり前年下回る 試される持続力",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ncDVrRVl5WjFtR1FWWDNCWkFJWHU4Qm9mNkh5ME5NVVU5Y0t3Z1hKRzhfTXNkdURMXzFTWG9tYkJDcXd0QjhidUxuRmpiYVZ3ZFRzUExyaFJjQmVKSUZiQ2dJMXZhclRuU2R6cg?oc=5",
+      "publishedAt": "2026-02-19T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1ncDVrRVl5WjFtR1FWWDNCWkFJWHU4Qm9mNkh5ME5NVVU5Y0t3Z1hKRzhfTXNkdURMXzFTWG9tYkJDcXd0QjhidUxuRmpiYVZ3ZFRzUExyaFJjQmVKSUZiQ2dJMXZhclRuU2R6cg",
+      "summary": "トヨタ系労組が5年ぶりに前年を下回る賃上げ要求を提示する見通しです。労使交渉における賃上げ水準の変化や今後の賃上げ持続性に注目が集まっており、自社の賃上げ方針を検討する際の参考情報として動向を注視する必要があります。",
+      "summarizedAt": "2026-10-28T01:04:08.045Z",
       "isGuideline": false
     },
     {
@@ -9681,6 +9975,20 @@
       "storyId": "rosei:CBMiiwFBVV95cUxOMy1kb2FTeUE0dHVNV3gwVnVGaTZOS21naWdUYmtjbUlVdC1UZkFxX0UxOHN2bzI2WVpXLXA4TDhRTGk4emFUVVNBd29mS0xjcEdJU0c4bko1Y05yWGdodjdpUkRCcDNBanhvSDFuZ3V3Z2ZzZ0Rhc21XY1pjWU96YmFlV2g1ekF6ZTRn",
       "summary": "2026年版の賃金・人事に関する各種データ集が発行されます。最新の賃金水準や人事制度の動向を把握し、自社の処遇水準の見直しや労働条件の市場比較に活用することが推奨されます。",
       "summarizedAt": "2026-10-09T01:51:20.032Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9PT0dET1JXUXRwNGJxX2RWbWZ2UVV5X3RYZEdRUTFnT3ZiekJjZm93T2pYMFVzSVRNZmlaVG5Wb3FHQWNHLW1uMWZHZHVrNWk0SUl2ZVRfYTBSZDFVdjBSYlczaXdQUm9BbjhRTg",
+      "source": "nikkei_news",
+      "title": "スズキ労組、月1万9000円賃上げ要求 一時金は6.3カ月",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PT0dET1JXUXRwNGJxX2RWbWZ2UVV5X3RYZEdRUTFnT3ZiekJjZm93T2pYMFVzSVRNZmlaVG5Wb3FHQWNHLW1uMWZHZHVrNWk0SUl2ZVRfYTBSZDFVdjBSYlczaXdQUm9BbjhRTg?oc=5",
+      "publishedAt": "2026-02-15T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9PT0dET1JXUXRwNGJxX2RWbWZ2UVV5X3RYZEdRUTFnT3ZiekJjZm93T2pYMFVzSVRNZmlaVG5Wb3FHQWNHLW1uMWZHZHVrNWk0SUl2ZVRfYTBSZDFVdjBSYlczaXdQUm9BbjhRTg",
+      "summary": "スズキの労働組合が、月額1万9000円の賃上げと一時金6.3カ月分を要求しました。今春闘における自動車業界の賃上げ動向を示す事例として、他社の労使交渉や業界水準の参考になります。",
+      "summarizedAt": "2026-10-28T01:03:53.073Z",
       "isGuideline": false
     },
     {
@@ -9740,6 +10048,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE42VS1yclRmU1lEWXBpRi1JTlNBVHlqV2dMUnYwTzRaZTdXYk1McFQyUE00c3ROdDdNZmQ5eTA5d1ZqbTJzQ2N2Slp0OUtwNUpVZkhjNjd0ZTVmSkJQMFBIZTRwYlM2anlkVWYtdA",
+      "source": "nikkei_news",
+      "title": "NTT労働組合、3.75%賃上げ要求決定 非正規含む",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42VS1yclRmU1lEWXBpRi1JTlNBVHlqV2dMUnYwTzRaZTdXYk1McFQyUE00c3ROdDdNZmQ5eTA5d1ZqbTJzQ2N2Slp0OUtwNUpVZkhjNjd0ZTVmSkJQMFBIZTRwYlM2anlkVWYtdA?oc=5",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE42VS1yclRmU1lEWXBpRi1JTlNBVHlqV2dMUnYwTzRaZTdXYk1McFQyUE00c3ROdDdNZmQ5eTA5d1ZqbTJzQ2N2Slp0OUtwNUpVZkhjNjd0ZTVmSkJQMFBIZTRwYlM2anlkVWYtdA",
+      "summary": "NTT労働組合が非正規社員を含めて3.75%の賃上げを要求することを決定しました。春闘における大手労組の動向として、自社の賃上げ交渉や非正規社員の処遇改善の参考指標となります。",
+      "summarizedAt": "2026-10-28T01:03:37.296Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFAxZElCVTE0SVozckIwaWkyUFlyZVhrODdpeVJzNTcxYll2WnZRYXpmTWpkSGpGemhqb2dZTUVBZEZNVzJ1a25ESnByTFl4ZklKeUZRNw",
       "source": "rosei_news",
       "title": "各種統計を基に近年の賃上げトレンドを振り返る",
@@ -9794,6 +10116,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5wcmMtMXdEOEJHb3gwUU1CbU84a2pyaEUyeTA0R3ljTl94aC0tcGNVSlF4LUNsWjhiX1hkQjJOZEN1Q1dEUXlIbzdMU0lMYTd2QWozSg",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBrQVFoajktWlMtbFRhMXRlZnZRYXluN0laREI0Q0dIOXJ5ZFdFV3h5cFRYVkRET1pLRkhjdExfSjVtSHQzSTFGd3hJYl84NkluaG9EMEtKWEsyRTNWUjhiNi1ubXZXMFo2Um9SOQ",
+      "source": "nikkei_news",
+      "title": "実質賃金4年連続マイナス、2025年1.3%減 賃上げが物価に及ばず",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrQVFoajktWlMtbFRhMXRlZnZRYXluN0laREI0Q0dIOXJ5ZFdFV3h5cFRYVkRET1pLRkhjdExfSjVtSHQzSTFGd3hJYl84NkluaG9EMEtKWEsyRTNWUjhiNi1ubXZXMFo2Um9SOQ?oc=5",
+      "publishedAt": "2026-02-09T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBrQVFoajktWlMtbFRhMXRlZnZRYXluN0laREI0Q0dIOXJ5ZFdFV3h5cFRYVkRET1pLRkhjdExfSjVtSHQzSTFGd3hJYl84NkluaG9EMEtKWEsyRTNWUjhiNi1ubXZXMFo2Um9SOQ",
+      "summary": "2025年の実質賃金は1.3%減となり4年連続のマイナスを記録しました。賃上げを実施しても物価上昇がそれを上回る状況が続いており、人事担当者は従業員の購買力低下を踏まえた処遇改善の検討が求められます。",
+      "summarizedAt": "2026-10-28T01:03:39.603Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiZ0FVX3lxTE0wYTZrbGgxM0Y1dkFsTWNoOHBXcWE5akUyRG5zb21naHg0Sm45NXpYUmRVanNuMmdzQk1HTENFNWRSaVlSRjlBQVpwY1FRT0JwTjJpS0dZZ0E0U0Rld0VHZUhKbVhEV2M",
@@ -9864,6 +10200,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5wWUNheTJLeWpPSkRRUlRnSUpPbFlHVWZ1bEdNSDY1cFdOWWIzNy1tejgzd2lNWkFSalQ0b1Nfb25pWFNreml5OE4yejBSX21SRmNSRQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9xdkpvQ1d0OHdiaDU3NzJaWnFfS19FMVZsdGhCcGNZSm85eVJveTJubXFRVFFDYkRKeGNHOE1aS0RUeVRBbThxSzRxWjZvRjBrQmRYaUItUm5VYWJlN0dnZVBHNzNRSHVaQXl0dQ",
+      "source": "nikkei_news",
+      "title": "外国人労働者初の250万人超 2025年10月時点、2桁増続く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdkpvQ1d0OHdiaDU3NzJaWnFfS19FMVZsdGhCcGNZSm85eVJveTJubXFRVFFDYkRKeGNHOE1aS0RUeVRBbThxSzRxWjZvRjBrQmRYaUItUm5VYWJlN0dnZVBHNzNRSHVaQXl0dQ?oc=5",
+      "publishedAt": "2026-01-30T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9xdkpvQ1d0OHdiaDU3NzJaWnFfS19FMVZsdGhCcGNZSm85eVJveTJubXFRVFFDYkRKeGNHOE1aS0RUeVRBbThxSzRxWjZvRjBrQmRYaUItUm5VYWJlN0dnZVBHNzNRSHVaQXl0dQ",
+      "summary": "2025年10月時点で外国人労働者数が初めて250万人を超え、2桁増加が続いています。人事・労務担当者は外国人雇用の増加を踏まえ、在留資格管理や多言語対応など受入体制の整備が一層重要になります。",
+      "summarizedAt": "2026-10-28T01:03:50.255Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1EdzFrRjFzMDJxNDk3eDRjdHJudk5MSmY5bldtN1BaY0ltRFduZEFsZElmT0NWcmdXeU83M25HSlZRR05GdzFQN3FLa1FBQW5icjQzN3NVdktIXzB1R2tQaGF5dWFtelFpXzJEOQ",
@@ -9962,6 +10312,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9IeTlVZFpUUDdRSzBoWmVFdjI4WXZHNzVIMmNZR0tTMjAzcmdJZUFjQ1ZscnZFbDFwNE4xWmk4OG5rN1ZrcUI2ZkRRWjdSTzNpTXd4ZQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1ZU05tUzg1dFlVUXVwaUVySTllWjZ0dGNiSnhmTjN2c2luTVNGNjI5clhoYmFYNkJfX0M1SFFRUEZIMk5VRm40VUxxLXoxWXB1aE1nRjNUME1UN1F0cWFMMV82QUJPMjZqWGx0VQ",
+      "source": "nikkei_news",
+      "title": "物価上昇を超す賃上げは「社会的要請」 経団連の26年労使交渉指針",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZU05tUzg1dFlVUXVwaUVySTllWjZ0dGNiSnhmTjN2c2luTVNGNjI5clhoYmFYNkJfX0M1SFFRUEZIMk5VRm40VUxxLXoxWXB1aE1nRjNUME1UN1F0cWFMMV82QUJPMjZqWGx0VQ?oc=5",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1ZU05tUzg1dFlVUXVwaUVySTllWjZ0dGNiSnhmTjN2c2luTVNGNjI5clhoYmFYNkJfX0M1SFFRUEZIMk5VRm40VUxxLXoxWXB1aE1nRjNUME1UN1F0cWFMMV82QUJPMjZqWGx0VQ",
+      "summary": "経団連が2026年の春闘指針で、物価上昇率を上回る賃上げを「社会的要請」と位置づけました。人事担当者は、インフレ率を超える賃上げ率の設定を前提とした賃金改定計画の策定が求められます。",
+      "summarizedAt": "2026-10-28T01:04:11.113Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMia0FVX3lxTE5RZnFPcWd6RWpRekdwU3pZbnFGdFBCazl3ZTNKc3JrazNsVmozNWhnaGVXMEhqR2ctSFNOSkphYVByUUI1clJKLUl0WEVWWlpvSTNPdEhBYzRqV2wxWm5RYksxeXBjVmJXQUhn",
@@ -12390,6 +12754,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTFBtRzFjeGJZQkFVeUlXYnRMYmZNdXVuT1NTSWRRUm85d1dBQWhrWWROcW8yanNSN3c3UmtJaWJKdnFadUdwTm1Lckt0RzUxMDFGVzhtXzVJemhzLXdFejFqaGJlS0NybGtVZ1lDNA",
+      "source": "nikkei_news",
+      "title": "日本の有給休暇取得率、世界最低の63％ エクスペディア調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRzFjeGJZQkFVeUlXYnRMYmZNdXVuT1NTSWRRUm85d1dBQWhrWWROcW8yanNSN3c3UmtJaWJKdnFadUdwTm1Lckt0RzUxMDFGVzhtXzVJemhzLXdFejFqaGJlS0NybGtVZ1lDNA?oc=5",
+      "publishedAt": "2024-06-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBtRzFjeGJZQkFVeUlXYnRMYmZNdXVuT1NTSWRRUm85d1dBQWhrWWROcW8yanNSN3c3UmtJaWJKdnFadUdwTm1Lckt0RzUxMDFGVzhtXzVJemhzLXdFejFqaGJlS0NybGtVZ1lDNA",
+      "summary": "エクスペディアの調査により、日本の有給休暇取得率が63％で世界最低水準であることが判明しました。人事担当者は従業員の年休取得促進に向けた職場環境の改善や取得奨励策の強化を検討すべき状況です。",
+      "summarizedAt": "2026-10-28T01:03:17.128Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE41UzFmTTUtNnQ4Rkd1N3JfZDRrQTN3XzloM3JYQTdTdFZrZTJidjlUY2R3UldQcEcwMGY5Sm9lVks2NUlqVDlnMHZmUEE5clRNUW5aQw",
       "source": "rosei_news",
       "title": "ハラスメント調査に時間を要する場合、調査実施期間中、当事者にどう対応すべきか",
@@ -12838,6 +13216,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTFBmQWZrc2ROclhWaVpKQmxDSTVCVE4zaGtBQ3o5TkNkT2lXazJpV21LcTJjZ0FNM1NzSVVOcC01eU5IZ04xdFhlb252ZkFVZENhQ1lJZg",
       "isGuideline": true,
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE0tS25IemRYdUx4SXFIWHpnWjljcDRpRFE5MnZWOFF0OG1RV2YwbnVJeVQzMzc4VU1vc002Y1pTVnQwbEMyb0d6Z01ldFR0Zm5qaEZfQg",
+      "source": "rosei_news",
+      "title": "外国人労働２００万人突破 人手不足、１２・４％増 受け入れ加速、実習生回復",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS25IemRYdUx4SXFIWHpnWjljcDRpRFE5MnZWOFF0OG1RV2YwbnVJeVQzMzc4VU1vc002Y1pTVnQwbEMyb0d6Z01ldFR0Zm5qaEZfQg?oc=5",
+      "publishedAt": "2024-01-26T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE0tS25IemRYdUx4SXFIWHpnWjljcDRpRFE5MnZWOFF0OG1RV2YwbnVJeVQzMzc4VU1vc002Y1pTVnQwbEMyb0d6Z01ldFR0Zm5qaEZfQg",
+      "summary": "外国人労働者数が200万人を突破し、前年比12.4％増と人手不足を背景に受け入れが加速しています。技能実習生も回復傾向にあるため、外国人雇用管理体制の整備や適切な労務管理の重要性が一層高まっています。",
+      "summarizedAt": "2026-10-28T01:04:22.220Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiW0FVX3lxTE8yWDFzb29QVnZCOEtPVDlrc3gtR1FPa2duSmN0VS1xMW1kUHJiYXY1aElyMUtzdXdaWWoyd3NJTkpJamxLc3gtQUhCYm9VSXhPUXhDY0pkS1o4VzQ",
@@ -14829,6 +15221,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMicEFVX3lxTE15OVhMXzFxcDhBZl8xbU1weVBIRjhBekZrUmRDQTFBckI5UllvUVBDelM0NUFRZUtGUDJNRk03WEZOeEFEdWtYU2pOZmNIa3JxZVcyUVQtRFZSZFRNNlo5b3JQbV9LeFZDM1RuRVM4WHQ",
+      "source": "nikkei_news",
+      "title": "残業減らしても売り上げは減らない 働き方改革を指南",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15OVhMXzFxcDhBZl8xbU1weVBIRjhBekZrUmRDQTFBckI5UllvUVBDelM0NUFRZUtGUDJNRk03WEZOeEFEdWtYU2pOZmNIa3JxZVcyUVQtRFZSZFRNNlo5b3JQbV9LeFZDM1RuRVM4WHQ?oc=5",
+      "publishedAt": "2018-12-17T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE15OVhMXzFxcDhBZl8xbU1weVBIRjhBekZrUmRDQTFBckI5UllvUVBDelM0NUFRZUtGUDJNRk03WEZOeEFEdWtYU2pOZmNIa3JxZVcyUVQtRFZSZFRNNlo5b3JQbV9LeFZDM1RuRVM4WHQ",
+      "summary": "# 要約\n\n働き方改革において、残業削減と売上維持は両立可能であることが示されました。労務・人事担当者は、業務効率化や生産性向上の施策を推進することで、労働時間短縮と企業業績の確保を同時に実現できる可能性があります。\n\n(111字)",
+      "summarizedAt": "2026-10-28T01:03:59.177Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMickFVX3lxTFA3MTlOVS1OWXJINkEzYmlhTElPYW9lRXVzZnFUMHlSZ3VTbHowZTFCN0wwT0FGNUJkNEVkQ1Z5YjVuRlZ4SkIySURoZ3F0a0NWWVV1eV9QS0VfUGo0U3NieHlDRThfN1dmYV80NHczNWJhUQ",
       "source": "nikkei_news",
       "title": "回答率99% サイバーの社員調査はハラスメント防ぐ",
@@ -15276,6 +15682,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBCM2MycDh3aGdqQkw4SWMtYUVFSXJxMFI2RGtPTzBLWHdmS3dkdjFsaV9ybERIcmJtZEdVTUthZU85TDExZmtiSlZHdm1kcmliTDY2TA",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFA1Umo2RTJFZ2dSa3N3eHo1QzNEU2g2X3haek14Wi0xclAwZVdxWlZXZUtCdFFlRzZjZWlJYXJ3TkVVN213b05JTnpmZzU4dkJlY0lHMGNRV0R1X2ZXOUU4TXM4MG1lRGJRMWw0Ng",
+      "source": "nikkei_news",
+      "title": "「有給休暇」 正しい略し方は？",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Umo2RTJFZ2dSa3N3eHo1QzNEU2g2X3haek14Wi0xclAwZVdxWlZXZUtCdFFlRzZjZWlJYXJ3TkVVN213b05JTnpmZzU4dkJlY0lHMGNRV0R1X2ZXOUU4TXM4MG1lRGJRMWw0Ng?oc=5",
+      "publishedAt": "2009-10-02T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-28T01:02:47.735Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFA1Umo2RTJFZ2dSa3N3eHo1QzNEU2g2X3haek14Wi0xclAwZVdxWlZXZUtCdFFlRzZjZWlJYXJ3TkVVN213b05JTnpmZzU4dkJlY0lHMGNRV0R1X2ZXOUU4TXM4MG1lRGJRMWw0Ng",
+      "summary": "記事見出しのみのため詳細は不明ですが、「有給休暇」の略称について正式な表記や適切な呼称に関する解説がされている可能性があります。労務担当者は社内規程や就業規則で使用する用語の正確性を確認することが推奨されます。",
+      "summarizedAt": "2026-10-28T01:03:11.707Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTFAwX3dnaHBNajI3TV8xSmFqVXpnQ2kzQjVfVUVYX3kyeTdCNTZHQVJmV1g1ZVBXR0ZoVG9nU2dDV21SSnFsWUVGN1ZRMHFtdlVzZml5OA",
