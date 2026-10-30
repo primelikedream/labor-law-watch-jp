@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-10-29T01:39:53.411Z",
+  "updatedAt": "2026-10-30T01:44:11.321Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77050.html",
+      "source": "mhlw_news",
+      "title": "第214回労働政策審議会労働条件分科会（資料）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77050.html",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-30T01:43:39.075Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77050.html",
+      "summary": "労働政策審議会労働条件分科会の第214回会合が開催され、資料が公表されました。労働条件に関する制度改正等の審議状況を確認するため、厚生労働省サイトで配布資料の内容を確認することが推奨されます。",
+      "summarizedAt": "2026-10-30T01:43:49.768Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76960.html",
+      "source": "mhlw_news",
+      "title": "一般職業紹介状況(令和8年9月分)について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+      "publishedAt": "2026-10-29T23:30:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-30T01:43:39.075Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76960.html",
+      "summary": "厚生労働省が令和8年9月分の一般職業紹介状況を公表しました。有効求人倍率や就職件数など雇用環境の最新指標が示されており、採用計画や労働市場動向の把握に活用できます。",
+      "summarizedAt": "2026-10-30T01:43:52.142Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE55bF9oOTM4bS1GMGtFYjI1amdweXVsQmxhMkJWd1ByMEhnV1BGY1lRLXlDaWxrN1hHOENqTFpaWFRPRkRSOXdTMUp5OWtfYzkyZmtPQ0FMTVJFbGg2R0lVMzkzQVV3WFJfenpIag",
+      "source": "nikkei_news",
+      "title": "「休日を出勤日に」で企業敗訴相次ぐ 変形労働時間制に厳しい司法",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bF9oOTM4bS1GMGtFYjI1amdweXVsQmxhMkJWd1ByMEhnV1BGY1lRLXlDaWxrN1hHOENqTFpaWFRPRkRSOXdTMUp5OWtfYzkyZmtPQ0FMTVJFbGg2R0lVMzkzQVV3WFJfenpIag?oc=5",
+      "publishedAt": "2026-10-29T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-30T01:43:38.628Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE55bF9oOTM4bS1GMGtFYjI1amdweXVsQmxhMkJWd1ByMEhnV1BGY1lRLXlDaWxrN1hHOENqTFpaWFRPRkRSOXdTMUp5OWtfYzkyZmtPQ0FMTVJFbGg2R0lVMzkzQVV3WFJfenpIag",
+      "summary": "変形労働時間制において、当初休日とされた日を後から出勤日に変更する企業の運用が、労働契約や就業規則で定めた労働日の特定を事後変更するものとして違法と判断される司法判決が相次いでおり、制度運用の適正化が求められています。",
+      "summarizedAt": "2026-10-30T01:43:55.573Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8wZlQ0cUVsbmJmRG9iVE9uSkI3d0UtMFl4WlhIUGpfTklKT0xkSUtIMWZBSDNQcHM4eVF5UF9teGdnUzNsdl9iVXlFejlPMGVOUkZ0eVdheUVxTTVsNjctRnlNbWFmYzBOblBLaQ",
+      "source": "nikkei_news",
+      "title": "熊本地震の労災211人、2016年の5倍 日中の発生で申請多く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wZlQ0cUVsbmJmRG9iVE9uSkI3d0UtMFl4WlhIUGpfTklKT0xkSUtIMWZBSDNQcHM4eVF5UF9teGdnUzNsdl9iVXlFejlPMGVOUkZ0eVdheUVxTTVsNjctRnlNbWFmYzBOblBLaQ?oc=5",
+      "publishedAt": "2026-10-29T08:11:14.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-30T01:43:38.628Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8wZlQ0cUVsbmJmRG9iVE9uSkI3d0UtMFl4WlhIUGpfTklKT0xkSUtIMWZBSDNQcHM4eVF5UF9teGdnUzNsdl9iVXlFejlPMGVOUkZ0eVdheUVxTTVsNjctRnlNbWFmYzBOblBLaQ",
+      "summary": "熊本地震における労災認定が211人と2016年の5倍に上ったことが明らかになり、日中の発生で業務中の被災が多かったことが要因とされています。災害時の労災申請手続きの確認と、従業員の安全確保体制の見直しが求められます。",
+      "summarizedAt": "2026-10-30T01:44:02.087Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMifEFVX3lxTFBLYUUycWRoVl8wUDJhZ19QVzdSQl9FOW9HaXExWnlXZWhMWTdRS0oyN2dzRmlsbDJCLXg0dEZyQllZRVNVc09tcGRUUjBQb2hKOHhqRDJqOWJWb1h6Y3ZNd3Fub0FtSjRlWjZRb1E1bmxJUFhzSnBIMVU1V3g",
+      "source": "nikkei_news",
+      "title": "塩野義、シニアでも同一労働同一賃金 全社員「ゼロベース」評価が出発点",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLYUUycWRoVl8wUDJhZ19QVzdSQl9FOW9HaXExWnlXZWhMWTdRS0oyN2dzRmlsbDJCLXg0dEZyQllZRVNVc09tcGRUUjBQb2hKOHhqRDJqOWJWb1h6Y3ZNd3Fub0FtSjRlWjZRb1E1bmxJUFhzSnBIMVU1V3g?oc=5",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-30T01:43:38.628Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMifEFVX3lxTFBLYUUycWRoVl8wUDJhZ19QVzdSQl9FOW9HaXExWnlXZWhMWTdRS0oyN2dzRmlsbDJCLXg0dEZyQllZRVNVc09tcGRUUjBQb2hKOHhqRDJqOWJWb1h6Y3ZNd3Fub0FtSjRlWjZRb1E1bmxJUFhzSnBIMVU1V3g",
+      "summary": "塩野義製薬は、シニア社員を含む全社員を対象に同一労働同一賃金の原則を適用し、年齢に関わらず職務内容に基づく「ゼロベース」の評価制度へ移行します。人事担当者は、定年後再雇用者の処遇を職務基準で見直す動きとして注目すべきです。",
+      "summarizedAt": "2026-10-30T01:43:59.169Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiZ0FVX3lxTFBoRWR2Zk43WDVkdXgzRF9xbFdqcVVqcHNJX3l6eXFyMjRoVWtqbDV1ZVZrbFJzaWxLektaUFRXSTdhU3lLQTRsdGd1Wl9RTnBMVU5xcXgzWFVjMk1NaEMzN2ppbzdvVnM",
       "source": "nikkei_news",
@@ -110,6 +179,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1YMUFPTWZqZUdSRXpuYkRKWjAzVXhpTmtjbzJnRnJ0a2ZyQVdVbFJldzZjdzAtdUFRMHZnbVVqVlZJNmgybzJGblJqUXN6SGI2Qnk0WGlwM3dOOHBMMGhUTlZYcW0xNHpFQm9fcw",
       "summary": "資さんうどんで現職・退職者を含む約2万人分の個人情報が流出した可能性があり、賃金情報や退職理由などの機密性の高い労務情報が含まれています。自社でも同様の事案に備え、人事データの管理体制やアクセス権限の見直し、流出時の対応手順の確認が必要です。",
       "summarizedAt": "2026-10-28T01:03:02.605Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE15MV9pMGlScElfT3VFOUUwUXFtUVNoT1QtTkpLR0I5Wkd3TTE2UDRLeEd0R1pFYVhlMzIwclp2Q0V1QUU1cnVVZjJyWTVCUjdwTUxEc2EtUDdOSG5OTUNBTlI4YWlYSUk5WDBCdw",
+      "source": "nikkei_news",
+      "title": "元検事正の性的暴行、「閉鎖的な風土」指摘 検察で続くハラスメント",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MV9pMGlScElfT3VFOUUwUXFtUVNoT1QtTkpLR0I5Wkd3TTE2UDRLeEd0R1pFYVhlMzIwclp2Q0V1QUU1cnVVZjJyWTVCUjdwTUxEc2EtUDdOSG5OTUNBTlI4YWlYSUk5WDBCdw?oc=5",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-30T01:43:38.628Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE15MV9pMGlScElfT3VFOUUwUXFtUVNoT1QtTkpLR0I5Wkd3TTE2UDRLeEd0R1pFYVhlMzIwclp2Q0V1QUU1cnVVZjJyWTVCUjdwTUxEc2EtUDdOSG5OTUNBTlI4YWlYSUk5WDBCdw",
+      "summary": "本文情報が不足しているため、この見出しのみから労働法制の変更点や企業の対応義務を特定することはできません。検察組織内のハラスメント事案が報じられていますが、民間企業の労務管理に直接影響する法改正や通達等の情報は含まれていません。",
+      "summarizedAt": "2026-10-30T01:44:05.408Z",
       "isGuideline": false
     },
     {
@@ -9528,6 +9611,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBHOVpSN1p3cENMem9BSF9aWXFxa0hqYUhXeWhIUFJkU3JTUEZ6OFJtanVFUmRMay16cWZIQWg3Q3FiN1ZhT212V0U4ZzhXWVRKTGFjYg",
+      "source": "rosei_news",
+      "title": "連合「さらなる賃上げを」 メーデー大会、首相出席",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHOVpSN1p3cENMem9BSF9aWXFxa0hqYUhXeWhIUFJkU3JTUEZ6OFJtanVFUmRMay16cWZIQWg3Q3FiN1ZhT212V0U4ZzhXWVRKTGFjYg?oc=5",
+      "publishedAt": "2026-04-29T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-30T01:43:38.629Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBHOVpSN1p3cENMem9BSF9aWXFxa0hqYUhXeWhIUFJkU3JTUEZ6OFJtanVFUmRMay16cWZIQWg3Q3FiN1ZhT212V0U4ZzhXWVRKTGFjYg",
+      "summary": "連合が中央メーデー大会で賃上げ継続を求める姿勢を示し、首相も出席しました。今後の春闘や賃上げ動向に影響する可能性があるため、労使交渉や賃金改定の動きに注視が必要です。",
+      "summarizedAt": "2026-10-30T01:44:08.326Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1BU2Y3ZVVabk4tcW5xT2J3clZ4U2w1MUNqSTJxMnRXZzJOZ0E2d2VMTExENzFTSFAyZkVFal9SclZNS0YtcGJvemNCMFlZcE92dzJOcA",
       "source": "rosei_news",
       "title": "労使懇談会で得た情報を組合内で漏洩した労働組合専従者にどう対応すべきか",
@@ -13452,6 +13549,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE0tS25IemRYdUx4SXFIWHpnWjljcDRpRFE5MnZWOFF0OG1RV2YwbnVJeVQzMzc4VU1vc002Y1pTVnQwbEMyb0d6Z01ldFR0Zm5qaEZfQg",
       "summary": "外国人労働者数が200万人を突破し、前年比12.4％増と人手不足を背景に受け入れが加速しています。技能実習生も回復傾向にあるため、外国人雇用管理体制の整備や適切な労務管理の重要性が一層高まっています。",
       "summarizedAt": "2026-10-28T01:04:22.220Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE10aGI3QzkzM0NMOHlXbTR3Yk90SG9KdDhuUXRoV1FnaFNRU1hYRzNrRUthaFRWSVFkQzJGZ0lrOUMzbklOaTlYd3QxLS1qMlRnNnVPdA",
+      "source": "rosei_news",
+      "title": "外国人労働者の実態把握へ 厚労相、今夏に結果公表",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10aGI3QzkzM0NMOHlXbTR3Yk90SG9KdDhuUXRoV1FnaFNRU1hYRzNrRUthaFRWSVFkQzJGZ0lrOUMzbklOaTlYd3QxLS1qMlRnNnVPdA?oc=5",
+      "publishedAt": "2024-01-26T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-30T01:43:38.629Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE10aGI3QzkzM0NMOHlXbTR3Yk90SG9KdDhuUXRoV1FnaFNRU1hYRzNrRUthaFRWSVFkQzJGZ0lrOUMzbklOaTlYd3QxLS1qMlRnNnVPdA",
+      "summary": "厚生労働大臣が外国人労働者の実態調査を実施し、今夏に結果を公表する予定です。外国人雇用企業の人事担当者は、調査結果の公表後、自社の雇用管理体制や労働条件が実態と比較して適切かを確認し、必要に応じて見直しを検討する必要があります。",
+      "summarizedAt": "2026-10-30T01:44:11.317Z",
       "isGuideline": false
     },
     {
