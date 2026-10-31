@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-10-30T01:44:11.321Z",
+  "updatedAt": "2026-10-31T01:27:55.930Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9yaG82T3RacDNJcEZDX2VLekswbWtaZHREdEVuR3FNYVF6MV8xRlViMWlZcHdTY3YxU0RGck1MR3o1OHVuSnoxWG0xdGFqejBZREdJN19Ic09Ia2Y2QW1oWkhTYUZ1YzhITEdTdg",
+      "source": "nikkei_news",
+      "title": "賃上げ浸透へ「中小と価格協議を」 経団連、春季労使交渉の方針原案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaG82T3RacDNJcEZDX2VLekswbWtaZHREdEVuR3FNYVF6MV8xRlViMWlZcHdTY3YxU0RGck1MR3o1OHVuSnoxWG0xdGFqejBZREdJN19Ic09Ia2Y2QW1oWkhTYUZ1YzhITEdTdg?oc=5",
+      "publishedAt": "2026-10-30T12:29:27.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9yaG82T3RacDNJcEZDX2VLekswbWtaZHREdEVuR3FNYVF6MV8xRlViMWlZcHdTY3YxU0RGck1MR3o1OHVuSnoxWG0xdGFqejBZREdJN19Ic09Ia2Y2QW1oWkhTYUZ1YzhITEdTdg",
+      "summary": "経団連が春季労使交渉の方針原案で、賃上げを中小企業にも浸透させるため、大企業に対して取引先との価格転嫁協議の推進を求める方針を示しました。人事担当者は自社の価格交渉方針の確認が必要です。",
+      "summarizedAt": "2026-10-31T01:27:40.276Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8xaWxJb0RyVEFqdDZQNU53aEd1SktLQ3pkVklxMllqcTdMYjdseURGYWpmNzRYWkFKWjlzaTRnVUQ1UzZLRUgxSXpXbkdZMWdhMEE0TmdXSnlhcVh5eW5MWUo3c0xsbUFGbDRjMA",
+      "source": "nikkei_news",
+      "title": "日銀総裁「物価・賃金上昇のメカニズム復活」 記者会見要旨",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xaWxJb0RyVEFqdDZQNU53aEd1SktLQ3pkVklxMllqcTdMYjdseURGYWpmNzRYWkFKWjlzaTRnVUQ1UzZLRUgxSXpXbkdZMWdhMEE0TmdXSnlhcVh5eW5MWUo3c0xsbUFGbDRjMA?oc=5",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8xaWxJb0RyVEFqdDZQNU53aEd1SktLQ3pkVklxMllqcTdMYjdseURGYWpmNzRYWkFKWjlzaTRnVUQ1UzZLRUgxSXpXbkdZMWdhMEE0TmdXSnlhcVh5eW5MWUo3c0xsbUFGbDRjMA",
+      "summary": "この見出しのみからは労働法制の改正や企業の具体的な対応事項は読み取れません。日銀総裁が経済動向として賃金上昇の傾向に言及したと推測されますが、人事労務担当者が実施すべき具体的な法的対応や制度変更は本文なしでは不明です。",
+      "summarizedAt": "2026-10-31T01:27:34.151Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw_news",
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "publishedAt": "2026-10-30T08:30:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-10-31T01:27:13.029Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "summary": "中央最低賃金審議会の目安に関する小委員会が開催され、今年度の地域別最低賃金改定の目安額について審議が行われる見込みです。人事労務担当者は決定後、自社の賃金が最低賃金を下回らないか確認し、必要に応じて改定の準備を進める必要があります。",
+      "summarizedAt": "2026-10-31T01:27:24.247Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE83U1pTMlFFYVgyeUdZVFIyRm1UQkEzbUIwMVdrUl9jeWlaRkliXy10SDkwbDhBUHRGd0g1b2hUVUFMelFWekZhd2M5SnlULVJwNno5Vk1sWUhmd096SDRPS0tGc3RpdzY0ZHNZaQ",
+      "source": "nikkei_news",
+      "title": "勤務時間合算で割増賃金、副業推進の障壁に 厚労省が見直し議論",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83U1pTMlFFYVgyeUdZVFIyRm1UQkEzbUIwMVdrUl9jeWlaRkliXy10SDkwbDhBUHRGd0g1b2hUVUFMelFWekZhd2M5SnlULVJwNno5Vk1sWUhmd096SDRPS0tGc3RpdzY0ZHNZaQ?oc=5",
+      "publishedAt": "2026-10-30T06:00:39.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE83U1pTMlFFYVgyeUdZVFIyRm1UQkEzbUIwMVdrUl9jeWlaRkliXy10SDkwbDhBUHRGd0g1b2hUVUFMelFWekZhd2M5SnlULVJwNno5Vk1sWUhmd096SDRPS0tGc3RpdzY0ZHNZaQ",
+      "summary": "副業・兼業時の労働時間を通算して割増賃金を算定する現行ルールが副業推進の障壁となっているため、厚生労働省が制度の見直しに向けた議論を開始します。企業の労務管理負担軽減と副業促進の両立が焦点となる見通しです。",
+      "summarizedAt": "2026-10-31T01:27:27.228Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBrLUdHc0pSdTI4XzZlS1FFZWVldWRpLU1FMGxQUWpLZ0stRVNYNkw0cTFLU1d3M20xNTZCb1VPbEdSVXQ1bjBiY2xFYUJLbzZJYXVmMzdpeDB2WDQ2UUJwcWp3UVNaa1c2TW5ocg",
+      "source": "nikkei_news",
+      "title": "9月新規求職4.4%減 ｢106万円の壁｣撤廃前に労働条件吟味",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrLUdHc0pSdTI4XzZlS1FFZWVldWRpLU1FMGxQUWpLZ0stRVNYNkw0cTFLU1d3M20xNTZCb1VPbEdSVXQ1bjBiY2xFYUJLbzZJYXVmMzdpeDB2WDQ2UUJwcWp3UVNaa1c2TW5ocg?oc=5",
+      "publishedAt": "2026-10-30T03:13:42.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBrLUdHc0pSdTI4XzZlS1FFZWVldWRpLU1FMGxQUWpLZ0stRVNYNkw0cTFLU1d3M20xNTZCb1VPbEdSVXQ1bjBiY2xFYUJLbzZJYXVmMzdpeDB2WDQ2UUJwcWp3UVNaa1c2TW5ocg",
+      "summary": "「106万円の壁」撤廃を控え、9月の新規求職者数が前年同月比4.4%減少しました。パート労働者が制度変更前に労働条件を見極める動きが強まっており、人事担当者は採用活動への影響と従業員からの労働条件見直し相談への対応準備が必要です。",
+      "summarizedAt": "2026-10-31T01:27:37.509Z",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77050.html",
       "source": "mhlw_news",
@@ -68,6 +138,20 @@
       "storyId": "nikkei:CBMifEFVX3lxTFBLYUUycWRoVl8wUDJhZ19QVzdSQl9FOW9HaXExWnlXZWhMWTdRS0oyN2dzRmlsbDJCLXg0dEZyQllZRVNVc09tcGRUUjBQb2hKOHhqRDJqOWJWb1h6Y3ZNd3Fub0FtSjRlWjZRb1E1bmxJUFhzSnBIMVU1V3g",
       "summary": "塩野義製薬は、シニア社員を含む全社員を対象に同一労働同一賃金の原則を適用し、年齢に関わらず職務内容に基づく「ゼロベース」の評価制度へ移行します。人事担当者は、定年後再雇用者の処遇を職務基準で見直す動きとして注目すべきです。",
       "summarizedAt": "2026-10-30T01:43:59.169Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBicUhnRjZHODF1MzRKZThfbm5NSzVwNGlWNnMwdnE1NngwMmxzUzJmdnBMRlpFR3BqSUwwQ0ptZ0xBTjdQanAtLWRYZ0w1ZjdWOXNxLXdxZmhUOXZKSndESVlBTW9KX2M",
+      "source": "nikkei_news",
+      "title": "塩野義、シニアでも同一労働同一賃金 全社員「ゼロベース」評価が出発点",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBicUhnRjZHODF1MzRKZThfbm5NSzVwNGlWNnMwdnE1NngwMmxzUzJmdnBMRlpFR3BqSUwwQ0ptZ0xBTjdQanAtLWRYZ0w1ZjdWOXNxLXdxZmhUOXZKSndESVlBTW9KX2M?oc=5",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBicUhnRjZHODF1MzRKZThfbm5NSzVwNGlWNnMwdnE1NngwMmxzUzJmdnBMRlpFR3BqSUwwQ0ptZ0xBTjdQanAtLWRYZ0w1ZjdWOXNxLXdxZmhUOXZKSndESVlBTW9KX2M",
+      "summary": "塩野義製薬がシニア層を含む全社員に同一労働同一賃金の原則を適用し、年齢や勤続年数にかかわらず職務内容と成果に基づく「ゼロベース」評価による処遇制度へ転換します。人事担当者は、再雇用者を含む高齢社員の評価・報酬体系の見直しが今後の課題となることを認識すべきです。",
+      "summarizedAt": "2026-10-31T01:27:30.780Z",
       "isGuideline": false
     },
     {
@@ -9092,6 +9176,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1DMzZfUUdpRVMxdTA5T2ltNnhrWjJnZ2d4U0ZYV2h1dGFFQVRLeWZESG16VllqMDhpbkpWRmlXbHR3YlZHNWswS3JmS2VwQWtySTJHcA",
+      "source": "rosei_news",
+      "title": "第304回 尾野裕美 ― 男性育休を支える上司と同僚の心理",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DMzZfUUdpRVMxdTA5T2ltNnhrWjJnZ2d4U0ZYV2h1dGFFQVRLeWZESG16VllqMDhpbkpWRmlXbHR3YlZHNWswS3JmS2VwQWtySTJHcA?oc=5",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-31T01:27:12.705Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1DMzZfUUdpRVMxdTA5T2ltNnhrWjJnZ2d4U0ZYV2h1dGFFQVRLeWZESG16VllqMDhpbkpWRmlXbHR3YlZHNWswS3JmS2VwQWtySTJHcA",
+      "summary": "男性育休取得者を支える職場環境づくりにおいて、上司や同僚がどのような心理状態にあるかを理解することが重要です。管理職や周囲の同僚の受容的な態度と心理的サポートが、男性育休の円滑な取得と職場復帰の鍵となります。",
+      "summarizedAt": "2026-10-31T01:27:52.860Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiXEFVX3lxTFA0QUkxZ1J3UXpEdERQYVoxck4xQjNCV3VZakswSGlNWVFvYTNBcllTTVVLRFZwck9JTFZTV3VnS0tqb0pmdTFxRkw0TzhYa0xvNURwaUYwbHh6ekFf",
       "source": "rosei_news",
       "title": "『ハラスメントリスクに該当する言動の総点検』",
@@ -11261,6 +11359,20 @@
       "storyId": "nikkei:CBMiYkFVX3lxTE1MY01XME00eWk2c1pMUE51WGthRXBWRGEwaFZJUHNoRzRSUmhjUjNJOHN5eWk1cTZ6enNSYXJDeHd3VFZzMFdsSGVtYWV1VEFRUU81VlJhaDhoNmdWOUlOeFF3",
       "summary": "村木厚子氏が外国人労働者受け入れにおいて「隔離」政策は適切でないと指摘しています。外国人労働者の採用・雇用管理を行う人事担当者は、統合的な受け入れ態勢の構築が求められる方向性を認識する必要があります。",
       "summarizedAt": "2026-09-25T00:21:42.785Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9KOU5tNHBWYW9TY3JEeUgyX244U1Iyc2dpNUZHdHBmLWxjOXNXX1REbWJBY2pnUnFEa09qTkQyRGF2bm1hMk00ZTctQ3lXc0tPT1FEcg",
+      "source": "rosei_news",
+      "title": "2025年度地域別最低賃金額改定の目安に関する公益委員見解",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOU5tNHBWYW9TY3JEeUgyX244U1Iyc2dpNUZHdHBmLWxjOXNXX1REbWJBY2pnUnFEa09qTkQyRGF2bm1hMk00ZTctQ3lXc0tPT1FEcg?oc=5",
+      "publishedAt": "2025-09-12T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-31T01:27:12.705Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9KOU5tNHBWYW9TY3JEeUgyX244U1Iyc2dpNUZHdHBmLWxjOXNXX1REbWJBY2pnUnFEa09qTkQyRGF2bm1hMk00ZTctQ3lXc0tPT1FEcg",
+      "summary": "2025年度の地域別最低賃金改定について、中央最低賃金審議会の公益委員が目安額を示しました。各都道府県の審議会は7月末頃に示される目安を参考に地域の実情を踏まえた審議を行うため、人事担当者は秋の改定に向けて賃金体系の見直し準備が必要です。",
+      "summarizedAt": "2026-10-31T01:27:47.573Z",
       "isGuideline": false
     },
     {
@@ -13524,6 +13636,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTFBjNFRPQ1V2eWpvcExHd2UzZm1jRExnUW4wZnk0VjBTcmJNSy1HMExJc2pQdEhLUEx2THBtbU9taHVSR1R6OVFmWXkzZHczSTdLUENCdg",
+      "source": "rosei_news",
+      "title": "中途採用者の初任賃金（2023年4～9月期）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjNFRPQ1V2eWpvcExHd2UzZm1jRExnUW4wZnk0VjBTcmJNSy1HMExJc2pQdEhLUEx2THBtbU9taHVSR1R6OVFmWXkzZHczSTdLUENCdg?oc=5",
+      "publishedAt": "2024-02-09T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-31T01:27:12.705Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBjNFRPQ1V2eWpvcExHd2UzZm1jRExnUW4wZnk0VjBTcmJNSy1HMExJc2pQdEhLUEx2THBtbU9taHVSR1R6OVFmWXkzZHczSTdLUENCdg",
+      "summary": "2023年4月から9月にかけて実施された中途採用者の初任賃金に関する調査結果です。この時期の中途採用における賃金水準の実態を把握し、自社の採用条件設定の参考とすることができます。",
+      "summarizedAt": "2026-10-31T01:27:50.077Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBmQWZrc2ROclhWaVpKQmxDSTVCVE4zaGtBQ3o5TkNkT2lXazJpV21LcTJjZ0FNM1NzSVVOcC01eU5IZ04xdFhlb252ZkFVZENhQ1lJZg",
       "source": "rosei_news",
       "title": "『人事担当者のためのハラスメント防止研修ハンドブック ハラスメント防止研修の準備 実践 研修後まで』",
@@ -13689,6 +13815,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE5sRUlDMmlMWmRPd21YTThGUkVXZVpfR2lpbXo3NXY3MXBHcUlHWWU4Uk8wbnBMZEVzb3ZvME9yS1RpeXNkcUpiY00xQ0p3TWxsR3NTQg",
       "summary": "厚生労働省が来春闘に向けて地方版の政労使会議開催を通達しました。地域レベルでの賃上げ機運を高める狙いがあり、各地域での労使交渉や賃金改定の動向に影響を与える可能性があります。",
       "summarizedAt": "2026-09-12T22:13:21.847Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE41YUN1bTU3aF9WMVVFLTJzTVZQa29xZFllNFhLZjFqSGlmXzJtZG5haVhFNk84X1NERjg4amlQc1ZNX0pXNFBtQWttMk1tQ3FfZzd4bg",
+      "source": "rosei_news",
+      "title": "介護報酬１・５９％引き上げ 障害福祉は１・１２％プラス 賃上げ狙い、政府方針",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41YUN1bTU3aF9WMVVFLTJzTVZQa29xZFllNFhLZjFqSGlmXzJtZG5haVhFNk84X1NERjg4amlQc1ZNX0pXNFBtQWttMk1tQ3FfZzd4bg?oc=5",
+      "publishedAt": "2023-12-16T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-10-31T01:27:12.705Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE41YUN1bTU3aF9WMVVFLTJzTVZQa29xZFllNFhLZjFqSGlmXzJtZG5haVhFNk84X1NERjg4amlQc1ZNX0pXNFBtQWttMk1tQ3FfZzd4bg",
+      "summary": "政府は介護報酬を1.59%、障害福祉サービス等報酬を1.12%引き上げる方針を決定しました。介護・福祉業界で働く従業員の賃上げを目的としており、該当事業者は報酬改定に伴う賃金対応の検討が必要です。",
+      "summarizedAt": "2026-10-31T01:27:55.926Z",
       "isGuideline": false
     },
     {
@@ -14445,6 +14585,20 @@
       "storyId": "nikkei:CBMiyAFBVV95cUxOblZJYWduVUVjLVBuS3BtajJjOE9ON1Zya0I2Uy1oV3cyQ0hCNHVramtZNmpkZURPM21wejZ5ZDU1NzhkekNza0RqRkc0SV8ySTA2WUxoUk5OemF3cnF4b0ozWW1HZmRCSXR1TGxkTTZyWGpjSVItWEtiY1VvT09GTjJlVFRibVRXVGVGcjlzZjU4NXRGbFBLaFR6MS1DcjZIVVo5RklpaUcwRUM5YmJZQ3FqQ3RZUTR0SlVRTFRPZDMzVl81ZG1fUg",
       "summary": "# 要約\n\n見出しのみでは具体的な法改正や制度変更の内容が不明なため、確実な要約は困難です。「賃上げ包囲網」という表現から、政府や社会が企業に賃上げを促す複数の施策を展開している状況が推測されますが、詳細は本文の確認が必要です。",
       "summarizedAt": "2026-10-23T00:28:02.643Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMi2wFBVV95cUxPTkdhb1FrWnBNUkhyM1JvUGNGYVpaV0Nlb2xVOE1ESnJ5clc0cTAwTnIyM2Q3d01uWTl0UFMtbW1ULXpiWWhJMVdqM0Z5bXBPRzR6MHM2UXoxNnBETjZXa2RMVWltRUktWWJYUGlveVYzOTh0R1ZzNEFXaG85bjRGMHI0UW1XeWFJVlU4Q2FFVk9JenlYUmxlSzA2bzAxZTFCc3UzSERkbUNwYUgtR05VMVNsd1BPYTFPNmJtQUNlUkpxNzBpblFIU2tGM0xGeHpzZmNGUWhxZkJZMTQ",
+      "source": "nikkei_news",
+      "title": "賃上げ包囲網",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTkdhb1FrWnBNUkhyM1JvUGNGYVpaV0Nlb2xVOE1ESnJ5clc0cTAwTnIyM2Q3d01uWTl0UFMtbW1ULXpiWWhJMVdqM0Z5bXBPRzR6MHM2UXoxNnBETjZXa2RMVWltRUktWWJYUGlveVYzOTh0R1ZzNEFXaG85bjRGMHI0UW1XeWFJVlU4Q2FFVk9JenlYUmxlSzA2bzAxZTFCc3UzSERkbUNwYUgtR05VMVNsd1BPYTFPNmJtQUNlUkpxNzBpblFIU2tGM0xGeHpzZmNGUWhxZkJZMTQ?oc=5",
+      "publishedAt": "2022-07-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-10-31T01:27:12.703Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi2wFBVV95cUxPTkdhb1FrWnBNUkhyM1JvUGNGYVpaV0Nlb2xVOE1ESnJ5clc0cTAwTnIyM2Q3d01uWTl0UFMtbW1ULXpiWWhJMVdqM0Z5bXBPRzR6MHM2UXoxNnBETjZXa2RMVWltRUktWWJYUGlveVYzOTh0R1ZzNEFXaG85bjRGMHI0UW1XeWFJVlU4Q2FFVk9JenlYUmxlSzA2bzAxZTFCc3UzSERkbUNwYUgtR05VMVNsd1BPYTFPNmJtQUNlUkpxNzBpblFIU2tGM0xGeHpzZmNGUWhxZkJZMTQ",
+      "summary": "# 要約\n\n**見出しのみでは具体的な法制度変更や企業が取るべき対応は読み取れません。**賃上げに関する政策動向や企業への圧力強化が示唆されますが、実施時期・対象・具体的措置は不明のため、本文の確認が必要です。",
+      "summarizedAt": "2026-10-31T01:27:43.861Z",
       "isGuideline": false
     },
     {
