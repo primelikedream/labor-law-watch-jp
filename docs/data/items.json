@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:27:55.930Z",
+  "updatedAt": "2026-11-01T00:48:55.301Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE9yaG82T3RacDNJcEZDX2VLekswbWtaZHREdEVuR3FNYVF6MV8xRlViMWlZcHdTY3YxU0RGck1MR3o1OHVuSnoxWG0xdGFqejBZREdJN19Ic09Ia2Y2QW1oWkhTYUZ1YzhITEdTdg",
@@ -11910,6 +11910,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiWkFVX3lxTE5FR2FvNTJ6d2duTGpwQXhGMllwbWozTEEwYXpHcTdkX01jVEtXTVJQVFdrelpKT1cxbWNvMnlwUUcxU0xRWEMya3diTDBUeWJ0aHBGZjQ1dGZLdw",
+      "source": "nikkei_news",
+      "title": "ハラスメントが会社を滅ぼす",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FR2FvNTJ6d2duTGpwQXhGMllwbWozTEEwYXpHcTdkX01jVEtXTVJQVFdrelpKT1cxbWNvMnlwUUcxU0xRWEMya3diTDBUeWJ0aHBGZjQ1dGZLdw?oc=5",
+      "publishedAt": "2025-03-26T06:04:26.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-01T00:48:41.159Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWkFVX3lxTE5FR2FvNTJ6d2duTGpwQXhGMllwbWozTEEwYXpHcTdkX01jVEtXTVJQVFdrelpKT1cxbWNvMnlwUUcxU0xRWEMya3diTDBUeWJ0aHBGZjQ1dGZLdw",
+      "summary": "# 要約\n\nハラスメント問題が企業経営に深刻な影響を及ぼすリスクが指摘されています。人事・労務担当者は、ハラスメント防止体制の強化と組織風土の改善に取り組む必要があります。\n\n(80字)\n\n---\n\n※本文が取得できていないため、見出しから読み取れる範囲での要約となります。具体的な法改正内容や実務上の対応策については、記事本文の確認が必要です。",
+      "summarizedAt": "2026-11-01T00:48:55.297Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE05NkRGdFI0bElWLXNpUmgwNFJGSmtXMkNVVEVVYmNzMTk5cW1jOGxiYS1Eb3RlU2hrM055a1d2TDJkQV8zTDFoQXBHX2VWV0hZNUVGQw",
       "source": "rosei_news",
       "title": "企業の人手不足感続く 正社員もパートも",
@@ -14235,6 +14249,20 @@
       "summary": "変形労働時間制について、制度の仕組み・導入要件・運用上の留意点などを体系的に解説した実務ガイドです。人事労務担当者が変形労働時間制を正しく理解し適切に運用するための知識習得に活用できます。",
       "summarizedAt": "2026-09-04T22:14:48.278Z",
       "storyId": "rosei:CBMiW0FVX3lxTE4teUpXbTZNMm55Zl9zZVpFTUhTMjIybG13SUxYbnQxNFRYOGNZWWl0WmUxcjI2SUg4T2NfUEg0ZnhkX2JKNy1qaHpmMXdVQjZodURQS0NZWHJPd1U",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiVkFVX3lxTE9Gc2Q5OGpIU2N2UHBtbnI0RTRXMVU3WTRVUnczTnNUWGdWcHVQRzlwVnVLNUt2U1UzNC1JdWlDT1NLeXlQSDNaVG4wUngzUmpIbEx3T1Jn",
+      "source": "nikkei_news",
+      "title": "パワーハラスメント｜Well",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc2Q5OGpIU2N2UHBtbnI0RTRXMVU3WTRVUnczTnNUWGdWcHVQRzlwVnVLNUt2U1UzNC1JdWlDT1NLeXlQSDNaVG4wUngzUmpIbEx3T1Jn?oc=5",
+      "publishedAt": "2023-02-28T15:47:29.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-01T00:48:41.159Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiVkFVX3lxTE9Gc2Q5OGpIU2N2UHBtbnI0RTRXMVU3WTRVUnczTnNUWGdWcHVQRzlwVnVLNUt2U1UzNC1JdWlDT1NLeXlQSDNaVG4wUngzUmpIbEx3T1Jn",
+      "summary": "【要約】\n見出しのみでは具体的な法改正や施策の内容が不明ですが、パワーハラスメントに関する情報として労務・人事担当者は関連法制や職場環境改善の最新動向を確認する必要があります。\n\n（※本文情報がないため、具体的な変更点や対応事項は記載できません）",
+      "summarizedAt": "2026-11-01T00:48:51.737Z",
       "isGuideline": false
     },
     {
