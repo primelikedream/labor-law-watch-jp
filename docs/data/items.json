@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-01T00:48:55.301Z",
+  "updatedAt": "2026-11-02T01:22:27.785Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBNSUhudGE5NmVmcy1jUUVYU0hETW9PQWEwZ2pTM2R5T3VoR3ctd0RhX2x1OTFjWmxHZVY2Y0JEQjByVy1PaEw2R0x4ZUlmZE85amxpaThlY2JrcENuNmlPYnRmY3BIaVFuZ3pkdw",
+      "source": "nikkei_news",
+      "title": "滋賀県、初のジェンダー平等債発行 男女賃金格差の是正目指す",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSUhudGE5NmVmcy1jUUVYU0hETW9PQWEwZ2pTM2R5T3VoR3ctd0RhX2x1OTFjWmxHZVY2Y0JEQjByVy1PaEw2R0x4ZUlmZE85amxpaThlY2JrcENuNmlPYnRmY3BIaVFuZ3pkdw?oc=5",
+      "publishedAt": "2026-11-01T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBNSUhudGE5NmVmcy1jUUVYU0hETW9PQWEwZ2pTM2R5T3VoR3ctd0RhX2x1OTFjWmxHZVY2Y0JEQjByVy1PaEw2R0x4ZUlmZE85amxpaThlY2JrcENuNmlPYnRmY3BIaVFuZ3pkdw",
+      "summary": "滋賀県が全国初となるジェンダー平等債を発行し、調達資金を男女間賃金格差の是正に向けた取り組みに充当します。県内企業は今後、賃金格差是正に関する県の施策強化への対応が求められる可能性があります。",
+      "summarizedAt": "2026-11-02T01:22:02.263Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBGMHF1RFNSZm1MMnlxVl84Y0xwVU9RWUJUU3VMVDVvODRNVmt1bXdBS1pPZzRFWXhvaTVnNVNVZUE0a1h6NEJkdU45czNlQ0ZDeUFYVnVKelB4QmR0VFVUWGZrdENHSjZBNUQ3YQ",
+      "source": "nikkei_news",
+      "title": "AIと生産性のジレンマ 住友生命の解、労働時間圧縮で働き手に規律",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGMHF1RFNSZm1MMnlxVl84Y0xwVU9RWUJUU3VMVDVvODRNVmt1bXdBS1pPZzRFWXhvaTVnNVNVZUE0a1h6NEJkdU45czNlQ0ZDeUFYVnVKelB4QmR0VFVUWGZrdENHSjZBNUQ3YQ?oc=5",
+      "publishedAt": "2026-11-01T02:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBGMHF1RFNSZm1MMnlxVl84Y0xwVU9RWUJUU3VMVDVvODRNVmt1bXdBS1pPZzRFWXhvaTVnNVNVZUE0a1h6NEJkdU45czNlQ0ZDeUFYVnVKelB4QmR0VFVUWGZrdENHSjZBNUQ3YQ",
+      "summary": "住友生命がAI活用による生産性向上の取り組みとして、労働時間圧縮を通じて働き手に規律を促す施策を実施しています。人事担当者は、AI導入時に単なる業務効率化だけでなく、労働時間管理と組み合わせた運用設計を検討する必要があります。",
+      "summarizedAt": "2026-11-02T01:21:55.585Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMivwFBVV95cUxOdV9TOHlnTDI5dUl1MkdDUTd0bW41SUhfUWNfaVpXTHpUYTZsWUZKc2FJcm9yMTg5UXhRYnhFMHJ5d0xZS2M1SkUxZDBQVm9tSERwTVdabmRrcUM3V1RMUWJYWVNjVzJJRGJhTEF2VjFaUU9IVEhaUWJGUzNWN3B3aUxOYXpRMFFWQ0QxQXBrMzBoVjF5S1VvYkEtVC1yaHpCRFpGS2U4LTV2N0tlbTREN0owTnI0N1NRUnZLX2xaMA",
+      "source": "nikkei_news",
+      "title": "ハラスメントとテレワークが心を壊す",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdV9TOHlnTDI5dUl1MkdDUTd0bW41SUhfUWNfaVpXTHpUYTZsWUZKc2FJcm9yMTg5UXhRYnhFMHJ5d0xZS2M1SkUxZDBQVm9tSERwTVdabmRrcUM3V1RMUWJYWVNjVzJJRGJhTEF2VjFaUU9IVEhaUWJGUzNWN3B3aUxOYXpRMFFWQ0QxQXBrMzBoVjF5S1VvYkEtVC1yaHpCRFpGS2U4LTV2N0tlbTREN0owTnI0N1NRUnZLX2xaMA?oc=5",
+      "publishedAt": "2026-10-31T10:53:26.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMivwFBVV95cUxOdV9TOHlnTDI5dUl1MkdDUTd0bW41SUhfUWNfaVpXTHpUYTZsWUZKc2FJcm9yMTg5UXhRYnhFMHJ5d0xZS2M1SkUxZDBQVm9tSERwTVdabmRrcUM3V1RMUWJYWVNjVzJJRGJhTEF2VjFaUU9IVEhaUWJGUzNWN3B3aUxOYXpRMFFWQ0QxQXBrMzBoVjF5S1VvYkEtVC1yaHpCRFpGS2U4LTV2N0tlbTREN0owTnI0N1NRUnZLX2xaMA",
+      "summary": "この見出しのみからは、ハラスメントとテレワークが心身の健康に悪影響を及ぼす可能性が指摘されているようです。人事・労務担当者は、テレワーク環境下でのハラスメント防止策の強化と、従業員のメンタルヘルス対策の見直しが求められる可能性があります。\n\n(本文未取得のため詳細不明・95字)",
+      "summarizedAt": "2026-11-02T01:22:11.348Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMid0FVX3lxTFBPLWhRcGl6bi1SOTNwMXUtdndXd0tQd2MwQjFRQ09Lc21WRElGZFJMSDI0OXYyRnIxbGZzdENlLWtaek5rT3AybjVuVGptRUZZcDF0TDNOUXhCVXpMY0hNUVZieE1qWDNZQm5uVUxMSFJpd2lWdF9B",
+      "source": "nikkei_news",
+      "title": "日東電工の社内カフェが問いかける――障害者雇用は「仕事をつくる」だけでよいのか",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPLWhRcGl6bi1SOTNwMXUtdndXd0tQd2MwQjFRQ09Lc21WRElGZFJMSDI0OXYyRnIxbGZzdENlLWtaek5rT3AybjVuVGptRUZZcDF0TDNOUXhCVXpMY0hNUVZieE1qWDNZQm5uVUxMSFJpd2lWdF9B?oc=5",
+      "publishedAt": "2026-10-31T07:38:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMid0FVX3lxTFBPLWhRcGl6bi1SOTNwMXUtdndXd0tQd2MwQjFRQ09Lc21WRElGZFJMSDI0OXYyRnIxbGZzdENlLWtaek5rT3AybjVuVGptRUZZcDF0TDNOUXhCVXpMY0hNUVZieE1qWDNZQm5uVUxMSFJpd2lWdF9B",
+      "summary": "日東電工が社内カフェを通じて障害者雇用の在り方を再考しており、単に雇用の場を創出するだけでなく、障害者が真に活躍できる就労環境の質的向上が問われています。人事担当者は形式的な法定雇用率達成を超えた、実質的な職域開発と定着支援の検討が求められます。",
+      "summarizedAt": "2026-11-02T01:21:59.509Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9yaG82T3RacDNJcEZDX2VLekswbWtaZHREdEVuR3FNYVF6MV8xRlViMWlZcHdTY3YxU0RGck1MR3o1OHVuSnoxWG0xdGFqejBZREdJN19Ic09Ia2Y2QW1oWkhTYUZ1YzhITEdTdg",
       "source": "nikkei_news",
@@ -44,6 +100,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE5vX0Q2d3d2LWN0TEI5M24zeDF5ck1VbzFfei1XaWpIZDdUSG5tazJva0luUmZka0ZoMmxyeFFsNWFnbzF5U2ZmR0dGSGl5dGI0cURncA",
+      "source": "rosei_news",
+      "title": "中小との価格転嫁交渉要請 賃上げ社会全体に浸透を ２７年春闘、経団連指針原案",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vX0Q2d3d2LWN0TEI5M24zeDF5ck1VbzFfei1XaWpIZDdUSG5tazJva0luUmZka0ZoMmxyeFFsNWFnbzF5U2ZmR0dGSGl5dGI0cURncA?oc=5",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-02T01:21:44.591Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE5vX0Q2d3d2LWN0TEI5M24zeDF5ck1VbzFfei1XaWpIZDdUSG5tazJva0luUmZka0ZoMmxyeFFsNWFnbzF5U2ZmR0dGSGl5dGI0cURncA",
+      "summary": "経団連が2027年春闘に向けた指針原案で、賃上げを社会全体に広げるため、大企業に対して中小企業との価格転嫁交渉を要請する方針を示しました。自社の賃上げだけでなく取引先中小企業の賃上げ原資確保への配慮が求められます。",
+      "summarizedAt": "2026-11-02T01:22:20.834Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE83U1pTMlFFYVgyeUdZVFIyRm1UQkEzbUIwMVdrUl9jeWlaRkliXy10SDkwbDhBUHRGd0g1b2hUVUFMelFWekZhd2M5SnlULVJwNno5Vk1sWUhmd096SDRPS0tGc3RpdzY0ZHNZaQ",
       "source": "nikkei_news",
       "title": "勤務時間合算で割増賃金、副業推進の障壁に 厚労省が見直し議論",
@@ -69,6 +139,34 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBrLUdHc0pSdTI4XzZlS1FFZWVldWRpLU1FMGxQUWpLZ0stRVNYNkw0cTFLU1d3M20xNTZCb1VPbEdSVXQ1bjBiY2xFYUJLbzZJYXVmMzdpeDB2WDQ2UUJwcWp3UVNaa1c2TW5ocg",
       "summary": "「106万円の壁」撤廃を控え、9月の新規求職者数が前年同月比4.4%減少しました。パート労働者が制度変更前に労働条件を見極める動きが強まっており、人事担当者は採用活動への影響と従業員からの労働条件見直し相談への対応準備が必要です。",
       "summarizedAt": "2026-10-31T01:27:37.509Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBDenZRT1lkRllLWmRDQXIyb3JfdUpNWjFpMENITVNkbHIwMWhqRVhrX3h0QVUwWXd1QzVRdEp4ek1IVmdvWEI2WnFRYTNUM1ktZUNYcVVaUlJuWW1jZE1FV2hUZXYwdmtveDRzTg",
+      "source": "nikkei_news",
+      "title": "国内鉱山でダンプ自動運転 日鉄鉱業、人手不足受け要員半減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDenZRT1lkRllLWmRDQXIyb3JfdUpNWjFpMENITVNkbHIwMWhqRVhrX3h0QVUwWXd1QzVRdEp4ek1IVmdvWEI2WnFRYTNUM1ktZUNYcVVaUlJuWW1jZE1FV2hUZXYwdmtveDRzTg?oc=5",
+      "publishedAt": "2026-10-30T02:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBDenZRT1lkRllLWmRDQXIyb3JfdUpNWjFpMENITVNkbHIwMWhqRVhrX3h0QVUwWXd1QzVRdEp4ek1IVmdvWEI2WnFRYTNUM1ktZUNYcVVaUlJuWW1jZE1FV2hUZXYwdmtveDRzTg",
+      "summary": "日鉄鉱業が国内鉱山でダンプの自動運転を導入し、人手不足への対応として運転要員を半減させる方針です。鉱山業での省人化・自動化の先行事例として、同様の課題を抱える企業は参考にできます。",
+      "summarizedAt": "2026-11-02T01:22:08.059Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiW0FVX3lxTFBYOVBSUjJWNzRZd0J6bk8wRzdJWGZEVW4zV2UzX3RZQm5GSjVoS2tBM0x5amJaYnhHRGRwc2t1aDRRc19TUld6Sk5TaVlacEpoNm5RXzhnZy1pdkk",
+      "source": "nikkei_news",
+      "title": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOVBSUjJWNzRZd0J6bk8wRzdJWGZEVW4zV2UzX3RZQm5GSjVoS2tBM0x5amJaYnhHRGRwc2t1aDRRc19TUld6Sk5TaVlacEpoNm5RXzhnZy1pdkk?oc=5",
+      "publishedAt": "2026-10-30T00:10:36.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiW0FVX3lxTFBYOVBSUjJWNzRZd0J6bk8wRzdJWGZEVW4zV2UzX3RZQm5GSjVoS2tBM0x5amJaYnhHRGRwc2t1aDRRc19TUld6Sk5TaVlacEpoNm5RXzhnZy1pdkk",
+      "summary": "三菱商事が男性育休取得率171%（対象期間に複数回取得者がいる計算）で首位を獲得し、部長をアンバサダーに指名する独自施策を展開しています。男性育休推進には経営層・管理職の積極関与が有効である点を参考に、自社の取得促進策を検討すべきです。",
+      "summarizedAt": "2026-11-02T01:22:14.830Z",
       "isGuideline": false
     },
     {
@@ -166,6 +264,20 @@
       "storyId": "nikkei:CBMiZ0FVX3lxTFBoRWR2Zk43WDVkdXgzRF9xbFdqcVVqcHNJX3l6eXFyMjRoVWtqbDV1ZVZrbFJzaWxLektaUFRXSTdhU3lLQTRsdGd1Wl9RTnBMVU5xcXgzWFVjMk1NaEMzN2ppbzdvVnM",
       "summary": "建設業の賃上げ実施率が産業別でワースト3位となり、改定率も6年ぶりに低下しました。建設業の人事担当者は、人材確保競争の激化が予想される中で、賃金以外の処遇改善策の検討が必要です。",
       "summarizedAt": "2026-10-29T01:39:00.124Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1XRlA0QWJYZmUtT24wM1YwTlRLUkcwUGtkajBuUmZLOTdQemZXc3NzQ1hQVWt6NnpsRE12U01ac3lHTGtCV19nN1B0eTl6ZEhXRkphNEZjX3ItSE9CU0h4OVdtalBGM200SnNfdg",
+      "source": "nikkei_news",
+      "title": "残業は減ったのに疲れるのはなぜ 「過重労働」から「過密労働」へ 古屋星斗",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XRlA0QWJYZmUtT24wM1YwTlRLUkcwUGtkajBuUmZLOTdQemZXc3NzQ1hQVWt6NnpsRE12U01ac3lHTGtCV19nN1B0eTl6ZEhXRkphNEZjX3ItSE9CU0h4OVdtalBGM200SnNfdg?oc=5",
+      "publishedAt": "2026-10-28T15:01:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1XRlA0QWJYZmUtT24wM1YwTlRLUkcwUGtkajBuUmZLOTdQemZXc3NzQ1hQVWt6NnpsRE12U01ac3lHTGtCV19nN1B0eTl6ZEhXRkphNEZjX3ItSE9CU0h4OVdtalBGM200SnNfdg",
+      "summary": "労働時間は削減されたものの、業務量が減らないため単位時間あたりの作業密度が上昇し、労働者の疲労感が軽減されない「過密労働」が課題となっています。人事担当者は時間管理だけでなく業務量の適正化にも注力する必要があります。",
+      "summarizedAt": "2026-11-02T01:22:05.218Z",
       "isGuideline": false
     },
     {
@@ -13397,6 +13509,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1ieDE0dnNXQTVkdkd5ei0za1JnbXM3TFNsZmplUFZTWXlfb2RIWnRvdUk5clljTFRJLTlEVkZScng1d1d5S0NZTi02MWR5YmV5N3B1VA",
+      "source": "rosei_news",
+      "title": "企業７割が賃上げ５％未達 大手と小規模、格差鮮明 価格転嫁や人材確保難しく",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ieDE0dnNXQTVkdkd5ei0za1JnbXM3TFNsZmplUFZTWXlfb2RIWnRvdUk5clljTFRJLTlEVkZScng1d1d5S0NZTi02MWR5YmV5N3B1VA?oc=5",
+      "publishedAt": "2024-04-29T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-02T01:21:44.591Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1ieDE0dnNXQTVkdkd5ei0za1JnbXM3TFNsZmplUFZTWXlfb2RIWnRvdUk5clljTFRJLTlEVkZScng1d1d5S0NZTi02MWR5YmV5N3B1VA",
+      "summary": "大手企業では賃上げが進む一方、価格転嫁や人材確保の困難により、企業の7割が5%の賃上げを達成できず、企業規模による賃上げ格差が拡大しています。中小企業では賃金競争力の低下による人材確保難が予想されるため、自社の賃金水準の点検と採用戦略の見直しが必要です。",
+      "summarizedAt": "2026-11-02T01:22:27.781Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBEVTB4TkwzYmpQT1EzR0lUWkRjUDRJNV9zNDdabnBDV1pMeW5MS0ZSdEg3UUVSYjVMVGxQXzV5ak4tOEZhMXZoVUVKUXFnbG1vMm9fMg",
       "source": "rosei_news",
       "title": "５％賃上げ、中小は２割 大企業と格差、財務省調べ 人件費転嫁でも苦慮",
@@ -14630,6 +14756,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMi3wFBVV95cUxNbjhpRjhFNk5SVFlHTUE1LWktWkl2QmRjWVRnRWRGd0pqdVBYNThycHVvTGF3NlRUS0k2dmJkOGRzcWFTQzdxdXpNWVFSQ0JPbkx6akJkdndDdEZGSWFNbTFFNG1nWlN5QnVmeW9NNU15WGYtQkxrSjRQbmpLQXdGUnppSVBTWW5GdFRsanNJMHM0VVBQWUhldWhmeEN5OFUzbjROSFZrb1ZSbnVxckdYUlhScUw0N1VBcndNYndFb2VSRWk1eHI3LV80M2RwWnZfRTZIU0NlSGVUelE1Z0xZ",
+      "source": "nikkei_news",
+      "title": "賃上げ包囲網",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbjhpRjhFNk5SVFlHTUE1LWktWkl2QmRjWVRnRWRGd0pqdVBYNThycHVvTGF3NlRUS0k2dmJkOGRzcWFTQzdxdXpNWVFSQ0JPbkx6akJkdndDdEZGSWFNbTFFNG1nWlN5QnVmeW9NNU15WGYtQkxrSjRQbmpLQXdGUnppSVBTWW5GdFRsanNJMHM0VVBQWUhldWhmeEN5OFUzbjROSFZrb1ZSbnVxckdYUlhScUw0N1VBcndNYndFb2VSRWk1eHI3LV80M2RwWnZfRTZIU0NlSGVUelE1Z0xZ?oc=5",
+      "publishedAt": "2022-07-20T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-02T01:21:44.590Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMi3wFBVV95cUxNbjhpRjhFNk5SVFlHTUE1LWktWkl2QmRjWVRnRWRGd0pqdVBYNThycHVvTGF3NlRUS0k2dmJkOGRzcWFTQzdxdXpNWVFSQ0JPbkx6akJkdndDdEZGSWFNbTFFNG1nWlN5QnVmeW9NNU15WGYtQkxrSjRQbmpLQXdGUnppSVBTWW5GdFRsanNJMHM0VVBQWUhldWhmeEN5OFUzbjROSFZrb1ZSbnVxckdYUlhScUw0N1VBcndNYndFb2VSRWk1eHI3LV80M2RwWnZfRTZIU0NlSGVUelE1Z0xZ",
+      "summary": "# 要約\n\n見出しのみで詳細は不明ですが、賃上げを促進する複数の施策や制度が展開されている可能性があります。人事・労務担当者は政府の賃上げ税制や最低賃金改定などの動向を注視し、自社の賃金改定方針の検討が求められます。",
+      "summarizedAt": "2026-11-02T01:22:17.917Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTFBTWHQ4bEpLNnlkLXZnTEFPX0xiaFA2ZHZicFEzOW5EWnhEanIxWXV5bG5PMGZuUko0eHRhNnQ0Y2RadGlCcFZRaENjNzZGeFNYVHFvWWdOY2o3dE4zNmtKZmdOSTNwaHlBY0d1aQ",
       "source": "nikkei_news",
       "title": "ネットで中傷されるサイバーハラスメント 職場の対策は",
@@ -15118,6 +15258,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTFBQMWlXRGJONUh1MW42azFXMkpYdGVBOEpKdHg3REF0Y0c2dDB1WlA3SGpGamdvdjNuVk9EWkNuUnNCeml6aFY0c2p5T05qbldmVVpIaw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBxRzBHUldrLTBMTEZiSUc4Ym9UUGFqeHRxTnoxRlBJUDZHdWJiUVptZlNIbWVCMGpXNmtzUUpCX1VFcGpEdGNDcDF4RElRbW1YOW1Dcw",
+      "source": "rosei_news",
+      "title": "賃上げ税制、最大４０％控除 大企業３０％、段階引き上げ 「成長と分配」へ大幅拡充 政府方針、２２年度改正",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRzBHUldrLTBMTEZiSUc4Ym9UUGFqeHRxTnoxRlBJUDZHdWJiUVptZlNIbWVCMGpXNmtzUUpCX1VFcGpEdGNDcDF4RElRbW1YOW1Dcw?oc=5",
+      "publishedAt": "2021-12-03T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-02T01:21:44.591Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBxRzBHUldrLTBMTEZiSUc4Ym9UUGFqeHRxTnoxRlBJUDZHdWJiUVptZlNIbWVCMGpXNmtzUUpCX1VFcGpEdGNDcDF4RElRbW1YOW1Dcw",
+      "summary": "2022年度税制改正で賃上げ税制が大幅拡充され、賃上げを実施した企業の税額控除率が中小企業で最大40％、大企業で最大30％へ段階的に引き上げられる方針です。賃上げ実施により税負担軽減のメリットが拡大するため、賃上げ計画の検討と税制要件の確認が必要になります。",
+      "summarizedAt": "2026-11-02T01:22:24.201Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE5hOEpGR0lWUkwwNWZzY245Vm9rUXc2TzZGd3VlSDRXekQwdVRMMTNRdzBaU2pXRWYtTUdyN0QtNW8wOTQyRnkxWFVYMG92ZDRKRzlGZA",
