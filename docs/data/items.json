@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-02T01:22:27.785Z",
+  "updatedAt": "2026-11-03T03:22:29.403Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBYTkNNb09BZm5kYXFYVWVvQ2xMZDB5Qm9ISmRraW9iVUhYRnJhUlZDa2RIaTlVMk0wc2VpczlzanBJZktERWk4emlaQ2lPTGhONnJLS2dNWEdLLXRvWGhTQ3dQZ2pWSTJsYjN3OA",
+      "source": "nikkei_news",
+      "title": "農業・伝統工芸の人手不足にAI活用、企業への支援制度導入 総務省",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYTkNNb09BZm5kYXFYVWVvQ2xMZDB5Qm9ISmRraW9iVUhYRnJhUlZDa2RIaTlVMk0wc2VpczlzanBJZktERWk4emlaQ2lPTGhONnJLS2dNWEdLLXRvWGhTQ3dQZ2pWSTJsYjN3OA?oc=5",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-03T03:22:06.789Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBYTkNNb09BZm5kYXFYVWVvQ2xMZDB5Qm9ISmRraW9iVUhYRnJhUlZDa2RIaTlVMk0wc2VpczlzanBJZktERWk4emlaQ2lPTGhONnJLS2dNWEdLLXRvWGhTQ3dQZ2pWSTJsYjN3OA",
+      "summary": "総務省が農業や伝統工芸分野の人手不足解消に向け、AI活用を推進する企業への支援制度を導入します。該当分野で事業展開する企業は、AI導入による業務効率化の支援策を確認し活用を検討してください。",
+      "summarizedAt": "2026-11-03T03:22:17.071Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1rOWMzaXRLaGpGSzZIX1FTM1J6cDQtazFxVG95X1BheUF3M2pmT1FlT3ZXTzBXZGYwYWV1RVo0RVdYWVBHOXItMTA0TkUyT05CNkpPMGkyVlgzMTB0Tk1ybkNpSkIzbVlpb3RvQQ",
+      "source": "nikkei_news",
+      "title": "名鉄、初の特定技能外国人が業務始める 検査場でブレーキ装置整備",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOWMzaXRLaGpGSzZIX1FTM1J6cDQtazFxVG95X1BheUF3M2pmT1FlT3ZXTzBXZGYwYWV1RVo0RVdYWVBHOXItMTA0TkUyT05CNkpPMGkyVlgzMTB0Tk1ybkNpSkIzbVlpb3RvQQ?oc=5",
+      "publishedAt": "2026-11-02T02:28:03.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-03T03:22:06.789Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1rOWMzaXRLaGpGSzZIX1FTM1J6cDQtazFxVG95X1BheUF3M2pmT1FlT3ZXTzBXZGYwYWV1RVo0RVdYWVBHOXItMTA0TkUyT05CNkpPMGkyVlgzMTB0Tk1ybkNpSkIzbVlpb3RvQQ",
+      "summary": "名古屋鉄道が鉄道業界で初めて特定技能外国人労働者を受け入れ、ブレーキ装置整備などの検査業務に従事させました。人材不足対応として特定技能制度の活用範囲が鉄道保守分野にも広がっており、今後の受入れ拡大が見込まれます。",
+      "summarizedAt": "2026-11-03T03:22:23.092Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiW0FVX3lxTFAwMzQzSzlRTUNOVHBDUF9YSnVkYVVyN3JXU0ZBcjJhSVVBVnk2NWdXQXpPYmhsakswUjhCLTJjYURnQldCd3JnNWFmWTV3OVJ6RFoybTkzd1dYQ1E",
+      "source": "rosei_news",
+      "title": "『ハラスメント事案発生時の窓口担当者の実務対応』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzQzSzlRTUNOVHBDUF9YSnVkYVVyN3JXU0ZBcjJhSVVBVnk2NWdXQXpPYmhsakswUjhCLTJjYURnQldCd3JnNWFmWTV3OVJ6RFoybTkzd1dYQ1E?oc=5",
+      "publishedAt": "2026-11-02T01:13:58.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-03T03:22:06.790Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTFAwMzQzSzlRTUNOVHBDUF9YSnVkYVVyN3JXU0ZBcjJhSVVBVnk2NWdXQXpPYmhsakswUjhCLTJjYURnQldCd3JnNWFmWTV3OVJ6RFoybTkzd1dYQ1E",
+      "summary": "ハラスメント事案が発生した際に、相談窓口の担当者が適切に対応するための実務手順やポイントについて解説しています。初期対応から事実確認、関係者への聴取、記録作成など、窓口担当者が押さえるべき具体的な対応方法を確認できます。",
+      "summarizedAt": "2026-11-03T03:22:29.401Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE91dWFWMHp6VmlZeTNLU2FjT1VmS21tRUo5TTc2SzRWOUlKVmktMWFQRWxXa2dManM3M1R2QkUzcWN4amw4dHRNMkl0azJQT0Yyc3gtX2pOMVpkeDU2NW5JOENlckFHdERsNGN0ZA",
+      "source": "nikkei_news",
+      "title": "マイナビ粟井社長、転職支援強化「中途領域の売上高5年で2倍」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91dWFWMHp6VmlZeTNLU2FjT1VmS21tRUo5TTc2SzRWOUlKVmktMWFQRWxXa2dManM3M1R2QkUzcWN4amw4dHRNMkl0azJQT0Yyc3gtX2pOMVpkeDU2NW5JOENlckFHdERsNGN0ZA?oc=5",
+      "publishedAt": "2026-11-01T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-03T03:22:06.789Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE91dWFWMHp6VmlZeTNLU2FjT1VmS21tRUo5TTc2SzRWOUlKVmktMWFQRWxXa2dManM3M1R2QkUzcWN4amw4dHRNMkl0azJQT0Yyc3gtX2pOMVpkeDU2NW5JOENlckFHdERsNGN0ZA",
+      "summary": "マイナビの粟井社長が中途採用領域の売上高を5年で2倍にする方針を表明し、転職支援事業を強化します。人材獲得競争が激化する中、中途採用市場の拡大が見込まれ、企業は採用手法の多様化と予算配分の見直しが必要になる可能性があります。",
+      "summarizedAt": "2026-11-03T03:22:19.859Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBNSUhudGE5NmVmcy1jUUVYU0hETW9PQWEwZ2pTM2R5T3VoR3ctd0RhX2x1OTFjWmxHZVY2Y0JEQjByVy1PaEw2R0x4ZUlmZE85amxpaThlY2JrcENuNmlPYnRmY3BIaVFuZ3pkdw",
       "source": "nikkei_news",
@@ -11838,6 +11894,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE9vUmtPdmZhaFlJOFhkS1pVUjgtcERiSEJ2UDJ4c0VaaHExZExETkI5X21fcXp1X0RmemF0bDcxeU9od1JmbnUyZm1sc0ZialVOV0staw",
       "relevanceChecked": true
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1VTTE3N2R2TV9jWmhDN0pMbXRaRm82bE9YUUY2MlNYeUpkdk9ZM2tnWFRkT2FfZktjdHNYN0JfZkhCZEpyb1Y5dUVFenc2cWN3T0RoQw",
+      "source": "rosei_news",
+      "title": "４月実質賃金１・８％減 マイナス４カ月連続 春闘反映、給与はアップ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTTE3N2R2TV9jWmhDN0pMbXRaRm82bE9YUUY2MlNYeUpkdk9ZM2tnWFRkT2FfZktjdHNYN0JfZkhCZEpyb1Y5dUVFenc2cWN3T0RoQw?oc=5",
+      "publishedAt": "2025-06-05T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-03T03:22:06.790Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1VTTE3N2R2TV9jWmhDN0pMbXRaRm82bE9YUUY2MlNYeUpkdk9ZM2tnWFRkT2FfZktjdHNYN0JfZkhCZEpyb1Y5dUVFenc2cWN3T0RoQw",
+      "summary": "4月の実質賃金は物価上昇により前年比1.8％減で4カ月連続のマイナスとなったものの、春闘の成果により名目賃金（給与）は増加しています。賃上げを実施しても物価高で実質的な購買力は低下している状況を把握し、従業員の生活実態に配慮した処遇改善の検討が求められます。",
+      "summarizedAt": "2026-11-03T03:22:26.887Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMicEFVX3lxTFAta1ZHeVhXQzJDdkN6eFZITElxX0xSckstN25uMDE2Um95VUtYa212QmdXLTY1d3hjRU5XeGtCeVhEMGwzYlF3UkJIUWZSRERoQjNibkZ2Q3dKbEdZWWQ3eHNtZV9BNFhlZzFvWmFuYzk",
