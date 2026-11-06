@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-11-05T02:03:23.343Z",
+  "updatedAt": "2026-11-06T02:05:37.433Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76944.html",
+      "source": "mhlw_news",
+      "title": "第２回障害福祉分野における人材確保・生産性向上に関する検討会（資料）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76944.html",
+      "publishedAt": "2026-11-06T09:33:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-06T02:05:19.606Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76944.html",
+      "summary": "厚生労働省が障害福祉分野における人材確保と生産性向上を検討する会議の第2回を開催し、関連資料を公表しました。障害福祉サービス事業者は今後の人材確保策や業務効率化の方向性について、検討会の議論を注視する必要があります。",
+      "summarizedAt": "2026-11-06T02:05:30.814Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/toukei/list/71-r07.html",
+      "source": "mhlw_news",
+      "title": "令和７年度雇用均等基本調査",
+      "url": "https://www.mhlw.go.jp/toukei/list/71-r07.html",
+      "publishedAt": "2026-11-06T01:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-06T02:05:19.606Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/toukei/list/71-r07.html",
+      "summary": "厚生労働省が令和7年度の雇用均等基本調査を実施します。企業の育児・介護休業制度や女性管理職比率等の調査対象となった場合は、回答への協力が求められます。",
+      "summarizedAt": "2026-11-06T02:05:33.037Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE15MVFfMU9UR29TbzhVazFaaGdaeHJiaE9vdWlKaTBMU0RvdTRSVFNVU29TSHBkR1JQcFpMNnFac2JuU2hRWmxBOUtjbnc4N0VSbGVFVUhldXdnczVFYURFR21OSWZPel92LUVUSw",
+      "source": "nikkei_news",
+      "title": "9月の実質賃金2.2%増、9カ月連続プラス 賃上げが加速",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MVFfMU9UR29TbzhVazFaaGdaeHJiaE9vdWlKaTBMU0RvdTRSVFNVU29TSHBkR1JQcFpMNnFac2JuU2hRWmxBOUtjbnc4N0VSbGVFVUhldXdnczVFYURFR21OSWZPel92LUVUSw?oc=5",
+      "publishedAt": "2026-11-05T23:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-06T02:05:19.213Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE15MVFfMU9UR29TbzhVazFaaGdaeHJiaE9vdWlKaTBMU0RvdTRSVFNVU29TSHBkR1JQcFpMNnFac2JuU2hRWmxBOUtjbnc4N0VSbGVFVUhldXdnczVFYURFR21OSWZPel92LUVUSw",
+      "summary": "2024年9月の実質賃金は前年同月比2.2%増となり、9カ月連続でプラスを記録しました。賃上げの加速傾向が続いており、人事担当者は賃金水準の市場動向を注視し、自社の賃金競争力の検証が求められます。",
+      "summarizedAt": "2026-11-06T02:05:37.430Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77066.html",
+      "source": "mhlw_news",
+      "title": "第39回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77066.html",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-06T02:05:19.606Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77066.html",
+      "summary": "特定石綿被害建設業務労働者等認定審査会の第39回専門委員会が開催されます。石綿による健康被害を受けた建設労働者等の認定に関する審査が行われる見込みです。",
+      "summarizedAt": "2026-11-06T02:05:34.976Z",
+      "isGuideline": false
+    },
     {
       "id": "egov:350M50002000003:20261022",
       "source": "egov_law_update",
