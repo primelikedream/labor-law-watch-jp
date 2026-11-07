@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-06T02:05:37.433Z",
+  "updatedAt": "2026-11-07T01:43:18.338Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBMNVdBeUswMjd5M192MWd2NXY3TXJ5NzFhaW82VlZ2ZVgwSHFfSVRHUkVVMGRBNmlTUHM1NDR0OFpGUEVaelJKMWJWZ1dwTXBfOFpkb0lnRWZUNG5QSWZwTHdIX1B1WW9oSDlhcg",
+      "source": "nikkei_news",
+      "title": "女性活躍どこまで進んでる？ 非正規多く正社員でも賃金差",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNVdBeUswMjd5M192MWd2NXY3TXJ5NzFhaW82VlZ2ZVgwSHFfSVRHUkVVMGRBNmlTUHM1NDR0OFpGUEVaelJKMWJWZ1dwTXBfOFpkb0lnRWZUNG5QSWZwTHdIX1B1WW9oSDlhcg?oc=5",
+      "publishedAt": "2026-11-06T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-07T01:42:59.243Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBMNVdBeUswMjd5M192MWd2NXY3TXJ5NzFhaW82VlZ2ZVgwSHFfSVRHUkVVMGRBNmlTUHM1NDR0OFpGUEVaelJKMWJWZ1dwTXBfOFpkb0lnRWZUNG5QSWZwTHdIX1B1WW9oSDlhcg",
+      "summary": "女性活躍推進の現状として、女性の非正規雇用比率が高く、正社員でも男女間で賃金格差が存在する実態が示されています。人事担当者は自社の雇用形態別の男女比率や賃金差異を点検し、格差是正に向けた取り組みの強化が求められます。",
+      "summarizedAt": "2026-11-07T01:43:13.229Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1RMVduMWVqS0xyUlFKc3ZMSmZSMnhLeWRza29LSEFTTHoxaDR6czFRUUl1WVlXUWo5Q0NHbnk4NzYwT1U2VUN3blJ1b2ZuaGplNE5sZXFkQUN6TTFyeUVucTlXdXlUTndfMVFkNA",
+      "source": "nikkei_news",
+      "title": "人口減少下の総合戦略、AIによる労働力変化を分析 有識者会議が発足",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RMVduMWVqS0xyUlFKc3ZMSmZSMnhLeWRza29LSEFTTHoxaDR6czFRUUl1WVlXUWo5Q0NHbnk4NzYwT1U2VUN3blJ1b2ZuaGplNE5sZXFkQUN6TTFyeUVucTlXdXlUTndfMVFkNA?oc=5",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-07T01:42:59.243Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1RMVduMWVqS0xyUlFKc3ZMSmZSMnhLeWRza29LSEFTTHoxaDR6czFRUUl1WVlXUWo5Q0NHbnk4NzYwT1U2VUN3blJ1b2ZuaGplNE5sZXFkQUN6TTFyeUVucTlXdXlUTndfMVFkNA",
+      "summary": "政府の有識者会議が発足し、人口減少局面におけるAIによる労働力への影響を分析する総合戦略の検討を開始しました。今後の労働政策や人材戦略に影響を及ぼす可能性があるため、会議の動向を注視する必要があります。",
+      "summarizedAt": "2026-11-07T01:43:15.487Z",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76944.html",
       "source": "mhlw_news",
@@ -12,6 +40,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76944.html",
       "summary": "厚生労働省が障害福祉分野における人材確保と生産性向上を検討する会議の第2回を開催し、関連資料を公表しました。障害福祉サービス事業者は今後の人材確保策や業務効率化の方向性について、検討会の議論を注視する必要があります。",
       "summarizedAt": "2026-11-06T02:05:30.814Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77007.html",
+      "source": "mhlw_news",
+      "title": "第42回労働政策審議会労働政策基本部会を開催します",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77007.html",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-07T01:42:59.702Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77007.html",
+      "summary": "労働政策審議会労働政策基本部会の第42回会合が開催されます。具体的な議題は不明ですが、今後の労働政策の基本方針に関する審議が行われる見込みのため、人事労務担当者は審議内容の公表を注視する必要があります。",
+      "summarizedAt": "2026-11-07T01:43:10.323Z",
       "stage": "審議会検討",
       "isGuideline": false
     },
@@ -40,6 +82,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE15MVFfMU9UR29TbzhVazFaaGdaeHJiaE9vdWlKaTBMU0RvdTRSVFNVU29TSHBkR1JQcFpMNnFac2JuU2hRWmxBOUtjbnc4N0VSbGVFVUhldXdnczVFYURFR21OSWZPel92LUVUSw",
       "summary": "2024年9月の実質賃金は前年同月比2.2%増となり、9カ月連続でプラスを記録しました。賃上げの加速傾向が続いており、人事担当者は賃金水準の市場動向を注視し、自社の賃金競争力の検証が求められます。",
       "summarizedAt": "2026-11-06T02:05:37.430Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1XNTYwdGJYdjRWRW9DMWJOQjh0WnpUUFZPSGVtdUczbEpqbzEwREVSNkI2bWl2Z0Q4YjFYbE9hM3B3V2FXU2N5cFZmVTQyX1daU204OHZNTGFwOTJsVkRzOUVUUHBGV2FVQ0lfdA",
+      "source": "nikkei_news",
+      "title": "日本製紙、熊本地震で被災の八代工場の生産再開断念 紙・パルプ生産はせず新事業で拠点や雇用維持",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XNTYwdGJYdjRWRW9DMWJOQjh0WnpUUFZPSGVtdUczbEpqbzEwREVSNkI2bWl2Z0Q4YjFYbE9hM3B3V2FXU2N5cFZmVTQyX1daU204OHZNTGFwOTJsVkRzOUVUUHBGV2FVQ0lfdA?oc=5",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-07T01:42:59.243Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1XNTYwdGJYdjRWRW9DMWJOQjh0WnpUUFZPSGVtdUczbEpqbzEwREVSNkI2bWl2Z0Q4YjFYbE9hM3B3V2FXU2N5cFZmVTQyX1daU204OHZNTGFwOTJsVkRzOUVUUHBGV2FVQ0lfdA",
+      "summary": "この情報は労働法制の改正や制度変更ではなく、企業の個別事業判断に関するニュースです。労務・人事担当者が対応すべき法令上の変更事項は含まれていないため、労働関連法制の動向としての要約は作成できません。",
+      "summarizedAt": "2026-11-07T01:43:18.336Z",
       "isGuideline": false
     },
     {
