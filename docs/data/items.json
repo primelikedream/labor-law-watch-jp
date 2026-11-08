@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-07T01:43:18.338Z",
+  "updatedAt": "2026-11-08T01:12:04.294Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBzdXJtTkJFX3c0ZW1sZUp5d1paLWtyQkkxQU53eXZrWTJLRk5neWk5VjdYd1Qzc2pVbENGMVVvaWlKVWZRN2VoenA2d3ZOWDZIbUdiU0MwTHFEbnF4eFN5SXNPandJbnZTRkdQZA",
+      "source": "nikkei_news",
+      "title": "AIが問い直す「人はなぜ働くのか」 富士通の社内転職制度にみるヒント",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzdXJtTkJFX3c0ZW1sZUp5d1paLWtyQkkxQU53eXZrWTJLRk5neWk5VjdYd1Qzc2pVbENGMVVvaWlKVWZRN2VoenA2d3ZOWDZIbUdiU0MwTHFEbnF4eFN5SXNPandJbnZTRkdQZA?oc=5",
+      "publishedAt": "2026-11-07T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-08T01:11:48.361Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBzdXJtTkJFX3c0ZW1sZUp5d1paLWtyQkkxQU53eXZrWTJLRk5neWk5VjdYd1Qzc2pVbENGMVVvaWlKVWZRN2VoenA2d3ZOWDZIbUdiU0MwTHFEbnF4eFN5SXNPandJbnZTRkdQZA",
+      "summary": "この見出しのみからは、富士通が社内転職制度を運用しており、AI時代における働く意義との関連が論じられていることが読み取れますが、制度の具体的な変更点や人事担当者が取るべき対応については情報が不足しているため、労務実務上の要約を作成できません。",
+      "summarizedAt": "2026-11-08T01:12:02.337Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBMNVdBeUswMjd5M192MWd2NXY3TXJ5NzFhaW82VlZ2ZVgwSHFfSVRHUkVVMGRBNmlTUHM1NDR0OFpGUEVaelJKMWJWZ1dwTXBfOFpkb0lnRWZUNG5QSWZwTHdIX1B1WW9oSDlhcg",
       "source": "nikkei_news",
@@ -96,6 +110,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1XNTYwdGJYdjRWRW9DMWJOQjh0WnpUUFZPSGVtdUczbEpqbzEwREVSNkI2bWl2Z0Q4YjFYbE9hM3B3V2FXU2N5cFZmVTQyX1daU204OHZNTGFwOTJsVkRzOUVUUHBGV2FVQ0lfdA",
       "summary": "この情報は労働法制の改正や制度変更ではなく、企業の個別事業判断に関するニュースです。労務・人事担当者が対応すべき法令上の変更事項は含まれていないため、労働関連法制の動向としての要約は作成できません。",
       "summarizedAt": "2026-11-07T01:43:18.336Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1tZVJVTi0zR29tQ211YjAyNkZPUmxFb25VZjRzbHp2Q21MSklZcjRHOUFJYWFrUFNyOTN6X294a0V5Y1ZoQXFtRndRMWF2SGhnLTg3SzQyaVVZNGtMYTQ1WFRpbTlmWVpEVFJEZw",
+      "source": "nikkei_news",
+      "title": "山梨の10月景気判断据え置き、生産・雇用は上方修正 甲府財務事務所",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tZVJVTi0zR29tQ211YjAyNkZPUmxFb25VZjRzbHp2Q21MSklZcjRHOUFJYWFrUFNyOTN6X294a0V5Y1ZoQXFtRndRMWF2SGhnLTg3SzQyaVVZNGtMYTQ1WFRpbTlmWVpEVFJEZw?oc=5",
+      "publishedAt": "2026-11-05T07:29:26.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-08T01:11:48.361Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1tZVJVTi0zR29tQ211YjAyNkZPUmxFb25VZjRzbHp2Q21MSklZcjRHOUFJYWFrUFNyOTN6X294a0V5Y1ZoQXFtRndRMWF2SGhnLTg3SzQyaVVZNGtMYTQ1WFRpbTlmWVpEVFJEZw",
+      "summary": "【要約】\n甲府財務事務所が山梨県の10月の景気判断を据え置く一方、生産・雇用分野については上方修正しました。企業の人材確保の動きが活発化している可能性があり、採用競争の激化に留意が必要です。\n\n(94字)",
+      "summarizedAt": "2026-11-08T01:11:59.200Z",
       "isGuideline": false
     },
     {
@@ -10397,6 +10425,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBZRzJHekpJUDBRaGpWWFFYUWZBaUIxMURteFF2bV85ck85c3FVUEVzVHlGZ1pWR0RCSDlEbl9Mek5FWnZsNHVfZ3FmS01NUHpWVV9YY1J2OUwzWWxaeklROWkzM216S1A5cWlRTA",
       "summary": "東海理化が2025年春闘で6.1%の賃上げを実施し、物価上昇に対応する方針を決定しました。今春闘における賃上げ率の参考指標として、自社の賃上げ検討の際に活用できます。",
       "summarizedAt": "2026-09-19T22:13:46.722Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBtY25TQVBHSWlWMEFiSmJNTDdGMTNxU2lyMTNESnB6ZUlkQW1JZXFXTmVmdjdZc2FHcGhqNk5sYWM5SFZmRHJoZkRRNFluWUdINmI0OQ",
+      "source": "rosei_news",
+      "title": "賃金改定と報酬制度の見直しに関するアンケート",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtY25TQVBHSWlWMEFiSmJNTDdGMTNxU2lyMTNESnB6ZUlkQW1JZXFXTmVmdjdZc2FHcGhqNk5sYWM5SFZmRHJoZkRRNFluWUdINmI0OQ?oc=5",
+      "publishedAt": "2026-03-13T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-08T01:11:48.362Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBtY25TQVBHSWlWMEFiSmJNTDdGMTNxU2lyMTNESnB6ZUlkQW1JZXFXTmVmdjdZc2FHcGhqNk5sYWM5SFZmRHJoZkRRNFluWUdINmI0OQ",
+      "summary": "企業における賃金改定の実施状況や報酬制度の見直し動向に関する調査結果が公表されており、自社の賃金・報酬施策を検討する際の参考データとして活用できます。",
+      "summarizedAt": "2026-11-08T01:12:04.290Z",
       "isGuideline": false
     },
     {
