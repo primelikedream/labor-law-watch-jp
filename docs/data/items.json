@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-09T01:30:37.415Z",
+  "updatedAt": "2026-11-10T03:59:37.907Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg",
+      "source": "nikkei_news",
+      "title": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
+      "publishedAt": "2026-11-09T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-10T03:59:21.325Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg",
+      "summary": "建設業の現場監督を対象とした調査で、46%にうつ病や不安障害の疑いがあり、2割強がパワハラを経験していることが判明しました。建設業の人事労務担当者は、メンタルヘルス対策の強化とハラスメント防止体制の見直しが急務となります。",
+      "summarizedAt": "2026-11-10T03:59:37.904Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE4wVTFVQ1JXdVFSRW1CSWRZaFN5WDlSaXdLb2dhQ2RLUE9sSHA1ZHdRZXF4RnlleGxSYks1NzZMdVpmRWVFMEd3dEpDa1pDRE0xOWlyd3V2RmN0MHprZllqSHZRcDlpYW1odVNrcg",
+      "source": "nikkei_news",
+      "title": "日銀短観の賃金調査、27年6月から開始",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVTFVQ1JXdVFSRW1CSWRZaFN5WDlSaXdLb2dhQ2RLUE9sSHA1ZHdRZXF4RnlleGxSYks1NzZMdVpmRWVFMEd3dEpDa1pDRE0xOWlyd3V2RmN0MHprZllqSHZRcDlpYW1odVNrcg?oc=5",
+      "publishedAt": "2026-11-09T11:40:34.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-10T03:59:21.325Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE4wVTFVQ1JXdVFSRW1CSWRZaFN5WDlSaXdLb2dhQ2RLUE9sSHA1ZHdRZXF4RnlleGxSYks1NzZMdVpmRWVFMEd3dEpDa1pDRE0xOWlyd3V2RmN0MHprZllqSHZRcDlpYW1odVNrcg",
+      "summary": "日本銀行が2027年6月から短観（全国企業短期経済観測調査）において賃金に関する調査を新たに開始します。企業の賃金動向が日銀の金融政策判断材料として重視されるため、調査対象企業は正確な賃金データの提供が求められる見込みです。",
+      "summarizedAt": "2026-11-10T03:59:32.230Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5lSGhTcFlIREVJRHEzQVBka1VnakhaSlh3NkpFQ2RBbjZuVDJTQjhmWWVZekh5NmRjbFZuSXFxVmpCbHlUaFlFVDRTVjVsNXpzcm5MQ0RCMWdnemdBaVhkTUdkNE1Tb241X3NLag",
+      "source": "nikkei_news",
+      "title": "パート賃上げ7%、UAゼンセンが要求 消費減税で逆風の外食に厳しく",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSGhTcFlIREVJRHEzQVBka1VnakhaSlh3NkpFQ2RBbjZuVDJTQjhmWWVZekh5NmRjbFZuSXFxVmpCbHlUaFlFVDRTVjVsNXpzcm5MQ0RCMWdnemdBaVhkTUdkNE1Tb241X3NLag?oc=5",
+      "publishedAt": "2026-11-09T08:12:09.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-10T03:59:21.325Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5lSGhTcFlIREVJRHEzQVBka1VnakhaSlh3NkpFQ2RBbjZuVDJTQjhmWWVZekh5NmRjbFZuSXFxVmpCbHlUaFlFVDRTVjVsNXpzcm5MQ0RCMWdnemdBaVhkTUdkNE1Tb241X3NLag",
+      "summary": "UAゼンセンが2025年の春闘でパート労働者の時給7%引き上げを要求する方針を固めました。人事担当者は、特に外食産業において消費減税の影響で経営環境が厳しい中でも、組合からの賃上げ要求への対応準備が必要です。",
+      "summarizedAt": "2026-11-10T03:59:35.328Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBzdXJtTkJFX3c0ZW1sZUp5d1paLWtyQkkxQU53eXZrWTJLRk5neWk5VjdYd1Qzc2pVbENGMVVvaWlKVWZRN2VoenA2d3ZOWDZIbUdiU0MwTHFEbnF4eFN5SXNPandJbnZTRkdQZA",
       "source": "nikkei_news",
