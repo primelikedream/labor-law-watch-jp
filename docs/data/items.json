@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-12T02:45:37.768Z",
+  "updatedAt": "2026-11-13T02:29:20.372Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8wTFJOazNtb3pwUHFPMkZXZmg3Z0dqMXRTMmFCOXJPaHJBQ0tuU0NMTkFERmNmZEROa040QU1VMVpFdGhGV05zN1htcnRET1dVTzFCc1g5Y21faTlmMHlieG9WVGZMMDd4c0FiUQ",
+      "source": "nikkei_news",
+      "title": "｢がん検診｣で生涯現役 受診率トップは山形、QOL向上・労働損失も回避",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wTFJOazNtb3pwUHFPMkZXZmg3Z0dqMXRTMmFCOXJPaHJBQ0tuU0NMTkFERmNmZEROa040QU1VMVpFdGhGV05zN1htcnRET1dVTzFCc1g5Y21faTlmMHlieG9WVGZMMDd4c0FiUQ?oc=5",
+      "publishedAt": "2026-11-13T02:01:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8wTFJOazNtb3pwUHFPMkZXZmg3Z0dqMXRTMmFCOXJPaHJBQ0tuU0NMTkFERmNmZEROa040QU1VMVpFdGhGV05zN1htcnRET1dVTzFCc1g5Y21faTlmMHlieG9WVGZMMDd4c0FiUQ",
+      "summary": "がん検診の受診率向上により従業員のQOL維持と労働損失の回避が期待されるため、人事・労務担当者は定期健診に加えてがん検診の受診を積極的に促進する取り組みを検討すべきです。山形県が受診率トップの事例として参考になります。",
+      "summarizedAt": "2026-11-13T02:28:58.332Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1nSmx2OHowTUlpZy1meFdBYzROR05pdk1YTWh4TENBVHN3ZnNZSlBrZmhIQy01aWcydmEzZGVad0FUR3dhSGw4N2dPb1V0SDI0OGtVZQ",
+      "source": "rosei_news",
+      "title": "Point of view - 第311回 大橋純也 ― 物価高・インフレを見据えた月例賃金の見直し",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nSmx2OHowTUlpZy1meFdBYzROR05pdk1YTWh4TENBVHN3ZnNZSlBrZmhIQy01aWcydmEzZGVad0FUR3dhSGw4N2dPb1V0SDI0OGtVZQ?oc=5",
+      "publishedAt": "2026-11-13T01:59:16.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-13T02:28:42.013Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1nSmx2OHowTUlpZy1meFdBYzROR05pdk1YTWh4TENBVHN3ZnNZSlBrZmhIQy01aWcydmEzZGVad0FUR3dhSGw4N2dPb1V0SDI0OGtVZQ",
+      "summary": "物価高・インフレが続く中、従業員の実質賃金の目減りを防ぐため、月例賃金の水準や体系を見直す必要性が高まっています。人事担当者は物価動向を踏まえた賃金改定の検討が求められます。",
+      "summarizedAt": "2026-11-13T02:29:20.369Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiYkFVX3lxTE9yOXJLS1pOaEdlNEVqZkQtaXBKbmxRU2dKZXY2dDhZWG80VVY2MGNMdDZ6bTFOcWF2N25TcWJUZ0t3X2lhbndDc3hZTTgzOHZaMzJ4czFteTZJMXZyVkxkSDZB",
+      "source": "nikkei_news",
+      "title": "大田弘子氏「労働慣行・制度は転換のとき。長期勤続の優遇に終止符を」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yOXJLS1pOaEdlNEVqZkQtaXBKbmxRU2dKZXY2dDhZWG80VVY2MGNMdDZ6bTFOcWF2N25TcWJUZ0t3X2lhbndDc3hZTTgzOHZaMzJ4czFteTZJMXZyVkxkSDZB?oc=5",
+      "publishedAt": "2026-11-12T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiYkFVX3lxTE9yOXJLS1pOaEdlNEVqZkQtaXBKbmxRU2dKZXY2dDhZWG80VVY2MGNMdDZ6bTFOcWF2N25TcWJUZ0t3X2lhbndDc3hZTTgzOHZaMzJ4czFteTZJMXZyVkxkSDZB",
+      "summary": "大田弘子氏が、年功序列や終身雇用など長期勤続を優遇する日本の労働慣行・制度を転換すべき時期だと提言しています。人事担当者は、勤続年数に偏重しない評価・報酬制度への見直しを検討する必要性が高まっています。",
+      "summarizedAt": "2026-11-13T02:28:53.204Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5UOU5ySGhYSmJrSm9VNHVrUzRYTFEzMmRZOTJQTFp1dGY5MGtiekIzX0NnaEZBUFRrTnhwa2M1MEtPYnNBMFp3OGlBTGZzSEV1Nkx6YTJxVm5qNXdPX0dSelZCYlJvajgtNGkyMg",
+      "source": "nikkei_news",
+      "title": "関経連、裁量労働制の拡充で要望書 政府・与党に送付",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UOU5ySGhYSmJrSm9VNHVrUzRYTFEzMmRZOTJQTFp1dGY5MGtiekIzX0NnaEZBUFRrTnhwa2M1MEtPYnNBMFp3OGlBTGZzSEV1Nkx6YTJxVm5qNXdPX0dSelZCYlJvajgtNGkyMg?oc=5",
+      "publishedAt": "2026-11-12T07:56:23.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5UOU5ySGhYSmJrSm9VNHVrUzRYTFEzMmRZOTJQTFp1dGY5MGtiekIzX0NnaEZBUFRrTnhwa2M1MEtPYnNBMFp3OGlBTGZzSEV1Nkx6YTJxVm5qNXdPX0dSelZCYlJvajgtNGkyMg",
+      "summary": "関西経済連合会が裁量労働制の拡充を求める要望書を政府・与党に提出しました。今後の労働時間制度の見直し議論において、裁量労働制の対象業務や対象者の範囲拡大が検討される可能性があります。",
+      "summarizedAt": "2026-11-13T02:28:55.507Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1pSlRwSnFWU0R1aVVSTXNyRWR6aHhXYm1sS19FUktodEV5LWtMNmdORGRDNEk0c2VWVGVJcXo3ZV9NeVFrY2hTM2hYdkJNYnFEYWhsYw",
+      "source": "rosei_news",
+      "title": "障害者雇用代行に登録制 不適切事業者を排除へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pSlRwSnFWU0R1aVVSTXNyRWR6aHhXYm1sS19FUktodEV5LWtMNmdORGRDNEk0c2VWVGVJcXo3ZV9NeVFrY2hTM2hYdkJNYnFEYWhsYw?oc=5",
+      "publishedAt": "2026-11-12T00:29:36.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-13T02:28:42.013Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1pSlRwSnFWU0R1aVVSTXNyRWR6aHhXYm1sS19FUktodEV5LWtMNmdORGRDNEk0c2VWVGVJcXo3ZV9NeVFrY2hTM2hYdkJNYnFEYWhsYw",
+      "summary": "障害者雇用の代行ビジネスに登録制が導入され、不適切な事業者が排除される見込みです。人事担当者は代行サービスを利用する際、登録事業者かどうかの確認が必要になります。",
+      "summarizedAt": "2026-11-13T02:29:17.816Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE5aZ2d5X2lSNFZ1Tk5tYnA2MWFTdVo5V3JUMnJLQjk4UVhpUjREOHpDMnI4RldHcFZLXzV0WmRyWnV5UVBlMkdvd3p3bERqbmdQbFFtWk8yQlhXUUlRZGdIak0tOGY0TkpmS2ZVNw",
       "source": "nikkei_news",
@@ -13,6 +83,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE5aZ2d5X2lSNFZ1Tk5tYnA2MWFTdVo5V3JUMnJLQjk4UVhpUjREOHpDMnI4RldHcFZLXzV0WmRyWnV5UVBlMkdvd3p3bERqbmdQbFFtWk8yQlhXUUlRZGdIak0tOGY0TkpmS2ZVNw",
       "summary": "スシローと労働組合が非正規労働者の賃金を巡る問題で和解したことが波紋を呼んでおり、企業には非正規社員の処遇について説明責任を果たすことが求められる傾向が強まっています。人事担当者は非正規雇用の賃金体系の合理性を明確化し、説明できる体制整備が必要です。",
       "summarizedAt": "2026-11-12T02:45:19.289Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5JYklYdXNZWkdMWFJPVmJoa1dkTDF5S25adWdTZF9kdmJOTW1fRU1abEUwT2JuS0cza1ZRRjV4WnhJMk1Nc0VJZE9zcDNwdXJnS2dpUXMtaWFWWjI1eG9teFMxal91M01jdi15UQ",
+      "source": "nikkei_news",
+      "title": "多様な働き方を求めるのは女性だけではない 性別で生き方決めない社会へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYklYdXNZWkdMWFJPVmJoa1dkTDF5S25adWdTZF9kdmJOTW1fRU1abEUwT2JuS0cza1ZRRjV4WnhJMk1Nc0VJZE9zcDNwdXJnS2dpUXMtaWFWWjI1eG9teFMxal91M01jdi15UQ?oc=5",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5JYklYdXNZWkdMWFJPVmJoa1dkTDF5S25adWdTZF9kdmJOTW1fRU1abEUwT2JuS0cza1ZRRjV4WnhJMk1Nc0VJZE9zcDNwdXJnS2dpUXMtaWFWWjI1eG9teFMxal91M01jdi15UQ",
+      "summary": "【要約】\n多様な働き方のニーズは女性特有ではなく男性にも存在するため、人事・労務担当者は性別を前提とした働き方の制度設計を見直し、全従業員が選択できる柔軟な勤務制度の整備を進める必要があります。",
+      "summarizedAt": "2026-11-13T02:29:00.751Z",
       "isGuideline": false
     },
     {
@@ -86,6 +170,34 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE1XR3dUTW9LNkg3elNTcHZqS3NMbEFDNWxLV0FCOHhWeGVYSnVjSnhlcTVpR2ZrMWs0YTk3ZFFDdmZkbV9BdVNDUjBDVGRUQ2t3MVZfNmxmQ0tMNDRwVE83cmQ0c2tZbFFMVmcyQQ",
+      "source": "nikkei_news",
+      "title": "特定技能の試験対策に商機 ECCやクックビズ、在留5年の満期見据え",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XR3dUTW9LNkg3elNTcHZqS3NMbEFDNWxLV0FCOHhWeGVYSnVjSnhlcTVpR2ZrMWs0YTk3ZFFDdmZkbV9BdVNDUjBDVGRUQ2t3MVZfNmxmQ0tMNDRwVE83cmQ0c2tZbFFMVmcyQQ?oc=5",
+      "publishedAt": "2026-11-10T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1XR3dUTW9LNkg3elNTcHZqS3NMbEFDNWxLV0FCOHhWeGVYSnVjSnhlcTVpR2ZrMWs0YTk3ZFFDdmZkbV9BdVNDUjBDVGRUQ2t3MVZfNmxmQ0tMNDRwVE83cmQ0c2tZbFFMVmcyQQ",
+      "summary": "特定技能外国人の在留期間5年満期を迎える時期に向けて、ECCやクックビズなどが試験対策サービスに参入しています。外国人材の継続雇用を検討する企業は、在留資格更新や上位資格取得に向けた支援体制の整備が必要です。",
+      "summarizedAt": "2026-11-13T02:29:13.250Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFB2bXUwdUROQXB1ZHNFTjY3NUJnMVdQTE5PWjFRb2NFVHlwNE1hTGl6aUJ6OTloREdJZlhDWW1wU3lITldkR3pEc0VVbHBEcUtTeXN4aG5EYThmemd0UmhYR1hfOTJGYnoxWGdOWQ",
+      "source": "nikkei_news",
+      "title": "人手不足で「作業者選ばぬタイヤ交換機に需要」 小野谷機工・宇田社長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2bXUwdUROQXB1ZHNFTjY3NUJnMVdQTE5PWjFRb2NFVHlwNE1hTGl6aUJ6OTloREdJZlhDWW1wU3lITldkR3pEc0VVbHBEcUtTeXN4aG5EYThmemd0UmhYR1hfOTJGYnoxWGdOWQ?oc=5",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFB2bXUwdUROQXB1ZHNFTjY3NUJnMVdQTE5PWjFRb2NFVHlwNE1hTGl6aUJ6OTloREdJZlhDWW1wU3lITldkR3pEc0VVbHBEcUtTeXN4aG5EYThmemd0UmhYR1hfOTJGYnoxWGdOWQ",
+      "summary": "【要約】\n人手不足を背景に、経験の浅い作業者でも扱える簡易型タイヤ交換機への需要が高まっており、労働力確保が難しい現場では機械の操作性向上による省人化・技能レベル緩和が進んでいる。\n\n（79字）",
+      "summarizedAt": "2026-11-13T02:29:06.840Z",
+      "isGuideline": false
+    },
+    {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77343.html",
       "source": "mhlw_news",
       "title": "第212回労働政策審議会労働条件分科会　議事録（2026年10月14日）",
@@ -114,6 +226,34 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9yaTc3bzRIdHRodEpqd3hiXzBHVlBLWGhodlNqUWtKOXFralRxcU5HUTlGZThXQzlCR1ZXdE1uVmRWUERGNlBOLVdOcDU4b0RlaGEtYWl3QnVsaFFsSEswa1V1WHhHNUVva1Nyag",
+      "source": "nikkei_news",
+      "title": "中小企業の生産性とは 賃上げを支える「稼ぐ力」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaTc3bzRIdHRodEpqd3hiXzBHVlBLWGhodlNqUWtKOXFralRxcU5HUTlGZThXQzlCR1ZXdE1uVmRWUERGNlBOLVdOcDU4b0RlaGEtYWl3QnVsaFFsSEswa1V1WHhHNUVva1Nyag?oc=5",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9yaTc3bzRIdHRodEpqd3hiXzBHVlBLWGhodlNqUWtKOXFralRxcU5HUTlGZThXQzlCR1ZXdE1uVmRWUERGNlBOLVdOcDU4b0RlaGEtYWl3QnVsaFFsSEswa1V1WHhHNUVva1Nyag",
+      "summary": "中小企業が持続的な賃上げを実現するには、生産性向上による「稼ぐ力」の強化が不可欠とされています。人事担当者は賃上げ対応において、単なるコスト増ではなく生産性改善と連動させた施策の検討が求められます。",
+      "summarizedAt": "2026-11-13T02:29:03.701Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBEMzNZdnJISEFQSnFBMU9qMUJ3YjB6WVFZYTBkc0hzRENvYWlrX2tKS2Q0RURhOS1FVzdzOUo4QjlIVEdFcjN6TXlEYUFuU0xSWjh1U0c0dnplSUJGREkwbzMxejZiQnZKZHRsYg",
+      "source": "nikkei_news",
+      "title": "中小企業のデジタル投資急増、1〜6月最大に 人手不足で｢生産性革命｣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMzNZdnJISEFQSnFBMU9qMUJ3YjB6WVFZYTBkc0hzRENvYWlrX2tKS2Q0RURhOS1FVzdzOUo4QjlIVEdFcjN6TXlEYUFuU0xSWjh1U0c0dnplSUJGREkwbzMxejZiQnZKZHRsYg?oc=5",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBEMzNZdnJISEFQSnFBMU9qMUJ3YjB6WVFZYTBkc0hzRENvYWlrX2tKS2Q0RURhOS1FVzdzOUo4QjlIVEdFcjN6TXlEYUFuU0xSWjh1U0c0dnplSUJGREkwbzMxejZiQnZKZHRsYg",
+      "summary": "【要約】\n中小企業が人手不足を背景にデジタル投資を拡大しており、労務・人事担当者は業務効率化に向けたデジタルツール導入の検討が求められます。生産性向上への取り組みが今後の企業競争力を左右する可能性があります。\n\n(99字)",
+      "summarizedAt": "2026-11-13T02:29:10.055Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE1sMDdKV0h4WjI2a3N4blhZeDREeTVobVlyWDFWdC1oUU9jXzg4QXA3TEN6d3N5V2ZSYk90V1VfeUpHczN1TXNzeVFhaXBzUnRvQXh1VURRcDIzaTNla0ZzR1FlLU0xSUNVZ1FndQ",
       "source": "nikkei_news",
       "title": "東海企業の最低賃金、47%の企業が「引き上げペース速すぎ」",
@@ -125,6 +265,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1sMDdKV0h4WjI2a3N4blhZeDREeTVobVlyWDFWdC1oUU9jXzg4QXA3TEN6d3N5V2ZSYk90V1VfeUpHczN1TXNzeVFhaXBzUnRvQXh1VURRcDIzaTNla0ZzR1FlLU0xSUNVZ1FndQ",
       "summary": "東海地方企業の47%が最低賃金の引き上げペースを「速すぎる」と回答していることが明らかになりました。今後も段階的な引き上げが見込まれる中、賃金体系の見直しや生産性向上策の検討が必要です。",
       "summarizedAt": "2026-11-12T02:45:26.998Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5ZdEIybXlZOENEYkVwczhaT2hDeWg3b1doNUR3SmZuQ2d1UVR2VzltbDdhQXhMZXdDZWgwZk9NMG5RdXdxaXFPb01kdVJpcC1KZXpJWWZ0YVFrTzliaVNieGJDUVlOMk43MkljaA",
+      "source": "nikkei_news",
+      "title": "ネオキャリア、特定技能人材紹介のNINAITEと資本業務提携",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZdEIybXlZOENEYkVwczhaT2hDeWg3b1doNUR3SmZuQ2d1UVR2VzltbDdhQXhMZXdDZWgwZk9NMG5RdXdxaXFPb01kdVJpcC1KZXpJWWZ0YVFrTzliaVNieGJDUVlOMk43MkljaA?oc=5",
+      "publishedAt": "2026-11-10T06:37:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-13T02:28:42.012Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5ZdEIybXlZOENEYkVwczhaT2hDeWg3b1doNUR3SmZuQ2d1UVR2VzltbDdhQXhMZXdDZWgwZk9NMG5RdXdxaXFPb01kdVJpcC1KZXpJWWZ0YVFrTzliaVNieGJDUVlOMk43MkljaA",
+      "summary": "人材サービス大手のネオキャリアが特定技能外国人の紹介サービスを手がけるNINAITEと資本業務提携を実施しました。外国人材の採用を検討する企業は、今後両社の連携による紹介サービスの拡充が見込まれます。",
+      "summarizedAt": "2026-11-13T02:29:15.712Z",
       "isGuideline": false
     },
     {
