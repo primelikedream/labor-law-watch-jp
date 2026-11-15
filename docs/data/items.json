@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-14T02:04:01.002Z",
+  "updatedAt": "2026-11-15T01:35:51.435Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE11dG9odlU2bjhqVlF3NzlyWHBld1hkTUVMSWFSWTcxLVhud292NXB5RmRJRzgtbkhsWFhUckZCQ2ZmV1pKN3JpaUxMR1VoMC03YWp6LW5Qb0wwaTR2RWRBMEkyZDFKWFBUVVRobg",
+      "source": "nikkei_news",
+      "title": "介護報酬を段階引き上げ 厚労省検討、インフレと賃上げで27年度から",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dG9odlU2bjhqVlF3NzlyWHBld1hkTUVMSWFSWTcxLVhud292NXB5RmRJRzgtbkhsWFhUckZCQ2ZmV1pKN3JpaUxMR1VoMC03YWp6LW5Qb0wwaTR2RWRBMEkyZDFKWFBUVVRobg?oc=5",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-15T01:35:38.526Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE11dG9odlU2bjhqVlF3NzlyWHBld1hkTUVMSWFSWTcxLVhud292NXB5RmRJRzgtbkhsWFhUckZCQ2ZmV1pKN3JpaUxMR1VoMC03YWp6LW5Qb0wwaTR2RWRBMEkyZDFKWFBUVVRobg",
+      "summary": "厚生労働省が2027年度から介護報酬の段階的引き上げを検討しています。インフレや賃上げへの対応が背景にあり、介護事業者は今後の報酬改定による収入増と、それに伴う介護職員の処遇改善が求められる見通しです。",
+      "summarizedAt": "2026-11-15T01:35:49.272Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTFBneWNrN09xYmNKbGlIbFNXaTl4Zm0zcDlnS20wMUw2ZEFDUm81Zk9kb0xaaGFJWXVZN1JfTDg3MFgwS3c3S2sxeTB4MmtMdUlSLTc2bmRxby1RSDFjcFVmOTV3ZHRkSHZCY2FYbw",
       "source": "nikkei_news",
@@ -11338,6 +11352,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5RdjVBWFNxYVJtMi16UGxBMG1nOUJFT2pQb1pmT2RDVkZ0YjZ4S05selVUZjAzVjVYZHVsR0NNNE93NUJGUmt4dUJuWmU1THZhU3p3SQ",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBRemNic0pLNWdydG1XQkFpa09xS2hsS21mNnJ3U1l2LWNnMEdra0dWOTdwY040VUtpNE9rV1F0UkNxTHNobHpkeGx3SHZMNktaYnFXbEJoMFZ5NzcwSEJDNm1PVE5zcVpIeFJEbQ",
+      "source": "nikkei_news",
+      "title": "NHKが「ハラスメント」撲滅宣言 新会長就任に合わせ公表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRemNic0pLNWdydG1XQkFpa09xS2hsS21mNnJ3U1l2LWNnMEdra0dWOTdwY040VUtpNE9rV1F0UkNxTHNobHpkeGx3SHZMNktaYnFXbEJoMFZ5NzcwSEJDNm1PVE5zcVpIeFJEbQ?oc=5",
+      "publishedAt": "2026-01-26T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-15T01:35:38.526Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBRemNic0pLNWdydG1XQkFpa09xS2hsS21mNnJ3U1l2LWNnMEdra0dWOTdwY040VUtpNE9rV1F0UkNxTHNobHpkeGx3SHZMNktaYnFXbEJoMFZ5NzcwSEJDNm1PVE5zcVpIeFJEbQ",
+      "summary": "NHKが新会長就任に合わせてハラスメント撲滅を宣言しました。報道機関としての取り組み事例として、自社のハラスメント防止体制の見直しや強化施策の参考になる可能性があります。",
+      "summarizedAt": "2026-11-15T01:35:51.433Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiW0FVX3lxTFBFcEtQaVFzNHBCWlNTc19rUnBtWXViYXFfRzBRTXFmSVNyWWpVTG5ZbjVMRmpWVk9qWFhLMERiZ1JaN0g0d3g3SkJnRjkyTjBma3A4Y3gyZDlCYms",
