@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-15T01:35:51.435Z",
+  "updatedAt": "2026-11-16T01:39:46.373Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5jLVNMUWlQVjlOSUhnWTF0YmdGZEhDOE9reEtOYkJpeGh2eHdqUmktdUVZcDRCZmRQdmlSRlctdGRVbUY0SUtkcjMzbXlrcDJ1SGp1REpUcFpUTDdwcWtxX2VtNEhwSlBLeU5aMQ",
+      "source": "nikkei_news",
+      "title": "東京海上日動、スマホで従業員向け身体機能測定 シニアの労働災害リスクを把握",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jLVNMUWlQVjlOSUhnWTF0YmdGZEhDOE9reEtOYkJpeGh2eHdqUmktdUVZcDRCZmRQdmlSRlctdGRVbUY0SUtkcjMzbXlrcDJ1SGp1REpUcFpUTDdwcWtxX2VtNEhwSlBLeU5aMQ?oc=5",
+      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-16T01:39:28.064Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5jLVNMUWlQVjlOSUhnWTF0YmdGZEhDOE9reEtOYkJpeGh2eHdqUmktdUVZcDRCZmRQdmlSRlctdGRVbUY0SUtkcjMzbXlrcDJ1SGp1REpUcFpUTDdwcWtxX2VtNEhwSlBLeU5aMQ",
+      "summary": "東京海上日動が従業員向けにスマートフォンを活用した身体機能測定を導入し、高齢従業員の労働災害リスクを把握する取り組みを開始しました。シニア層の雇用拡大に伴い、企業は身体機能に応じた安全管理体制の構築が求められます。",
+      "summarizedAt": "2026-11-16T01:39:39.766Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9sY29HMWtpSGVmMTJfSnVkb29rdThIdVJNVjhFU1dDcTNMc1hmSU1FSmR2ZUlWOGxEY3hNZ09pekxXU2paN3VJcDBVeERVZnhvMEdKd3N5WnA2NkFfNVY3WkExZmdFS1QteGgtYQ",
+      "source": "nikkei_news",
+      "title": "男性育休「名ばかり取得」にメス 厚労省、期間の公表義務づけ検討",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sY29HMWtpSGVmMTJfSnVkb29rdThIdVJNVjhFU1dDcTNMc1hmSU1FSmR2ZUlWOGxEY3hNZ09pekxXU2paN3VJcDBVeERVZnhvMEdKd3N5WnA2NkFfNVY3WkExZmdFS1QteGgtYQ?oc=5",
+      "publishedAt": "2026-11-15T08:10:46.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-16T01:39:28.064Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9sY29HMWtpSGVmMTJfSnVkb29rdThIdVJNVjhFU1dDcTNMc1hmSU1FSmR2ZUlWOGxEY3hNZ09pekxXU2paN3VJcDBVeERVZnhvMEdKd3N5WnA2NkFfNVY3WkExZmdFS1QteGgtYQ",
+      "summary": "厚生労働省が、男性の育児休業取得期間の公表義務化を検討しています。短期間のみの「名ばかり取得」を是正する狙いがあり、企業は今後、取得率だけでなく実質的な取得期間も開示対応が求められる可能性があります。",
+      "summarizedAt": "2026-11-16T01:39:42.692Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE11dG9odlU2bjhqVlF3NzlyWHBld1hkTUVMSWFSWTcxLVhud292NXB5RmRJRzgtbkhsWFhUckZCQ2ZmV1pKN3JpaUxMR1VoMC03YWp6LW5Qb0wwaTR2RWRBMEkyZDFKWFBUVVRobg",
       "source": "nikkei_news",
@@ -9686,6 +9714,20 @@
       "isGuideline": false,
       "storyId": "nikkei:CBMibEFVX3lxTFBoa0VIVkZHTkxGeTE2bWxDaGNoLU1wZ3hsUnJqcHVfQkhkRmV0NHN3bVRlTHZjcmRiQlFfcmlfV09JTTVPamFWWVI1Y2c4NVRTTDhMaDBvWmFwcjRJbk5OQm5yS29fS2YwRHQtSA",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBPaEJBTXhKeTlzS0xqV2gxbHFvZ1RCdlRfYlpuZDFVeTRfUUFVeUs2Qk8zVlhyc3BvRS1DMXU0NWpDUWt6RGF1S1dKbXB5bG15akpwU2ZZY0UwQXg2bklZTGxHSzdCQWhXQ00ydg",
+      "source": "nikkei_news",
+      "title": "パパも育休1年、子育ての苦楽共に 引き継ぎじっくり2カ月伴走",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPaEJBTXhKeTlzS0xqV2gxbHFvZ1RCdlRfYlpuZDFVeTRfUUFVeUs2Qk8zVlhyc3BvRS1DMXU0NWpDUWt6RGF1S1dKbXB5bG15akpwU2ZZY0UwQXg2bklZTGxHSzdCQWhXQ00ydg?oc=5",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-16T01:39:28.064Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBPaEJBTXhKeTlzS0xqV2gxbHFvZ1RCdlRfYlpuZDFVeTRfUUFVeUs2Qk8zVlhyc3BvRS1DMXU0NWpDUWt6RGF1S1dKbXB5bG15akpwU2ZZY0UwQXg2bklZTGxHSzdCQWhXQ00ydg",
+      "summary": "【要約】\n父親が1年間の育児休業を取得する事例が紹介されており、引き継ぎに2カ月かけて丁寧に対応するなど、男性の長期育休取得に向けた職場の取り組みが進んでいます。人事担当者は男性育休の長期化を想定した業務体制の整備が求められます。\n\n(117字)",
+      "summarizedAt": "2026-11-16T01:39:46.370Z",
+      "isGuideline": false
     },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_75380.html",
