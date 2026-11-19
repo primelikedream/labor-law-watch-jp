@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-11-18T03:26:19.469Z",
+  "updatedAt": "2026-11-19T02:59:57.593Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE1oTEFEQTJXQmRJdG13R1FGMGppVzBLT1hyZVg0TlZHOC1PS3BjU1VLYUxoeVFBeTNfT1o0YllISVRqV2tLS0RlZUdBbFUzVGh2TDg5d1BYejZvT1ZKdE9FLXhtNWxib2xYRWZKbA",
+      "source": "nikkei_news",
+      "title": "人手不足が促す自動化の注意点 森川正之氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oTEFEQTJXQmRJdG13R1FGMGppVzBLT1hyZVg0TlZHOC1PS3BjU1VLYUxoeVFBeTNfT1o0YllISVRqV2tLS0RlZUdBbFUzVGh2TDg5d1BYejZvT1ZKdE9FLXhtNWxib2xYRWZKbA?oc=5",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-19T02:59:24.879Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE1oTEFEQTJXQmRJdG13R1FGMGppVzBLT1hyZVg0TlZHOC1PS3BjU1VLYUxoeVFBeTNfT1o0YllISVRqV2tLS0RlZUdBbFUzVGh2TDg5d1BYejZvT1ZKdE9FLXhtNWxib2xYRWZKbA",
+      "summary": "【要約】\n人手不足を背景とした自動化・省力化投資の推進において、導入時の留意点や課題が指摘されています。人事・労務担当者は、自動化による業務効率化を進める際、適切な導入プロセスや労働環境への影響を慎重に検討する必要があります。\n\n(102文字)",
+      "summarizedAt": "2026-11-19T02:59:44.860Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMidEFVX3lxTE1JdkFNMUxfay1Yc3lGY1U3X0ZnOXJsMjd2b0FMT3Y3cFhBeDE4ODZYa2VKc2VBNndFa0M3VV9QM0llQ1pHeVo5N3BwOG1jcTZyd1JXRVg3QWFoVTdxbzFhN0hjaS1hRVFleGJ1alQ4d1J2Yk9W",
+      "source": "nikkei_news",
+      "title": "「1人当たり粗利3000万円の壁」に挑む緑化会社の脱下請け・賃上げ戦略",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JdkFNMUxfay1Yc3lGY1U3X0ZnOXJsMjd2b0FMT3Y3cFhBeDE4ODZYa2VKc2VBNndFa0M3VV9QM0llQ1pHeVo5N3BwOG1jcTZyd1JXRVg3QWFoVTdxbzFhN0hjaS1hRVFleGJ1alQ4d1J2Yk9W?oc=5",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-19T02:59:24.879Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMidEFVX3lxTE1JdkFNMUxfay1Yc3lGY1U3X0ZnOXJsMjd2b0FMT3Y3cFhBeDE4ODZYa2VKc2VBNndFa0M3VV9QM0llQ1pHeVo5N3BwOG1jcTZyd1JXRVg3QWFoVTdxbzFhN0hjaS1hRVFleGJ1alQ4d1J2Yk9W",
+      "summary": "この見出しのみからは労働法制の改正や制度変更に関する情報は読み取れません。特定企業の経営戦略事例(脱下請け・賃上げの取り組み)を紹介する記事と推察されますが、人事労務担当者が対応すべき法令上の変更点は含まれていないと判断されます。",
+      "summarizedAt": "2026-11-19T02:59:48.587Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5WcnFNY21ydVJJVGxMZmNUbF83M1A2QjVLQW5aMEZ5MnFqUmVfQTJUZmhyUDZfWms3aDdTb0ExRjAzeExBdW9Wa2xHVnFtZ1ZaUTA3RGdORUdjUFFVNWxkbC1nQzRvMkR5S2hpNA",
+      "source": "nikkei_news",
+      "title": "鳥取県、26年度補正予算案37億円 物価高・賃上げ対策に14億円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WcnFNY21ydVJJVGxMZmNUbF83M1A2QjVLQW5aMEZ5MnFqUmVfQTJUZmhyUDZfWms3aDdTb0ExRjAzeExBdW9Wa2xHVnFtZ1ZaUTA3RGdORUdjUFFVNWxkbC1nQzRvMkR5S2hpNA?oc=5",
+      "publishedAt": "2026-11-18T09:49:40.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-19T02:59:24.879Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5WcnFNY21ydVJJVGxMZmNUbF83M1A2QjVLQW5aMEZ5MnFqUmVfQTJUZmhyUDZfWms3aDdTb0ExRjAzeExBdW9Wa2xHVnFtZ1ZaUTA3RGdORUdjUFFVNWxkbC1nQzRvMkR5S2hpNA",
+      "summary": "鳥取県が2026年度補正予算案として総額37億円を計上し、うち14億円を物価高・賃上げ対策に充てる方針です。県内企業の賃上げ支援策が含まれる可能性があるため、鳥取県内の事業者は補助金等の活用機会を確認することが推奨されます。",
+      "summarizedAt": "2026-11-19T02:59:51.333Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77507.html",
+      "source": "mhlw_news",
+      "title": "2026年10月26日　第９回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77507.html",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-19T02:59:25.134Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77507.html",
+      "summary": "2026年10月26日開催の労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」第9回の議事録が公表されました。M&Aや会社分割等における労働契約承継や労働条件変更のルール整備に向けた審議内容を確認できます。",
+      "summarizedAt": "2026-11-19T02:59:36.835Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77226.html",
+      "source": "mhlw_news",
+      "title": "第５８回特定石綿被害建設業務労働者等認定審査会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77226.html",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-19T02:59:25.134Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77226.html",
+      "summary": "特定石綿被害建設業務労働者等認定審査会の第58回会合が開催されます。石綿による健康被害を受けた建設労働者等の認定に関する審査が行われる予定ですが、一般企業の労務担当者が直接対応すべき事項はありません。",
+      "summarizedAt": "2026-11-19T02:59:39.340Z",
+      "isGuideline": false
+    },
     {
       "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77416.html",
       "source": "mhlw_news",
@@ -12,6 +81,20 @@
       "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77416.html",
       "summary": "厚生労働省が12月を「職場のハラスメント撲滅月間」と定めています。人事労務担当者は、この機会に職場のハラスメント防止対策の見直しや社内啓発活動の実施を検討すべきです。",
       "summarizedAt": "2026-11-18T03:26:10.988Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTFBiV3kxZ3FZeFhZaXgzdERsbWpnQlB1N2lJMzVvRXVocXpQN1ZVTGJXSDBvQWw0RDd0MnIzUGxDN1h3elZ1STJaMmRXSklYZFVTYnAtOQ",
+      "source": "rosei_news",
+      "title": "中小賃上げ率４・５２％ 日商調査、前年度から微減",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiV3kxZ3FZeFhZaXgzdERsbWpnQlB1N2lJMzVvRXVocXpQN1ZVTGJXSDBvQWw0RDd0MnIzUGxDN1h3elZ1STJaMmRXSklYZFVTYnAtOQ?oc=5",
+      "publishedAt": "2026-11-18T00:42:14.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-19T02:59:24.880Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTFBiV3kxZ3FZeFhZaXgzdERsbWpnQlB1N2lJMzVvRXVocXpQN1ZVTGJXSDBvQWw0RDd0MnIzUGxDN1h3elZ1STJaMmRXSklYZFVTYnAtOQ",
+      "summary": "日本商工会議所の調査によると、中小企業の賃上げ率は4.52％で前年度から微減しました。自社の賃上げ水準を検討する際の市場動向として、中小企業の賃上げがやや鈍化傾向にある点を参考情報として把握しておく必要があります。",
+      "summarizedAt": "2026-11-19T02:59:57.590Z",
       "isGuideline": false
     },
     {
@@ -40,6 +123,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1UeWtZRkd6OWh4Ul95ZzNXTWtLSkRldmJ5M3ZQYm5hQjByTGRtWjlyandDb1A0S2JfRW05NjQ1U2FEOWVmRmg1bmltOEN5MkI5Z05mSmJLWjZyRHJ5MGVOdWpFUXJwWWowZnVNdg",
       "summary": "奈良県の梅乃宿酒造が奈良労働局から働き方改革の「ベストプラクティス企業」に選定されました。自社の働き方改革の参考事例として、同社の取り組み内容を確認されることをお勧めします。",
       "summarizedAt": "2026-11-18T03:26:13.453Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMidEFVX3lxTE5iS0p4dUZOTHBGWVRobzkxQWFyd2NVRW9qUzZRNWlheTJtTVYySG1yWWFtLXRkY1RpdTEyM1pEMUQzY3NwakdvWUI0clh2TXBUc0daSnFTZUxTelV6cFpmcXd6QXVwUTlMV3BUWGh4NXFoRUo5",
+      "source": "nikkei_news",
+      "title": "せめて退職金は公務員より高くしたい 北海道「なごやか亭」会長の挫折と矜持",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iS0p4dUZOTHBGWVRobzkxQWFyd2NVRW9qUzZRNWlheTJtTVYySG1yWWFtLXRkY1RpdTEyM1pEMUQzY3NwakdvWUI0clh2TXBUc0daSnFTZUxTelV6cFpmcXd6QXVwUTlMV3BUWGh4NXFoRUo5?oc=5",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-19T02:59:24.879Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMidEFVX3lxTE5iS0p4dUZOTHBGWVRobzkxQWFyd2NVRW9qUzZRNWlheTJtTVYySG1yWWFtLXRkY1RpdTEyM1pEMUQzY3NwakdvWUI0clh2TXBUc0daSnFTZUxTelV6cFpmcXd6QXVwUTlMV3BUWGh4NXFoRUo5",
+      "summary": "この見出しのみからは労働法制の変更や人事労務上の具体的な対応事項を読み取ることができません。個別企業の退職金方針に関する経営者インタビュー記事と推測されますが、制度変更や実務対応が必要な情報は含まれていないため、要約は控えさせていただきます。",
+      "summarizedAt": "2026-11-19T02:59:54.665Z",
       "isGuideline": false
     },
     {
@@ -152,6 +249,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1nemx6Q0RXLUw0SWJRYlNBVjVkQ1FhSWFyM2dXX0tndk1Tc2o4YWxBS3dBYks2YXJRV0pzSG83UlY0YVpDUHhtM002bVlraUw3QlZ0UUVlTklPYy13ZW5VanZid050YjVoVUdQXw",
       "summary": "トヨタ自動車が働き方改革や競争環境の変化を受け、例年より前倒しで12月に労使協議会を開催します。労務担当者は自社でも環境変化に応じた労使対話の時期や議題の見直しを検討する必要があります。",
       "summarizedAt": "2026-11-17T04:22:22.626Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77440.html",
+      "source": "mhlw_news",
+      "title": "第62回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77440.html",
+      "publishedAt": "2026-11-16T05:05:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-19T02:59:25.134Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77440.html",
+      "summary": "労働政策審議会人材開発分科会の第62回会合がオンライン併用で開催されます。人材育成や職業能力開発に関する政策の審議状況を確認するため、議題や配付資料の公表を待つ必要があります。",
+      "summarizedAt": "2026-11-19T02:59:41.979Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
