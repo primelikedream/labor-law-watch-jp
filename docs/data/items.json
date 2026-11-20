@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-11-19T02:59:57.593Z",
+  "updatedAt": "2026-11-20T02:53:36.676Z",
   "items": [
+    {
+      "id": "nikkei:CBMiakFVX3lxTE1JY1ZOamY0OTBHay1HdkUxaVJFd1FCY25aTGJCcFdoV3Z6R0FyZ3pHLW1rOWdnWUI4ak0wR2Y0c05hQkFIVUlXU0lWeURmbldubDY0UTNIYnYyZG9Nc2NEdlBjbFBPQ2tjZ3c",
+      "source": "nikkei_news",
+      "title": "NECなどがSEの雇用対策に動く怖い理由、10月の会員に読まれた記事まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JY1ZOamY0OTBHay1HdkUxaVJFd1FCY25aTGJCcFdoV3Z6R0FyZ3pHLW1rOWdnWUI4ak0wR2Y0c05hQkFIVUlXU0lWeURmbldubDY0UTNIYnYyZG9Nc2NEdlBjbFBPQ2tjZ3c?oc=5",
+      "publishedAt": "2026-11-19T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiakFVX3lxTE1JY1ZOamY0OTBHay1HdkUxaVJFd1FCY25aTGJCcFdoV3Z6R0FyZ3pHLW1rOWdnWUI4ak0wR2Y0c05hQkFIVUlXU0lWeURmbldubDY0UTNIYnYyZG9Nc2NEdlBjbFBPQ2tjZ3c",
+      "summary": "【要約】\nNECなどIT企業がシステムエンジニアの雇用対策を強化している動きが注目されています。人事担当者は自社のIT人材の雇用・育成戦略の見直しが必要か、業界動向の把握が求められます。\n\n(80字)",
+      "summarizedAt": "2026-11-20T02:53:16.767Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiX0FVX3lxTFBjRzJfVVRhUmEtTU80UjRtcW9pd3ZqMENyVFAxbWlFTEZPQVB1M01ZN3pVYmpHQnNtU3JzQTVja1NKY1FLeDVWN21zNlVCQ094aWNOOTZKaEVZdXA2a19v",
+      "source": "nikkei_news",
+      "title": "まずはこれだけ！ カスタマーハラスメント対策スタートBOOK",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjRzJfVVRhUmEtTU80UjRtcW9pd3ZqMENyVFAxbWlFTEZPQVB1M01ZN3pVYmpHQnNtU3JzQTVja1NKY1FLeDVWN21zNlVCQ094aWNOOTZKaEVZdXA2a19v?oc=5",
+      "publishedAt": "2026-11-19T15:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiX0FVX3lxTFBjRzJfVVRhUmEtTU80UjRtcW9pd3ZqMENyVFAxbWlFTEZPQVB1M01ZN3pVYmpHQnNtU3JzQTVja1NKY1FLeDVWN21zNlVCQ094aWNOOTZKaEVZdXA2a19v",
+      "summary": "本記事はカスタマーハラスメント対策の入門資料と思われますが、見出しのみでは法改正の有無、具体的な対策内容、実施時期等が不明です。詳細は本文の確認が必要です。",
+      "summarizedAt": "2026-11-20T02:53:23.180Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5xdkxvZVVNVzVEbXM1SkQwNzN2by1fdldUb0RLU0NoN2N6OGxKVXJzTEZienhGRmpWRkEwamNrVzQ2VHlGUEh0cFlMOS0yazlYWTNtdWk3N2dCTldrYnZaWDdKcE9kNm5hS2M5eQ",
+      "source": "nikkei_news",
+      "title": "オール京都で人材確保・育成 府・市や労使、司令塔組織を27年に設置",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xdkxvZVVNVzVEbXM1SkQwNzN2by1fdldUb0RLU0NoN2N6OGxKVXJzTEZienhGRmpWRkEwamNrVzQ2VHlGUEh0cFlMOS0yazlYWTNtdWk3N2dCTldrYnZaWDdKcE9kNm5hS2M5eQ?oc=5",
+      "publishedAt": "2026-11-19T06:08:16.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5xdkxvZVVNVzVEbXM1SkQwNzN2by1fdldUb0RLU0NoN2N6OGxKVXJzTEZienhGRmpWRkEwamNrVzQ2VHlGUEh0cFlMOS0yazlYWTNtdWk3N2dCTldrYnZaWDdKcE9kNm5hS2M5eQ",
+      "summary": "京都府・市と労使団体が連携し、2027年に人材確保・育成を推進する司令塔組織を設置する方針です。地域全体で人材不足に対応する動きとして、今後の具体的な施策展開に注目が必要となります。",
+      "summarizedAt": "2026-11-20T02:53:19.819Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77462.html",
+      "source": "mhlw_news",
+      "title": "派遣元事業主に対する労働者派遣事業改善命令について",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77462.html",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-20T02:53:01.365Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77462.html",
+      "summary": "厚生労働省が特定の派遣元事業主に対して労働者派遣事業改善命令を発出しました。派遣事業者は同様の法令違反を防ぐため、自社の派遣事業運営が適正に行われているか改めて確認する必要があります。",
+      "summarizedAt": "2026-11-20T02:53:11.581Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77308.html",
+      "source": "mhlw_news",
+      "title": "第400回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77308.html",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-20T02:53:01.365Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77308.html",
+      "summary": "労働政策審議会職業安定分科会労働力需給制度部会の第400回会合が開催されます。労働者派遣や職業紹介等の需給調整制度に関する審議が行われる見込みですので、今後の制度改正の動向に注意が必要です。",
+      "summarizedAt": "2026-11-20T02:53:14.150Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE8wcTliZTVNQmM2N0V1R2RZQXIxeFp2bXk2cmc4a2tuMkZEQ1BiLU5YUkJGZ1hxaU1PT1drcHpQM2o3N1BwSzlsdG9Ca05xaU9vNFhKWlZtNTN1TU0tVVlVLWl5VjR2SWFqSXY4dw",
+      "source": "nikkei_news",
+      "title": "セクハラ被害の女性かばい出退勤打刻、停職は無効 千葉地裁判決",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wcTliZTVNQmM2N0V1R2RZQXIxeFp2bXk2cmc4a2tuMkZEQ1BiLU5YUkJGZ1hxaU1PT1drcHpQM2o3N1BwSzlsdG9Ca05xaU9vNFhKWlZtNTN1TU0tVVlVLWl5VjR2SWFqSXY4dw?oc=5",
+      "publishedAt": "2026-11-19T05:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE8wcTliZTVNQmM2N0V1R2RZQXIxeFp2bXk2cmc4a2tuMkZEQ1BiLU5YUkJGZ1hxaU1PT1drcHpQM2o3N1BwSzlsdG9Ca05xaU9vNFhKWlZtNTN1TU0tVVlVLWl5VjR2SWFqSXY4dw",
+      "summary": "セクハラ被害を受けた女性従業員の代わりに出退勤を打刻した行為について、千葉地裁は停職処分を無効と判断しました。処分の妥当性を判断する際は、不正打刻の背景事情や動機も考慮する必要があることに留意が必要です。",
+      "summarizedAt": "2026-11-20T02:53:28.526Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE1oTEFEQTJXQmRJdG13R1FGMGppVzBLT1hyZVg0TlZHOC1PS3BjU1VLYUxoeVFBeTNfT1o0YllISVRqV2tLS0RlZUdBbFUzVGh2TDg5d1BYejZvT1ZKdE9FLXhtNWxib2xYRWZKbA",
       "source": "nikkei_news",
@@ -123,6 +206,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE1UeWtZRkd6OWh4Ul95ZzNXTWtLSkRldmJ5M3ZQYm5hQjByTGRtWjlyandDb1A0S2JfRW05NjQ1U2FEOWVmRmg1bmltOEN5MkI5Z05mSmJLWjZyRHJ5MGVOdWpFUXJwWWowZnVNdg",
       "summary": "奈良県の梅乃宿酒造が奈良労働局から働き方改革の「ベストプラクティス企業」に選定されました。自社の働き方改革の参考事例として、同社の取り組み内容を確認されることをお勧めします。",
       "summarizedAt": "2026-11-18T03:26:13.453Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE4tbU0wM081b2FBVzBPTUxCNXA1OTBGaEJxaXpkdHhVN0R6Z1BXQUlfbmtUN1RkTGxZSW5qWWNGcDhoRE9VY1J6a3R0Vk1qQmJtczFWbEtvRkZRcXVJSjNYY2pmV19PUXJTTGM1UA",
+      "source": "nikkei_news",
+      "title": "香川県、男性育休促進へ企業向け奨励金 11月補正予算案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tbU0wM081b2FBVzBPTUxCNXA1OTBGaEJxaXpkdHhVN0R6Z1BXQUlfbmtUN1RkTGxZSW5qWWNGcDhoRE9VY1J6a3R0Vk1qQmJtczFWbEtvRkZRcXVJSjNYY2pmV19PUXJTTGM1UA?oc=5",
+      "publishedAt": "2026-11-17T09:10:11.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE4tbU0wM081b2FBVzBPTUxCNXA1OTBGaEJxaXpkdHhVN0R6Z1BXQUlfbmtUN1RkTGxZSW5qWWNGcDhoRE9VY1J6a3R0Vk1qQmJtczFWbEtvRkZRcXVJSjNYY2pmV19PUXJTTGM1UA",
+      "summary": "香川県が11月補正予算案で、男性の育児休業取得を促進するため企業向けの奨励金制度を創設します。県内企業の人事担当者は新制度の詳細確認と申請準備を進めることが推奨されます。",
+      "summarizedAt": "2026-11-20T02:53:25.798Z",
       "isGuideline": false
     },
     {
@@ -10300,6 +10397,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9TRzdkeHhUQ0dELWcyMWpCMVF4RnY5X1c0U2dmTzd6cm1IZldsZU5xOURCZV81T1ZvM2x2c05CcW5JcFFQWS1ZSVZmVUgxMGV1emEzbFFqNjNraGh4UkQ2Z3FvQXBqQ2M1YVk2NQ",
+      "source": "nikkei_news",
+      "title": "中途社員の早期離職、損失607万円 賃上げや採用コスト拡大で4割増",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TRzdkeHhUQ0dELWcyMWpCMVF4RnY5X1c0U2dmTzd6cm1IZldsZU5xOURCZV81T1ZvM2x2c05CcW5JcFFQWS1ZSVZmVUgxMGV1emEzbFFqNjNraGh4UkQ2Z3FvQXBqQ2M1YVk2NQ?oc=5",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9TRzdkeHhUQ0dELWcyMWpCMVF4RnY5X1c0U2dmTzd6cm1IZldsZU5xOURCZV81T1ZvM2x2c05CcW5JcFFQWS1ZSVZmVUgxMGV1emEzbFFqNjNraGh4UkQ2Z3FvQXBqQ2M1YVk2NQ",
+      "summary": "中途採用社員が早期離職した場合の損失額が607万円と、賃上げや採用コスト増により4割増加しています。人事担当者は定着率向上策の強化と採用時のミスマッチ防止が一層重要になります。",
+      "summarizedAt": "2026-11-20T02:53:34.339Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE92STBWQ2ZMeVA3OXFlRzBDX3Q2Q19BbTJITnlyeTU0UEVPeEZpRHczZWZrTmdZckgxQ3BiN3I3aHJOdzB1ZlVNUE5mWnhnT0RnVGlNdQ",
       "source": "rosei_news",
       "title": "最低賃金、達成目標先送り １５００円「３０年代早期」",
@@ -11043,6 +11154,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE9FVjhrdTlCRHBPWkJFU2VQMTE4OU02X3RNT0lyMUxKbEZvSGNVczhUMkVzM09jSVFNM1VnTnpzRWcyZjdPSXRxejZOcUN4WWhoX1RPZm1Vb0ZJMjRROF83d1ZqdXNhM24xUnQwVQ",
+      "source": "nikkei_news",
+      "title": "三井住友銀行、4%のベア決定 賃上げは10%超",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FVjhrdTlCRHBPWkJFU2VQMTE4OU02X3RNT0lyMUxKbEZvSGNVczhUMkVzM09jSVFNM1VnTnpzRWcyZjdPSXRxejZOcUN4WWhoX1RPZm1Vb0ZJMjRROF83d1ZqdXNhM24xUnQwVQ?oc=5",
+      "publishedAt": "2026-03-26T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9FVjhrdTlCRHBPWkJFU2VQMTE4OU02X3RNT0lyMUxKbEZvSGNVczhUMkVzM09jSVFNM1VnTnpzRWcyZjdPSXRxejZOcUN4WWhoX1RPZm1Vb0ZJMjRROF83d1ZqdXNhM24xUnQwVQ",
+      "summary": "三井住友銀行が4%のベースアップを決定し、賃上げ全体では10%超となる見込みです。金融業界における高水準の賃上げ事例として、自社の賃上げ方針や労使交渉の参考となります。",
+      "summarizedAt": "2026-11-20T02:53:36.673Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA",
       "source": "nikkei_news",
       "title": "竹中工務店、平均10%超賃上げ 4年連続ベア",
@@ -11362,6 +11487,20 @@
       "storyId": "rosei:CBMijAFBVV95cUxNd1hORTJ6X0ZfcDRwWXFfZXVjSTJOOXduVE1vbjI0RjdYbFRTTE1PeXRzZHdnX2haclluXy1VY1pHa2Zxb1pXeDlOVGhEUFUzUXpVa21KRnRaRW14Uk1vLUFwTURqMlgwRDNrZlJFOGZ1dzkzOXNtYWFqZjhRQ1JHLWR3M3ptWjBuWldiMg",
       "summary": "【要約】\nこの記事は労働基準法の基本的な知識を解説する内容です。人事労務担当者として、労働時間、賃金、休暇等の基準法の基礎的なルールを改めて確認し、日常の労務管理が法令に適合しているか点検することが推奨されます。\n\n(99字)",
       "summarizedAt": "2026-10-14T00:59:09.275Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5sMmxaT2g1ekJ6eWVDOTF3YUx3R04tRWRkN3JFRWpjNXpnVnJrcGFoZ3N1em9oOUFDS3hDR3I2TlZDbm5Id0dQNDRwODM2MU5KSndtbENtcE0wUG5XMmRnSkh6U3RaV3ZQUmZUdA",
+      "source": "nikkei_news",
+      "title": "［社説］賃上げへ生産性向上の議論を",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sMmxaT2g1ekJ6eWVDOTF3YUx3R04tRWRkN3JFRWpjNXpnVnJrcGFoZ3N1em9oOUFDS3hDR3I2TlZDbm5Id0dQNDRwODM2MU5KSndtbENtcE0wUG5XMmRnSkh6U3RaV3ZQUmZUdA?oc=5",
+      "publishedAt": "2026-02-21T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-20T02:53:01.090Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5sMmxaT2g1ekJ6eWVDOTF3YUx3R04tRWRkN3JFRWpjNXpnVnJrcGFoZ3N1em9oOUFDS3hDR3I2TlZDbm5Id0dQNDRwODM2MU5KSndtbENtcE0wUG5XMmRnSkh6U3RaV3ZQUmZUdA",
+      "summary": "# 要約\n\n日本経済新聞の社説が、賃上げを実現するためには生産性向上に関する議論が必要だと指摘しています。人事・労務担当者は、単なる賃上げ要請への対応だけでなく、業務効率化や付加価値向上など生産性を高める施策の検討が求められます。\n\n(112字)",
+      "summarizedAt": "2026-11-20T02:53:31.643Z",
       "isGuideline": false
     },
     {
