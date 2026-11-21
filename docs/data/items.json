@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-20T02:53:36.676Z",
+  "updatedAt": "2026-11-21T03:02:01.939Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw",
+      "source": "nikkei_news",
+      "title": "毎月勤労統計で入力ミス、賃金データを最大20円修正 厚労省",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw?oc=5",
+      "publishedAt": "2026-11-20T08:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-21T03:01:37.446Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw",
+      "summary": "厚生労働省が毎月勤労統計の入力ミスを発見し、賃金データを最大20円修正しました。企業の労務担当者は、今後公表される修正済み統計データを確認し、賃金動向の分析や自社の賃金水準の見直しに活用してください。",
+      "summarizedAt": "2026-11-21T03:01:59.016Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTFBNSDNna2VSSWR3dS1SeC1fZmdrOTgwaTRta1poUk1kNlBkNmNIcUZ0ZG1pckd4S0JzUmlERmh4ODE5RXF6bjdqb2NTTGpaemVxRG5tcVJMYnpKVEZrR3BPYkpscm45Zk1zOE5aZQ",
+      "source": "nikkei_news",
+      "title": "群馬の建設業、8割が施工管理人材不足 外国人の雇用へ支援要請",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSDNna2VSSWR3dS1SeC1fZmdrOTgwaTRta1poUk1kNlBkNmNIcUZ0ZG1pckd4S0JzUmlERmh4ODE5RXF6bjdqb2NTTGpaemVxRG5tcVJMYnpKVEZrR3BPYkpscm45Zk1zOE5aZQ?oc=5",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-21T03:01:37.446Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTFBNSDNna2VSSWR3dS1SeC1fZmdrOTgwaTRta1poUk1kNlBkNmNIcUZ0ZG1pckd4S0JzUmlERmh4ODE5RXF6bjdqb2NTTGpaemVxRG5tcVJMYnpKVEZrR3BPYkpscm45Zk1zOE5aZQ",
+      "summary": "群馬県の建設業者の8割が施工管理人材の不足に直面しており、外国人労働者の雇用拡大に向けた支援を求めています。建設業の人事担当者は、外国人材の受入体制整備や関連する支援制度の活用を検討する必要があります。",
+      "summarizedAt": "2026-11-21T03:02:01.936Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_76855.html",
+      "source": "mhlw_news",
+      "title": "第216回労働政策審議会労働条件分科会　開催案内",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76855.html",
+      "publishedAt": "2026-11-20T05:00:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-21T03:01:38.130Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_76855.html",
+      "summary": "労働政策審議会労働条件分科会の第216回会合が開催されます。労働条件に関する制度改正の審議状況を確認するため、厚生労働省の公表資料や議事録を注視する必要があります。",
+      "summarizedAt": "2026-11-21T03:01:48.319Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9ReXVobkM4ckptWHpyM3g2N0x3eWMtRTBTcWRMU09nc1NwSE9TbDdTc0lqb242dk5iWmQ0Q2c4S1d2anRxR1p0UVBFendFR180cW04SDdWb3Z4MFliZXJyZ0EzYmZsTm00RWMtWQ",
+      "source": "nikkei_news",
+      "title": "雇用保険非加入者の職業訓練、月10万円の給付を増額へ 厚労省検討",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ReXVobkM4ckptWHpyM3g2N0x3eWMtRTBTcWRMU09nc1NwSE9TbDdTc0lqb242dk5iWmQ0Q2c4S1d2anRxR1p0UVBFendFR180cW04SDdWb3Z4MFliZXJyZ0EzYmZsTm00RWMtWQ?oc=5",
+      "publishedAt": "2026-11-20T04:21:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-21T03:01:37.446Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9ReXVobkM4ckptWHpyM3g2N0x3eWMtRTBTcWRMU09nc1NwSE9TbDdTc0lqb242dk5iWmQ0Q2c4S1d2anRxR1p0UVBFendFR180cW04SDdWb3Z4MFliZXJyZ0EzYmZsTm00RWMtWQ",
+      "summary": "厚生労働省が、雇用保険に加入していない労働者が職業訓練を受ける際の給付金について、現行の月額10万円からの増額を検討しています。対象者の訓練受講を促進する支援策として、給付水準の引き上げが図られる見込みです。",
+      "summarizedAt": "2026-11-21T03:01:53.307Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMiakFVX3lxTE1JY1ZOamY0OTBHay1HdkUxaVJFd1FCY25aTGJCcFdoV3Z6R0FyZ3pHLW1rOWdnWUI4ak0wR2Y0c05hQkFIVUlXU0lWeURmbldubDY0UTNIYnYyZG9Nc2NEdlBjbFBPQ2tjZ3c",
       "source": "nikkei_news",
@@ -13,6 +69,20 @@
       "storyId": "nikkei:CBMiakFVX3lxTE1JY1ZOamY0OTBHay1HdkUxaVJFd1FCY25aTGJCcFdoV3Z6R0FyZ3pHLW1rOWdnWUI4ak0wR2Y0c05hQkFIVUlXU0lWeURmbldubDY0UTNIYnYyZG9Nc2NEdlBjbFBPQ2tjZ3c",
       "summary": "【要約】\nNECなどIT企業がシステムエンジニアの雇用対策を強化している動きが注目されています。人事担当者は自社のIT人材の雇用・育成戦略の見直しが必要か、業界動向の把握が求められます。\n\n(80字)",
       "summarizedAt": "2026-11-20T02:53:16.767Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE9oOUIxSkU4OEFSWmpZM0ZZV3NKSFpJdGVfemhiVG5vODZGbmcyS0g1V3NkcmthbU43MUNnNHV5R1hGQzZlb2xpVjEtM1Q3TWNQMFRWOTVKbkw3R0Y4dDVieHcxcko1VUVaMTM3UA",
+      "source": "nikkei_news",
+      "title": "高まる労働コスト、物価上昇の原動力に 利益を圧迫",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oOUIxSkU4OEFSWmpZM0ZZV3NKSFpJdGVfemhiVG5vODZGbmcyS0g1V3NkcmthbU43MUNnNHV5R1hGQzZlb2xpVjEtM1Q3TWNQMFRWOTVKbkw3R0Y4dDVieHcxcko1VUVaMTM3UA?oc=5",
+      "publishedAt": "2026-11-19T19:30:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-21T03:01:37.446Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE9oOUIxSkU4OEFSWmpZM0ZZV3NKSFpJdGVfemhiVG5vODZGbmcyS0g1V3NkcmthbU43MUNnNHV5R1hGQzZlb2xpVjEtM1Q3TWNQMFRWOTVKbkw3R0Y4dDVieHcxcko1VUVaMTM3UA",
+      "summary": "【要約】\n人件費の上昇が物価押し上げの主要因となっており、企業の利益を圧迫する状況が進行しています。人事担当者は賃上げと収益性のバランスを考慮した人件費管理と生産性向上の施策が求められます。\n\n(99字)",
+      "summarizedAt": "2026-11-21T03:01:56.357Z",
       "isGuideline": false
     },
     {
@@ -501,6 +571,20 @@
       "storyId": "nikkei:CBMiYkFVX3lxTE9yOXJLS1pOaEdlNEVqZkQtaXBKbmxRU2dKZXY2dDhZWG80VVY2MGNMdDZ6bTFOcWF2N25TcWJUZ0t3X2lhbndDc3hZTTgzOHZaMzJ4czFteTZJMXZyVkxkSDZB",
       "summary": "大田弘子氏が、年功序列や終身雇用など長期勤続を優遇する日本の労働慣行・制度を転換すべき時期だと提言しています。人事担当者は、勤続年数に偏重しない評価・報酬制度への見直しを検討する必要性が高まっています。",
       "summarizedAt": "2026-11-13T02:28:53.204Z",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77388.html",
+      "source": "mhlw_news",
+      "title": "第94回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77388.html",
+      "publishedAt": "2026-11-12T11:36:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-21T03:01:38.130Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77388.html",
+      "summary": "厚生労働省が労働政策審議会雇用環境・均等分科会の第94回会合を開催します。具体的な議題は公表されていませんが、雇用環境や均等待遇に関する制度改正の審議が行われる見込みです。",
+      "summarizedAt": "2026-11-21T03:01:50.425Z",
+      "stage": "審議会検討",
       "isGuideline": false
     },
     {
