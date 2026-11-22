@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T03:02:01.939Z",
+  "updatedAt": "2026-11-22T01:58:50.308Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw",
@@ -55,6 +55,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE9ReXVobkM4ckptWHpyM3g2N0x3eWMtRTBTcWRMU09nc1NwSE9TbDdTc0lqb242dk5iWmQ0Q2c4S1d2anRxR1p0UVBFendFR180cW04SDdWb3Z4MFliZXJyZ0EzYmZsTm00RWMtWQ",
       "summary": "厚生労働省が、雇用保険に加入していない労働者が職業訓練を受ける際の給付金について、現行の月額10万円からの増額を検討しています。対象者の訓練受講を促進する支援策として、給付水準の引き上げが図られる見込みです。",
       "summarizedAt": "2026-11-21T03:01:53.307Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE9NUF92ZWZiMGNRa2g5RUlZWTBzS1ZodGJfOEJGS1pfZXFVU0NfRDBCMktoZ2g5VXcyb1V3QWY5WjBDVnFtQzFlSkZEcFQ1MFhyUDl6Vw",
+      "source": "rosei_news",
+      "title": "障害者雇用枠で採用した社員について、「著しい能力不足」を理由とする解雇は可能か",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NUF92ZWZiMGNRa2g5RUlZWTBzS1ZodGJfOEJGS1pfZXFVU0NfRDBCMktoZ2g5VXcyb1V3QWY5WjBDVnFtQzFlSkZEcFQ1MFhyUDl6Vw?oc=5",
+      "publishedAt": "2026-11-20T00:13:18.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE9NUF92ZWZiMGNRa2g5RUlZWTBzS1ZodGJfOEJGS1pfZXFVU0NfRDBCMktoZ2g5VXcyb1V3QWY5WjBDVnFtQzFlSkZEcFQ1MFhyUDl6Vw",
+      "summary": "障害者雇用枠で採用した社員であっても、客観的合理性と社会通念上の相当性が認められれば能力不足を理由とする解雇は法的に可能ですが、障害特性への配慮や指導の実施、合理的配慮提供の有無等が厳格に問われるため、慎重な判断と十分な手続きが必要です。",
+      "summarizedAt": "2026-11-22T01:58:35.346Z",
       "isGuideline": false
     },
     {
@@ -237,6 +251,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE53Ni1HMmdfV3pVQkFoMnJXYzktek1jZ1Q2ZzRJdG9pSlRxSWVQZmJzNk5wbExiYmtfWGJ4SDVmVWhHZnFSd3JwLUI3N2ZQZzV2NlZTUg",
+      "source": "rosei_news",
+      "title": "労働時間、繁閑調整を議論 首相言及、見直し論点に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53Ni1HMmdfV3pVQkFoMnJXYzktek1jZ1Q2ZzRJdG9pSlRxSWVQZmJzNk5wbExiYmtfWGJ4SDVmVWhHZnFSd3JwLUI3N2ZQZzV2NlZTUg?oc=5",
+      "publishedAt": "2026-11-18T00:42:15.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE53Ni1HMmdfV3pVQkFoMnJXYzktek1jZ1Q2ZzRJdG9pSlRxSWVQZmJzNk5wbExiYmtfWGJ4SDVmVWhHZnFSd3JwLUI3N2ZQZzV2NlZTUg",
+      "summary": "首相が労働時間制度における繁閑調整の見直しに言及し、今後の議論の論点となる見通しです。繁忙期と閑散期で労働時間を柔軟に調整できる仕組みの制度化が検討される可能性があり、労務担当者は変形労働時間制等の運用見直しに備える必要があります。",
+      "summarizedAt": "2026-11-22T01:58:24.737Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBiV3kxZ3FZeFhZaXgzdERsbWpnQlB1N2lJMzVvRXVocXpQN1ZVTGJXSDBvQWw0RDd0MnIzUGxDN1h3elZ1STJaMmRXSklYZFVTYnAtOQ",
       "source": "rosei_news",
       "title": "中小賃上げ率４・５２％ 日商調査、前年度から微減",
@@ -263,6 +291,20 @@
       "summary": "厚生労働省の調査により、建設業の賃上げ実施率が85.1%と15産業中下から3番目であることが判明しました。建設業の人事担当者は業界全体で賃上げが遅れている状況を認識し、人材確保に向けた処遇改善の検討が必要です。",
       "summarizedAt": "2026-11-18T03:26:16.232Z",
       "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiXEFVX3lxTE4zSGlRVHlYZ21nX3pHNExkZW8zdzVGZUxELXpXSU5jcXRBWUpUdkRpdHhONHpzdER3LVpYWmh0bnlXM3VGQkdacnNkdEtYeXA3NENvT0cxREZhWXN3",
+      "source": "rosei_news",
+      "title": "『弁護士が解説！ハラスメントの相談を受けた時の初動対応』",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zSGlRVHlYZ21nX3pHNExkZW8zdzVGZUxELXpXSU5jcXRBWUpUdkRpdHhONHpzdER3LVpYWmh0bnlXM3VGQkdacnNkdEtYeXA3NENvT0cxREZhWXN3?oc=5",
+      "publishedAt": "2026-11-17T13:03:29.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiXEFVX3lxTE4zSGlRVHlYZ21nX3pHNExkZW8zdzVGZUxELXpXSU5jcXRBWUpUdkRpdHhONHpzdER3LVpYWmh0bnlXM3VGQkdacnNkdEtYeXA3NENvT0cxREZhWXN3",
+      "summary": "ハラスメント相談を受けた際の初動対応について、弁護士による法的観点からの解説記事です。人事労務担当者は、適切な初期対応の手順や留意点を確認し、相談受付時の実務対応を見直すことが推奨されます。",
+      "summarizedAt": "2026-11-22T01:58:43.859Z",
+      "isGuideline": true
     },
     {
       "id": "nikkei:CBMibEFVX3lxTE1UeWtZRkd6OWh4Ul95ZzNXTWtLSkRldmJ5M3ZQYm5hQjByTGRtWjlyandDb1A0S2JfRW05NjQ1U2FEOWVmRmg1bmltOEN5MkI5Z05mSmJLWjZyRHJ5MGVOdWpFUXJwWWowZnVNdg",
@@ -532,6 +574,34 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE1DMUJzc0tvRVZ5aGdTaXVWS0d5bWYxeFBob0JwQ1g0THdwbnlvVDlzbGF6YkhqRE5aVlMtY2tOT0RPdWJsNGlSNUZPWV9DYzVaRVdjNg",
+      "source": "rosei_news",
+      "title": "使用者が団体交渉において労働組合に対して負う「誠実交渉義務」とは、どのような態度を指すか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DMUJzc0tvRVZ5aGdTaXVWS0d5bWYxeFBob0JwQ1g0THdwbnlvVDlzbGF6YkhqRE5aVlMtY2tOT0RPdWJsNGlSNUZPWV9DYzVaRVdjNg?oc=5",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1DMUJzc0tvRVZ5aGdTaXVWS0d5bWYxeFBob0JwQ1g0THdwbnlvVDlzbGF6YkhqRE5aVlMtY2tOT0RPdWJsNGlSNUZPWV9DYzVaRVdjNg",
+      "summary": "労働組合法上、使用者は団体交渉において誠実交渉義務を負いますが、その「誠実な態度」の具体的内容について解説しています。団交対応にあたっては形式的な応対だけでなく、真摯に協議する姿勢が求められる点を理解する必要があります。",
+      "summarizedAt": "2026-11-22T01:58:37.944Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1wQndWdElqUXR0YUppSWJzelZpQmFha0ZZcnFfd3ZhZGdGRWJsWVBsYUdsdHYtamJlTXVHNWRyYVJUVzE3Tl84UE5ja2lGb0FQRkVKWA",
+      "source": "rosei_news",
+      "title": "ハラスメント事案認定後の実務対応",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wQndWdElqUXR0YUppSWJzelZpQmFha0ZZcnFfd3ZhZGdGRWJsWVBsYUdsdHYtamJlTXVHNWRyYVJUVzE3Tl84UE5ja2lGb0FQRkVKWA?oc=5",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1wQndWdElqUXR0YUppSWJzelZpQmFha0ZZcnFfd3ZhZGdGRWJsWVBsYUdsdHYtamJlTXVHNWRyYVJUVzE3Tl84UE5ja2lGb0FQRkVKWA",
+      "summary": "ハラスメントが認定された後、企業は加害者への懲戒処分の実施、被害者のケアと職場環境の改善、再発防止策の策定など、適切な事後対応を行う必要があります。対応の遅れや不備は企業責任を問われるリスクがあるため、組織的な対応手順の確立が求められます。",
+      "summarizedAt": "2026-11-22T01:58:46.999Z",
+      "isGuideline": false
+    },
+    {
       "id": "nikkei:CBMibEFVX3lxTE8wTFJOazNtb3pwUHFPMkZXZmg3Z0dqMXRTMmFCOXJPaHJBQ0tuU0NMTkFERmNmZEROa040QU1VMVpFdGhGV05zN1htcnRET1dVTzFCc1g5Y21faTlmMHlieG9WVGZMMDd4c0FiUQ",
       "source": "nikkei_news",
       "title": "｢がん検診｣で生涯現役 受診率トップは山形、QOL向上・労働損失も回避",
@@ -585,6 +655,20 @@
       "summary": "厚生労働省が労働政策審議会雇用環境・均等分科会の第94回会合を開催します。具体的な議題は公表されていませんが、雇用環境や均等待遇に関する制度改正の審議が行われる見込みです。",
       "summarizedAt": "2026-11-21T03:01:50.425Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE84NkpQNGtfR1E5NEN6djhKSXFGdGxaQU9QUUFtSzFsQlJXUmZoZFc2ODZ4OEdGdHhxU1BYNEdTNHozYWsxb3hxQ0FnWW9rbVZUdGR4X1NpNGZRb1BSd1RodFJldUFBdkVxay1vdg",
+      "source": "nikkei_news",
+      "title": "裁量労働制は本当に子育てしやすいか？",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84NkpQNGtfR1E5NEN6djhKSXFGdGxaQU9QUUFtSzFsQlJXUmZoZFc2ODZ4OEdGdHhxU1BYNEdTNHozYWsxb3hxQ0FnWW9rbVZUdGR4X1NpNGZRb1BSd1RodFJldUFBdkVxay1vdg?oc=5",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-22T01:58:04.525Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE84NkpQNGtfR1E5NEN6djhKSXFGdGxaQU9QUUFtSzFsQlJXUmZoZFc2ODZ4OEdGdHhxU1BYNEdTNHozYWsxb3hxQ0FnWW9rbVZUdGR4X1NpNGZRb1BSd1RodFJldUFBdkVxay1vdg",
+      "summary": "【要約】\n裁量労働制が子育てとの両立に適しているかが問われています。人事担当者は、育児中の社員への制度適用時に、業務量管理や実労働時間の把握を慎重に行い、柔軟性だけでなく実態面での働きやすさも検証する必要があります。\n\n(119字)",
+      "summarizedAt": "2026-11-22T01:58:16.087Z",
       "isGuideline": false
     },
     {
@@ -753,6 +837,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFB2bXUwdUROQXB1ZHNFTjY3NUJnMVdQTE5PWjFRb2NFVHlwNE1hTGl6aUJ6OTloREdJZlhDWW1wU3lITldkR3pEc0VVbHBEcUtTeXN4aG5EYThmemd0UmhYR1hfOTJGYnoxWGdOWQ",
       "summary": "【要約】\n人手不足を背景に、経験の浅い作業者でも扱える簡易型タイヤ交換機への需要が高まっており、労働力確保が難しい現場では機械の操作性向上による省人化・技能レベル緩和が進んでいる。\n\n（79字）",
       "summarizedAt": "2026-11-13T02:29:06.840Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1GYzNlUlVNZExRejE2S1dRTk1LU1hyNTdHRTEtcDU0aHdXcDV3a0cwQjBGY0otSVdQMGJLT0NZZWpCNWlXVVRkM0RTcnVlNXdHUGVEMA",
+      "source": "rosei_news",
+      "title": "動画でチェック！ 人事の注目情報 - 労働施策総合推進法の改正内容の紹介 ～求職者等セクハラ防止措置～",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GYzNlUlVNZExRejE2S1dRTk1LU1hyNTdHRTEtcDU0aHdXcDV3a0cwQjBGY0otSVdQMGJLT0NZZWpCNWlXVVRkM0RTcnVlNXdHUGVEMA?oc=5",
+      "publishedAt": "2026-11-10T12:28:09.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1GYzNlUlVNZExRejE2S1dRTk1LU1hyNTdHRTEtcDU0aHdXcDV3a0cwQjBGY0otSVdQMGJLT0NZZWpCNWlXVVRkM0RTcnVlNXdHUGVEMA",
+      "summary": "労働施策総合推進法の改正により、企業は求職者や個人事業主等に対するセクシュアルハラスメントの防止措置を講じることが義務付けられます。人事・労務担当者は採用活動や取引関係における新たな防止体制の整備と社内周知が必要です。",
+      "summarizedAt": "2026-11-22T01:58:32.558Z",
       "isGuideline": false
     },
     {
@@ -963,6 +1061,34 @@
       "summary": "厚生労働省が障害福祉分野における人材確保と生産性向上を検討する会議の第2回を開催し、関連資料を公表しました。障害福祉サービス事業者は今後の人材確保策や業務効率化の方向性について、検討会の議論を注視する必要があります。",
       "summarizedAt": "2026-11-06T02:05:30.814Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE1OVDRsQXBYR05NSTRhNE5ZdE1LWV9WRmNtT1RrS1hYckNERU5sallFRVVtanVIcjNGdVlqWXJEcFN3UUV0em5hcG5aRV9yZF8zWFNQVA",
+      "source": "rosei_news",
+      "title": "実質賃金９カ月連続プラス ９月２・２％、春闘寄与",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OVDRsQXBYR05NSTRhNE5ZdE1LWV9WRmNtT1RrS1hYckNERU5sallFRVVtanVIcjNGdVlqWXJEcFN3UUV0em5hcG5aRV9yZF8zWFNQVA?oc=5",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE1OVDRsQXBYR05NSTRhNE5ZdE1LWV9WRmNtT1RrS1hYckNERU5sallFRVVtanVIcjNGdVlqWXJEcFN3UUV0em5hcG5aRV9yZF8zWFNQVA",
+      "summary": "2024年9月の実質賃金は前年同月比2.2％増となり、9カ月連続でプラスを記録しました。春闘による賃上げ効果が寄与しており、今後の賃金動向や自社の賃金水準の妥当性を確認する参考指標となります。",
+      "summarizedAt": "2026-11-22T01:58:27.436Z",
+      "isGuideline": false
+    },
+    {
+      "id": "rosei:CBMiVEFVX3lxTE91SkNDLV9xQll4S195dTFsZnQ0eHhyUGRRXzVfLXZmejA0WS1lYVRKdXczLS1HV3BGc2dMT1FseDJpNjY1Q0Q4czloTXVHMU1wdTVsTA",
+      "source": "rosei_news",
+      "title": "海外労働、実態調査へ 厚労省、過労死遺族ら要望",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91SkNDLV9xQll4S195dTFsZnQ0eHhyUGRRXzVfLXZmejA0WS1lYVRKdXczLS1HV3BGc2dMT1FseDJpNjY1Q0Q4czloTXVHMU1wdTVsTA?oc=5",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE91SkNDLV9xQll4S195dTFsZnQ0eHhyUGRRXzVfLXZmejA0WS1lYVRKdXczLS1HV3BGc2dMT1FseDJpNjY1Q0Q4czloTXVHMU1wdTVsTA",
+      "summary": "厚生労働省が海外勤務者の労働実態に関する調査を実施する方針を固めました。過労死遺族らの要望を受けたもので、今後、海外勤務者の労働時間管理や健康管理のあり方について検討が進められる見通しです。",
+      "summarizedAt": "2026-11-22T01:58:29.809Z",
       "isGuideline": false
     },
     {
@@ -14225,6 +14351,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "rosei:CBMiVEFVX3lxTE53X29CTkN0cl80cFFxeGQ5VzQ2bnNVUGlTZ2dkZ2JLTW9TT1JPMVFuTktJMmhPYW5HS1lwTVJuZ2R1VTRKdVRTS2FvOU8xVDROT2wxWQ",
+      "source": "rosei_news",
+      "title": "2024年度地域別最低賃金額改定の目安に関する公益委員見解",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53X29CTkN0cl80cFFxeGQ5VzQ2bnNVUGlTZ2dkZ2JLTW9TT1JPMVFuTktJMmhPYW5HS1lwTVJuZ2R1VTRKdVRTS2FvOU8xVDROT2wxWQ?oc=5",
+      "publishedAt": "2024-09-13T07:00:00.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiVEFVX3lxTE53X29CTkN0cl80cFFxeGQ5VzQ2bnNVUGlTZ2dkZ2JLTW9TT1JPMVFuTktJMmhPYW5HS1lwTVJuZ2R1VTRKdVRTS2FvOU8xVDROT2wxWQ",
+      "summary": "2024年度の地域別最低賃金改定について、中央最低賃金審議会の公益委員が目安額を提示しました。各都道府県は今後この目安を参考に地域の実情を踏まえた審議を行い、10月頃の発効に向けて最低賃金額を決定するため、自社の賃金水準との比較確認が必要です。",
+      "summarizedAt": "2026-11-22T01:58:41.330Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5MZDVHa0hOX0Y0OXktREdjNnhPdk1hTmNjUExsNkNsU1pmdUc2UlRuclJNMWFGZWtWYW9OdkFDb0xjOU5SUmEwZWplcTdFZ2kyUnRuaw",
       "source": "rosei_news",
       "title": "人手不足、コロナ後深刻 ２４年版の労働経済白書",
@@ -14940,6 +15080,20 @@
       "isGuideline": false
     },
     {
+      "id": "rosei:CBMiW0FVX3lxTE5JaXBUT1pNclRIQ3JESHhSSUM4aGllVTR6dm1ES2loSE93bjhseU51WUdPeEV6XzhsTHc1cktBaURvMlh5U0l3Qjl4d1N3c1YxTm5BQ3hwQUhkaFU",
+      "source": "rosei_news",
+      "title": "『労働基準法の基礎知識』",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaXBUT1pNclRIQ3JESHhSSUM4aGllVTR6dm1ES2loSE93bjhseU51WUdPeEV6XzhsTHc1cktBaURvMlh5U0l3Qjl4d1N3c1YxTm5BQ3hwQUhkaFU?oc=5",
+      "publishedAt": "2024-03-02T17:31:22.000Z",
+      "category": "労政時報",
+      "fetchedAt": "2026-11-22T01:58:04.527Z",
+      "relevanceChecked": true,
+      "storyId": "rosei:CBMiW0FVX3lxTE5JaXBUT1pNclRIQ3JESHhSSUM4aGllVTR6dm1ES2loSE93bjhseU51WUdPeEV6XzhsTHc1cktBaURvMlh5U0l3Qjl4d1N3c1YxTm5BQ3hwQUhkaFU",
+      "summary": "本見出しのみでは具体的な法改正や実務上の変更点が読み取れないため、労働基準法に関する基礎的な解説記事と推測されます。労務担当者は労働時間、賃金、休暇等の基本ルールを改めて確認する機会として活用できる内容である可能性があります。",
+      "summarizedAt": "2026-11-22T01:58:50.302Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1xWlV4Y2hldk4wS0dhTDJCRWh2SzB2cjBnUEthckRGY21ncFRTRmt0Vk1xb2N5di12czZsbk1oTnA4cnA3NWYtcU1KTFdqdTBQa2M3VQ",
       "source": "rosei_news",
       "title": "男性育休、目標設定義務化 従業員１００人超の企業 厚労省、法案提出へ",
@@ -15331,6 +15485,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1IbDZWM25OYnVKek5ndGt5T0tsQVhwY2c3TTRZT0VLcmpsaWV2VEFOWnhSRUhaVlBJX3kxNWpFMFVyQ3Y5T04tU3oyazVIMkF4YjFRSA",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiWEFVX3lxTFBnY3I0MDNnRjBCTnpJSkxwanBwMHZYeUFwN2VZaFNsekNnOHRJVG5nYWF3MWZVbzJsczBFVEFfYWpmNTF2ZWRpWFUxMkhGcDkwWlVST05fYWQ",
+      "source": "nikkei_news",
+      "title": "外国人労働者 現状や課題",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnY3I0MDNnRjBCTnpJSkxwanBwMHZYeUFwN2VZaFNsekNnOHRJVG5nYWF3MWZVbzJsczBFVEFfYWpmNTF2ZWRpWFUxMkhGcDkwWlVST05fYWQ?oc=5",
+      "publishedAt": "2023-11-14T14:28:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-22T01:58:04.525Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWEFVX3lxTFBnY3I0MDNnRjBCTnpJSkxwanBwMHZYeUFwN2VZaFNsekNnOHRJVG5nYWF3MWZVbzJsczBFVEFfYWpmNTF2ZWRpWFUxMkhGcDkwWlVST05fYWQ",
+      "summary": "# 要約\n\n外国人労働者の受入れに関する現状と課題について情報提供されています。人事・労務担当者は、外国人雇用における制度理解や受入れ体制の整備状況を確認し、自社の課題を把握することが求められます。\n\n(80字)",
+      "summarizedAt": "2026-11-22T01:58:18.746Z",
+      "isGuideline": false
     },
     {
       "id": "nikkei:CBMiWkFVX3lxTE5Eb1NvUnNNV0JxTmpBS0doV3U0dGxDRDJrUmNBdWxMQ0RXdC1BWGJtaEhic2c2VFc1YlVYbWRUOWdFVlVRaE1Ha1lZN2RWMjB4QnhRMHpGLU01UQ",
@@ -17081,6 +17249,20 @@
       "storyId": "nikkei:CBMickFVX3lxTE91UzJxMDkzZnB2V2xPREpkMjhnU0lUTUU4TGsyc3lBMEFmTC1McEJOWS16dVhTUGtsTHVxaWVPWXQ4ZjFScHFWdEk1X1Rqb2JJdW9jZXpYVFlFbTByZ0pTSE10QmRvRFNRMkQwZGZEVUxpZw",
       "summary": "【要約】\n外国人労働者が劣悪な労働環境に置かれている実態が指摘されています。人事・労務担当者は、外国人雇用における法令遵守の徹底と、受入制度の趣旨に沿った適切な労働条件の整備が求められます。\n\n(94字)",
       "summarizedAt": "2026-09-26T00:27:26.418Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTE8yMWxHc3Bpd0JTZnVIdTNmWDZVMWNGcDU2MS10T0dkcjR4MlF2VXdFZHYtUl9DU2NwM3NmMFk0ZGNZU3MtTkhVb21PN25SSHliR3prblIwc2pEX2lEbjgzcl9Kd2dvMklyNGV5OGpNN1U",
+      "source": "nikkei_news",
+      "title": "味の素「残業ゼロ」実現の先は 創造的な働き方に挑む",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yMWxHc3Bpd0JTZnVIdTNmWDZVMWNGcDU2MS10T0dkcjR4MlF2VXdFZHYtUl9DU2NwM3NmMFk0ZGNZU3MtTkhVb21PN25SSHliR3prblIwc2pEX2lEbjgzcl9Kd2dvMklyNGV5OGpNN1U?oc=5",
+      "publishedAt": "2019-12-05T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-22T01:58:04.525Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE8yMWxHc3Bpd0JTZnVIdTNmWDZVMWNGcDU2MS10T0dkcjR4MlF2VXdFZHYtUl9DU2NwM3NmMFk0ZGNZU3MtTkhVb21PN25SSHliR3prblIwc2pEX2lEbjgzcl9Kd2dvMklyNGV5OGpNN1U",
+      "summary": "味の素が残業ゼロを実現し、次の段階として創造的な働き方の推進に取り組んでいます。労働時間削減を達成した企業の先進事例として、自社の働き方改革の次なるステップを検討する際の参考になります。",
+      "summarizedAt": "2026-11-22T01:58:21.661Z",
       "isGuideline": false
     },
     {
