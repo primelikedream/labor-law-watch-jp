@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:58:50.308Z",
+  "updatedAt": "2026-11-23T02:23:47.217Z",
   "items": [
     {
       "id": "nikkei:CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw",
@@ -10663,6 +10663,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE43RFVhQld4d09NWncwQS1lYUZoc2p4X2ZZb2p4SW93UXZQcE8wS2xJLWxmdXBDOGNXeGQ3aF80dHZ2VTlPX3pIMHo3dno3bnZqLTJoY1RWMXNLMGEtVVg0MFhXcGNzWHZSeW9Jeg",
+      "source": "nikkei_news",
+      "title": "5月の実質賃金1.4%増、5カ月連続プラス 賃上げが波及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RFVhQld4d09NWncwQS1lYUZoc2p4X2ZZb2p4SW93UXZQcE8wS2xJLWxmdXBDOGNXeGQ3aF80dHZ2VTlPX3pIMHo3dno3bnZqLTJoY1RWMXNLMGEtVVg0MFhXcGNzWHZSeW9Jeg?oc=5",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-23T02:23:28.263Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE43RFVhQld4d09NWncwQS1lYUZoc2p4X2ZZb2p4SW93UXZQcE8wS2xJLWxmdXBDOGNXeGQ3aF80dHZ2VTlPX3pIMHo3dno3bnZqLTJoY1RWMXNLMGEtVVg0MFhXcGNzWHZSeW9Jeg",
+      "summary": "2025年5月の実質賃金は前年同月比1.4%増となり、5カ月連続でプラスを記録しました。賃上げの動きが広範囲に波及していることを示しており、今後も適切な賃金改定の検討が求められます。",
+      "summarizedAt": "2026-11-23T02:23:44.937Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1TY28taVU1UXpjVHlZUTUzakd2MkJ4SUZMWEpTaEg3WndHQ21oT01WaDNfbDB4ME1ZWDRlSnd1bTBjMG5hSFhnQ2tuNHBpalR3X3NlTg",
       "source": "rosei_news",
       "title": "春闘賃上げ率５・０１％ ３年連続大台、連合集計 下回る中小、格差懸念も",
@@ -11389,6 +11403,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTE53Y25YQUpBVWRfMDBtVEFZdWRzUjJDLVZhU3Vjc1RaVEJMVFBqYVZETnZzcE5KNllNN1pvMmwwUFJ4R2pucGJ2LUd2RUd2VUk2QnQwck5ZTi1FQVEwNXBhaXcxWWVaUjZ0WGpZbA",
       "summary": "竹中工務店が4年連続でベースアップを実施し、平均10%超の賃上げを行います。建設業界における大幅賃上げの動きとして、自社の賃金水準や採用競争力の見直しを検討する参考事例となります。",
       "summarizedAt": "2026-09-19T22:13:57.311Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMifkFVX3lxTE1aRW54MS1KTDBjejhLMVJBX0wtLTdfTGoyTmdJVzIxX1BrSFh0QTlQSG9FTGVRVW51eU1RWElzZU5IOHhLQVpfNEZxWENKUkF6QlBhdE1SZkpoeFRCSUZELWFlUWEwazJ1TnRvV21OZWlTb0xra1pBemdxODYwZw",
+      "source": "nikkei_news",
+      "title": "日立もNTTも大幅賃上げ…2026春季交渉、順調な出足にイラン情勢の影",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aRW54MS1KTDBjejhLMVJBX0wtLTdfTGoyTmdJVzIxX1BrSFh0QTlQSG9FTGVRVW51eU1RWElzZU5IOHhLQVpfNEZxWENKUkF6QlBhdE1SZkpoeFRCSUZELWFlUWEwazJ1TnRvV21OZWlTb0xra1pBemdxODYwZw?oc=5",
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-23T02:23:28.263Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMifkFVX3lxTE1aRW54MS1KTDBjejhLMVJBX0wtLTdfTGoyTmdJVzIxX1BrSFh0QTlQSG9FTGVRVW51eU1RWElzZU5IOHhLQVpfNEZxWENKUkF6QlBhdE1SZkpoeFRCSUZELWFlUWEwazJ1TnRvV21OZWlTb0xra1pBemdxODYwZw",
+      "summary": "2026年春闘において日立やNTTなど大手企業が大幅な賃上げを実施し順調な滑り出しを見せていますが、イラン情勢が今後の交渉に影響を及ぼす可能性があります。(79字)",
+      "summarizedAt": "2026-11-23T02:23:47.212Z",
       "isGuideline": false
     },
     {
@@ -12427,6 +12455,20 @@
       "isGuideline": false,
       "storyId": "rosei:CBMiVEFVX3lxTE5HMHk4akZkanpLcWprQVppOEJja3g2QlN2LW4tQ2ZBeHBaMkpBd3pkc0hEUDdrVWpVY29xTHdpU1dSOWRka1F4NFdZa05mZV8zSWFxVw",
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5QMGNobEkwZVZJWTZFSlpZWGUyV2huaXE4TTRvM3VNYzIzdXpWU3RmQkwySTlTVmplSWxwZ3pBOEdGU1Z4UVljMDRwYlJaYmF3cUVXcDQzQ3NSMkd0SWF1VFhyU2hRS0cwSE5mbg",
+      "source": "nikkei_news",
+      "title": "〈採用状況調査から〉就活ハラスメント、88%が防止策 私的な連絡先交換禁止/専用の相談窓口",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMGNobEkwZVZJWTZFSlpZWGUyV2huaXE4TTRvM3VNYzIzdXpWU3RmQkwySTlTVmplSWxwZ3pBOEdGU1Z4UVljMDRwYlJaYmF3cUVXcDQzQ3NSMkd0SWF1VFhyU2hRS0cwSE5mbg?oc=5",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-23T02:23:28.263Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5QMGNobEkwZVZJWTZFSlpZWGUyV2huaXE4TTRvM3VNYzIzdXpWU3RmQkwySTlTVmplSWxwZ3pBOEdGU1Z4UVljMDRwYlJaYmF3cUVXcDQzQ3NSMkd0SWF1VFhyU2hRS0cwSE5mbg",
+      "summary": "企業の88%が就活ハラスメント防止策を実施しており、採用担当者と学生の私的な連絡先交換禁止や専用相談窓口の設置などが主な対策となっています。自社の採用プロセスにおける防止体制を点検し、未整備の場合は早急に対応する必要があります。",
+      "summarizedAt": "2026-11-23T02:23:42.571Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiVEFVX3lxTE44VTZmS1dwZHlBcktTN2FTeExKdWJpTW1lTVhNT2pMTEdpX2tzbGJ0NnJuWF96bnBQZER2Sk5NZFhPb0FJRXVMeEF5N2w5VldqYzhaeQ",
@@ -17263,6 +17305,20 @@
       "storyId": "nikkei:CBMicEFVX3lxTE8yMWxHc3Bpd0JTZnVIdTNmWDZVMWNGcDU2MS10T0dkcjR4MlF2VXdFZHYtUl9DU2NwM3NmMFk0ZGNZU3MtTkhVb21PN25SSHliR3prblIwc2pEX2lEbjgzcl9Kd2dvMklyNGV5OGpNN1U",
       "summary": "味の素が残業ゼロを実現し、次の段階として創造的な働き方の推進に取り組んでいます。労働時間削減を達成した企業の先進事例として、自社の働き方改革の次なるステップを検討する際の参考になります。",
       "summarizedAt": "2026-11-22T01:58:21.661Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiWEFVX3lxTE5BRzZ5bFJ2bm11N2ZYYms0a0paeXB1azNXZGxrVjFfQnFiQ3N5Q2t6VU8xakRHY1JrbS0zam1ZR3ZBamFCYTNyUjBZS2VhcTBnTWd3aFRycy0",
+      "source": "nikkei_news",
+      "title": "現場を悩ますハラスメントの「グレーゾーン」にどう対応すべきか［後編］",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BRzZ5bFJ2bm11N2ZYYms0a0paeXB1azNXZGxrVjFfQnFiQ3N5Q2t6VU8xakRHY1JrbS0zam1ZR3ZBamFCYTNyUjBZS2VhcTBnTWd3aFRycy0?oc=5",
+      "publishedAt": "2019-12-03T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-23T02:23:28.263Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWEFVX3lxTE5BRzZ5bFJ2bm11N2ZYYms0a0paeXB1azNXZGxrVjFfQnFiQ3N5Q2t6VU8xakRHY1JrbS0zam1ZR3ZBamFCYTNyUjBZS2VhcTBnTWd3aFRycy0",
+      "summary": "ハラスメントの「グレーゾーン」への対応が課題となっており、労務・人事担当者は明確な違反とは言い切れない微妙な事案についても、適切な判断基準と対応方法を整備する必要があります。",
+      "summarizedAt": "2026-11-23T02:23:39.704Z",
       "isGuideline": false
     },
     {
