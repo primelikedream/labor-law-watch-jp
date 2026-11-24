@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-23T02:23:47.217Z",
+  "updatedAt": "2026-11-24T05:47:32.753Z",
   "items": [
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5lVGVGMkNIQzJZbjB0RWw1Z193VjlXZ3pnODk0QnoyRkY3TTltWkFSbVRpTmIyUzBRVXo4SjNwY1U4d2ZfNjhILVBlUTJrWUF1dHozV3dOOGhKQTc0MkpoVW02X0RYclBKWkMtWA",
+      "source": "nikkei_news",
+      "title": "副業仲介のlotsful代表「チームで課題解決支援、売上高100億円規模」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lVGVGMkNIQzJZbjB0RWw1Z193VjlXZ3pnODk0QnoyRkY3TTltWkFSbVRpTmIyUzBRVXo4SjNwY1U4d2ZfNjhILVBlUTJrWUF1dHozV3dOOGhKQTc0MkpoVW02X0RYclBKWkMtWA?oc=5",
+      "publishedAt": "2026-11-23T20:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5lVGVGMkNIQzJZbjB0RWw1Z193VjlXZ3pnODk0QnoyRkY3TTltWkFSbVRpTmIyUzBRVXo4SjNwY1U4d2ZfNjhILVBlUTJrWUF1dHozV3dOOGhKQTc0MkpoVW02X0RYclBKWkMtWA",
+      "summary": "この情報は副業仲介企業の事業目標に関する内容であり、労働関連法制の改正や制度変更を示すものではありません。労務・人事担当者が対応すべき具体的な法令上の変更点は含まれていないため、実務上の要約は作成できません。",
+      "summarizedAt": "2026-11-24T05:47:04.536Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMibEFVX3lxTE5HQ2lXdlRxZkxiWjkzcVJPd0NBYUxVb3lRZTQ1RTJMQ2hoNGlyZHZwZEc1VFBvdnJJSVNuSmFMaG9LOGtRazJpanZUTG5uNDNpeG16UGZGNGpEd2luY2ZoLWwzMk1uZTFqWWZvdg",
+      "source": "nikkei_news",
+      "title": "日野自動車が2027年度の年間休日数を121→125日に 自動車業界で最多、他社に先駆け人材確保へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HQ2lXdlRxZkxiWjkzcVJPd0NBYUxVb3lRZTQ1RTJMQ2hoNGlyZHZwZEc1VFBvdnJJSVNuSmFMaG9LOGtRazJpanZUTG5uNDNpeG16UGZGNGpEd2luY2ZoLWwzMk1uZTFqWWZvdg?oc=5",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5HQ2lXdlRxZkxiWjkzcVJPd0NBYUxVb3lRZTQ1RTJMQ2hoNGlyZHZwZEc1VFBvdnJJSVNuSmFMaG9LOGtRazJpanZUTG5uNDNpeG16UGZGNGpEd2luY2ZoLWwzMk1uZTFqWWZvdg",
+      "summary": "日野自動車が2027年度から年間休日数を現行の121日から125日に増加し、自動車業界で最多水準とします。人材確保を目的とした先進的な取り組みとして、労働条件の改善による採用競争力強化の参考事例となります。",
+      "summarizedAt": "2026-11-24T05:47:01.050Z",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE5zbWpZY3N5aUFsSUNWTlRxUlhxRl8wVEJOd09zTXZObjVoQlZTUTd6RmF6U0RDWkZpV0tVQkZ0dldkcVBEN2EzS21rc2dVak9yU2JvQ20wZXZTUGdLTnZ5cTV3U1VBamxvdG85Nw",
       "source": "nikkei_news",
@@ -11336,6 +11364,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMibEFVX3lxTE5haW13R01IMmdvVFRONWNyckdVdlkwc1R6RzRtOXUwLWN4emJ4dDNXaUQwSTFRZ3d4SHF5RVp0ZXZEdlB0MGdOSndTeldYaHhQTVd5V3BlR1hEckViOXRWamFGR1hpYjE0bkdPbg",
+      "source": "nikkei_news",
+      "title": "賃上げ企業への入札優遇を縮小、国土交通省の直轄工事・業務（2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5haW13R01IMmdvVFRONWNyckdVdlkwc1R6RzRtOXUwLWN4emJ4dDNXaUQwSTFRZ3d4SHF5RVp0ZXZEdlB0MGdOSndTeldYaHhQTVd5V3BlR1hEckViOXRWamFGR1hpYjE0bkdPbg?oc=5",
+      "publishedAt": "2026-04-09T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMibEFVX3lxTE5haW13R01IMmdvVFRONWNyckdVdlkwc1R6RzRtOXUwLWN4emJ4dDNXaUQwSTFRZ3d4SHF5RVp0ZXZEdlB0MGdOSndTeldYaHhQTVd5V3BlR1hEckViOXRWamFGR1hpYjE0bkdPbg",
+      "summary": "国土交通省は直轄工事・業務の入札において、賃上げを実施した企業への優遇措置を縮小する方針です。建設・関連業界の人事担当者は、賃上げによる公共入札でのメリットが従来より小さくなる可能性があるため、今後の入札制度の変更内容を注視する必要があります。",
+      "summarizedAt": "2026-11-24T05:47:29.772Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE5QR0Q4SlJWU0ZoeVlvQzBiQjNYSmg0QmdmUW9DbWNxQmxreEI1UG95eTdlUTdnWmlJOVBHV2dCOTdiaXkwaEthMUg0S0h0TWxmYklPUw",
       "source": "rosei_news",
       "title": "賃上げ５％の高水準維持 連合傘下、３回目集計",
@@ -11585,6 +11627,20 @@
       "storyId": "nikkei:CBMibEFVX3lxTFBZMGJ4bm9zR3M2VHN1ck1hNUJMSnNxUVVVd29Cc2RvUFFLYmpqeHg3cUlwYjFBcWwzcEk2c0ltX3h2a3NqY2lvYUZ6dW5jN09qYkN5QjdMX05ELTEyVXdfd3Z5QlR2a2xPSjEtbg",
       "summary": "ゼンショーホールディングスは2025年春闘で6.7%の賃上げを実施し、14年連続でベースアップを行います。大卒初任給は32.2万円となり、外食業界における人材確保競争の激化が見込まれます。",
       "summarizedAt": "2026-10-28T01:03:47.544Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMiZ0FVX3lxTFBLbFI3T1RlMjVSUTd0MWhvanRIamlmMnRTRWpvaEJzc2RxeDlFU3dQTXJWV2xTa3g5NnMxTWZPU09OaDFMZ2M0aUxoRFZVYTczd3FFVkNndTQ5N3JYTGhKMEFBTDQ4LWs",
+      "source": "nikkei_news",
+      "title": "男性育休、4割取得も1カ月未満が6割 長期取得阻む「2つの壁」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLbFI3T1RlMjVSUTd0MWhvanRIamlmMnRTRWpvaEJzc2RxeDlFU3dQTXJWV2xTa3g5NnMxTWZPU09OaDFMZ2M0aUxoRFZVYTczd3FFVkNndTQ5N3JYTGhKMEFBTDQ4LWs?oc=5",
+      "publishedAt": "2026-03-09T07:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTFBLbFI3T1RlMjVSUTd0MWhvanRIamlmMnRTRWpvaEJzc2RxeDlFU3dQTXJWV2xTa3g5NnMxTWZPU09OaDFMZ2M0aUxoRFZVYTczd3FFVkNndTQ5N3JYTGhKMEFBTDQ4LWs",
+      "summary": "男性の育児休業取得率は4割に達したものの、取得者の6割が1カ月未満にとどまっており、長期取得を阻む課題が存在することが明らかになりました。人事担当者は男性社員が長期育休を取得しやすい環境整備の検討が求められます。",
+      "summarizedAt": "2026-11-24T05:47:13.577Z",
       "isGuideline": false
     },
     {
@@ -12553,6 +12609,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1BNnZacmpoNElMNE5LeUpoU2pybTIyaXJGNWdmZUpfa1E1ckRvY0tzUkV6ZmdtcjJ2eVRjZm5zMHJRNU8zT2hnS3BwVUpSMHEtcVZocA",
       "isGuideline": false,
       "relevanceChecked": true
+    },
+    {
+      "id": "nikkei:CBMiT0FVX3lxTE1Id1U3eENXb2tELTN5Q0xzQnlqSXFRZ1J6dEZVWEd1QXl6MWhHMUpXMHdLSXJlTExCWUVTZDRKcWFLN1NNR2xnemI2bk5fTTg",
+      "source": "nikkei_news",
+      "title": "労働臨界 人手不足・AIで変わる労働最前線",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Id1U3eENXb2tELTN5Q0xzQnlqSXFRZ1J6dEZVWEd1QXl6MWhHMUpXMHdLSXJlTExCWUVTZDRKcWFLN1NNR2xnemI2bk5fTTg?oc=5",
+      "publishedAt": "2025-11-07T09:59:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiT0FVX3lxTE1Id1U3eENXb2tELTN5Q0xzQnlqSXFRZ1J6dEZVWEd1QXl6MWhHMUpXMHdLSXJlTExCWUVTZDRKcWFLN1NNR2xnemI2bk5fTTg",
+      "summary": "【要約】\n人手不足とAI技術の進展により、日本の労働現場が大きな転換期を迎えています。人事・労務担当者は、AI活用による業務効率化と人材確保策の両面から、自社の労働環境の見直しが求められる局面にあると言えます。\n\n(119字)",
+      "summarizedAt": "2026-11-24T05:47:19.910Z",
+      "isGuideline": false
     },
     {
       "id": "rosei:CBMiW0FVX3lxTE9ZX3hzZ3l5UHNwdDlscFh4dkdEUkJJRk1heXU1cEZ3M0x1SlhMN0s5dnA3eXhxLXQ0Q3dWNmxuQ1VqYi1paUNhaUFhOE95YXJkVi1UYTFuYThJMUE",
@@ -15347,6 +15417,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiT0FVX3lxTFB6MDIxS2ZaQ2tRRFpqblUxb1M0WjU5N2tKQThDSElpQ2p4bjFydkxSVEF0NnhXR21xUmZ4SzZkNmJwWGV5SXlHdDRVWmd6R3c",
+      "source": "nikkei_news",
+      "title": "シニア雇用とは 人手不足を巡るニュース・解説",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6MDIxS2ZaQ2tRRFpqblUxb1M0WjU5N2tKQThDSElpQ2p4bjFydkxSVEF0NnhXR21xUmZ4SzZkNmJwWGV5SXlHdDRVWmd6R3c?oc=5",
+      "publishedAt": "2024-01-23T06:21:02.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiT0FVX3lxTFB6MDIxS2ZaQ2tRRFpqblUxb1M0WjU5N2tKQThDSElpQ2p4bjFydkxSVEF0NnhXR21xUmZ4SzZkNmJwWGV5SXlHdDRVWmd6R3c",
+      "summary": "# 要約\n\nシニア雇用とは高齢者の雇用促進に関する取り組みを指し、人手不足対応の選択肢として注目されています。人事担当者は高齢者の活用可能性や雇用環境整備について情報収集が必要です。\n\n(80字)",
+      "summarizedAt": "2026-11-24T05:47:16.659Z",
+      "isGuideline": true
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE1JTFpoZFlzTFl2WGRsNEVhV3RmU2otVDJTbXRaTkwzcHRLelVXXzZPMXpFdmFqM3VMMVlJaWRnZU1kXzBSZTl1MnBUQ0dTdS04YjdsVA",
       "source": "rosei_news",
       "title": "賃上げ、昨年上回る水準を 経団連、４％以上念頭に 経労委報告、中小波及へ",
@@ -15599,6 +15683,20 @@
       "relevanceChecked": true
     },
     {
+      "id": "nikkei:CBMiT0FVX3lxTE1WalpZYkJSVUtSVmFvZmZiR2p5X3VGbG5XVlNNUjRoMmxpekNxVWc4dWxXV1NkSkIzcm9LVmttQzhPQkFlVVhxZFJRbmZNbUU",
+      "source": "nikkei_news",
+      "title": "「ハラスメント」防止の取り組み最新ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WalpZYkJSVUtSVmFvZmZiR2p5X3VGbG5XVlNNUjRoMmxpekNxVWc4dWxXV1NkSkIzcm9LVmttQzhPQkFlVVhxZFJRbmZNbUU?oc=5",
+      "publishedAt": "2023-10-17T02:03:27.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiT0FVX3lxTE1WalpZYkJSVUtSVmFvZmZiR2p5X3VGbG5XVlNNUjRoMmxpekNxVWc4dWxXV1NkSkIzcm9LVmttQzhPQkFlVVhxZFJRbmZNbUU",
+      "summary": "# 要約\n\nハラスメント防止に関する最新動向が報じられていますが、見出しのみでは具体的な法改正内容や企業の対応事項は不明です。詳細は本文を確認し、自社の防止措置や相談体制の見直しが必要か検討してください。\n\n(97文字)",
+      "summarizedAt": "2026-11-24T05:47:23.046Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTE9FYlBHc0xXLWY0dHVwaVJUR1ByOVRZMFBWd3Q2ai15NGRvUk1IWVdDSlFQd1ZKOUo0YzZVTFdEWmZkT0hCaF82cXVpWEpkelN6RHJLNA",
       "source": "rosei_news",
       "title": "勤務医、残業上限超え２１％ 働き方改革、２２年調査",
@@ -15837,6 +15935,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiZ0FVX3lxTE4wZi1NcTh1cVpIWVF4cUEzUjJVOExWcjNsQjlvT1d2bHJYNkY2cTVMOXE5SGlXVElpT05wb3g0YkNIQkRCUDAzc1F6S3RnN2NXeHpKeEc4dnZYVGczY3RObXNwNnFuUGc",
+      "source": "nikkei_news",
+      "title": "これって残業させ放題？「名ばかりSE」のプログラマーが直面する裁量労働制",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZi1NcTh1cVpIWVF4cUEzUjJVOExWcjNsQjlvT1d2bHJYNkY2cTVMOXE5SGlXVElpT05wb3g0YkNIQkRCUDAzc1F6S3RnN2NXeHpKeEc4dnZYVGczY3RObXNwNnFuUGc?oc=5",
+      "publishedAt": "2023-03-08T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiZ0FVX3lxTE4wZi1NcTh1cVpIWVF4cUEzUjJVOExWcjNsQjlvT1d2bHJYNkY2cTVMOXE5SGlXVElpT05wb3g0YkNIQkRCUDAzc1F6S3RnN2NXeHpKeEc4dnZYVGczY3RObXNwNnFuUGc",
+      "summary": "裁量労働制が適用されたプログラマーが長時間労働を強いられる「名ばかりSE」問題が指摘されています。人事担当者は裁量労働制の適用要件を確認し、実態として労働時間の裁量がない従業員への不適切な適用を見直す必要があります。",
+      "summarizedAt": "2026-11-24T05:47:32.750Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiYkFVX3lxTFB5ZHhkUDlGTkQ3NEtTM3JnMDJOTGM5NkRNa2NJQmU1blFQOE55djd1aEVVVS1kLTlySTNlbENHYzIyRDZXOHk4VlR3Vm1GcUdTdEw5ZmZkUWlGdUlSaHYwUW1n",
       "source": "rosei_news",
       "title": "ハラスメントを防ぐ！ 職場のコミュニケーション講座",
@@ -15960,6 +16072,20 @@
       "summary": "【要約】\n2023年の賃上げ動向に関する見通しがまとめられており、人事・労務担当者は今年度の賃金改定の参考指標として、業界動向や水準感を把握し自社の賃金政策の検討材料とすることが求められます。\n\n(95字)",
       "summarizedAt": "2026-09-01T22:13:28.145Z",
       "storyId": "rosei:CBMioAFBVV95cUxPMFYyYWxtSjFtYkRoYUFXY2x6WVpVSTZucGREM0JfZVlJNnp4Y1BweDBKZHhqdHY3QkEyc1E4VE55NW1FTUZGdzlSN3BsTjByVEd0TGwxWkdEZUNHbXdTNC0yRFIxbVZmbW0wSDQtNzF3NVpWR19qdC1LbV9sSnFmZXJqUlYwWDFick9kWXktNDNCRWg5akdiOGtfNzdPTk96",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTE1OX1Y4RVJGMEtSVXRNUEhnNzhSR3RZWV91MVhlZ3RtUkowQ0g0NDR3ZHk4THZ0aFFvazVvbUtJdXhBOU53X2x6Y0xLMl9RcS1MSFBnQ0hINU1OVF9TTU1IdWx6aERoN3VUT25mWExxOHI",
+      "source": "nikkei_news",
+      "title": "経営の右腕がハラスメント処分 復職に必要な条件は?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX1Y4RVJGMEtSVXRNUEhnNzhSR3RZWV91MVhlZ3RtUkowQ0g0NDR3ZHk4THZ0aFFvazVvbUtJdXhBOU53X2x6Y0xLMl9RcS1MSFBnQ0hINU1OVF9TTU1IdWx6aERoN3VUT25mWExxOHI?oc=5",
+      "publishedAt": "2023-02-02T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE1OX1Y4RVJGMEtSVXRNUEhnNzhSR3RZWV91MVhlZ3RtUkowQ0g0NDR3ZHk4THZ0aFFvazVvbUtJdXhBOU53X2x6Y0xLMl9RcS1MSFBnQ0hINU1OVF9TTU1IdWx6aERoN3VUT25mWExxOHI",
+      "summary": "【要約】\n経営幹部がハラスメントで処分された場合の復職条件について解説しています。重要ポストの人材であっても、ハラスメント事案では適切な処分と再発防止策が求められ、復職の判断基準を明確化しておく必要があります。",
+      "summarizedAt": "2026-11-24T05:47:07.572Z",
       "isGuideline": false
     },
     {
@@ -17322,6 +17448,20 @@
       "isGuideline": false
     },
     {
+      "id": "nikkei:CBMiWEFVX3lxTE5admpFYXVuWjVVcTBkajVBMmx1ZGlJRnZxc0xLSWhYc2xxOXd0UmpIQW9Ta0ViWlFTTFhBTjZVdDFDNlB0N21DZGxDVW9hZGFhbUxzbUpoXzY",
+      "source": "nikkei_news",
+      "title": "現場を悩ますハラスメントの「グレーゾーン」にどう対応すべきか［前編］",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5admpFYXVuWjVVcTBkajVBMmx1ZGlJRnZxc0xLSWhYc2xxOXd0UmpIQW9Ta0ViWlFTTFhBTjZVdDFDNlB0N21DZGxDVW9hZGFhbUxzbUpoXzY?oc=5",
+      "publishedAt": "2019-11-19T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMiWEFVX3lxTE5admpFYXVuWjVVcTBkajVBMmx1ZGlJRnZxc0xLSWhYc2xxOXd0UmpIQW9Ta0ViWlFTTFhBTjZVdDFDNlB0N21DZGxDVW9hZGFhbUxzbUpoXzY",
+      "summary": "ハラスメントの判断が難しいグレーゾーン事例への対応が現場の課題となっており、労務・人事担当者は明確な基準作りや相談体制の整備など、判断に迷うケースへの適切な対処方法の検討が求められています。",
+      "summarizedAt": "2026-11-24T05:47:10.710Z",
+      "isGuideline": false
+    },
+    {
       "id": "rosei:CBMiVEFVX3lxTFBQS1JVNDBydllTZGlsZTMwRWhiMHJhOHF2REN2dU9aRUZPeXlZcWdPNXJRZ0VSbWRCTzREWnVxSm13bE16ZU5KSDhybnNxTGlWbnF1bQ",
       "source": "rosei_news",
       "title": "第11回 平成28～30年（2016～2018年）――「働き方改革」の推進と外国人労働者政策の転換",
@@ -17641,6 +17781,20 @@
       "storyId": "rosei:CBMiVEFVX3lxTE1rRmFqQ056cU9OQjRyMXA0SmdFUjhWQ1FvQVkwb1lrLWwtQnJfSmp4NlRKMVBXSHpuVEdPRVFOYVA2Y2duWVM3RDgxVXR6aUo2dkNKTw",
       "summary": "本記事は「働き方改革」における労働市場改革との関連性について論じており、両者を結びつける重要な要素や視点が解説されています。人事労務担当者は、個別企業の取り組みと労働市場全体の動向との接続を意識した施策検討が求められます。",
       "summarizedAt": "2026-09-16T22:14:25.549Z",
+      "isGuideline": false
+    },
+    {
+      "id": "nikkei:CBMicEFVX3lxTE9iRFdtazNIU1RNNFpLVXhIc3MwRmltMmRNcXJrZjdMWlZMVkZkbjE0d3BIc2RhdmR4TU5JbHRGZElzWjk5UU5NYTd3TmtObnJRNEhPbmZLWkVtMm04Ty1uTlhnUzVtRk1raDY4R3g0U3g",
+      "source": "nikkei_news",
+      "title": "「なし崩し」で増え続ける外国人労働者",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRFdtazNIU1RNNFpLVXhIc3MwRmltMmRNcXJrZjdMWlZMVkZkbjE0d3BIc2RhdmR4TU5JbHRGZElzWjk5UU5NYTd3TmtObnJRNEhPbmZLWkVtMm04Ty1uTlhnUzVtRk1raDY4R3g0U3g?oc=5",
+      "publishedAt": "2018-02-23T08:00:00.000Z",
+      "category": "日経新聞",
+      "fetchedAt": "2026-11-24T05:46:49.102Z",
+      "relevanceChecked": true,
+      "storyId": "nikkei:CBMicEFVX3lxTE9iRFdtazNIU1RNNFpLVXhIc3MwRmltMmRNcXJrZjdMWlZMVkZkbjE0d3BIc2RhdmR4TU5JbHRGZElzWjk5UU5NYTd3TmtObnJRNEhPbmZLWkVtMm04Ty1uTlhnUzVtRk1raDY4R3g0U3g",
+      "summary": "# 要約(85字)\n\n外国人労働者が明確な政策なく増加している現状について報じています。人事・労務担当者は外国人雇用に関する届出義務や在留資格の確認など、現行の法令遵守を徹底するとともに、今後の制度変更の動向に注視が必要です。",
+      "summarizedAt": "2026-11-24T05:47:26.367Z",
       "isGuideline": false
     },
     {
