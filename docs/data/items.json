@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-26T04:02:08.261Z",
+  "updatedAt": "2026-11-27T03:59:31.239Z",
   "items": [
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77686.html",
+      "source": "mhlw_news",
+      "title": "第94回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77686.html",
+      "publishedAt": "2026-11-26T10:42:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-27T03:59:02.539Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77686.html",
+      "summary": "労働政策審議会雇用環境・均等分科会の第94回会合の資料が公開されました。雇用環境や均等施策に関する審議内容を確認し、今後の制度改正や企業対応の方向性を把握することが推奨されます。",
+      "summarizedAt": "2026-11-27T03:59:28.974Z",
+      "stage": "審議会検討",
+      "isGuideline": false
+    },
     {
       "id": "nikkei:CBMibEFVX3lxTE9GemN4aFluWnpveXhHdl9oNFZleWlIMXhlM1NfZzU5aVlFY0NuMm8yOGF1ZEpTY05tRnhzQVNVNmpubC1oNmhBeEMxdkdyTUUwUllfYVozeHA4T3dVWjRFSmFJcUpqUks5eVdaaw",
       "source": "nikkei_news",
@@ -208,6 +222,19 @@
       "summary": "労働政策審議会労働条件分科会の第213回会議が2026年10月23日に開催され、労働条件に関する審議が行われました。議事録が公開されましたので、労働条件制度の動向を把握する際の参考資料として確認することをお勧めします。",
       "summarizedAt": "2026-11-25T04:49:14.599Z",
       "stage": "審議会検討",
+      "isGuideline": false
+    },
+    {
+      "id": "mhlw:https://www.mhlw.go.jp/stf/newpage_77623.html",
+      "source": "mhlw_news",
+      "title": "12月は「職場のハラスメント撲滅月間」です",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77623.html",
+      "publishedAt": "2026-11-24T09:23:00.000Z",
+      "category": "厚労省 報道・新着情報",
+      "fetchedAt": "2026-11-27T03:59:02.539Z",
+      "storyId": "mhlw:https://www.mhlw.go.jp/stf/newpage_77623.html",
+      "summary": "厚生労働省が12月を「職場のハラスメント撲滅月間」と定め、集中的な啓発活動を実施します。人事・労務担当者は、この機会に社内研修の実施や相談窓口の周知など、ハラスメント防止対策を再点検・強化することが推奨されます。",
+      "summarizedAt": "2026-11-27T03:59:31.234Z",
       "isGuideline": false
     },
     {
